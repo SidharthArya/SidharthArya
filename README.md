@@ -45,7 +45,7 @@ Wish you a good-looking profile README!
 
 Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 
-## Some Github Stats
+## Github Stats
 
 <table border="0">
   <tr>
@@ -72,10 +72,11 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
  - 31-05-2021 [First_post](https://sidhartharya.github.io//first_post/)
  - 01-01-2001 [Hello](https://sidhartharya.github.io//hello/)<!-- BLOG-POST-LIST:END -->
 
-## Top Repositories
-<!--START_SECTION:top-repository-->
 
-<!--END_SECTION:top-repository-->
+## Latest Github Activity
+
+<!-- GITHUB:START -->
+<!-- GITHUB:END -->
 
 ## Top Followers
 <!--START_SECTION:top-followers-->
