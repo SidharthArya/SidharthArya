@@ -68,7 +68,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 <!-- YOUTUBE:END -->
 
 ## Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->Mon May 31 2021 5:05 AM [First_post](https://sidhartharya.github.io//first_post/)Mon Jan 01 2001 12:00 AM [Hello](https://sidhartharya.github.io//hello/)<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->31-05-2021 [First_post](https://sidhartharya.github.io//first_post/)01-01-2001 [Hello](https://sidhartharya.github.io//hello/)<!-- BLOG-POST-LIST:END -->
 
 ## Top Repositories
 <!--START_SECTION:top-repository-->
