@@ -65,13 +65,11 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-
 <!-- YOUTUBE:END -->
 
 ## Latest Blog Posts
-<!--START_SECTION:latest-blog-->
-
-<!--END_SECTION:latest-blog-->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ## Top Repositories
 <!--START_SECTION:top-repository-->
