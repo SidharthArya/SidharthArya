@@ -373,6 +373,7 @@
 
 ## Java 
 
+- [Activiti/Activiti](https://github.com/Activiti/Activiti) - Activiti is a light-weight workflow and Business Process Management (BPM) Platform targeted at business people, developers and system admins. Its core is a super-fast and rock-solid BPMN 2 process engine for Java. It's open-source and distributed under the Apache license. Activiti runs in any Java application, on a server, on a cluster or in the cloud. It integrates perfectly with Spring, it is extremely lightweight and based on simple concepts.
 - [MovingBlocks/Terasology](https://github.com/MovingBlocks/Terasology) - Terasology - open source voxel world
 - [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) - Jenkins automation server
 - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
@@ -386,6 +387,7 @@
 
 ## JavaScript 
 
+- [gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) - Show your latest blog posts from any sources or StackOverflow activity or Youtube Videos on your GitHub profile/project readme automatically using the RSS feed
 - [iterative/cml](https://github.com/iterative/cml) - ♾️ CML - Continuous Machine Learning | CI/CD for ML
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [sachinchoolur/lightgallery.js](https://github.com/sachinchoolur/lightgallery.js) - Full featured JavaScript image & video gallery. No dependencies
@@ -516,6 +518,8 @@
 
 ## Others 
 
+- [meirwah/awesome-workflow-engines](https://github.com/meirwah/awesome-workflow-engines) - A curated list of awesome open source workflow engines
+- [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 - [github/archive-program](https://github.com/github/archive-program) - The GitHub Archive Program & Arctic Code Vault
 - [elyase/awesome-gpt3](https://github.com/elyase/awesome-gpt3) - 
 - [fniessen/refcard-org-mode](https://github.com/fniessen/refcard-org-mode) - Org mode syntax reference card
@@ -585,6 +589,7 @@
 
 ## Python 
 
+- [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - [iterative/dvc](https://github.com/iterative/dvc) - 🦉Data Version Control | Git for Data & Models | ML Experiments Management
 - [Delgan/loguru](https://github.com/Delgan/loguru) - Python logging made (stupidly) simple
 - [jina-ai/jina](https://github.com/jina-ai/jina) - An easier way to build neural search on the cloud
@@ -813,6 +818,7 @@
 
 ## SCSS 
 
+- [primer/css](https://github.com/primer/css) - The CSS design system that powers GitHub
 - [KittyGiraudel/sass-boilerplate](https://github.com/KittyGiraudel/sass-boilerplate) - A boilerplate for Sass projects using the 7-1 architecture pattern from Sass Guidelines.
 
 ## Shell 
