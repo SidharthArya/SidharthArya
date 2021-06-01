@@ -15,4 +15,4 @@ jobs:
         with:
           feed_list: "https://sidhartharya.github.io/index.xml"
           max_post_count: 10
-          template: "[$title](https://sidhartharya.github.io/$url"
+          template: "$date [$title](https://sidhartharya.github.io/$url)"
