@@ -25,8 +25,19 @@ Wish you a good-looking profile README!
 
 -->
 
-<img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/> Hi, I am Sidharth. Glad to see you visit my page.
+# <img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/> Hi, I am Sidharth.
 
+-   Programming: Python, C++, GitHub Actions, JavaScript, Haskell, Nodejs
+-   Operating System: Arch Linux 
+-   Window Manager: bspwm 
+-   Shell: Bash
+-   Editor: Emacs, Neovim
+-   Browser: Qutebrowser
+-   :key: GPG key: [`4881651806D31166`](https://github.com/SidharthArya.gpg)
+
+---
+
+Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 
 [![Linkedin Badge](https://img.shields.io/badge/-sidhartharya---blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sidhartharya-/)](https://www.linkedin.com/in/sidhartharya-/)
 [![Twitter Badge](https://img.shields.io/badge/-@SidharthArya__-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/SidharthArya_)](https://twitter.com/SidharthArya_)
@@ -34,15 +45,40 @@ Wish you a good-looking profile README!
 [![Gmail Badge](https://img.shields.io/badge/-sidhartharya-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:sidhartharya10@gmail.com)](mailto:sidhartharya10@gmail.com)
 [![Website Badge](https://img.shields.io/badge/-sidhartharya.me-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://sidhartharya.me)](https://sidhartharya.me)
 
-[![Sidharth's GitHub stats](https://github-readme-stats.vercel.app/api?username=SidharthArya&count_private=true&theme=radical&show_icons=true))](https://github.com/SidharthArya/SidharthArya)
+## Some Github Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SidharthArya&theme=radical&layout=compact)](https://github.com/SidharthArya/SidharthArya)
+<table border="0">
+  <tr>
+<td class="d-inline">
+  <td>
+<img src="https://github-readme-stats.vercel.app/api?username=SidharthArya&count_private=true&theme=radical&show_icons=true" />
 
+</td>
 
-Chilling with code💻, music🎶, bots🤖 and thoughts💭!
+<td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SidharthArya&theme=radical&layout=compact"/>
 
+</td>
 
+</table>
 
+## 📺 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+
+<!-- YOUTUBE:END -->
+
+## Latest Blog Posts
+<!--START_SECTION:latest-blog-->
+
+<!--END_SECTION:latest-blog-->
+
+## Top Repositories
+<!--START_SECTION:top-repository-->
+
+<!--END_SECTION:top-repository-->
+
+## Top Followers
 <!--START_SECTION:top-followers-->
 <table>
   <tr>
