@@ -15,4 +15,5 @@ jobs:
         with:
           feed_list: "https://sidhartharya.github.io/index.xml"
           max_post_count: 10
-          template: "$date [$title](https://sidhartharya.github.io/$url)"
+          date_format: "dd-mm-yyyy"
+          template: "$date [$title](https://sidhartharya.github.io/$url)\n"
