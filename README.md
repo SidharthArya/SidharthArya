@@ -62,7 +62,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 
 </table>
 
-## 📺 Latest YouTube Videos
+## Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
 
