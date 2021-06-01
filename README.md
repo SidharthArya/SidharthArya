@@ -68,10 +68,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 <!-- YOUTUBE:END -->
 
 ## Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [First_post](/first_post/)
-- [Hello](/hello/)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->[First_post](https://sidhartharya.github.io//first_post/[Hello](https://sidhartharya.github.io//hello/<!-- BLOG-POST-LIST:END -->
 
 ## Top Repositories
 <!--START_SECTION:top-repository-->
