@@ -69,6 +69,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [First_post](/first_post/)
+- [Hello](/hello/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Top Repositories
