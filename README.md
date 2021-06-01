@@ -44,5 +44,108 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 
 
 <!--START_SECTION:top-followers-->
-
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/LendisFabri">
+        <img src="https://avatars2.githubusercontent.com/u/16249870" width="100px;" alt="LendisFabri"/>
+      </a>
+      <br />
+      <a href="https://github.com/LendisFabri">Kuro Neko (黒猫)</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/jelsonjay">
+        <img src="https://avatars2.githubusercontent.com/u/50907905" width="100px;" alt="jelsonjay"/>
+      </a>
+      <br />
+      <a href="https://github.com/jelsonjay">Jelson J</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/MdRashid62">
+        <img src="https://avatars2.githubusercontent.com/u/55427374" width="100px;" alt="MdRashid62"/>
+      </a>
+      <br />
+      <a href="https://github.com/MdRashid62">Muhammad Rashid</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/conao3">
+        <img src="https://avatars2.githubusercontent.com/u/4703128" width="100px;" alt="conao3"/>
+      </a>
+      <br />
+      <a href="https://github.com/conao3">Naoya Yamashita</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/G0rav">
+        <img src="https://avatars2.githubusercontent.com/u/62126889" width="100px;" alt="G0rav"/>
+      </a>
+      <br />
+      <a href="https://github.com/G0rav">Gaurav</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/HakunanMatatat">
+        <img src="https://avatars2.githubusercontent.com/u/56817048" width="100px;" alt="HakunanMatatat"/>
+      </a>
+      <br />
+      <a href="https://github.com/HakunanMatatat">HakunanMatatat</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ChandanCharchit">
+        <img src="https://avatars2.githubusercontent.com/u/74564556" width="100px;" alt="ChandanCharchit"/>
+      </a>
+      <br />
+      <a href="https://github.com/ChandanCharchit">Chandan Charchit Sahoo</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/samdyuti">
+        <img src="https://avatars2.githubusercontent.com/u/69840173" width="100px;" alt="samdyuti"/>
+      </a>
+      <br />
+      <a href="https://github.com/samdyuti">samdyuti</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Shailenderyedugani">
+        <img src="https://avatars2.githubusercontent.com/u/71877234" width="100px;" alt="Shailenderyedugani"/>
+      </a>
+      <br />
+      <a href="https://github.com/Shailenderyedugani">Shailender Yedugani</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/souvikg123">
+        <img src="https://avatars2.githubusercontent.com/u/63902209" width="100px;" alt="souvikg123"/>
+      </a>
+      <br />
+      <a href="https://github.com/souvikg123">souvikg123</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/AmanGupta273">
+        <img src="https://avatars2.githubusercontent.com/u/77335745" width="100px;" alt="AmanGupta273"/>
+      </a>
+      <br />
+      <a href="https://github.com/AmanGupta273">AmanGupta273</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Abhishekkashyap07">
+        <img src="https://avatars2.githubusercontent.com/u/84564038" width="100px;" alt="Abhishekkashyap07"/>
+      </a>
+      <br />
+      <a href="https://github.com/Abhishekkashyap07">Abhishekkashyap07</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/APARNAGADHIYA">
+        <img src="https://avatars2.githubusercontent.com/u/66026499" width="100px;" alt="APARNAGADHIYA"/>
+      </a>
+      <br />
+      <a href="https://github.com/APARNAGADHIYA">APARNA RAJESH GADHIYA</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/yalinosgb">
+        <img src="https://avatars2.githubusercontent.com/u/7668543" width="100px;" alt="yalinosgb"/>
+      </a>
+      <br />
+      <a href="https://github.com/yalinosgb">Yalın OSGB</a>
+    </td>
+  </tr>
+</table>
 <!--END_SECTION:top-followers-->
