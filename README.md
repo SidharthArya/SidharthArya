@@ -70,9 +70,9 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
  - 31-05-2021 [First_post](https://sidhartharya.github.io//first_post/)
- Hello World
+
  - 01-01-2001 [Hello](https://sidhartharya.github.io//hello/)
- Hello World<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:END -->
 
 ## Top Repositories
 <!--START_SECTION:top-repository-->
