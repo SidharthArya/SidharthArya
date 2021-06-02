@@ -75,16 +75,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to main in SidharthArya/sidhartharya.github.io](https://github.com/SidharthArya/sidhartharya.github.io/compare/ffc6d42a49...fc35feaee4)
+- [SidharthArya pushed to main in SidharthArya/sidhartharya.github.io](https://github.com/SidharthArya/sidhartharya.github.io/compare/2b9acbf7e1...ffc6d42a49)
+- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/5934636564...bd321be18c)
+- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/b257a843d5...0205cbae52)
+- [SidharthArya pushed to master in SidharthArya/.nnn](https://github.com/SidharthArya/.nnn/compare/53e6e0067f...1c786e43ca)
 - [SidharthArya starred alphapapa/yequake](https://github.com/alphapapa/yequake)
 - [SidharthArya pushed to main in SidharthArya/sidhartharya.github.io](https://github.com/SidharthArya/sidhartharya.github.io/compare/907dc1b1f5...2b9acbf7e1)
 - [SidharthArya pushed to main in SidharthArya/sidhartharya.github.io](https://github.com/SidharthArya/sidhartharya.github.io/compare/f7e9275167...907dc1b1f5)
 - [SidharthArya starred jethrokuan/braindump](https://github.com/jethrokuan/braindump)
 - [SidharthArya pushed to main in SidharthArya/sidhartharya.github.io](https://github.com/SidharthArya/sidhartharya.github.io/compare/f21a5a8b1e...f7e9275167)
-- [SidharthArya pushed to main in SidharthArya/sidhartharya.github.io](https://github.com/SidharthArya/sidhartharya.github.io/compare/3c5b207d65...f21a5a8b1e)
-- [SidharthArya pushed to master in SidharthArya/SidharthArya](https://github.com/SidharthArya/SidharthArya/compare/6bfcf62bca...ef63f52bef)
-- [SidharthArya pushed to master in SidharthArya/SidharthArya](https://github.com/SidharthArya/SidharthArya/compare/b89d75cf60...6bfcf62bca)
-- [SidharthArya starred apache/airflow](https://github.com/apache/airflow)
-- [SidharthArya starred meirwah/awesome-workflow-engines](https://github.com/meirwah/awesome-workflow-engines)
 <!-- GITHUB:END -->
 
 ## Top Followers
