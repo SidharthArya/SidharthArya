@@ -69,8 +69,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
- - 31-05-2021 [First_post](https://sidhartharya.github.io//first_post/)
- - 01-01-2001 [Hello](https://sidhartharya.github.io//hello/)<!-- BLOG-POST-LIST:END -->
+ - 01-06-2021 [What is this blog about](https://sidhartharya.github.io//what-is-this-blog-about/)<!-- BLOG-POST-LIST:END -->
 
 
 ## Latest Github Activity
