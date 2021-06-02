@@ -193,6 +193,7 @@
 
 ## Emacs Lisp 
 
+- [alphapapa/yequake](https://github.com/alphapapa/yequake) - Drop-down Emacs frames, like Yakuake
 - [NicolasPetton/pass](https://github.com/NicolasPetton/pass) - A major mode for password-store
 - [tkf/emacs-request](https://github.com/tkf/emacs-request) - Request.el -- Easy HTTP request for Emacs Lisp
 - [IvanMalison/org-projectile](https://github.com/IvanMalison/org-projectile) - Manage org-mode TODOs for your projectile projects
@@ -859,6 +860,7 @@
 
 ## TeX 
 
+- [jethrokuan/braindump](https://github.com/jethrokuan/braindump) - knowledge repository managed with org-mode and org-roam.
 - [latex3/latex3](https://github.com/latex3/latex3) - The LaTeX3 Development Repository
 - [latex3/latex2e](https://github.com/latex3/latex2e) - The LaTeX2e kernel
 - [terryum/awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) - The most cited deep learning papers
