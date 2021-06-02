@@ -75,6 +75,9 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred alphapapa/yequake](https://github.com/alphapapa/yequake)
+- [SidharthArya pushed to main in SidharthArya/sidhartharya.github.io](https://github.com/SidharthArya/sidhartharya.github.io/compare/907dc1b1f5...2b9acbf7e1)
+- [SidharthArya pushed to main in SidharthArya/sidhartharya.github.io](https://github.com/SidharthArya/sidhartharya.github.io/compare/f7e9275167...907dc1b1f5)
 - [SidharthArya starred jethrokuan/braindump](https://github.com/jethrokuan/braindump)
 - [SidharthArya pushed to main in SidharthArya/sidhartharya.github.io](https://github.com/SidharthArya/sidhartharya.github.io/compare/f21a5a8b1e...f7e9275167)
 - [SidharthArya pushed to main in SidharthArya/sidhartharya.github.io](https://github.com/SidharthArya/sidhartharya.github.io/compare/3c5b207d65...f21a5a8b1e)
@@ -82,9 +85,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/SidharthArya](https://github.com/SidharthArya/SidharthArya/compare/b89d75cf60...6bfcf62bca)
 - [SidharthArya starred apache/airflow](https://github.com/apache/airflow)
 - [SidharthArya starred meirwah/awesome-workflow-engines](https://github.com/meirwah/awesome-workflow-engines)
-- [SidharthArya starred Activiti/Activiti](https://github.com/Activiti/Activiti)
-- [SidharthArya pushed to master in SidharthArya/SidharthArya](https://github.com/SidharthArya/SidharthArya/compare/ac8bbbb0b7...b89d75cf60)
-- [SidharthArya pushed to master in SidharthArya/SidharthArya](https://github.com/SidharthArya/SidharthArya/compare/0f3f047731...ac8bbbb0b7)
 <!-- GITHUB:END -->
 
 ## Top Followers
