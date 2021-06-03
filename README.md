@@ -69,7 +69,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
- - 01-06-2021 [What is this blog about](https://sidhartharya.github.io//what-is-this-blog-about/)<!-- BLOG-POST-LIST:END -->
+ - 02-06-2021 [Running ipython inside a python script](https://sidhartharya.github.io/https://sidhartharya.github.io/running-ipython-inside-a-python-script/)
+ - 01-06-2021 [What is this blog about](https://sidhartharya.github.io/https://sidhartharya.github.io/what-is-this-blog-about/)<!-- BLOG-POST-LIST:END -->
 
 
 ## Latest Github Activity
