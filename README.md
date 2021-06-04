@@ -77,16 +77,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya commented on pull request qutebrowser/qutebrowser#6516](https://github.com/qutebrowser/qutebrowser/pull/6516#issuecomment-854760689)
+- [SidharthArya pushed to patch-1 in SidharthArya/qutebrowser](https://github.com/SidharthArya/qutebrowser/compare/7e7ef7439b...6219592e47)
+- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/9396d3d704...5364279c9e)
+- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/207a74f35b...74cd31fb86)
 - [SidharthArya opened a pull request in qutebrowser/qutebrowser](https://github.com/qutebrowser/qutebrowser/pull/6516)
 - [SidharthArya pushed to patch-1 in SidharthArya/qutebrowser](https://github.com/SidharthArya/qutebrowser/compare/93d21b475e...7e7ef7439b)
 - [SidharthArya created a branch master in SidharthArya/.qutebrowser](https://github.com/SidharthArya/.qutebrowser/compare/master)
 - [SidharthArya created a repository SidharthArya/.qutebrowser](https://github.com/SidharthArya/.qutebrowser//)
 - [SidharthArya forked SidharthArya/qutebrowser from qutebrowser/qutebrowser](https://github.com/SidharthArya/qutebrowser)
 - [SidharthArya pushed to main in SidharthArya/sidhartharya.github.io](https://github.com/SidharthArya/sidhartharya.github.io/compare/8c7abcfd05...ef5f5b72b5)
-- [SidharthArya pushed to main in SidharthArya/sidhartharya.github.io](https://github.com/SidharthArya/sidhartharya.github.io/compare/31673d2ac7...8c7abcfd05)
-- [SidharthArya pushed to main in SidharthArya/sidhartharya.github.io](https://github.com/SidharthArya/sidhartharya.github.io/compare/70b61c83aa...31673d2ac7)
-- [SidharthArya pushed to main in SidharthArya/sidhartharya.github.io](https://github.com/SidharthArya/sidhartharya.github.io/compare/8f8f740ece...70b61c83aa)
-- [SidharthArya pushed to main in SidharthArya/sidhartharya.github.io](https://github.com/SidharthArya/sidhartharya.github.io/compare/9b575a3d10...8f8f740ece)
 <!-- GITHUB:END -->
 
 ## Top Followers
