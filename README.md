@@ -77,16 +77,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya opened a pull request in qutebrowser/qutebrowser](https://github.com/qutebrowser/qutebrowser/pull/6516)
+- [SidharthArya pushed to patch-1 in SidharthArya/qutebrowser](https://github.com/SidharthArya/qutebrowser/compare/93d21b475e...7e7ef7439b)
+- [SidharthArya created a branch master in SidharthArya/.qutebrowser](https://github.com/SidharthArya/.qutebrowser/compare/master)
+- [SidharthArya created a repository SidharthArya/.qutebrowser](https://github.com/SidharthArya/.qutebrowser//)
+- [SidharthArya forked SidharthArya/qutebrowser from qutebrowser/qutebrowser](https://github.com/SidharthArya/qutebrowser)
 - [SidharthArya pushed to main in SidharthArya/sidhartharya.github.io](https://github.com/SidharthArya/sidhartharya.github.io/compare/8c7abcfd05...ef5f5b72b5)
 - [SidharthArya pushed to main in SidharthArya/sidhartharya.github.io](https://github.com/SidharthArya/sidhartharya.github.io/compare/31673d2ac7...8c7abcfd05)
 - [SidharthArya pushed to main in SidharthArya/sidhartharya.github.io](https://github.com/SidharthArya/sidhartharya.github.io/compare/70b61c83aa...31673d2ac7)
 - [SidharthArya pushed to main in SidharthArya/sidhartharya.github.io](https://github.com/SidharthArya/sidhartharya.github.io/compare/8f8f740ece...70b61c83aa)
 - [SidharthArya pushed to main in SidharthArya/sidhartharya.github.io](https://github.com/SidharthArya/sidhartharya.github.io/compare/9b575a3d10...8f8f740ece)
-- [SidharthArya starred posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV)
-- [SidharthArya starred resume/resume.github.com](https://github.com/resume/resume.github.com)
-- [SidharthArya starred resume/resume.github.com](https://github.com/resume/resume.github.com)
-- [SidharthArya starred koajs/logger](https://github.com/koajs/logger)
-- [SidharthArya starred jmfirth/yarn.el](https://github.com/jmfirth/yarn.el)
 <!-- GITHUB:END -->
 
 ## Top Followers
