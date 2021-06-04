@@ -69,6 +69,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+ - 03-06-2021 [A quicker way to reach localhost with qutebrowser](https://sidhartharya.github.io/https://sidhartharya.github.io/a-quicker-way-to-reach-localhost-with-qutebrowser/)
  - 02-06-2021 [Running ipython inside a python script](https://sidhartharya.github.io/https://sidhartharya.github.io/running-ipython-inside-a-python-script/)
  - 01-06-2021 [What is this blog about](https://sidhartharya.github.io/https://sidhartharya.github.io/what-is-this-blog-about/)<!-- BLOG-POST-LIST:END -->
 
