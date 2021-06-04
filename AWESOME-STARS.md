@@ -124,6 +124,7 @@
 
 ## C++ 
 
+- [sqlitebrowser/sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at:
 - [uNetworking/uWebSockets.js](https://github.com/uNetworking/uWebSockets.js) - μWebSockets for Node.js back-ends :metal:
 - [uNetworking/uWebSockets](https://github.com/uNetworking/uWebSockets) - Simple, secure & standards compliant web server for the most demanding of applications
 - [tdlib/td](https://github.com/tdlib/td) - Cross-platform library for building Telegram clients
@@ -193,6 +194,7 @@
 
 ## Emacs Lisp 
 
+- [jscheid/dtrt-indent](https://github.com/jscheid/dtrt-indent) - A minor mode that guesses the indentation offset originally used for creating source code files and transparently adjusts the corresponding settings in Emacs, making it more convenient to edit foreign files.
 - [alphapapa/yequake](https://github.com/alphapapa/yequake) - Drop-down Emacs frames, like Yakuake
 - [NicolasPetton/pass](https://github.com/NicolasPetton/pass) - A major mode for password-store
 - [tkf/emacs-request](https://github.com/tkf/emacs-request) - Request.el -- Easy HTTP request for Emacs Lisp
@@ -388,6 +390,7 @@
 
 ## JavaScript 
 
+- [resume/resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations
 - [koajs/logger](https://github.com/koajs/logger) - Development style logging middleware
 - [typicode/husky](https://github.com/typicode/husky) - Modern native Git hooks made easy 🐶 woof!
 - [ellisonleao/sharer.js](https://github.com/ellisonleao/sharer.js) - :on: :bookmark: Create your own social share buttons. No jquery.
@@ -863,6 +866,7 @@
 
 ## TeX 
 
+- [posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV) - :page_facing_up: Awesome CV is LaTeX template for your outstanding job application
 - [jethrokuan/braindump](https://github.com/jethrokuan/braindump) - knowledge repository managed with org-mode and org-roam.
 - [latex3/latex3](https://github.com/latex3/latex3) - The LaTeX3 Development Repository
 - [latex3/latex2e](https://github.com/latex3/latex2e) - The LaTeX2e kernel
