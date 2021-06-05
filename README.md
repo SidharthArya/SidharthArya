@@ -202,6 +202,13 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       <br />
       <a href="https://github.com/yalinosgb">Yalın OSGB</a>
     </td>
+    <td align="center">
+      <a href="https://github.com/efh96">
+        <img src="https://avatars2.githubusercontent.com/u/42412191" width="100px;" alt="efh96"/>
+      </a>
+      <br />
+      <a href="https://github.com/efh96">efh96</a>
+    </td>
   </tr>
 </table>
 <!--END_SECTION:top-followers-->
