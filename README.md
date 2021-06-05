@@ -77,6 +77,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to main in SidharthArya/sidhartharya.github.io](https://github.com/SidharthArya/sidhartharya.github.io/compare/ef5f5b72b5...92bea8854d)
 - [SidharthArya starred sqlitebrowser/sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser)
 - [SidharthArya starred jscheid/dtrt-indent](https://github.com/jscheid/dtrt-indent)
 - [SidharthArya commented on pull request qutebrowser/qutebrowser#6516](https://github.com/qutebrowser/qutebrowser/pull/6516#issuecomment-854858314)
@@ -86,7 +87,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/207a74f35b...74cd31fb86)
 - [SidharthArya opened a pull request in qutebrowser/qutebrowser](https://github.com/qutebrowser/qutebrowser/pull/6516)
 - [SidharthArya pushed to patch-1 in SidharthArya/qutebrowser](https://github.com/SidharthArya/qutebrowser/compare/93d21b475e...7e7ef7439b)
-- [SidharthArya created a branch master in SidharthArya/.qutebrowser](https://github.com/SidharthArya/.qutebrowser/compare/master)
 <!-- GITHUB:END -->
 
 ## Top Followers
