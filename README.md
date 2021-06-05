@@ -77,16 +77,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to main in SidharthArya/sidhartharya.github.io](https://github.com/SidharthArya/sidhartharya.github.io/compare/ad3a2408cc...0737c61460)
+- [SidharthArya pushed to main in SidharthArya/sidhartharya.github.io](https://github.com/SidharthArya/sidhartharya.github.io/compare/fb0619a216...ad3a2408cc)
+- [SidharthArya pushed to main in SidharthArya/sidhartharya.github.io](https://github.com/SidharthArya/sidhartharya.github.io/compare/b075513b8e...fb0619a216)
+- [SidharthArya pushed to main in SidharthArya/sidhartharya.github.io](https://github.com/SidharthArya/sidhartharya.github.io/compare/92bea8854d...b075513b8e)
 - [SidharthArya starred herrbischoff/awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line)
 - [SidharthArya starred willmcgugan/rich](https://github.com/willmcgugan/rich)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/5364279c9e...543b4e64e5)
 - [SidharthArya pushed to master in SidharthArya/scripts](https://github.com/SidharthArya/scripts/compare/8da2345fc8...6f0f302307)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/74cd31fb86...41d0188be0)
 - [SidharthArya starred marktext/marktext](https://github.com/marktext/marktext)
-- [SidharthArya starred github/hub](https://github.com/github/hub)
-- [SidharthArya starred google/yapf](https://github.com/google/yapf)
-- [SidharthArya starred kelthuzadx/hosts](https://github.com/kelthuzadx/hosts)
-- [SidharthArya starred freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs)
 <!-- GITHUB:END -->
 
 ## Top Followers
