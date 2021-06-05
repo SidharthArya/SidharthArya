@@ -77,6 +77,9 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred joaotavora/sly](https://github.com/joaotavora/sly)
+- [SidharthArya starred ema2159/centaur-tabs](https://github.com/ema2159/centaur-tabs)
+- [SidharthArya starred optuna/optuna](https://github.com/optuna/optuna)
 - [SidharthArya starred isocpp/CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines)
 - [SidharthArya pushed to main in SidharthArya/sidhartharya.github.io](https://github.com/SidharthArya/sidhartharya.github.io/compare/ef5f5b72b5...92bea8854d)
 - [SidharthArya starred sqlitebrowser/sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser)
@@ -84,9 +87,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya commented on pull request qutebrowser/qutebrowser#6516](https://github.com/qutebrowser/qutebrowser/pull/6516#issuecomment-854858314)
 - [SidharthArya commented on pull request qutebrowser/qutebrowser#6516](https://github.com/qutebrowser/qutebrowser/pull/6516#issuecomment-854760689)
 - [SidharthArya pushed to patch-1 in SidharthArya/qutebrowser](https://github.com/SidharthArya/qutebrowser/compare/7e7ef7439b...6219592e47)
-- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/9396d3d704...5364279c9e)
-- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/207a74f35b...74cd31fb86)
-- [SidharthArya opened a pull request in qutebrowser/qutebrowser](https://github.com/qutebrowser/qutebrowser/pull/6516)
 <!-- GITHUB:END -->
 
 ## Top Followers
