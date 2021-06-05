@@ -77,16 +77,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
-- [SidharthArya starred joaotavora/sly](https://github.com/joaotavora/sly)
-- [SidharthArya starred ema2159/centaur-tabs](https://github.com/ema2159/centaur-tabs)
-- [SidharthArya starred optuna/optuna](https://github.com/optuna/optuna)
-- [SidharthArya starred isocpp/CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines)
-- [SidharthArya pushed to main in SidharthArya/sidhartharya.github.io](https://github.com/SidharthArya/sidhartharya.github.io/compare/ef5f5b72b5...92bea8854d)
-- [SidharthArya starred sqlitebrowser/sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser)
-- [SidharthArya starred jscheid/dtrt-indent](https://github.com/jscheid/dtrt-indent)
-- [SidharthArya commented on pull request qutebrowser/qutebrowser#6516](https://github.com/qutebrowser/qutebrowser/pull/6516#issuecomment-854858314)
-- [SidharthArya commented on pull request qutebrowser/qutebrowser#6516](https://github.com/qutebrowser/qutebrowser/pull/6516#issuecomment-854760689)
-- [SidharthArya pushed to patch-1 in SidharthArya/qutebrowser](https://github.com/SidharthArya/qutebrowser/compare/7e7ef7439b...6219592e47)
+- [SidharthArya starred herrbischoff/awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line)
+- [SidharthArya starred willmcgugan/rich](https://github.com/willmcgugan/rich)
+- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/5364279c9e...543b4e64e5)
+- [SidharthArya pushed to master in SidharthArya/scripts](https://github.com/SidharthArya/scripts/compare/8da2345fc8...6f0f302307)
+- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/74cd31fb86...41d0188be0)
+- [SidharthArya starred marktext/marktext](https://github.com/marktext/marktext)
+- [SidharthArya starred github/hub](https://github.com/github/hub)
+- [SidharthArya starred google/yapf](https://github.com/google/yapf)
+- [SidharthArya starred kelthuzadx/hosts](https://github.com/kelthuzadx/hosts)
+- [SidharthArya starred freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs)
 <!-- GITHUB:END -->
 
 ## Top Followers
