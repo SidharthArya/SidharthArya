@@ -36,7 +36,7 @@ Wish you a good-looking profile README!
 -   Programming: Python, C++, GitHub Actions, JavaScript, Haskell, Nodejs
 -   Operating System: Arch Linux 
 -   Window Manager: bspwm 
--   Shell: Bash
+-   Shell: Zsh
 -   Editor: Emacs, Neovim
 -   Browser: Qutebrowser
 -   :key: GPG key: [`4881651806D31166`](https://github.com/SidharthArya.gpg)
