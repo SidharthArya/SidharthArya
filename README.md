@@ -78,6 +78,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/d891f67a08...3cf2f89e58)
+- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/fa90512fcc...a40d8a4679)
 - [SidharthArya starred Fmstrat/winapps](https://github.com/Fmstrat/winapps)
 - [SidharthArya starred jwiegley/emacs-async](https://github.com/jwiegley/emacs-async)
 - [SidharthArya created a repository SidharthArya/emit](https://github.com/SidharthArya/emit//)
@@ -86,8 +88,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/507c5d25bf...d891f67a08)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/774aa554e3...3d9889184d)
 - [SidharthArya pushed to main in SidharthArya/sidhartharya.github.io](https://github.com/SidharthArya/sidhartharya.github.io/compare/d77522de81...4e7491efae)
-- [SidharthArya pushed to main in SidharthArya/sidhartharya.github.io](https://github.com/SidharthArya/sidhartharya.github.io/compare/842e8558cf...d77522de81)
-- [SidharthArya pushed to main in SidharthArya/sidhartharya.github.io](https://github.com/SidharthArya/sidhartharya.github.io/compare/2cc97c9b59...842e8558cf)
 <!-- GITHUB:END -->
 
 ## Top Followers
