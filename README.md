@@ -78,6 +78,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to master in SidharthArya/.qutebrowser](https://github.com/SidharthArya/.qutebrowser/compare/e455bda986...3abd543ddd)
+- [SidharthArya pushed to master in SidharthArya/.qutebrowser](https://github.com/SidharthArya/.qutebrowser/compare/7b4016cca5...e455bda986)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/3cf2f89e58...de9d1db41d)
 - [SidharthArya pushed to main in SidharthArya/arch-packages](https://github.com/SidharthArya/arch-packages/compare/67aaab596c...27a1e904f2)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/a40d8a4679...9fb701aad3)
@@ -86,8 +88,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/d891f67a08...3cf2f89e58)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/fa90512fcc...a40d8a4679)
 - [SidharthArya starred Fmstrat/winapps](https://github.com/Fmstrat/winapps)
-- [SidharthArya starred jwiegley/emacs-async](https://github.com/jwiegley/emacs-async)
-- [SidharthArya created a repository SidharthArya/emit](https://github.com/SidharthArya/emit//)
 <!-- GITHUB:END -->
 
 ## Top Followers
