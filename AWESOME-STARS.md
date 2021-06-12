@@ -410,6 +410,10 @@
 
 ## JavaScript 
 
+- [expressjs/morgan](https://github.com/expressjs/morgan) - HTTP request logger middleware for node.js
+- [winstonjs/winston](https://github.com/winstonjs/winston) - A logger for just about everything.
+- [sideway/joi](https://github.com/sideway/joi) - The most powerful data validation library for JS
+- [Automattic/mongoose](https://github.com/Automattic/mongoose) - MongoDB object modeling designed to work in an asynchronous environment.
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
