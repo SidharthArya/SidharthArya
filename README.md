@@ -69,6 +69,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+ - 11-06-2021 [Using pass to auto authenticate for github](https://sidhartharya.github.io/https://sidhartharya.github.io/using-pass-to-auto-authenticate-for-github/)
  - 06-06-2021 [Exporting Org Roam notes to hugo](https://sidhartharya.github.io/https://sidhartharya.github.io/exporting-org-roam-notes-to-hugo/)
  - 03-06-2021 [A quicker way to reach localhost with qutebrowser](https://sidhartharya.github.io/https://sidhartharya.github.io/a-quicker-way-to-reach-localhost-with-qutebrowser/)
  - 02-06-2021 [Running ipython inside a python script](https://sidhartharya.github.io/https://sidhartharya.github.io/running-ipython-inside-a-python-script/)
