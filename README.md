@@ -78,6 +78,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to main in SidharthArya/sidhartharya.github.io](https://github.com/SidharthArya/sidhartharya.github.io/compare/4e7491efae...38349548ef)
 - [SidharthArya starred expressjs/morgan](https://github.com/expressjs/morgan)
 - [SidharthArya starred winstonjs/winston](https://github.com/winstonjs/winston)
 - [SidharthArya starred sideway/joi](https://github.com/sideway/joi)
@@ -87,7 +88,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/9fb701aad3...ea56973350)
 - [SidharthArya pushed to master in SidharthArya/.qutebrowser](https://github.com/SidharthArya/.qutebrowser/compare/3abd543ddd...11a853ad11)
 - [SidharthArya pushed to master in SidharthArya/.qutebrowser](https://github.com/SidharthArya/.qutebrowser/compare/e455bda986...3abd543ddd)
-- [SidharthArya pushed to master in SidharthArya/.qutebrowser](https://github.com/SidharthArya/.qutebrowser/compare/7b4016cca5...e455bda986)
 <!-- GITHUB:END -->
 
 ## Top Followers
