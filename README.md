@@ -78,16 +78,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred expressjs/morgan](https://github.com/expressjs/morgan)
+- [SidharthArya starred winstonjs/winston](https://github.com/winstonjs/winston)
+- [SidharthArya starred sideway/joi](https://github.com/sideway/joi)
+- [SidharthArya starred Automattic/mongoose](https://github.com/Automattic/mongoose)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/de9d1db41d...0f976f07ed)
 - [SidharthArya pushed to master in SidharthArya/.bspwm](https://github.com/SidharthArya/.bspwm/compare/983c6db78e...669b8684f0)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/9fb701aad3...ea56973350)
 - [SidharthArya pushed to master in SidharthArya/.qutebrowser](https://github.com/SidharthArya/.qutebrowser/compare/3abd543ddd...11a853ad11)
 - [SidharthArya pushed to master in SidharthArya/.qutebrowser](https://github.com/SidharthArya/.qutebrowser/compare/e455bda986...3abd543ddd)
 - [SidharthArya pushed to master in SidharthArya/.qutebrowser](https://github.com/SidharthArya/.qutebrowser/compare/7b4016cca5...e455bda986)
-- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/3cf2f89e58...de9d1db41d)
-- [SidharthArya pushed to main in SidharthArya/arch-packages](https://github.com/SidharthArya/arch-packages/compare/67aaab596c...27a1e904f2)
-- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/a40d8a4679...9fb701aad3)
-- [SidharthArya starred mementum/backtrader](https://github.com/mementum/backtrader)
 <!-- GITHUB:END -->
 
 ## Top Followers
