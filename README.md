@@ -79,6 +79,9 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred swaywm/sway](https://github.com/swaywm/sway)
+- [SidharthArya pushed to main in SidharthArya/sidhartharya.github.io](https://github.com/SidharthArya/sidhartharya.github.io/compare/302dca9958...66fdaae7bf)
+- [SidharthArya pushed to main in SidharthArya/sidhartharya.github.io](https://github.com/SidharthArya/sidhartharya.github.io/compare/38349548ef...302dca9958)
 - [SidharthArya pushed to master in SidharthArya/SidharthArya](https://github.com/SidharthArya/SidharthArya/compare/8b5ac0c2d5...7c9376e22e)
 - [SidharthArya starred nobiot/org-transclusion](https://github.com/nobiot/org-transclusion)
 - [SidharthArya pushed to main in SidharthArya/sidhartharya.github.io](https://github.com/SidharthArya/sidhartharya.github.io/compare/4e7491efae...38349548ef)
@@ -86,9 +89,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred winstonjs/winston](https://github.com/winstonjs/winston)
 - [SidharthArya starred sideway/joi](https://github.com/sideway/joi)
 - [SidharthArya starred Automattic/mongoose](https://github.com/Automattic/mongoose)
-- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/de9d1db41d...0f976f07ed)
-- [SidharthArya pushed to master in SidharthArya/.bspwm](https://github.com/SidharthArya/.bspwm/compare/983c6db78e...669b8684f0)
-- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/9fb701aad3...ea56973350)
 <!-- GITHUB:END -->
 
 ## Top Followers
