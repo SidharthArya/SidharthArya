@@ -208,6 +208,7 @@
 
 ## Emacs Lisp 
 
+- [nobiot/org-transclusion](https://github.com/nobiot/org-transclusion) - (alpha) Emacs package to enable transclusion with Org Mode
 - [jwiegley/emacs-async](https://github.com/jwiegley/emacs-async) - Simple library for asynchronous processing in Emacs
 - [ema2159/centaur-tabs](https://github.com/ema2159/centaur-tabs) - Emacs plugin aiming to become an aesthetic, modern looking tabs plugin
 - [jscheid/dtrt-indent](https://github.com/jscheid/dtrt-indent) - A minor mode that guesses the indentation offset originally used for creating source code files and transparently adjusts the corresponding settings in Emacs, making it more convenient to edit foreign files.
