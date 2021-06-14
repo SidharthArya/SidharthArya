@@ -80,6 +80,9 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to main in SidharthArya/sidhartharya.github.io](https://github.com/SidharthArya/sidhartharya.github.io/compare/d3b53a39bb...cf628fd4c7)
+- [SidharthArya pushed to main in SidharthArya/sidhartharya.github.io](https://github.com/SidharthArya/sidhartharya.github.io/compare/df1540959f...d3b53a39bb)
+- [SidharthArya pushed to main in SidharthArya/sidhartharya.github.io](https://github.com/SidharthArya/sidhartharya.github.io/compare/66fdaae7bf...df1540959f)
 - [SidharthArya created a branch master in SidharthArya/.pacman](https://github.com/SidharthArya/.pacman/compare/master)
 - [SidharthArya created a repository SidharthArya/.pacman](https://github.com/SidharthArya/.pacman//)
 - [SidharthArya starred direnv/direnv](https://github.com/direnv/direnv)
@@ -87,9 +90,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/scripts](https://github.com/SidharthArya/scripts/compare/6f0f302307...10f3e562d1)
 - [SidharthArya pushed to master in SidharthArya/.bspwm](https://github.com/SidharthArya/.bspwm/compare/669b8684f0...ae9597bf14)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/ea56973350...119ce93ece)
-- [SidharthArya starred swaywm/sway](https://github.com/swaywm/sway)
-- [SidharthArya pushed to main in SidharthArya/sidhartharya.github.io](https://github.com/SidharthArya/sidhartharya.github.io/compare/302dca9958...66fdaae7bf)
-- [SidharthArya pushed to main in SidharthArya/sidhartharya.github.io](https://github.com/SidharthArya/sidhartharya.github.io/compare/38349548ef...302dca9958)
 <!-- GITHUB:END -->
 
 ## Top Followers
