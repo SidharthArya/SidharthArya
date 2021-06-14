@@ -80,6 +80,9 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya created a branch master in SidharthArya/.pacman](https://github.com/SidharthArya/.pacman/compare/master)
+- [SidharthArya created a repository SidharthArya/.pacman](https://github.com/SidharthArya/.pacman//)
+- [SidharthArya starred direnv/direnv](https://github.com/direnv/direnv)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/0f976f07ed...2df1b29615)
 - [SidharthArya pushed to master in SidharthArya/scripts](https://github.com/SidharthArya/scripts/compare/6f0f302307...10f3e562d1)
 - [SidharthArya pushed to master in SidharthArya/.bspwm](https://github.com/SidharthArya/.bspwm/compare/669b8684f0...ae9597bf14)
@@ -87,9 +90,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred swaywm/sway](https://github.com/swaywm/sway)
 - [SidharthArya pushed to main in SidharthArya/sidhartharya.github.io](https://github.com/SidharthArya/sidhartharya.github.io/compare/302dca9958...66fdaae7bf)
 - [SidharthArya pushed to main in SidharthArya/sidhartharya.github.io](https://github.com/SidharthArya/sidhartharya.github.io/compare/38349548ef...302dca9958)
-- [SidharthArya pushed to master in SidharthArya/SidharthArya](https://github.com/SidharthArya/SidharthArya/compare/8b5ac0c2d5...7c9376e22e)
-- [SidharthArya starred nobiot/org-transclusion](https://github.com/nobiot/org-transclusion)
-- [SidharthArya pushed to main in SidharthArya/sidhartharya.github.io](https://github.com/SidharthArya/sidhartharya.github.io/compare/4e7491efae...38349548ef)
 <!-- GITHUB:END -->
 
 ## Top Followers
