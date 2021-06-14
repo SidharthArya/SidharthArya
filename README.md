@@ -70,6 +70,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
  - 13-06-2021 [Cycling through Windows in SwayWM](https://sidhartharya.github.io/cycling-through-windows-in-swaywm/)
+ - 13-06-2021 [Integrating Org Protocol with Qutebrowser](https://sidhartharya.github.io/integrating-org-protocol-with-qutebrowser/)
  - 11-06-2021 [Using pass to auto authenticate for github](https://sidhartharya.github.io/using-pass-to-auto-authenticate-for-github/)
  - 06-06-2021 [Exporting Org Roam notes to hugo](https://sidhartharya.github.io/exporting-org-roam-notes-to-hugo/)
  - 03-06-2021 [A quicker way to reach localhost with qutebrowser](https://sidhartharya.github.io/a-quicker-way-to-reach-localhost-with-qutebrowser/)
