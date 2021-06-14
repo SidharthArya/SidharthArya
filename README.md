@@ -81,6 +81,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to main in SidharthArya/sidhartharya.github.io](https://github.com/SidharthArya/sidhartharya.github.io/compare/e5277c00fb...dcf58bfd66)
 - [SidharthArya pushed to main in SidharthArya/sidhartharya.github.io](https://github.com/SidharthArya/sidhartharya.github.io/compare/7ff1b3c5ae...e5277c00fb)
 - [SidharthArya pushed to master in SidharthArya/.qutebrowser](https://github.com/SidharthArya/.qutebrowser/compare/11a853ad11...3a75fc4f1c)
 - [SidharthArya pushed to main in SidharthArya/sidhartharya.github.io](https://github.com/SidharthArya/sidhartharya.github.io/compare/f2f83da9d4...7ff1b3c5ae)
@@ -90,7 +91,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to main in SidharthArya/sidhartharya.github.io](https://github.com/SidharthArya/sidhartharya.github.io/compare/66fdaae7bf...df1540959f)
 - [SidharthArya created a branch master in SidharthArya/.pacman](https://github.com/SidharthArya/.pacman/compare/master)
 - [SidharthArya created a repository SidharthArya/.pacman](https://github.com/SidharthArya/.pacman//)
-- [SidharthArya starred direnv/direnv](https://github.com/direnv/direnv)
 <!-- GITHUB:END -->
 
 ## Top Followers
