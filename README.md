@@ -81,6 +81,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to main in SidharthArya/sidhartharya.github.io](https://github.com/SidharthArya/sidhartharya.github.io/compare/d8017ebfaf...ca8dab5e25)
 - [SidharthArya starred maierj/fastlane-action](https://github.com/maierj/fastlane-action)
 - [SidharthArya starred wbolster/emacs-direnv](https://github.com/wbolster/emacs-direnv)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/4c57713bf5...94a0717fa5)
@@ -90,7 +91,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred nix-community/lorri](https://github.com/nix-community/lorri)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/2df1b29615...4c57713bf5)
 - [SidharthArya pushed to main in SidharthArya/sidhartharya.github.io](https://github.com/SidharthArya/sidhartharya.github.io/compare/dcf58bfd66...d8017ebfaf)
-- [SidharthArya pushed to main in SidharthArya/sidhartharya.github.io](https://github.com/SidharthArya/sidhartharya.github.io/compare/e5277c00fb...dcf58bfd66)
 <!-- GITHUB:END -->
 
 ## Top Followers
