@@ -81,6 +81,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to main in SidharthArya/org-google-tasks](https://github.com/SidharthArya/org-google-tasks/compare/fe948e12ca...2962ff9b7f)
 - [SidharthArya starred glycerine/zygomys](https://github.com/glycerine/zygomys)
 - [SidharthArya pushed to main in SidharthArya/sidhartharya.github.io](https://github.com/SidharthArya/sidhartharya.github.io/compare/d8017ebfaf...ca8dab5e25)
 - [SidharthArya starred maierj/fastlane-action](https://github.com/maierj/fastlane-action)
@@ -90,7 +91,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred nix-community/nix-direnv](https://github.com/nix-community/nix-direnv)
 - [SidharthArya starred inishchith/autoenv](https://github.com/inishchith/autoenv)
 - [SidharthArya starred nix-community/lorri](https://github.com/nix-community/lorri)
-- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/2df1b29615...4c57713bf5)
 <!-- GITHUB:END -->
 
 ## Top Followers
