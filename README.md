@@ -81,16 +81,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
-- [SidharthArya starred dgutov/diff-hl](https://github.com/dgutov/diff-hl)
-- [SidharthArya starred natpen/awesome-wayland](https://github.com/natpen/awesome-wayland)
-- [SidharthArya pushed to main in SidharthArya/org-google-tasks](https://github.com/SidharthArya/org-google-tasks/compare/fe948e12ca...2962ff9b7f)
-- [SidharthArya starred glycerine/zygomys](https://github.com/glycerine/zygomys)
-- [SidharthArya pushed to main in SidharthArya/sidhartharya.github.io](https://github.com/SidharthArya/sidhartharya.github.io/compare/d8017ebfaf...ca8dab5e25)
-- [SidharthArya starred maierj/fastlane-action](https://github.com/maierj/fastlane-action)
-- [SidharthArya starred wbolster/emacs-direnv](https://github.com/wbolster/emacs-direnv)
-- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/4c57713bf5...94a0717fa5)
-- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/119ce93ece...74732b99a9)
-- [SidharthArya starred nix-community/nix-direnv](https://github.com/nix-community/nix-direnv)
+- [SidharthArya starred spencermountain/compromise](https://github.com/spencermountain/compromise)
+- [SidharthArya starred nltk/nltk](https://github.com/nltk/nltk)
+- [SidharthArya starred virgili0/Virgilio](https://github.com/virgili0/Virgilio)
+- [SidharthArya starred TheAlgorithms/Haskell](https://github.com/TheAlgorithms/Haskell)
+- [SidharthArya starred TheAlgorithms/Go](https://github.com/TheAlgorithms/Go)
+- [SidharthArya starred TheAlgorithms/C](https://github.com/TheAlgorithms/C)
+- [SidharthArya starred TheAlgorithms/Javascript](https://github.com/TheAlgorithms/Javascript)
+- [SidharthArya starred TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus)
+- [SidharthArya starred acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh)
+- [SidharthArya starred faressoft/terminalizer](https://github.com/faressoft/terminalizer)
 <!-- GITHUB:END -->
 
 ## Top Followers
