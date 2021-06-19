@@ -81,16 +81,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
-- [SidharthArya starred spencermountain/compromise](https://github.com/spencermountain/compromise)
-- [SidharthArya starred nltk/nltk](https://github.com/nltk/nltk)
-- [SidharthArya starred virgili0/Virgilio](https://github.com/virgili0/Virgilio)
-- [SidharthArya starred TheAlgorithms/Haskell](https://github.com/TheAlgorithms/Haskell)
-- [SidharthArya starred TheAlgorithms/Go](https://github.com/TheAlgorithms/Go)
-- [SidharthArya starred TheAlgorithms/C](https://github.com/TheAlgorithms/C)
-- [SidharthArya starred TheAlgorithms/Javascript](https://github.com/TheAlgorithms/Javascript)
-- [SidharthArya starred TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus)
-- [SidharthArya starred acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh)
-- [SidharthArya starred faressoft/terminalizer](https://github.com/faressoft/terminalizer)
+- [SidharthArya commented on issue SidharthArya/sidhartharya.github.io#1](https://github.com/SidharthArya/sidhartharya.github.io/issues/1#issuecomment-864466791)
+- [SidharthArya commented on issue SidharthArya/sidhartharya.github.io#1](https://github.com/SidharthArya/sidhartharya.github.io/issues/1#issuecomment-864466781)
+- [SidharthArya pushed to main in SidharthArya/sidhartharya.github.io](https://github.com/SidharthArya/sidhartharya.github.io/compare/596ed451da...c7141dd62e)
+- [SidharthArya commented on issue SidharthArya/sidhartharya.github.io.comments#2](https://github.com/SidharthArya/sidhartharya.github.io.comments/issues/2#issuecomment-864466423)
+- [SidharthArya commented on issue SidharthArya/sidhartharya.github.io.comments#2](https://github.com/SidharthArya/sidhartharya.github.io.comments/issues/2#issuecomment-864466341)
+- [SidharthArya commented on issue SidharthArya/sidhartharya.github.io.comments#1](https://github.com/SidharthArya/sidhartharya.github.io.comments/issues/1#issuecomment-864466274)
+- [SidharthArya commented on issue SidharthArya/sidhartharya.github.io.comments#1](https://github.com/SidharthArya/sidhartharya.github.io.comments/issues/1#issuecomment-864466262)
+- [SidharthArya pushed to main in SidharthArya/sidhartharya.github.io](https://github.com/SidharthArya/sidhartharya.github.io/compare/ca8dab5e25...596ed451da)
+- [SidharthArya commented on issue SidharthArya/sidhartharya.github.io.comments#1](https://github.com/SidharthArya/sidhartharya.github.io.comments/issues/1#issuecomment-864465669)
+- [SidharthArya created a branch main in SidharthArya/sidhartharya.github.io.comments](https://github.com/SidharthArya/sidhartharya.github.io.comments/compare/main)
 <!-- GITHUB:END -->
 
 ## Top Followers
