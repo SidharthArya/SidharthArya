@@ -81,16 +81,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya opened a pull request in emacs-evil/evil-collection](https://github.com/emacs-evil/evil-collection/pull/491)
+- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/a977f2e45c...850eb14ca1)
+- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/cc909f520b...9c333d288e)
+- [SidharthArya pushed to master in SidharthArya/evil-collection](https://github.com/SidharthArya/evil-collection/compare/2849c80c79...52a6e2f1c0)
+- [SidharthArya forked SidharthArya/evil-collection from emacs-evil/evil-collection](https://github.com/SidharthArya/evil-collection)
 - [SidharthArya commented on issue SidharthArya/sidhartharya.github.io#1](https://github.com/SidharthArya/sidhartharya.github.io/issues/1#issuecomment-864466791)
 - [SidharthArya commented on issue SidharthArya/sidhartharya.github.io#1](https://github.com/SidharthArya/sidhartharya.github.io/issues/1#issuecomment-864466781)
 - [SidharthArya pushed to main in SidharthArya/sidhartharya.github.io](https://github.com/SidharthArya/sidhartharya.github.io/compare/596ed451da...c7141dd62e)
 - [SidharthArya commented on issue SidharthArya/sidhartharya.github.io.comments#2](https://github.com/SidharthArya/sidhartharya.github.io.comments/issues/2#issuecomment-864466423)
 - [SidharthArya commented on issue SidharthArya/sidhartharya.github.io.comments#2](https://github.com/SidharthArya/sidhartharya.github.io.comments/issues/2#issuecomment-864466341)
-- [SidharthArya commented on issue SidharthArya/sidhartharya.github.io.comments#1](https://github.com/SidharthArya/sidhartharya.github.io.comments/issues/1#issuecomment-864466274)
-- [SidharthArya commented on issue SidharthArya/sidhartharya.github.io.comments#1](https://github.com/SidharthArya/sidhartharya.github.io.comments/issues/1#issuecomment-864466262)
-- [SidharthArya pushed to main in SidharthArya/sidhartharya.github.io](https://github.com/SidharthArya/sidhartharya.github.io/compare/ca8dab5e25...596ed451da)
-- [SidharthArya commented on issue SidharthArya/sidhartharya.github.io.comments#1](https://github.com/SidharthArya/sidhartharya.github.io.comments/issues/1#issuecomment-864465669)
-- [SidharthArya created a branch main in SidharthArya/sidhartharya.github.io.comments](https://github.com/SidharthArya/sidhartharya.github.io.comments/compare/main)
 <!-- GITHUB:END -->
 
 ## Top Followers
