@@ -58,6 +58,7 @@
 
 ## C 
 
+- [owntone/owntone-server](https://github.com/owntone/owntone-server) - OwnTone is forked-daapd's new name! Linux/FreeBSD DAAP (iTunes) and MPD media server with support for AirPlay devices (multiroom), Apple Remote (and compatibles), Chromecast, Spotify and internet radio.
 - [TheAlgorithms/C](https://github.com/TheAlgorithms/C) - Collection of various algorithms in mathematics, machine learning, computer science, physics, etc implemented in C for educational purposes.
 - [swaywm/sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor
 - [s-matyukevich/raspberry-pi-os](https://github.com/s-matyukevich/raspberry-pi-os) - Learning operating system development using Linux kernel and Raspberry Pi
@@ -211,6 +212,8 @@
 
 ## Emacs Lisp 
 
+- [gregsexton/origami.el](https://github.com/gregsexton/origami.el) - A folding minor mode for Emacs
+- [matsievskiysv/vimish-fold](https://github.com/matsievskiysv/vimish-fold) - Vim-like text folding for Emacs
 - [dgutov/diff-hl](https://github.com/dgutov/diff-hl) - Emacs package for highlighting uncommitted changes
 - [wbolster/emacs-direnv](https://github.com/wbolster/emacs-direnv) - direnv integration for emacs
 - [nobiot/org-transclusion](https://github.com/nobiot/org-transclusion) - (alpha) Emacs package to enable transclusion with Org Mode
@@ -679,6 +682,7 @@
 
 ## Python 
 
+- [rusty1s/pytorch_geometric](https://github.com/rusty1s/pytorch_geometric) - Geometric Deep Learning Extension Library for PyTorch
 - [nltk/nltk](https://github.com/nltk/nltk) - NLTK Source
 - [nix-community/nix-direnv](https://github.com/nix-community/nix-direnv) - A fast, persistent use_nix/use_flake implementation for direnv [maintainer=@Mic92]
 - [mementum/backtrader](https://github.com/mementum/backtrader) - Python Backtesting library for trading strategies
@@ -1039,6 +1043,7 @@
 
 ## Vue 
 
+- [tokyo-metropolitan-gov/covid19](https://github.com/tokyo-metropolitan-gov/covid19) - 東京都 新型コロナウイルス感染症対策サイト / Tokyo COVID-19 Task Force website
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome Github Profile READMEs 📝
 - [salomonelli/best-resume-ever](https://github.com/salomonelli/best-resume-ever) - :necktie: :briefcase: Build fast :rocket: and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
 
