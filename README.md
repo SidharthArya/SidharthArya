@@ -81,6 +81,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred skeeto/youtube-dl-emacs](https://github.com/skeeto/youtube-dl-emacs)
 - [SidharthArya starred gregsexton/origami.el](https://github.com/gregsexton/origami.el)
 - [SidharthArya starred matsievskiysv/vimish-fold](https://github.com/matsievskiysv/vimish-fold)
 - [SidharthArya starred rusty1s/pytorch_geometric](https://github.com/rusty1s/pytorch_geometric)
@@ -90,7 +91,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/a977f2e45c...850eb14ca1)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/cc909f520b...9c333d288e)
 - [SidharthArya pushed to master in SidharthArya/evil-collection](https://github.com/SidharthArya/evil-collection/compare/2849c80c79...52a6e2f1c0)
-- [SidharthArya forked SidharthArya/evil-collection from emacs-evil/evil-collection](https://github.com/SidharthArya/evil-collection)
 <!-- GITHUB:END -->
 
 ## Top Followers
