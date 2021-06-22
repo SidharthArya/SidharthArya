@@ -81,16 +81,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred devsnd/tinytag](https://github.com/devsnd/tinytag)
+- [SidharthArya starred textmate/textmate](https://github.com/textmate/textmate)
+- [SidharthArya starred overleaf/overleaf](https://github.com/overleaf/overleaf)
+- [SidharthArya starred atom/atom](https://github.com/atom/atom)
+- [SidharthArya starred microsoft/vscode](https://github.com/microsoft/vscode)
 - [SidharthArya starred adobe/brackets](https://github.com/adobe/brackets)
 - [SidharthArya starred skeeto/youtube-dl-emacs](https://github.com/skeeto/youtube-dl-emacs)
 - [SidharthArya starred gregsexton/origami.el](https://github.com/gregsexton/origami.el)
 - [SidharthArya starred matsievskiysv/vimish-fold](https://github.com/matsievskiysv/vimish-fold)
 - [SidharthArya starred rusty1s/pytorch_geometric](https://github.com/rusty1s/pytorch_geometric)
-- [SidharthArya starred tokyo-metropolitan-gov/covid19](https://github.com/tokyo-metropolitan-gov/covid19)
-- [SidharthArya starred owntone/owntone-server](https://github.com/owntone/owntone-server)
-- [SidharthArya opened a pull request in emacs-evil/evil-collection](https://github.com/emacs-evil/evil-collection/pull/491)
-- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/a977f2e45c...850eb14ca1)
-- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/cc909f520b...9c333d288e)
 <!-- GITHUB:END -->
 
 ## Top Followers
