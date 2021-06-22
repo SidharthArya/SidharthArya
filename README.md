@@ -81,6 +81,9 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred rusty1s/pytorch_geometric](https://github.com/rusty1s/pytorch_geometric)
+- [SidharthArya starred tokyo-metropolitan-gov/covid19](https://github.com/tokyo-metropolitan-gov/covid19)
+- [SidharthArya starred owntone/owntone-server](https://github.com/owntone/owntone-server)
 - [SidharthArya opened a pull request in emacs-evil/evil-collection](https://github.com/emacs-evil/evil-collection/pull/491)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/a977f2e45c...850eb14ca1)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/cc909f520b...9c333d288e)
@@ -88,9 +91,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya forked SidharthArya/evil-collection from emacs-evil/evil-collection](https://github.com/SidharthArya/evil-collection)
 - [SidharthArya commented on issue SidharthArya/sidhartharya.github.io#1](https://github.com/SidharthArya/sidhartharya.github.io/issues/1#issuecomment-864466791)
 - [SidharthArya commented on issue SidharthArya/sidhartharya.github.io#1](https://github.com/SidharthArya/sidhartharya.github.io/issues/1#issuecomment-864466781)
-- [SidharthArya pushed to main in SidharthArya/sidhartharya.github.io](https://github.com/SidharthArya/sidhartharya.github.io/compare/596ed451da...c7141dd62e)
-- [SidharthArya commented on issue SidharthArya/sidhartharya.github.io.comments#2](https://github.com/SidharthArya/sidhartharya.github.io.comments/issues/2#issuecomment-864466423)
-- [SidharthArya commented on issue SidharthArya/sidhartharya.github.io.comments#2](https://github.com/SidharthArya/sidhartharya.github.io.comments/issues/2#issuecomment-864466341)
 <!-- GITHUB:END -->
 
 ## Top Followers
