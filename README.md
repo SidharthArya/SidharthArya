@@ -81,6 +81,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred gregsexton/origami.el](https://github.com/gregsexton/origami.el)
+- [SidharthArya starred matsievskiysv/vimish-fold](https://github.com/matsievskiysv/vimish-fold)
 - [SidharthArya starred rusty1s/pytorch_geometric](https://github.com/rusty1s/pytorch_geometric)
 - [SidharthArya starred tokyo-metropolitan-gov/covid19](https://github.com/tokyo-metropolitan-gov/covid19)
 - [SidharthArya starred owntone/owntone-server](https://github.com/owntone/owntone-server)
@@ -89,8 +91,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/cc909f520b...9c333d288e)
 - [SidharthArya pushed to master in SidharthArya/evil-collection](https://github.com/SidharthArya/evil-collection/compare/2849c80c79...52a6e2f1c0)
 - [SidharthArya forked SidharthArya/evil-collection from emacs-evil/evil-collection](https://github.com/SidharthArya/evil-collection)
-- [SidharthArya commented on issue SidharthArya/sidhartharya.github.io#1](https://github.com/SidharthArya/sidhartharya.github.io/issues/1#issuecomment-864466791)
-- [SidharthArya commented on issue SidharthArya/sidhartharya.github.io#1](https://github.com/SidharthArya/sidhartharya.github.io/issues/1#issuecomment-864466781)
 <!-- GITHUB:END -->
 
 ## Top Followers
