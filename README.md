@@ -81,6 +81,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/850eb14ca1...437c369875)
+- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/9c333d288e...98b5499278)
 - [SidharthArya starred devsnd/tinytag](https://github.com/devsnd/tinytag)
 - [SidharthArya starred textmate/textmate](https://github.com/textmate/textmate)
 - [SidharthArya starred overleaf/overleaf](https://github.com/overleaf/overleaf)
@@ -89,8 +91,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred adobe/brackets](https://github.com/adobe/brackets)
 - [SidharthArya starred skeeto/youtube-dl-emacs](https://github.com/skeeto/youtube-dl-emacs)
 - [SidharthArya starred gregsexton/origami.el](https://github.com/gregsexton/origami.el)
-- [SidharthArya starred matsievskiysv/vimish-fold](https://github.com/matsievskiysv/vimish-fold)
-- [SidharthArya starred rusty1s/pytorch_geometric](https://github.com/rusty1s/pytorch_geometric)
 <!-- GITHUB:END -->
 
 ## Top Followers
