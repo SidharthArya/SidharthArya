@@ -11,6 +11,7 @@
   - [C#](#c#)
   - [C++](#c++)
   - [CSS](#css)
+  - [CoffeeScript](#coffeescript)
   - [Common Lisp](#common-lisp)
   - [Cuda](#cuda)
   - [Dart](#dart)
@@ -30,6 +31,7 @@
   - [Matlab](#matlab)
   - [Nix](#nix)
   - [OCaml](#ocaml)
+  - [Objective-C++](#objective-c++)
   - [Others](#others)
   - [PHP](#php)
   - [Perl](#perl)
@@ -186,6 +188,10 @@
 - [luizdepra/hugo-coder](https://github.com/luizdepra/hugo-coder) - A minimalist blog theme for hugo.
 - [IBM/css-gridish](https://github.com/IBM/css-gridish) - Automatically build your grid design’s CSS Grid code, CSS Flexbox fallback code, Sketch artboards, and Chrome extension.
 - [vicky002/AlgoWiki](https://github.com/vicky002/AlgoWiki) - Repository which contains links and resources on different topics of Computer Science.
+
+## CoffeeScript 
+
+- [overleaf/overleaf](https://github.com/overleaf/overleaf) - A web-based collaborative LaTeX editor
 
 ## Common Lisp 
 
@@ -423,6 +429,8 @@
 
 ## JavaScript 
 
+- [atom/atom](https://github.com/atom/atom) - :atom: The hackable text editor
+- [adobe/brackets](https://github.com/adobe/brackets) - An open source code editor for the web, written in JavaScript, HTML and CSS.
 - [spencermountain/compromise](https://github.com/spencermountain/compromise) - modest natural-language processing
 - [TheAlgorithms/Javascript](https://github.com/TheAlgorithms/Javascript) - A repository for All algorithms implemented in Javascript (for educational purposes only)
 - [faressoft/terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
@@ -595,6 +603,10 @@
 
 - [comby-tools/comby](https://github.com/comby-tools/comby) - A tool for structural code search and replace that supports ~every language.
 
+## Objective-C++ 
+
+- [textmate/textmate](https://github.com/textmate/textmate) - TextMate is a graphical text editor for macOS 10.12 or later
+
 ## Others 
 
 - [natpen/awesome-wayland](https://github.com/natpen/awesome-wayland) - A curated list of Wayland code and resources.
@@ -682,6 +694,7 @@
 
 ## Python 
 
+- [devsnd/tinytag](https://github.com/devsnd/tinytag) - Read music meta data and length of MP3, OGG, OPUS, MP4, M4A, FLAC, WMA and Wave files with python 2 or 3
 - [rusty1s/pytorch_geometric](https://github.com/rusty1s/pytorch_geometric) - Geometric Deep Learning Extension Library for PyTorch
 - [nltk/nltk](https://github.com/nltk/nltk) - NLTK Source
 - [nix-community/nix-direnv](https://github.com/nix-community/nix-direnv) - A fast, persistent use_nix/use_flake implementation for direnv [maintainer=@Mic92]
@@ -993,6 +1006,7 @@
 
 ## TypeScript 
 
+- [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - 📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more!
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
