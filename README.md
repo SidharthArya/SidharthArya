@@ -81,6 +81,9 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/437c369875...81bf224576)
+- [SidharthArya pushed to master in SidharthArya/.bspwm](https://github.com/SidharthArya/.bspwm/compare/ae9597bf14...ab64a4de0f)
+- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/98b5499278...62f073ddfc)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/850eb14ca1...437c369875)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/9c333d288e...98b5499278)
 - [SidharthArya starred devsnd/tinytag](https://github.com/devsnd/tinytag)
@@ -88,9 +91,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred overleaf/overleaf](https://github.com/overleaf/overleaf)
 - [SidharthArya starred atom/atom](https://github.com/atom/atom)
 - [SidharthArya starred microsoft/vscode](https://github.com/microsoft/vscode)
-- [SidharthArya starred adobe/brackets](https://github.com/adobe/brackets)
-- [SidharthArya starred skeeto/youtube-dl-emacs](https://github.com/skeeto/youtube-dl-emacs)
-- [SidharthArya starred gregsexton/origami.el](https://github.com/gregsexton/origami.el)
 <!-- GITHUB:END -->
 
 ## Top Followers
