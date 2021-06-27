@@ -81,6 +81,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred payatu/diva-android](https://github.com/payatu/diva-android)
 - [SidharthArya starred petgraph/petgraph](https://github.com/petgraph/petgraph)
 - [SidharthArya pushed to main in SidharthArya/sidhartharya.github.io](https://github.com/SidharthArya/sidhartharya.github.io/compare/84e8404cde...da01cf40b6)
 - [SidharthArya starred 5t3ph/stylestage](https://github.com/5t3ph/stylestage)
@@ -90,7 +91,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred sthalles/deeplab_v3](https://github.com/sthalles/deeplab_v3)
 - [SidharthArya starred vbelz/Speech-enhancement](https://github.com/vbelz/Speech-enhancement)
 - [SidharthArya starred z-bingo/awesome-image-denoising-state-of-the-art](https://github.com/z-bingo/awesome-image-denoising-state-of-the-art)
-- [SidharthArya starred cszn/DnCNN](https://github.com/cszn/DnCNN)
 <!-- GITHUB:END -->
 
 ## Top Followers
