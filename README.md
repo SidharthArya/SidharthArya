@@ -81,6 +81,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/81bf224576...bd52984667)
+- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/62f073ddfc...b676bd10af)
 - [SidharthArya starred payatu/diva-android](https://github.com/payatu/diva-android)
 - [SidharthArya starred petgraph/petgraph](https://github.com/petgraph/petgraph)
 - [SidharthArya pushed to main in SidharthArya/sidhartharya.github.io](https://github.com/SidharthArya/sidhartharya.github.io/compare/84e8404cde...da01cf40b6)
@@ -89,8 +91,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
 - [SidharthArya starred mhmdanas/quantities](https://github.com/mhmdanas/quantities)
 - [SidharthArya starred sthalles/deeplab_v3](https://github.com/sthalles/deeplab_v3)
-- [SidharthArya starred vbelz/Speech-enhancement](https://github.com/vbelz/Speech-enhancement)
-- [SidharthArya starred z-bingo/awesome-image-denoising-state-of-the-art](https://github.com/z-bingo/awesome-image-denoising-state-of-the-art)
 <!-- GITHUB:END -->
 
 ## Top Followers
