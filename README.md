@@ -81,16 +81,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred cszn/DnCNN](https://github.com/cszn/DnCNN)
+- [SidharthArya starred drethage/speech-denoising-wavenet](https://github.com/drethage/speech-denoising-wavenet)
+- [SidharthArya starred wenbihan/reproducible-image-denoising-state-of-the-art](https://github.com/wenbihan/reproducible-image-denoising-state-of-the-art)
+- [SidharthArya starred magnars/dash.el](https://github.com/magnars/dash.el)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/437c369875...81bf224576)
 - [SidharthArya pushed to master in SidharthArya/.bspwm](https://github.com/SidharthArya/.bspwm/compare/ae9597bf14...ab64a4de0f)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/98b5499278...62f073ddfc)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/850eb14ca1...437c369875)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/9c333d288e...98b5499278)
 - [SidharthArya starred devsnd/tinytag](https://github.com/devsnd/tinytag)
-- [SidharthArya starred textmate/textmate](https://github.com/textmate/textmate)
-- [SidharthArya starred overleaf/overleaf](https://github.com/overleaf/overleaf)
-- [SidharthArya starred atom/atom](https://github.com/atom/atom)
-- [SidharthArya starred microsoft/vscode](https://github.com/microsoft/vscode)
 <!-- GITHUB:END -->
 
 ## Top Followers
