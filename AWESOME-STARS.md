@@ -26,6 +26,7 @@
   - [Jupyter Notebook](#jupyter-notebook)
   - [Kotlin](#kotlin)
   - [Lua](#lua)
+  - [MATLAB](#matlab)
   - [Makefile](#makefile)
   - [Markdown](#markdown)
   - [Matlab](#matlab)
@@ -185,6 +186,7 @@
 
 ## CSS 
 
+- [5t3ph/stylestage](https://github.com/5t3ph/stylestage) - A modern CSS showcase styled by community contributions. Add your stylesheet!
 - [luizdepra/hugo-coder](https://github.com/luizdepra/hugo-coder) - A minimalist blog theme for hugo.
 - [IBM/css-gridish](https://github.com/IBM/css-gridish) - Automatically build your grid design’s CSS Grid code, CSS Flexbox fallback code, Sketch artboards, and Chrome extension.
 - [vicky002/AlgoWiki](https://github.com/vicky002/AlgoWiki) - Repository which contains links and resources on different topics of Computer Science.
@@ -206,6 +208,7 @@
 
 ## Dart 
 
+- [mhmdanas/quantities](https://github.com/mhmdanas/quantities) - Work with physical quantities and units seamlessly!
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond.
 - [flutter/engine](https://github.com/flutter/engine) - The Flutter engine
@@ -218,6 +221,7 @@
 
 ## Emacs Lisp 
 
+- [magnars/dash.el](https://github.com/magnars/dash.el) - A modern list library for Emacs
 - [gregsexton/origami.el](https://github.com/gregsexton/origami.el) - A folding minor mode for Emacs
 - [matsievskiysv/vimish-fold](https://github.com/matsievskiysv/vimish-fold) - Vim-like text folding for Emacs
 - [dgutov/diff-hl](https://github.com/dgutov/diff-hl) - Emacs package for highlighting uncommitted changes
@@ -413,6 +417,7 @@
 
 ## Java 
 
+- [payatu/diva-android](https://github.com/payatu/diva-android) - DIVA Android - Damn Insecure and vulnerable App for Android
 - [antlr/antlr4](https://github.com/antlr/antlr4) - ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files.
 - [kdn251/interviews](https://github.com/kdn251/interviews) - Everything you need to know to get the job.
 - [Activiti/Activiti](https://github.com/Activiti/Activiti) - Activiti is a light-weight workflow and Business Process Management (BPM) Platform targeted at business people, developers and system admins. Its core is a super-fast and rock-solid BPMN 2 process engine for Java. It's open-source and distributed under the Apache license. Activiti runs in any Java application, on a server, on a cluster or in the cloud. It integrates perfectly with Spring, it is extremely lightweight and based on simple concepts.
@@ -544,6 +549,7 @@
 
 ## Jupyter Notebook 
 
+- [sthalles/deeplab_v3](https://github.com/sthalles/deeplab_v3) - Tensorflow Implementation of the Semantic Segmentation DeepLab_V3 CNN
 - [virgili0/Virgilio](https://github.com/virgili0/Virgilio) - Your new Mentor for Data Science E-Learning.
 - [AI4Finance-LLC/Deep-Reinforcement-Learning-for-Automated-Stock-Trading-Ensemble-Strategy-ICAIF-2020](https://github.com/AI4Finance-LLC/Deep-Reinforcement-Learning-for-Automated-Stock-Trading-Ensemble-Strategy-ICAIF-2020) - Deep Reinforcement Learning for Automated Stock Trading: An Ensemble Strategy. ICAIF 2020. Please star.
 - [google-research/google-research](https://github.com/google-research/google-research) - Google Research
@@ -580,6 +586,10 @@
 - [luakit/luakit](https://github.com/luakit/luakit) - Fast, small, webkit based browser framework extensible by Lua.
 - [kuz/DeepMind-Atari-Deep-Q-Learner](https://github.com/kuz/DeepMind-Atari-Deep-Q-Learner) - The original code from the DeepMind article + my tweaks
 
+## MATLAB 
+
+- [cszn/DnCNN](https://github.com/cszn/DnCNN) - Beyond a Gaussian Denoiser: Residual Learning of Deep CNN for Image Denoising (TIP, 2017)
+
 ## Makefile 
 
 - [redox-os/redox](https://github.com/redox-os/redox) - Mirror of https://gitlab.redox-os.org/redox-os/redox
@@ -609,6 +619,8 @@
 
 ## Others 
 
+- [z-bingo/awesome-image-denoising-state-of-the-art](https://github.com/z-bingo/awesome-image-denoising-state-of-the-art) - awesome image and video denoising, state of the art networks
+- [wenbihan/reproducible-image-denoising-state-of-the-art](https://github.com/wenbihan/reproducible-image-denoising-state-of-the-art) - Collection of popular and reproducible image denoising works.
 - [natpen/awesome-wayland](https://github.com/natpen/awesome-wayland) - A curated list of Wayland code and resources.
 - [herrbischoff/awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line) - Use your macOS terminal shell to do awesome things.
 - [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
@@ -694,6 +706,8 @@
 
 ## Python 
 
+- [vbelz/Speech-enhancement](https://github.com/vbelz/Speech-enhancement) - Deep learning for audio denoising
+- [drethage/speech-denoising-wavenet](https://github.com/drethage/speech-denoising-wavenet) - A neural network for end-to-end speech denoising
 - [devsnd/tinytag](https://github.com/devsnd/tinytag) - Read music meta data and length of MP3, OGG, OPUS, MP4, M4A, FLAC, WMA and Wave files with python 2 or 3
 - [rusty1s/pytorch_geometric](https://github.com/rusty1s/pytorch_geometric) - Geometric Deep Learning Extension Library for PyTorch
 - [nltk/nltk](https://github.com/nltk/nltk) - NLTK Source
@@ -919,6 +933,7 @@
 
 ## Rust 
 
+- [petgraph/petgraph](https://github.com/petgraph/petgraph) - Graph data structure library for Rust.
 - [nix-community/lorri](https://github.com/nix-community/lorri) - Your project’s nix-env [maintainer=@Profpatsch]
 - [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
 - [Spotifyd/spotifyd](https://github.com/Spotifyd/spotifyd) - A spotify daemon
@@ -1006,6 +1021,7 @@
 
 ## TypeScript 
 
+- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - Gitpod automates the provisioning of ready-to-code development environments.
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - 📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more!
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀
