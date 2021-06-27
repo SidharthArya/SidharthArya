@@ -81,6 +81,9 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred sthalles/deeplab_v3](https://github.com/sthalles/deeplab_v3)
+- [SidharthArya starred vbelz/Speech-enhancement](https://github.com/vbelz/Speech-enhancement)
+- [SidharthArya starred z-bingo/awesome-image-denoising-state-of-the-art](https://github.com/z-bingo/awesome-image-denoising-state-of-the-art)
 - [SidharthArya starred cszn/DnCNN](https://github.com/cszn/DnCNN)
 - [SidharthArya starred drethage/speech-denoising-wavenet](https://github.com/drethage/speech-denoising-wavenet)
 - [SidharthArya starred wenbihan/reproducible-image-denoising-state-of-the-art](https://github.com/wenbihan/reproducible-image-denoising-state-of-the-art)
@@ -88,9 +91,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/437c369875...81bf224576)
 - [SidharthArya pushed to master in SidharthArya/.bspwm](https://github.com/SidharthArya/.bspwm/compare/ae9597bf14...ab64a4de0f)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/98b5499278...62f073ddfc)
-- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/850eb14ca1...437c369875)
-- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/9c333d288e...98b5499278)
-- [SidharthArya starred devsnd/tinytag](https://github.com/devsnd/tinytag)
 <!-- GITHUB:END -->
 
 ## Top Followers
