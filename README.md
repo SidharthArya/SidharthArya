@@ -81,16 +81,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred petgraph/petgraph](https://github.com/petgraph/petgraph)
+- [SidharthArya pushed to main in SidharthArya/sidhartharya.github.io](https://github.com/SidharthArya/sidhartharya.github.io/compare/84e8404cde...da01cf40b6)
+- [SidharthArya starred 5t3ph/stylestage](https://github.com/5t3ph/stylestage)
+- [SidharthArya pushed to main in SidharthArya/sidhartharya.github.io](https://github.com/SidharthArya/sidhartharya.github.io/compare/c7141dd62e...84e8404cde)
+- [SidharthArya starred gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
+- [SidharthArya starred mhmdanas/quantities](https://github.com/mhmdanas/quantities)
 - [SidharthArya starred sthalles/deeplab_v3](https://github.com/sthalles/deeplab_v3)
 - [SidharthArya starred vbelz/Speech-enhancement](https://github.com/vbelz/Speech-enhancement)
 - [SidharthArya starred z-bingo/awesome-image-denoising-state-of-the-art](https://github.com/z-bingo/awesome-image-denoising-state-of-the-art)
 - [SidharthArya starred cszn/DnCNN](https://github.com/cszn/DnCNN)
-- [SidharthArya starred drethage/speech-denoising-wavenet](https://github.com/drethage/speech-denoising-wavenet)
-- [SidharthArya starred wenbihan/reproducible-image-denoising-state-of-the-art](https://github.com/wenbihan/reproducible-image-denoising-state-of-the-art)
-- [SidharthArya starred magnars/dash.el](https://github.com/magnars/dash.el)
-- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/437c369875...81bf224576)
-- [SidharthArya pushed to master in SidharthArya/.bspwm](https://github.com/SidharthArya/.bspwm/compare/ae9597bf14...ab64a4de0f)
-- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/98b5499278...62f073ddfc)
 <!-- GITHUB:END -->
 
 ## Top Followers
