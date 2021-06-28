@@ -81,6 +81,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred francoisgermain/SpeechDenoisingWithDeepFeatureLosses](https://github.com/francoisgermain/SpeechDenoisingWithDeepFeatureLosses)
+- [SidharthArya starred anicolson/DeepXi](https://github.com/anicolson/DeepXi)
 - [SidharthArya starred mosheman5/DNP](https://github.com/mosheman5/DNP)
 - [SidharthArya starred maguowei/starred](https://github.com/maguowei/starred)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/81bf224576...bd52984667)
@@ -89,8 +91,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred petgraph/petgraph](https://github.com/petgraph/petgraph)
 - [SidharthArya pushed to main in SidharthArya/sidhartharya.github.io](https://github.com/SidharthArya/sidhartharya.github.io/compare/84e8404cde...da01cf40b6)
 - [SidharthArya starred 5t3ph/stylestage](https://github.com/5t3ph/stylestage)
-- [SidharthArya pushed to main in SidharthArya/sidhartharya.github.io](https://github.com/SidharthArya/sidhartharya.github.io/compare/c7141dd62e...84e8404cde)
-- [SidharthArya starred gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
 <!-- GITHUB:END -->
 
 ## Top Followers
