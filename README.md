@@ -81,16 +81,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred MITESHPUTHRANNEU/Speech-Emotion-Analyzer](https://github.com/MITESHPUTHRANNEU/Speech-Emotion-Analyzer)
+- [SidharthArya starred musikalkemist/DeepLearningForAudioWithPython](https://github.com/musikalkemist/DeepLearningForAudioWithPython)
+- [SidharthArya starred despoisj/DeepAudioClassification](https://github.com/despoisj/DeepAudioClassification)
+- [SidharthArya starred jim-schwoebel/voice_datasets](https://github.com/jim-schwoebel/voice_datasets)
 - [SidharthArya starred f90/Wave-U-Net](https://github.com/f90/Wave-U-Net)
 - [SidharthArya starred ybayle/awesome-deep-learning-music](https://github.com/ybayle/awesome-deep-learning-music)
 - [SidharthArya starred francoisgermain/SpeechDenoisingWithDeepFeatureLosses](https://github.com/francoisgermain/SpeechDenoisingWithDeepFeatureLosses)
 - [SidharthArya starred anicolson/DeepXi](https://github.com/anicolson/DeepXi)
 - [SidharthArya starred mosheman5/DNP](https://github.com/mosheman5/DNP)
 - [SidharthArya starred maguowei/starred](https://github.com/maguowei/starred)
-- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/81bf224576...bd52984667)
-- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/62f073ddfc...b676bd10af)
-- [SidharthArya starred payatu/diva-android](https://github.com/payatu/diva-android)
-- [SidharthArya starred petgraph/petgraph](https://github.com/petgraph/petgraph)
 <!-- GITHUB:END -->
 
 ## Top Followers
