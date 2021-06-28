@@ -133,6 +133,7 @@
 
 ## C++ 
 
+- [onnx/onnx](https://github.com/onnx/onnx) - Open standard for machine learning interoperability
 - [TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus) - Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes.
 - [huihut/interview](https://github.com/huihut/interview) - 📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。This repository is a summary of the basic knowledge of recruiting job seekers and beginners in the direction of C/C++ technology, including language, program library, data structure, algorithm, system, network, link loading library, interview experience, recruitment, recommendation, etc.
 - [monero-project/monero](https://github.com/monero-project/monero) - Monero: the secure, private, untraceable cryptocurrency
@@ -221,6 +222,7 @@
 
 ## Emacs Lisp 
 
+- [yyoncho/helm-icons](https://github.com/yyoncho/helm-icons) - Integration between helm and treemacs icons
 - [magnars/dash.el](https://github.com/magnars/dash.el) - A modern list library for Emacs
 - [gregsexton/origami.el](https://github.com/gregsexton/origami.el) - A folding minor mode for Emacs
 - [matsievskiysv/vimish-fold](https://github.com/matsievskiysv/vimish-fold) - Vim-like text folding for Emacs
@@ -549,6 +551,10 @@
 
 ## Jupyter Notebook 
 
+- [onnx/models](https://github.com/onnx/models) - A collection of pre-trained, state-of-the-art models in the ONNX format
+- [onnx/tutorials](https://github.com/onnx/tutorials) - Tutorials for creating and using ONNX models
+- [MITESHPUTHRANNEU/Speech-Emotion-Analyzer](https://github.com/MITESHPUTHRANNEU/Speech-Emotion-Analyzer) - The neural network model is capable of detecting five different male/female emotions from audio speeches. (Deep Learning, NLP, Python)
+- [mosheman5/DNP](https://github.com/mosheman5/DNP) - Audio Denoising with Deep Network Priors
 - [sthalles/deeplab_v3](https://github.com/sthalles/deeplab_v3) - Tensorflow Implementation of the Semantic Segmentation DeepLab_V3 CNN
 - [virgili0/Virgilio](https://github.com/virgili0/Virgilio) - Your new Mentor for Data Science E-Learning.
 - [AI4Finance-LLC/Deep-Reinforcement-Learning-for-Automated-Stock-Trading-Ensemble-Strategy-ICAIF-2020](https://github.com/AI4Finance-LLC/Deep-Reinforcement-Learning-for-Automated-Stock-Trading-Ensemble-Strategy-ICAIF-2020) - Deep Reinforcement Learning for Automated Stock Trading: An Ensemble Strategy. ICAIF 2020. Please star.
@@ -588,6 +594,7 @@
 
 ## MATLAB 
 
+- [anicolson/DeepXi](https://github.com/anicolson/DeepXi) - Deep Xi: A deep learning approach to a priori SNR estimation implemented in TensorFlow 2/Keras. For speech enhancement and robust ASR.
 - [cszn/DnCNN](https://github.com/cszn/DnCNN) - Beyond a Gaussian Denoiser: Residual Learning of Deep CNN for Image Denoising (TIP, 2017)
 
 ## Makefile 
@@ -619,6 +626,8 @@
 
 ## Others 
 
+- [microsoft/DNS-Challenge](https://github.com/microsoft/DNS-Challenge) - This repo contains the scripts, models, and required files for the Deep Noise Suppression (DNS) Challenge.
+- [jim-schwoebel/voice_datasets](https://github.com/jim-schwoebel/voice_datasets) - 🔊 A comprehensive list of open-source datasets for voice and sound computing (95+ datasets).
 - [z-bingo/awesome-image-denoising-state-of-the-art](https://github.com/z-bingo/awesome-image-denoising-state-of-the-art) - awesome image and video denoising, state of the art networks
 - [wenbihan/reproducible-image-denoising-state-of-the-art](https://github.com/wenbihan/reproducible-image-denoising-state-of-the-art) - Collection of popular and reproducible image denoising works.
 - [natpen/awesome-wayland](https://github.com/natpen/awesome-wayland) - A curated list of Wayland code and resources.
@@ -706,6 +715,11 @@
 
 ## Python 
 
+- [musikalkemist/DeepLearningForAudioWithPython](https://github.com/musikalkemist/DeepLearningForAudioWithPython) - Code and slides for the "Deep Learning (For Audio) With Python" course on TheSoundOfAI Youtube channel.
+- [despoisj/DeepAudioClassification](https://github.com/despoisj/DeepAudioClassification) - Finding the genre of a song with Deep Learning
+- [f90/Wave-U-Net](https://github.com/f90/Wave-U-Net) - Implementation of the Wave-U-Net for audio source separation
+- [francoisgermain/SpeechDenoisingWithDeepFeatureLosses](https://github.com/francoisgermain/SpeechDenoisingWithDeepFeatureLosses) - Speech Denoising with Deep Feature Losses
+- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [vbelz/Speech-enhancement](https://github.com/vbelz/Speech-enhancement) - Deep learning for audio denoising
 - [drethage/speech-denoising-wavenet](https://github.com/drethage/speech-denoising-wavenet) - A neural network for end-to-end speech denoising
 - [devsnd/tinytag](https://github.com/devsnd/tinytag) - Read music meta data and length of MP3, OGG, OPUS, MP4, M4A, FLAC, WMA and Wave files with python 2 or 3
@@ -1013,6 +1027,7 @@
 
 ## TeX 
 
+- [ybayle/awesome-deep-learning-music](https://github.com/ybayle/awesome-deep-learning-music) - List of articles related to deep learning applied to music
 - [posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV) - :page_facing_up: Awesome CV is LaTeX template for your outstanding job application
 - [jethrokuan/braindump](https://github.com/jethrokuan/braindump) - knowledge repository managed with org-mode and org-roam.
 - [latex3/latex3](https://github.com/latex3/latex3) - The LaTeX3 Development Repository
