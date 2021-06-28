@@ -81,6 +81,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred mosheman5/DNP](https://github.com/mosheman5/DNP)
+- [SidharthArya starred maguowei/starred](https://github.com/maguowei/starred)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/81bf224576...bd52984667)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/62f073ddfc...b676bd10af)
 - [SidharthArya starred payatu/diva-android](https://github.com/payatu/diva-android)
@@ -89,8 +91,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred 5t3ph/stylestage](https://github.com/5t3ph/stylestage)
 - [SidharthArya pushed to main in SidharthArya/sidhartharya.github.io](https://github.com/SidharthArya/sidhartharya.github.io/compare/c7141dd62e...84e8404cde)
 - [SidharthArya starred gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
-- [SidharthArya starred mhmdanas/quantities](https://github.com/mhmdanas/quantities)
-- [SidharthArya starred sthalles/deeplab_v3](https://github.com/sthalles/deeplab_v3)
 <!-- GITHUB:END -->
 
 ## Top Followers
