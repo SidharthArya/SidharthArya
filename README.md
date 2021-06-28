@@ -81,6 +81,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred yyoncho/helm-icons](https://github.com/yyoncho/helm-icons)
 - [SidharthArya starred onnx/models](https://github.com/onnx/models)
 - [SidharthArya starred onnx/tutorials](https://github.com/onnx/tutorials)
 - [SidharthArya starred onnx/onnx](https://github.com/onnx/onnx)
@@ -90,7 +91,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred despoisj/DeepAudioClassification](https://github.com/despoisj/DeepAudioClassification)
 - [SidharthArya starred jim-schwoebel/voice_datasets](https://github.com/jim-schwoebel/voice_datasets)
 - [SidharthArya starred f90/Wave-U-Net](https://github.com/f90/Wave-U-Net)
-- [SidharthArya starred ybayle/awesome-deep-learning-music](https://github.com/ybayle/awesome-deep-learning-music)
 <!-- GITHUB:END -->
 
 ## Top Followers
