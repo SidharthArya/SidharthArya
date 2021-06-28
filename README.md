@@ -81,6 +81,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred microsoft/DNS-Challenge](https://github.com/microsoft/DNS-Challenge)
 - [SidharthArya starred MITESHPUTHRANNEU/Speech-Emotion-Analyzer](https://github.com/MITESHPUTHRANNEU/Speech-Emotion-Analyzer)
 - [SidharthArya starred musikalkemist/DeepLearningForAudioWithPython](https://github.com/musikalkemist/DeepLearningForAudioWithPython)
 - [SidharthArya starred despoisj/DeepAudioClassification](https://github.com/despoisj/DeepAudioClassification)
@@ -90,7 +91,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred francoisgermain/SpeechDenoisingWithDeepFeatureLosses](https://github.com/francoisgermain/SpeechDenoisingWithDeepFeatureLosses)
 - [SidharthArya starred anicolson/DeepXi](https://github.com/anicolson/DeepXi)
 - [SidharthArya starred mosheman5/DNP](https://github.com/mosheman5/DNP)
-- [SidharthArya starred maguowei/starred](https://github.com/maguowei/starred)
 <!-- GITHUB:END -->
 
 ## Top Followers
