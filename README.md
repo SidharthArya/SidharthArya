@@ -81,6 +81,9 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred onnx/models](https://github.com/onnx/models)
+- [SidharthArya starred onnx/tutorials](https://github.com/onnx/tutorials)
+- [SidharthArya starred onnx/onnx](https://github.com/onnx/onnx)
 - [SidharthArya starred microsoft/DNS-Challenge](https://github.com/microsoft/DNS-Challenge)
 - [SidharthArya starred MITESHPUTHRANNEU/Speech-Emotion-Analyzer](https://github.com/MITESHPUTHRANNEU/Speech-Emotion-Analyzer)
 - [SidharthArya starred musikalkemist/DeepLearningForAudioWithPython](https://github.com/musikalkemist/DeepLearningForAudioWithPython)
@@ -88,9 +91,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred jim-schwoebel/voice_datasets](https://github.com/jim-schwoebel/voice_datasets)
 - [SidharthArya starred f90/Wave-U-Net](https://github.com/f90/Wave-U-Net)
 - [SidharthArya starred ybayle/awesome-deep-learning-music](https://github.com/ybayle/awesome-deep-learning-music)
-- [SidharthArya starred francoisgermain/SpeechDenoisingWithDeepFeatureLosses](https://github.com/francoisgermain/SpeechDenoisingWithDeepFeatureLosses)
-- [SidharthArya starred anicolson/DeepXi](https://github.com/anicolson/DeepXi)
-- [SidharthArya starred mosheman5/DNP](https://github.com/mosheman5/DNP)
 <!-- GITHUB:END -->
 
 ## Top Followers
