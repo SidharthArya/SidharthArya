@@ -81,6 +81,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred f90/Wave-U-Net](https://github.com/f90/Wave-U-Net)
+- [SidharthArya starred ybayle/awesome-deep-learning-music](https://github.com/ybayle/awesome-deep-learning-music)
 - [SidharthArya starred francoisgermain/SpeechDenoisingWithDeepFeatureLosses](https://github.com/francoisgermain/SpeechDenoisingWithDeepFeatureLosses)
 - [SidharthArya starred anicolson/DeepXi](https://github.com/anicolson/DeepXi)
 - [SidharthArya starred mosheman5/DNP](https://github.com/mosheman5/DNP)
@@ -89,8 +91,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/62f073ddfc...b676bd10af)
 - [SidharthArya starred payatu/diva-android](https://github.com/payatu/diva-android)
 - [SidharthArya starred petgraph/petgraph](https://github.com/petgraph/petgraph)
-- [SidharthArya pushed to main in SidharthArya/sidhartharya.github.io](https://github.com/SidharthArya/sidhartharya.github.io/compare/84e8404cde...da01cf40b6)
-- [SidharthArya starred 5t3ph/stylestage](https://github.com/5t3ph/stylestage)
 <!-- GITHUB:END -->
 
 ## Top Followers
