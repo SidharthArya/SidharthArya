@@ -81,6 +81,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya forked SidharthArya/DNS-Challenge from microsoft/DNS-Challenge](https://github.com/SidharthArya/DNS-Challenge)
 - [SidharthArya starred pypa/twine](https://github.com/pypa/twine)
 - [SidharthArya starred pyenv/pyenv-installer](https://github.com/pyenv/pyenv-installer)
 - [SidharthArya starred pyenv/pyenv](https://github.com/pyenv/pyenv)
@@ -90,7 +91,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred onnx/models](https://github.com/onnx/models)
 - [SidharthArya starred onnx/tutorials](https://github.com/onnx/tutorials)
 - [SidharthArya starred onnx/onnx](https://github.com/onnx/onnx)
-- [SidharthArya starred microsoft/DNS-Challenge](https://github.com/microsoft/DNS-Challenge)
 <!-- GITHUB:END -->
 
 ## Top Followers
