@@ -81,6 +81,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred pyenv/pyenv-installer](https://github.com/pyenv/pyenv-installer)
 - [SidharthArya starred pyenv/pyenv](https://github.com/pyenv/pyenv)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/bd52984667...f8fa311e04)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/b676bd10af...ad3e99363f)
@@ -90,7 +91,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred onnx/onnx](https://github.com/onnx/onnx)
 - [SidharthArya starred microsoft/DNS-Challenge](https://github.com/microsoft/DNS-Challenge)
 - [SidharthArya starred MITESHPUTHRANNEU/Speech-Emotion-Analyzer](https://github.com/MITESHPUTHRANNEU/Speech-Emotion-Analyzer)
-- [SidharthArya starred musikalkemist/DeepLearningForAudioWithPython](https://github.com/musikalkemist/DeepLearningForAudioWithPython)
 <!-- GITHUB:END -->
 
 ## Top Followers
