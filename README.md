@@ -81,6 +81,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred nmattia/niv](https://github.com/nmattia/niv)
+- [SidharthArya starred DavHau/mach-nix](https://github.com/DavHau/mach-nix)
 - [SidharthArya forked SidharthArya/DNS-Challenge from microsoft/DNS-Challenge](https://github.com/SidharthArya/DNS-Challenge)
 - [SidharthArya starred pypa/twine](https://github.com/pypa/twine)
 - [SidharthArya starred pyenv/pyenv-installer](https://github.com/pyenv/pyenv-installer)
@@ -89,8 +91,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/b676bd10af...ad3e99363f)
 - [SidharthArya starred yyoncho/helm-icons](https://github.com/yyoncho/helm-icons)
 - [SidharthArya starred onnx/models](https://github.com/onnx/models)
-- [SidharthArya starred onnx/tutorials](https://github.com/onnx/tutorials)
-- [SidharthArya starred onnx/onnx](https://github.com/onnx/onnx)
 <!-- GITHUB:END -->
 
 ## Top Followers
