@@ -81,6 +81,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/bd52984667...f8fa311e04)
+- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/b676bd10af...ad3e99363f)
 - [SidharthArya starred yyoncho/helm-icons](https://github.com/yyoncho/helm-icons)
 - [SidharthArya starred onnx/models](https://github.com/onnx/models)
 - [SidharthArya starred onnx/tutorials](https://github.com/onnx/tutorials)
@@ -89,8 +91,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred MITESHPUTHRANNEU/Speech-Emotion-Analyzer](https://github.com/MITESHPUTHRANNEU/Speech-Emotion-Analyzer)
 - [SidharthArya starred musikalkemist/DeepLearningForAudioWithPython](https://github.com/musikalkemist/DeepLearningForAudioWithPython)
 - [SidharthArya starred despoisj/DeepAudioClassification](https://github.com/despoisj/DeepAudioClassification)
-- [SidharthArya starred jim-schwoebel/voice_datasets](https://github.com/jim-schwoebel/voice_datasets)
-- [SidharthArya starred f90/Wave-U-Net](https://github.com/f90/Wave-U-Net)
 <!-- GITHUB:END -->
 
 ## Top Followers
