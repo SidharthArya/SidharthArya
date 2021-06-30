@@ -81,6 +81,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/f8fa311e04...a3a384f2f2)
+- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/ad3e99363f...48a9f6ec88)
 - [SidharthArya starred progfolio/doct](https://github.com/progfolio/doct)
 - [SidharthArya created a tag 0.0.3 in SidharthArya/modular-config.el](https://github.com/SidharthArya/modular-config.el/tree/0.0.3)
 - [SidharthArya created a tag 0.0.2 in SidharthArya/modular-config.el](https://github.com/SidharthArya/modular-config.el/tree/0.0.2)
@@ -89,8 +91,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred softprops/action-gh-release](https://github.com/softprops/action-gh-release)
 - [SidharthArya pushed to master in SidharthArya/modular-config.el](https://github.com/SidharthArya/modular-config.el/compare/c0a6d3dac1...06b6f8450a)
 - [SidharthArya starred t184256/nix-on-droid](https://github.com/t184256/nix-on-droid)
-- [SidharthArya starred anbox/anbox](https://github.com/anbox/anbox)
-- [SidharthArya starred nmattia/niv](https://github.com/nmattia/niv)
 <!-- GITHUB:END -->
 
 ## Top Followers
