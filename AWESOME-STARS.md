@@ -134,6 +134,7 @@
 
 ## C++ 
 
+- [anbox/anbox](https://github.com/anbox/anbox) - Anbox is a container-based approach to boot a full Android system on a regular GNU/Linux system
 - [onnx/onnx](https://github.com/onnx/onnx) - Open standard for machine learning interoperability
 - [TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus) - Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes.
 - [huihut/interview](https://github.com/huihut/interview) - 📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。This repository is a summary of the basic knowledge of recruiting job seekers and beginners in the direction of C/C++ technology, including language, program library, data structure, algorithm, system, network, link loading library, interview experience, recruitment, recommendation, etc.
@@ -223,6 +224,7 @@
 
 ## Emacs Lisp 
 
+- [progfolio/doct](https://github.com/progfolio/doct) - DOCT: Declarative Org Capture Templates for Emacs
 - [yyoncho/helm-icons](https://github.com/yyoncho/helm-icons) - Integration between helm and treemacs icons
 - [magnars/dash.el](https://github.com/magnars/dash.el) - A modern list library for Emacs
 - [gregsexton/origami.el](https://github.com/gregsexton/origami.el) - A folding minor mode for Emacs
@@ -614,6 +616,7 @@
 
 ## Nix 
 
+- [t184256/nix-on-droid](https://github.com/t184256/nix-on-droid) - Nix-enabled environment for your Android device.
 - [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@rycee]
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection
 - [NixOS/mobile-nixos](https://github.com/NixOS/mobile-nixos) - 
@@ -1045,6 +1048,7 @@
 
 ## TypeScript 
 
+- [softprops/action-gh-release](https://github.com/softprops/action-gh-release) - 📦 :octocat: GitHub Action for creating GitHub Releases
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - Gitpod automates the provisioning of ready-to-code development environments.
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - 📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more!
