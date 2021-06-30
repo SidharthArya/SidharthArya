@@ -81,16 +81,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred progfolio/doct](https://github.com/progfolio/doct)
+- [SidharthArya created a tag 0.0.3 in SidharthArya/modular-config.el](https://github.com/SidharthArya/modular-config.el/tree/0.0.3)
+- [SidharthArya created a tag 0.0.2 in SidharthArya/modular-config.el](https://github.com/SidharthArya/modular-config.el/tree/0.0.2)
+- [SidharthArya pushed to master in SidharthArya/modular-config.el](https://github.com/SidharthArya/modular-config.el/compare/fd182a94f4...222ed4aab7)
+- [SidharthArya pushed to master in SidharthArya/modular-config.el](https://github.com/SidharthArya/modular-config.el/compare/06b6f8450a...fd182a94f4)
+- [SidharthArya starred softprops/action-gh-release](https://github.com/softprops/action-gh-release)
+- [SidharthArya pushed to master in SidharthArya/modular-config.el](https://github.com/SidharthArya/modular-config.el/compare/c0a6d3dac1...06b6f8450a)
 - [SidharthArya starred t184256/nix-on-droid](https://github.com/t184256/nix-on-droid)
 - [SidharthArya starred anbox/anbox](https://github.com/anbox/anbox)
 - [SidharthArya starred nmattia/niv](https://github.com/nmattia/niv)
-- [SidharthArya starred DavHau/mach-nix](https://github.com/DavHau/mach-nix)
-- [SidharthArya forked SidharthArya/DNS-Challenge from microsoft/DNS-Challenge](https://github.com/SidharthArya/DNS-Challenge)
-- [SidharthArya starred pypa/twine](https://github.com/pypa/twine)
-- [SidharthArya starred pyenv/pyenv-installer](https://github.com/pyenv/pyenv-installer)
-- [SidharthArya starred pyenv/pyenv](https://github.com/pyenv/pyenv)
-- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/bd52984667...f8fa311e04)
-- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/b676bd10af...ad3e99363f)
 <!-- GITHUB:END -->
 
 ## Top Followers
