@@ -82,6 +82,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/48a9f6ec88...3de421fab6)
 - [SidharthArya starred AllenDowney/ThinkDSP](https://github.com/AllenDowney/ThinkDSP)
 - [SidharthArya pushed to main in SidharthArya/sidhartharya.github.io](https://github.com/SidharthArya/sidhartharya.github.io/compare/e1a5ef60a4...fcecd6a0a5)
 - [SidharthArya pushed to main in SidharthArya/sidhartharya.github.io](https://github.com/SidharthArya/sidhartharya.github.io/compare/da01cf40b6...e1a5ef60a4)
@@ -91,7 +92,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya created a tag 0.0.3 in SidharthArya/modular-config.el](https://github.com/SidharthArya/modular-config.el/tree/0.0.3)
 - [SidharthArya created a tag 0.0.2 in SidharthArya/modular-config.el](https://github.com/SidharthArya/modular-config.el/tree/0.0.2)
 - [SidharthArya pushed to master in SidharthArya/modular-config.el](https://github.com/SidharthArya/modular-config.el/compare/fd182a94f4...222ed4aab7)
-- [SidharthArya pushed to master in SidharthArya/modular-config.el](https://github.com/SidharthArya/modular-config.el/compare/06b6f8450a...fd182a94f4)
 <!-- GITHUB:END -->
 
 ## Top Followers
