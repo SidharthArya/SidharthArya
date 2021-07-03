@@ -82,6 +82,9 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to main in SidharthArya/org-google-tasks](https://github.com/SidharthArya/org-google-tasks/compare/5551cf891e...321313342d)
+- [SidharthArya pushed to main in SidharthArya/org-google-tasks](https://github.com/SidharthArya/org-google-tasks/compare/cf79109183...5551cf891e)
+- [SidharthArya pushed to main in SidharthArya/org-google-tasks](https://github.com/SidharthArya/org-google-tasks/compare/2962ff9b7f...cf79109183)
 - [SidharthArya starred dracula/dracula-theme](https://github.com/dracula/dracula-theme)
 - [SidharthArya starred romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/48a9f6ec88...3de421fab6)
@@ -89,9 +92,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to main in SidharthArya/sidhartharya.github.io](https://github.com/SidharthArya/sidhartharya.github.io/compare/e1a5ef60a4...fcecd6a0a5)
 - [SidharthArya pushed to main in SidharthArya/sidhartharya.github.io](https://github.com/SidharthArya/sidhartharya.github.io/compare/da01cf40b6...e1a5ef60a4)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/f8fa311e04...a3a384f2f2)
-- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/ad3e99363f...48a9f6ec88)
-- [SidharthArya starred progfolio/doct](https://github.com/progfolio/doct)
-- [SidharthArya created a tag 0.0.3 in SidharthArya/modular-config.el](https://github.com/SidharthArya/modular-config.el/tree/0.0.3)
 <!-- GITHUB:END -->
 
 ## Top Followers
