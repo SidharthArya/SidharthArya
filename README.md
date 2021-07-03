@@ -82,6 +82,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred dracula/dracula-theme](https://github.com/dracula/dracula-theme)
 - [SidharthArya starred romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/48a9f6ec88...3de421fab6)
 - [SidharthArya starred AllenDowney/ThinkDSP](https://github.com/AllenDowney/ThinkDSP)
@@ -91,7 +92,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/ad3e99363f...48a9f6ec88)
 - [SidharthArya starred progfolio/doct](https://github.com/progfolio/doct)
 - [SidharthArya created a tag 0.0.3 in SidharthArya/modular-config.el](https://github.com/SidharthArya/modular-config.el/tree/0.0.3)
-- [SidharthArya created a tag 0.0.2 in SidharthArya/modular-config.el](https://github.com/SidharthArya/modular-config.el/tree/0.0.2)
 <!-- GITHUB:END -->
 
 ## Top Followers
