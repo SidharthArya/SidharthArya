@@ -83,6 +83,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred tadfisher/pass-otp](https://github.com/tadfisher/pass-otp)
 - [SidharthArya pushed to main in SidharthArya/sidhartharya.github.io](https://github.com/SidharthArya/sidhartharya.github.io/compare/fcecd6a0a5...c9c86ae9d5)
 - [SidharthArya pushed to main in SidharthArya/org-google-tasks](https://github.com/SidharthArya/org-google-tasks/compare/321313342d...f1580ecf6b)
 - [SidharthArya pushed to main in SidharthArya/helm-org-roam](https://github.com/SidharthArya/helm-org-roam/compare/e8a8916f68...cc27839c7a)
@@ -92,7 +93,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to main in SidharthArya/org-google-tasks](https://github.com/SidharthArya/org-google-tasks/compare/2962ff9b7f...cf79109183)
 - [SidharthArya starred dracula/dracula-theme](https://github.com/dracula/dracula-theme)
 - [SidharthArya starred romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k)
-- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/48a9f6ec88...3de421fab6)
 <!-- GITHUB:END -->
 
 ## Top Followers
