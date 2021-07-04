@@ -83,16 +83,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
-- [SidharthArya starred ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix)
-- [SidharthArya starred Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui)
-- [SidharthArya starred sqshq/sampler](https://github.com/sqshq/sampler)
-- [SidharthArya starred asciinema/asciinema](https://github.com/asciinema/asciinema)
-- [SidharthArya starred tqdm/tqdm](https://github.com/tqdm/tqdm)
-- [SidharthArya starred nicolargo/glances](https://github.com/nicolargo/glances)
-- [SidharthArya starred ElemeFE/mint-ui](https://github.com/ElemeFE/mint-ui)
-- [SidharthArya starred youzan/vant](https://github.com/youzan/vant)
-- [SidharthArya starred airyland/vux](https://github.com/airyland/vux)
-- [SidharthArya starred quasarframework/quasar](https://github.com/quasarframework/quasar)
+- [SidharthArya starred termux/termux-app](https://github.com/termux/termux-app)
+- [SidharthArya starred k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy)
+- [SidharthArya starred firebase/functions-samples](https://github.com/firebase/functions-samples)
+- [SidharthArya starred mxrch/GHunt](https://github.com/mxrch/GHunt)
+- [SidharthArya starred google/dopamine](https://github.com/google/dopamine)
+- [SidharthArya starred tensorlayer/tensorlayer](https://github.com/tensorlayer/tensorlayer)
+- [SidharthArya starred phil-opp/blog_os](https://github.com/phil-opp/blog_os)
+- [SidharthArya starred tuhdo/os01](https://github.com/tuhdo/os01)
+- [SidharthArya starred NodeOS/NodeOS](https://github.com/NodeOS/NodeOS)
+- [SidharthArya starred tipsy/profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github)
 <!-- GITHUB:END -->
 
 ## Top Followers
