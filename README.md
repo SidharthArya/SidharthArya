@@ -82,6 +82,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to main in SidharthArya/sidhartharya.github.io](https://github.com/SidharthArya/sidhartharya.github.io/compare/fcecd6a0a5...c9c86ae9d5)
 - [SidharthArya pushed to main in SidharthArya/org-google-tasks](https://github.com/SidharthArya/org-google-tasks/compare/321313342d...f1580ecf6b)
 - [SidharthArya pushed to main in SidharthArya/helm-org-roam](https://github.com/SidharthArya/helm-org-roam/compare/e8a8916f68...cc27839c7a)
 - [SidharthArya pushed to main in SidharthArya/helm-org-roam](https://github.com/SidharthArya/helm-org-roam/compare/abc455a0cb...e8a8916f68)
@@ -91,7 +92,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred dracula/dracula-theme](https://github.com/dracula/dracula-theme)
 - [SidharthArya starred romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/48a9f6ec88...3de421fab6)
-- [SidharthArya starred AllenDowney/ThinkDSP](https://github.com/AllenDowney/ThinkDSP)
 <!-- GITHUB:END -->
 
 ## Top Followers
