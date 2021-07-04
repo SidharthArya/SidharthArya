@@ -83,16 +83,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
-- [SidharthArya starred tadfisher/pass-otp](https://github.com/tadfisher/pass-otp)
-- [SidharthArya pushed to main in SidharthArya/sidhartharya.github.io](https://github.com/SidharthArya/sidhartharya.github.io/compare/fcecd6a0a5...c9c86ae9d5)
-- [SidharthArya pushed to main in SidharthArya/org-google-tasks](https://github.com/SidharthArya/org-google-tasks/compare/321313342d...f1580ecf6b)
-- [SidharthArya pushed to main in SidharthArya/helm-org-roam](https://github.com/SidharthArya/helm-org-roam/compare/e8a8916f68...cc27839c7a)
-- [SidharthArya pushed to main in SidharthArya/helm-org-roam](https://github.com/SidharthArya/helm-org-roam/compare/abc455a0cb...e8a8916f68)
-- [SidharthArya pushed to main in SidharthArya/org-google-tasks](https://github.com/SidharthArya/org-google-tasks/compare/5551cf891e...321313342d)
-- [SidharthArya pushed to main in SidharthArya/org-google-tasks](https://github.com/SidharthArya/org-google-tasks/compare/cf79109183...5551cf891e)
-- [SidharthArya pushed to main in SidharthArya/org-google-tasks](https://github.com/SidharthArya/org-google-tasks/compare/2962ff9b7f...cf79109183)
-- [SidharthArya starred dracula/dracula-theme](https://github.com/dracula/dracula-theme)
-- [SidharthArya starred romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k)
+- [SidharthArya starred fniessen/emacs-leuven-theme](https://github.com/fniessen/emacs-leuven-theme)
+- [SidharthArya starred SidharthArya/commons](https://github.com/SidharthArya/commons)
+- [SidharthArya starred SidharthArya/browse-rules.el](https://github.com/SidharthArya/browse-rules.el)
+- [SidharthArya starred SidharthArya/Deep_Learning_MANIT](https://github.com/SidharthArya/Deep_Learning_MANIT)
+- [SidharthArya starred SidharthArya/emacsit](https://github.com/SidharthArya/emacsit)
+- [SidharthArya starred SidharthArya/.xmonad](https://github.com/SidharthArya/.xmonad)
+- [SidharthArya starred SidharthArya/Computer_Vision_Class_Manit](https://github.com/SidharthArya/Computer_Vision_Class_Manit)
+- [SidharthArya starred SidharthArya/emacs-ide-mode](https://github.com/SidharthArya/emacs-ide-mode)
+- [SidharthArya starred SidharthArya/.dwm](https://github.com/SidharthArya/.dwm)
+- [SidharthArya starred SidharthArya/Organizing-bot](https://github.com/SidharthArya/Organizing-bot)
 <!-- GITHUB:END -->
 
 ## Top Followers
