@@ -83,16 +83,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix)
+- [SidharthArya starred Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui)
+- [SidharthArya starred sqshq/sampler](https://github.com/sqshq/sampler)
+- [SidharthArya starred asciinema/asciinema](https://github.com/asciinema/asciinema)
+- [SidharthArya starred tqdm/tqdm](https://github.com/tqdm/tqdm)
+- [SidharthArya starred nicolargo/glances](https://github.com/nicolargo/glances)
 - [SidharthArya starred ElemeFE/mint-ui](https://github.com/ElemeFE/mint-ui)
 - [SidharthArya starred youzan/vant](https://github.com/youzan/vant)
 - [SidharthArya starred airyland/vux](https://github.com/airyland/vux)
 - [SidharthArya starred quasarframework/quasar](https://github.com/quasarframework/quasar)
-- [SidharthArya starred haizlin/fe-interview](https://github.com/haizlin/fe-interview)
-- [SidharthArya starred junegunn/fzf.vim](https://github.com/junegunn/fzf.vim)
-- [SidharthArya starred relativty/Relativty](https://github.com/relativty/Relativty)
-- [SidharthArya starred playcanvas/engine](https://github.com/playcanvas/engine)
-- [SidharthArya starred bulletphysics/bullet3](https://github.com/bulletphysics/bullet3)
-- [SidharthArya starred mrdoob/three.js](https://github.com/mrdoob/three.js)
 <!-- GITHUB:END -->
 
 ## Top Followers
