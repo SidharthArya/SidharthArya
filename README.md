@@ -83,16 +83,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
-- [SidharthArya starred fniessen/emacs-leuven-theme](https://github.com/fniessen/emacs-leuven-theme)
-- [SidharthArya starred SidharthArya/commons](https://github.com/SidharthArya/commons)
-- [SidharthArya starred SidharthArya/browse-rules.el](https://github.com/SidharthArya/browse-rules.el)
-- [SidharthArya starred SidharthArya/Deep_Learning_MANIT](https://github.com/SidharthArya/Deep_Learning_MANIT)
-- [SidharthArya starred SidharthArya/emacsit](https://github.com/SidharthArya/emacsit)
-- [SidharthArya starred SidharthArya/.xmonad](https://github.com/SidharthArya/.xmonad)
-- [SidharthArya starred SidharthArya/Computer_Vision_Class_Manit](https://github.com/SidharthArya/Computer_Vision_Class_Manit)
-- [SidharthArya starred SidharthArya/emacs-ide-mode](https://github.com/SidharthArya/emacs-ide-mode)
-- [SidharthArya starred SidharthArya/.dwm](https://github.com/SidharthArya/.dwm)
-- [SidharthArya starred SidharthArya/Organizing-bot](https://github.com/SidharthArya/Organizing-bot)
+- [SidharthArya starred ElemeFE/mint-ui](https://github.com/ElemeFE/mint-ui)
+- [SidharthArya starred youzan/vant](https://github.com/youzan/vant)
+- [SidharthArya starred airyland/vux](https://github.com/airyland/vux)
+- [SidharthArya starred quasarframework/quasar](https://github.com/quasarframework/quasar)
+- [SidharthArya starred haizlin/fe-interview](https://github.com/haizlin/fe-interview)
+- [SidharthArya starred junegunn/fzf.vim](https://github.com/junegunn/fzf.vim)
+- [SidharthArya starred relativty/Relativty](https://github.com/relativty/Relativty)
+- [SidharthArya starred playcanvas/engine](https://github.com/playcanvas/engine)
+- [SidharthArya starred bulletphysics/bullet3](https://github.com/bulletphysics/bullet3)
+- [SidharthArya starred mrdoob/three.js](https://github.com/mrdoob/three.js)
 <!-- GITHUB:END -->
 
 ## Top Followers
