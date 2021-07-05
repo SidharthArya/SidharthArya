@@ -83,16 +83,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred microsoft/winget-cli](https://github.com/microsoft/winget-cli)
+- [SidharthArya starred emacscollective/no-littering](https://github.com/emacscollective/no-littering)
+- [SidharthArya starred yoshitomo-matsubara/torchdistill](https://github.com/yoshitomo-matsubara/torchdistill)
+- [SidharthArya starred target/lorri](https://github.com/target/lorri)
 - [SidharthArya starred microsoft/onnxruntime](https://github.com/microsoft/onnxruntime)
 - [SidharthArya starred termux/termux-app](https://github.com/termux/termux-app)
 - [SidharthArya starred k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy)
 - [SidharthArya starred firebase/functions-samples](https://github.com/firebase/functions-samples)
 - [SidharthArya starred mxrch/GHunt](https://github.com/mxrch/GHunt)
 - [SidharthArya starred google/dopamine](https://github.com/google/dopamine)
-- [SidharthArya starred tensorlayer/tensorlayer](https://github.com/tensorlayer/tensorlayer)
-- [SidharthArya starred phil-opp/blog_os](https://github.com/phil-opp/blog_os)
-- [SidharthArya starred tuhdo/os01](https://github.com/tuhdo/os01)
-- [SidharthArya starred NodeOS/NodeOS](https://github.com/NodeOS/NodeOS)
 <!-- GITHUB:END -->
 
 ## Top Followers
