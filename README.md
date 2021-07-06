@@ -83,16 +83,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
-- [SidharthArya starred microsoft/P.808](https://github.com/microsoft/P.808)
-- [SidharthArya starred fuxialexander/org-pdftools](https://github.com/fuxialexander/org-pdftools)
-- [SidharthArya starred microsoft/winget-cli](https://github.com/microsoft/winget-cli)
-- [SidharthArya starred emacscollective/no-littering](https://github.com/emacscollective/no-littering)
-- [SidharthArya starred yoshitomo-matsubara/torchdistill](https://github.com/yoshitomo-matsubara/torchdistill)
-- [SidharthArya starred target/lorri](https://github.com/target/lorri)
-- [SidharthArya starred microsoft/onnxruntime](https://github.com/microsoft/onnxruntime)
-- [SidharthArya starred termux/termux-app](https://github.com/termux/termux-app)
-- [SidharthArya starred k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy)
-- [SidharthArya starred firebase/functions-samples](https://github.com/firebase/functions-samples)
+- [SidharthArya starred hlissner/dotfiles](https://github.com/hlissner/dotfiles)
+- [SidharthArya starred NixOS/nix](https://github.com/NixOS/nix)
+- [SidharthArya starred numtide/devshell](https://github.com/numtide/devshell)
+- [SidharthArya starred lyft/l5kit](https://github.com/lyft/l5kit)
+- [SidharthArya starred botpress/botpress](https://github.com/botpress/botpress)
+- [SidharthArya starred hanxiao/bert-as-service](https://github.com/hanxiao/bert-as-service)
+- [SidharthArya starred NLP-LOVE/ML-NLP](https://github.com/NLP-LOVE/ML-NLP)
+- [SidharthArya starred allenai/allennlp](https://github.com/allenai/allennlp)
+- [SidharthArya starred divnix/devos](https://github.com/divnix/devos)
+- [SidharthArya starred demotomohiro/remocolab](https://github.com/demotomohiro/remocolab)
 <!-- GITHUB:END -->
 
 ## Top Followers
