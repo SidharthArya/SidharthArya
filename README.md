@@ -83,6 +83,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred fuxialexander/org-pdftools](https://github.com/fuxialexander/org-pdftools)
 - [SidharthArya starred microsoft/winget-cli](https://github.com/microsoft/winget-cli)
 - [SidharthArya starred emacscollective/no-littering](https://github.com/emacscollective/no-littering)
 - [SidharthArya starred yoshitomo-matsubara/torchdistill](https://github.com/yoshitomo-matsubara/torchdistill)
@@ -92,7 +93,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy)
 - [SidharthArya starred firebase/functions-samples](https://github.com/firebase/functions-samples)
 - [SidharthArya starred mxrch/GHunt](https://github.com/mxrch/GHunt)
-- [SidharthArya starred google/dopamine](https://github.com/google/dopamine)
 <!-- GITHUB:END -->
 
 ## Top Followers
