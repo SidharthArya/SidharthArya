@@ -141,6 +141,8 @@
 
 ## C++ 
 
+- [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
+- [microsoft/winget-cli](https://github.com/microsoft/winget-cli) - Windows Package Manager CLI (aka winget)
 - [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) - ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
 - [microsoft/LightGBM](https://github.com/microsoft/LightGBM) - A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks.
 - [relativty/Relativty](https://github.com/relativty/Relativty) - An open source VR headset with SteamVR supports for $200
@@ -236,6 +238,7 @@
 
 ## Emacs Lisp 
 
+- [fuxialexander/org-pdftools](https://github.com/fuxialexander/org-pdftools) - A custom org link type for pdf-tools
 - [progfolio/doct](https://github.com/progfolio/doct) - DOCT: Declarative Org Capture Templates for Emacs
 - [yyoncho/helm-icons](https://github.com/yyoncho/helm-icons) - Integration between helm and treemacs icons
 - [magnars/dash.el](https://github.com/magnars/dash.el) - A modern list library for Emacs
@@ -408,6 +411,7 @@
 
 ## HTML 
 
+- [microsoft/P.808](https://github.com/microsoft/P.808) - This is an open-source implementation of the ITU P.808 standard for "Subjective evaluation of speech quality with a crowdsourcing approach" (see https://www.itu.int/rec/T-REC-P.808/en). It uses Amazon Mechanical Turk as the crowdsourcing platform. It includes implementations for Absolute Category Rating (ACR), Degradation Category Rating (DCR), and Comparison Category Rating (CCR).
 - [sindresorhus/github-markdown-css](https://github.com/sindresorhus/github-markdown-css) - The minimal amount of CSS to replicate the GitHub Markdown style
 - [gethugothemes/liva-hugo](https://github.com/gethugothemes/liva-hugo) - Hugo personal blog template
 - [facebookresearch/fastText](https://github.com/facebookresearch/fastText) - Library for fast text representation and classification.
@@ -580,6 +584,7 @@
 
 ## Jupyter Notebook 
 
+- [NLP-LOVE/ML-NLP](https://github.com/NLP-LOVE/ML-NLP) - 此项目是机器学习(Machine Learning)、深度学习(Deep Learning)、NLP面试中常考到的知识点和代码实现，也是作为一个算法工程师必会的理论基础知识。
 - [google/dopamine](https://github.com/google/dopamine) - Dopamine is a research framework for fast prototyping of reinforcement learning algorithms.
 - [AllenDowney/ThinkDSP](https://github.com/AllenDowney/ThinkDSP) - Think DSP: Digital Signal Processing in Python, by Allen B. Downey.
 - [onnx/models](https://github.com/onnx/models) - A collection of pre-trained, state-of-the-art models in the ONNX format
@@ -643,6 +648,9 @@
 
 ## Nix 
 
+- [hlissner/dotfiles](https://github.com/hlissner/dotfiles) - And I say hey, what's going on?
+- [numtide/devshell](https://github.com/numtide/devshell) - Per project developer environments
+- [divnix/devos](https://github.com/divnix/devos) - NixOS Template
 - [t184256/nix-on-droid](https://github.com/t184256/nix-on-droid) - Nix-enabled environment for your Android device.
 - [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@rycee]
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection
@@ -756,6 +764,11 @@
 
 ## Python 
 
+- [lyft/l5kit](https://github.com/lyft/l5kit) - L5Kit - level5.lyft.com
+- [hanxiao/bert-as-service](https://github.com/hanxiao/bert-as-service) - Mapping a variable-length sentence to a fixed-length vector using BERT model
+- [allenai/allennlp](https://github.com/allenai/allennlp) - An open-source NLP research library, built on PyTorch.
+- [demotomohiro/remocolab](https://github.com/demotomohiro/remocolab) - remocolab is a Python module to allow remote access to Google Colaboratory using SSH or TurboVNC.
+- [yoshitomo-matsubara/torchdistill](https://github.com/yoshitomo-matsubara/torchdistill) - PyTorch-based modular, configuration-driven framework for knowledge distillation. 🏆18 methods presented at CVPR, ICLR, ECCV, NeurIPS, ICCV, etc are implemented so far. 🎁 Trained models, training logs and configurations are available for ensuring the reproducibiliy and benchmark.
 - [mxrch/GHunt](https://github.com/mxrch/GHunt) - 🕵️‍♂️ Investigate Google emails and documents.
 - [tensorlayer/tensorlayer](https://github.com/tensorlayer/tensorlayer) - Deep Learning and Reinforcement Learning Library for Scientists and Engineers 🔥
 - [pallets/flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
@@ -1012,6 +1025,7 @@
 
 ## Rust 
 
+- [target/lorri](https://github.com/target/lorri) - Your project's nix-env
 - [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust 🚀
 - [petgraph/petgraph](https://github.com/petgraph/petgraph) - Graph data structure library for Rust.
 - [nix-community/lorri](https://github.com/nix-community/lorri) - Your project’s nix-env [maintainer=@Profpatsch]
@@ -1113,6 +1127,7 @@
 
 ## TypeScript 
 
+- [botpress/botpress](https://github.com/botpress/botpress) - 🤖 The Conversational Platform with built-in language understanding (NLU), beautiful graphical interface and Dialog Manager (DM). Easily create chatbots and AI-based virtual assistants.
 - [youzan/vant](https://github.com/youzan/vant) - Lightweight Mobile UI Components built on Vue
 - [softprops/action-gh-release](https://github.com/softprops/action-gh-release) - 📦 :octocat: GitHub Action for creating GitHub Releases
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - Gitpod automates the provisioning of ready-to-code development environments.
