@@ -83,6 +83,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred allenai/x-lxmert](https://github.com/allenai/x-lxmert)
+- [SidharthArya starred publicdomaincompany/scroll](https://github.com/publicdomaincompany/scroll)
 - [SidharthArya starred hlissner/dotfiles](https://github.com/hlissner/dotfiles)
 - [SidharthArya starred NixOS/nix](https://github.com/NixOS/nix)
 - [SidharthArya starred numtide/devshell](https://github.com/numtide/devshell)
@@ -91,8 +93,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred hanxiao/bert-as-service](https://github.com/hanxiao/bert-as-service)
 - [SidharthArya starred NLP-LOVE/ML-NLP](https://github.com/NLP-LOVE/ML-NLP)
 - [SidharthArya starred allenai/allennlp](https://github.com/allenai/allennlp)
-- [SidharthArya starred divnix/devos](https://github.com/divnix/devos)
-- [SidharthArya starred demotomohiro/remocolab](https://github.com/demotomohiro/remocolab)
 <!-- GITHUB:END -->
 
 ## Top Followers
