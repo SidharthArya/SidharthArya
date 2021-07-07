@@ -83,6 +83,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred ziglang/zig](https://github.com/ziglang/zig)
 - [SidharthArya starred numba/numba](https://github.com/numba/numba)
 - [SidharthArya starred librosa/librosa](https://github.com/librosa/librosa)
 - [SidharthArya starred KinWaiCheuk/nnAudio](https://github.com/KinWaiCheuk/nnAudio)
@@ -92,7 +93,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred NixOS/nix](https://github.com/NixOS/nix)
 - [SidharthArya starred numtide/devshell](https://github.com/numtide/devshell)
 - [SidharthArya starred lyft/l5kit](https://github.com/lyft/l5kit)
-- [SidharthArya starred botpress/botpress](https://github.com/botpress/botpress)
 <!-- GITHUB:END -->
 
 ## Top Followers
