@@ -83,6 +83,9 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/a3a384f2f2...f38d42f2e5)
+- [SidharthArya pushed to master in SidharthArya/.bspwm](https://github.com/SidharthArya/.bspwm/compare/ab64a4de0f...3fbc310bfa)
+- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/3de421fab6...2c99525e14)
 - [SidharthArya starred ziglang/zig](https://github.com/ziglang/zig)
 - [SidharthArya starred numba/numba](https://github.com/numba/numba)
 - [SidharthArya starred librosa/librosa](https://github.com/librosa/librosa)
@@ -90,9 +93,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred allenai/x-lxmert](https://github.com/allenai/x-lxmert)
 - [SidharthArya starred publicdomaincompany/scroll](https://github.com/publicdomaincompany/scroll)
 - [SidharthArya starred hlissner/dotfiles](https://github.com/hlissner/dotfiles)
-- [SidharthArya starred NixOS/nix](https://github.com/NixOS/nix)
-- [SidharthArya starred numtide/devshell](https://github.com/numtide/devshell)
-- [SidharthArya starred lyft/l5kit](https://github.com/lyft/l5kit)
 <!-- GITHUB:END -->
 
 ## Top Followers
