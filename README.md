@@ -83,6 +83,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred googlecolab/colabtools](https://github.com/googlecolab/colabtools)
 - [SidharthArya starred ExpDev07/coronavirus-tracker-api](https://github.com/ExpDev07/coronavirus-tracker-api)
 - [SidharthArya starred disease-sh/API](https://github.com/disease-sh/API)
 - [SidharthArya starred covid19india/covid19india-react](https://github.com/covid19india/covid19india-react)
@@ -92,7 +93,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred ziglang/zig](https://github.com/ziglang/zig)
 - [SidharthArya starred numba/numba](https://github.com/numba/numba)
 - [SidharthArya starred librosa/librosa](https://github.com/librosa/librosa)
-- [SidharthArya starred KinWaiCheuk/nnAudio](https://github.com/KinWaiCheuk/nnAudio)
 <!-- GITHUB:END -->
 
 ## Top Followers
