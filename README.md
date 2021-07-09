@@ -83,6 +83,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred google/flax](https://github.com/google/flax)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/f38d42f2e5...04baf66b1b)
 - [SidharthArya pushed to master in SidharthArya/.bspwm](https://github.com/SidharthArya/.bspwm/compare/3fbc310bfa...d6671a9158)
 - [SidharthArya starred googlecolab/colabtools](https://github.com/googlecolab/colabtools)
@@ -92,7 +93,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/a3a384f2f2...f38d42f2e5)
 - [SidharthArya pushed to master in SidharthArya/.bspwm](https://github.com/SidharthArya/.bspwm/compare/ab64a4de0f...3fbc310bfa)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/3de421fab6...2c99525e14)
-- [SidharthArya starred ziglang/zig](https://github.com/ziglang/zig)
 <!-- GITHUB:END -->
 
 ## Top Followers
