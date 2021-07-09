@@ -83,6 +83,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/f38d42f2e5...04baf66b1b)
+- [SidharthArya pushed to master in SidharthArya/.bspwm](https://github.com/SidharthArya/.bspwm/compare/3fbc310bfa...d6671a9158)
 - [SidharthArya starred googlecolab/colabtools](https://github.com/googlecolab/colabtools)
 - [SidharthArya starred ExpDev07/coronavirus-tracker-api](https://github.com/ExpDev07/coronavirus-tracker-api)
 - [SidharthArya starred disease-sh/API](https://github.com/disease-sh/API)
@@ -91,8 +93,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/.bspwm](https://github.com/SidharthArya/.bspwm/compare/ab64a4de0f...3fbc310bfa)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/3de421fab6...2c99525e14)
 - [SidharthArya starred ziglang/zig](https://github.com/ziglang/zig)
-- [SidharthArya starred numba/numba](https://github.com/numba/numba)
-- [SidharthArya starred librosa/librosa](https://github.com/librosa/librosa)
 <!-- GITHUB:END -->
 
 ## Top Followers
