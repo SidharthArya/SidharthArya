@@ -83,6 +83,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred audioset/ontology](https://github.com/audioset/ontology)
 - [SidharthArya starred microsoft/MS-SNSD](https://github.com/microsoft/MS-SNSD)
 - [SidharthArya starred bytedance/lightseq](https://github.com/bytedance/lightseq)
 - [SidharthArya starred flycheck/flycheck](https://github.com/flycheck/flycheck)
@@ -92,7 +93,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/.bspwm](https://github.com/SidharthArya/.bspwm/compare/3fbc310bfa...d6671a9158)
 - [SidharthArya starred googlecolab/colabtools](https://github.com/googlecolab/colabtools)
 - [SidharthArya starred ExpDev07/coronavirus-tracker-api](https://github.com/ExpDev07/coronavirus-tracker-api)
-- [SidharthArya starred disease-sh/API](https://github.com/disease-sh/API)
 <!-- GITHUB:END -->
 
 ## Top Followers
