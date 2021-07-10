@@ -83,6 +83,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred microsoft/MS-SNSD](https://github.com/microsoft/MS-SNSD)
+- [SidharthArya starred bytedance/lightseq](https://github.com/bytedance/lightseq)
 - [SidharthArya starred flycheck/flycheck](https://github.com/flycheck/flycheck)
 - [SidharthArya starred tecosaur/emacs-everywhere](https://github.com/tecosaur/emacs-everywhere)
 - [SidharthArya starred google/flax](https://github.com/google/flax)
@@ -91,8 +93,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred googlecolab/colabtools](https://github.com/googlecolab/colabtools)
 - [SidharthArya starred ExpDev07/coronavirus-tracker-api](https://github.com/ExpDev07/coronavirus-tracker-api)
 - [SidharthArya starred disease-sh/API](https://github.com/disease-sh/API)
-- [SidharthArya starred covid19india/covid19india-react](https://github.com/covid19india/covid19india-react)
-- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/a3a384f2f2...f38d42f2e5)
 <!-- GITHUB:END -->
 
 ## Top Followers
