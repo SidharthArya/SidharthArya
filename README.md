@@ -83,6 +83,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred flycheck/flycheck](https://github.com/flycheck/flycheck)
 - [SidharthArya starred tecosaur/emacs-everywhere](https://github.com/tecosaur/emacs-everywhere)
 - [SidharthArya starred google/flax](https://github.com/google/flax)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/f38d42f2e5...04baf66b1b)
@@ -92,7 +93,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred disease-sh/API](https://github.com/disease-sh/API)
 - [SidharthArya starred covid19india/covid19india-react](https://github.com/covid19india/covid19india-react)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/a3a384f2f2...f38d42f2e5)
-- [SidharthArya pushed to master in SidharthArya/.bspwm](https://github.com/SidharthArya/.bspwm/compare/ab64a4de0f...3fbc310bfa)
 <!-- GITHUB:END -->
 
 ## Top Followers
