@@ -83,6 +83,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred framer/motion](https://github.com/framer/motion)
+- [SidharthArya starred edgedb/edgedb](https://github.com/edgedb/edgedb)
 - [SidharthArya starred adi1090x/plymouth-themes](https://github.com/adi1090x/plymouth-themes)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/04baf66b1b...e78cd4f441)
 - [SidharthArya pushed to master in SidharthArya/scripts](https://github.com/SidharthArya/scripts/compare/3c5e9b3788...9917d3b12c)
@@ -91,8 +93,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred chirlu/sox](https://github.com/chirlu/sox)
 - [SidharthArya starred audioset/ontology](https://github.com/audioset/ontology)
 - [SidharthArya starred microsoft/MS-SNSD](https://github.com/microsoft/MS-SNSD)
-- [SidharthArya starred bytedance/lightseq](https://github.com/bytedance/lightseq)
-- [SidharthArya starred flycheck/flycheck](https://github.com/flycheck/flycheck)
 <!-- GITHUB:END -->
 
 ## Top Followers
