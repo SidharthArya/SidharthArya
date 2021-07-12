@@ -83,6 +83,9 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/e78cd4f441...c9a334f3cf)
+- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/2c99525e14...9f64d4baf9)
+- [SidharthArya pushed to master in SidharthArya/.nnn](https://github.com/SidharthArya/.nnn/compare/20d680740b...df395d4d2b)
 - [SidharthArya starred 2Dou/watermarker](https://github.com/2Dou/watermarker)
 - [SidharthArya starred freereadorg/awesome-libgen](https://github.com/freereadorg/awesome-libgen)
 - [SidharthArya starred sharkdp/hexyl](https://github.com/sharkdp/hexyl)
@@ -90,9 +93,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred framer/motion](https://github.com/framer/motion)
 - [SidharthArya starred edgedb/edgedb](https://github.com/edgedb/edgedb)
 - [SidharthArya starred adi1090x/plymouth-themes](https://github.com/adi1090x/plymouth-themes)
-- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/04baf66b1b...e78cd4f441)
-- [SidharthArya pushed to master in SidharthArya/scripts](https://github.com/SidharthArya/scripts/compare/3c5e9b3788...9917d3b12c)
-- [SidharthArya pushed to master in SidharthArya/.bspwm](https://github.com/SidharthArya/.bspwm/compare/d6671a9158...6855740cfc)
 <!-- GITHUB:END -->
 
 ## Top Followers
