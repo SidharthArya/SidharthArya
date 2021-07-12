@@ -83,6 +83,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred curl/curl](https://github.com/curl/curl)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/e78cd4f441...c9a334f3cf)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/2c99525e14...9f64d4baf9)
 - [SidharthArya pushed to master in SidharthArya/.nnn](https://github.com/SidharthArya/.nnn/compare/20d680740b...df395d4d2b)
@@ -92,7 +93,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred raxod502/selectrum](https://github.com/raxod502/selectrum)
 - [SidharthArya starred framer/motion](https://github.com/framer/motion)
 - [SidharthArya starred edgedb/edgedb](https://github.com/edgedb/edgedb)
-- [SidharthArya starred adi1090x/plymouth-themes](https://github.com/adi1090x/plymouth-themes)
 <!-- GITHUB:END -->
 
 ## Top Followers
