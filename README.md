@@ -84,6 +84,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred nix-community/poetry2nix](https://github.com/nix-community/poetry2nix)
 - [SidharthArya starred python-poetry/poetry](https://github.com/python-poetry/poetry)
 - [SidharthArya starred pytorch/audio](https://github.com/pytorch/audio)
 - [SidharthArya starred boto/boto3](https://github.com/boto/boto3)
@@ -93,7 +94,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred kotest/kotest](https://github.com/kotest/kotest)
 - [SidharthArya starred assertj/assertj-core](https://github.com/assertj/assertj-core)
 - [SidharthArya starred magit/transient](https://github.com/magit/transient)
-- [SidharthArya starred curl/curl](https://github.com/curl/curl)
 <!-- GITHUB:END -->
 
 ## Top Followers
