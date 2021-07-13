@@ -170,6 +170,7 @@
 - [acidanthera/AppleALC](https://github.com/acidanthera/AppleALC) - Native macOS HD audio for not officially supported codecs
 - [mlpack/mlpack](https://github.com/mlpack/mlpack) - mlpack: a scalable C++ machine learning library --
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
+- [flutter/engine](https://github.com/flutter/engine) - The Flutter engine
 - [lava/matplotlib-cpp](https://github.com/lava/matplotlib-cpp) - Extremely simple yet powerful header-only C++ plotting library built on the popular matplotlib
 - [fastmachinelearning/hls4ml](https://github.com/fastmachinelearning/hls4ml) - Machine learning in FPGAs using HLS
 - [managarm/managarm](https://github.com/managarm/managarm) - Pragmatic microkernel-based OS with fully asynchronous I/O
@@ -227,7 +228,6 @@
 - [mhmdanas/quantities](https://github.com/mhmdanas/quantities) - Work with physical quantities and units seamlessly!
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond.
-- [flutter/engine](https://github.com/flutter/engine) - The Flutter engine
 - [leoafarias/fvm](https://github.com/leoafarias/fvm) - Flutter Version Management: A simple CLI to manage Flutter SDK versions.
 - [bradyt/dart-mode](https://github.com/bradyt/dart-mode) - An Emacs mode for the Dart language
 
@@ -237,6 +237,7 @@
 
 ## Emacs Lisp 
 
+- [magit/transient](https://github.com/magit/transient) - Transient commands
 - [flycheck/flycheck](https://github.com/flycheck/flycheck) - On the fly syntax checking for GNU Emacs
 - [tecosaur/emacs-everywhere](https://github.com/tecosaur/emacs-everywhere) - System-wide popup Emacs windows for quick edits
 - [fuxialexander/org-pdftools](https://github.com/fuxialexander/org-pdftools) - A custom org link type for pdf-tools
@@ -447,6 +448,7 @@
 
 ## Java 
 
+- [assertj/assertj-core](https://github.com/assertj/assertj-core) - AssertJ is a library providing easy to use rich typed assertions
 - [termux/termux-app](https://github.com/termux/termux-app) - Android terminal and Linux environment - app repository.
 - [payatu/diva-android](https://github.com/payatu/diva-android) - DIVA Android - Damn Insecure and vulnerable App for Android
 - [antlr/antlr4](https://github.com/antlr/antlr4) - ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files.
@@ -465,6 +467,7 @@
 
 ## JavaScript 
 
+- [lutzroeder/netron](https://github.com/lutzroeder/netron) - Visualizer for neural network, deep learning, and machine learning models
 - [disease-sh/API](https://github.com/disease-sh/API) - API for Current cases and more stuff about COVID-19 and Influenza
 - [covid19india/covid19india-react](https://github.com/covid19india/covid19india-react) - Tracking the impact of COVID-19 in India
 - [publicdomaincompany/scroll](https://github.com/publicdomaincompany/scroll) - Build your own public domain newspaper.
@@ -627,6 +630,7 @@
 
 ## Kotlin 
 
+- [kotest/kotest](https://github.com/kotest/kotest) - Powerful, elegant and flexible test framework for Kotlin with additional assertions, property testing and data driven testing
 - [tipsy/javalin](https://github.com/tipsy/javalin) - A simple and modern Java and Kotlin web framework
 
 ## Lua 
@@ -654,6 +658,7 @@
 
 ## Nix 
 
+- [nix-community/poetry2nix](https://github.com/nix-community/poetry2nix) - Convert poetry projects to nix automagically [maintainer=@adisbladis]
 - [hlissner/dotfiles](https://github.com/hlissner/dotfiles) - And I say hey, what's going on?
 - [numtide/devshell](https://github.com/numtide/devshell) - Per project developer environments
 - [divnix/devos](https://github.com/divnix/devos) - NixOS Template
@@ -772,6 +777,10 @@
 
 ## Python 
 
+- [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python dependency management and packaging made easy.
+- [pytorch/audio](https://github.com/pytorch/audio) - Data manipulation and transformation for audio signal processing, powered by PyTorch
+- [boto/boto3](https://github.com/boto/boto3) - AWS SDK for Python
+- [onnx/onnx-tensorflow](https://github.com/onnx/onnx-tensorflow) - Tensorflow Backend for ONNX
 - [2Dou/watermarker](https://github.com/2Dou/watermarker) - 使用python脚本为图片添加文字水印
 - [edgedb/edgedb](https://github.com/edgedb/edgedb) - The next generation relational database.
 - [google/flax](https://github.com/google/flax) - Flax is a neural network library for JAX that is designed for flexibility.
@@ -1146,6 +1155,7 @@
 
 ## TypeScript 
 
+- [JMPerez/linkedin-to-json-resume](https://github.com/JMPerez/linkedin-to-json-resume) - An exporter from a LinkedIn profile to JSON Résumé
 - [framer/motion](https://github.com/framer/motion) - Open source, production-ready animation and gesture library for React
 - [botpress/botpress](https://github.com/botpress/botpress) - 🤖 The Conversational Platform with built-in language understanding (NLU), beautiful graphical interface and Dialog Manager (DM). Easily create chatbots and AI-based virtual assistants.
 - [youzan/vant](https://github.com/youzan/vant) - Lightweight Mobile UI Components built on Vue
