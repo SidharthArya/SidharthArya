@@ -84,6 +84,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred python-poetry/poetry](https://github.com/python-poetry/poetry)
 - [SidharthArya starred pytorch/audio](https://github.com/pytorch/audio)
 - [SidharthArya starred boto/boto3](https://github.com/boto/boto3)
 - [SidharthArya starred onnx/onnx-tensorflow](https://github.com/onnx/onnx-tensorflow)
@@ -93,7 +94,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred assertj/assertj-core](https://github.com/assertj/assertj-core)
 - [SidharthArya starred magit/transient](https://github.com/magit/transient)
 - [SidharthArya starred curl/curl](https://github.com/curl/curl)
-- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/e78cd4f441...c9a334f3cf)
 <!-- GITHUB:END -->
 
 ## Top Followers
