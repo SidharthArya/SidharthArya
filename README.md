@@ -83,16 +83,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to main in SidharthArya/sidhartharya.github.io](https://github.com/SidharthArya/sidhartharya.github.io/compare/c9c86ae9d5...fa618bb58d)
+- [SidharthArya starred kotest/kotest](https://github.com/kotest/kotest)
+- [SidharthArya starred assertj/assertj-core](https://github.com/assertj/assertj-core)
+- [SidharthArya starred magit/transient](https://github.com/magit/transient)
 - [SidharthArya starred curl/curl](https://github.com/curl/curl)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/e78cd4f441...c9a334f3cf)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/2c99525e14...9f64d4baf9)
 - [SidharthArya pushed to master in SidharthArya/.nnn](https://github.com/SidharthArya/.nnn/compare/20d680740b...df395d4d2b)
 - [SidharthArya starred 2Dou/watermarker](https://github.com/2Dou/watermarker)
 - [SidharthArya starred freereadorg/awesome-libgen](https://github.com/freereadorg/awesome-libgen)
-- [SidharthArya starred sharkdp/hexyl](https://github.com/sharkdp/hexyl)
-- [SidharthArya starred raxod502/selectrum](https://github.com/raxod502/selectrum)
-- [SidharthArya starred framer/motion](https://github.com/framer/motion)
-- [SidharthArya starred edgedb/edgedb](https://github.com/edgedb/edgedb)
 <!-- GITHUB:END -->
 
 ## Top Followers
