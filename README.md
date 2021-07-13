@@ -84,6 +84,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred onnx/onnx-tensorflow](https://github.com/onnx/onnx-tensorflow)
 - [SidharthArya starred lutzroeder/netron](https://github.com/lutzroeder/netron)
 - [SidharthArya pushed to main in SidharthArya/sidhartharya.github.io](https://github.com/SidharthArya/sidhartharya.github.io/compare/c9c86ae9d5...fa618bb58d)
 - [SidharthArya starred kotest/kotest](https://github.com/kotest/kotest)
@@ -93,7 +94,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/e78cd4f441...c9a334f3cf)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/2c99525e14...9f64d4baf9)
 - [SidharthArya pushed to master in SidharthArya/.nnn](https://github.com/SidharthArya/.nnn/compare/20d680740b...df395d4d2b)
-- [SidharthArya starred 2Dou/watermarker](https://github.com/2Dou/watermarker)
 <!-- GITHUB:END -->
 
 ## Top Followers
