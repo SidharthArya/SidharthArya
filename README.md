@@ -84,16 +84,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred plasma-umass/scalene](https://github.com/plasma-umass/scalene)
+- [SidharthArya starred pyutils/line_profiler](https://github.com/pyutils/line_profiler)
+- [SidharthArya starred sumerc/yappi](https://github.com/sumerc/yappi)
+- [SidharthArya starred python/cpython](https://github.com/python/cpython)
+- [SidharthArya starred benfred/py-spy](https://github.com/benfred/py-spy)
+- [SidharthArya starred joerick/pyinstrument](https://github.com/joerick/pyinstrument)
+- [SidharthArya starred tensorflow/io](https://github.com/tensorflow/io)
 - [SidharthArya starred JMPerez/linkedin-to-json-resume](https://github.com/JMPerez/linkedin-to-json-resume)
 - [SidharthArya starred nix-community/poetry2nix](https://github.com/nix-community/poetry2nix)
 - [SidharthArya starred python-poetry/poetry](https://github.com/python-poetry/poetry)
-- [SidharthArya starred pytorch/audio](https://github.com/pytorch/audio)
-- [SidharthArya starred boto/boto3](https://github.com/boto/boto3)
-- [SidharthArya starred onnx/onnx-tensorflow](https://github.com/onnx/onnx-tensorflow)
-- [SidharthArya starred lutzroeder/netron](https://github.com/lutzroeder/netron)
-- [SidharthArya pushed to main in SidharthArya/sidhartharya.github.io](https://github.com/SidharthArya/sidhartharya.github.io/compare/c9c86ae9d5...fa618bb58d)
-- [SidharthArya starred kotest/kotest](https://github.com/kotest/kotest)
-- [SidharthArya starred assertj/assertj-core](https://github.com/assertj/assertj-core)
 <!-- GITHUB:END -->
 
 ## Top Followers
