@@ -84,6 +84,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred pseeth/torch-stft](https://github.com/pseeth/torch-stft)
+- [SidharthArya starred asteroid-team/asteroid](https://github.com/asteroid-team/asteroid)
 - [SidharthArya starred plasma-umass/scalene](https://github.com/plasma-umass/scalene)
 - [SidharthArya starred pyutils/line_profiler](https://github.com/pyutils/line_profiler)
 - [SidharthArya starred sumerc/yappi](https://github.com/sumerc/yappi)
@@ -92,8 +94,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred joerick/pyinstrument](https://github.com/joerick/pyinstrument)
 - [SidharthArya starred tensorflow/io](https://github.com/tensorflow/io)
 - [SidharthArya starred JMPerez/linkedin-to-json-resume](https://github.com/JMPerez/linkedin-to-json-resume)
-- [SidharthArya starred nix-community/poetry2nix](https://github.com/nix-community/poetry2nix)
-- [SidharthArya starred python-poetry/poetry](https://github.com/python-poetry/poetry)
 <!-- GITHUB:END -->
 
 ## Top Followers
