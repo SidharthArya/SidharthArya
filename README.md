@@ -84,6 +84,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred microsoft/MMdnn](https://github.com/microsoft/MMdnn)
 - [SidharthArya starred facebook/react](https://github.com/facebook/react)
 - [SidharthArya starred viraptor/reverse-interview](https://github.com/viraptor/reverse-interview)
 - [SidharthArya starred pseeth/torch-stft](https://github.com/pseeth/torch-stft)
@@ -93,7 +94,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred sumerc/yappi](https://github.com/sumerc/yappi)
 - [SidharthArya starred python/cpython](https://github.com/python/cpython)
 - [SidharthArya starred benfred/py-spy](https://github.com/benfred/py-spy)
-- [SidharthArya starred joerick/pyinstrument](https://github.com/joerick/pyinstrument)
 <!-- GITHUB:END -->
 
 ## Top Followers
