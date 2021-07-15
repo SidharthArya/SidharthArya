@@ -468,6 +468,7 @@
 
 ## JavaScript 
 
+- [facebook/react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 - [lutzroeder/netron](https://github.com/lutzroeder/netron) - Visualizer for neural network, deep learning, and machine learning models
 - [disease-sh/API](https://github.com/disease-sh/API) - API for Current cases and more stuff about COVID-19 and Influenza
 - [covid19india/covid19india-react](https://github.com/covid19india/covid19india-react) - Tracking the impact of COVID-19 in India
@@ -678,6 +679,7 @@
 
 ## Others 
 
+- [viraptor/reverse-interview](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview
 - [freereadorg/awesome-libgen](https://github.com/freereadorg/awesome-libgen) - 😎 Awesome list of Library Genesis, the world's largest free library.
 - [audioset/ontology](https://github.com/audioset/ontology) - The Audio Set Ontology aims to provide a comprehensive set of categories to describe sound events.
 - [tuvtran/project-based-learning](https://github.com/tuvtran/project-based-learning) - Curated list of project-based tutorials
@@ -778,6 +780,7 @@
 
 ## Python 
 
+- [microsoft/MMdnn](https://github.com/microsoft/MMdnn) - MMdnn is a set of tools to help users inter-operate among different deep learning frameworks. E.g. model conversion and visualization. Convert models between Caffe, Keras, MXNet, Tensorflow, CNTK, PyTorch Onnx and CoreML.
 - [pseeth/torch-stft](https://github.com/pseeth/torch-stft) - An STFT/iSTFT for PyTorch.
 - [asteroid-team/asteroid](https://github.com/asteroid-team/asteroid) - The PyTorch-based audio source separation toolkit for researchers
 - [plasma-umass/scalene](https://github.com/plasma-umass/scalene) - Scalene: a high-performance, high-precision CPU, GPU, and memory profiler for Python
@@ -993,7 +996,7 @@
 - [rsms/inter](https://github.com/rsms/inter) - The Inter font family
 - [heartexlabs/label-studio](https://github.com/heartexlabs/label-studio) - Label Studio is a multi-type data labeling and annotation tool with standardized output format
 - [DragonComputer/Dragonfire](https://github.com/DragonComputer/Dragonfire) - the open-source virtual assistant for Ubuntu based Linux distributions
-- [learnpyqt/15-minute-apps](https://github.com/learnpyqt/15-minute-apps) - 15 minute (small) desktop apps built with PyQt
+- [pythonguis/15-minute-apps](https://github.com/pythonguis/15-minute-apps) - 15 minute (small) desktop apps built with PyQt
 - [zihangdai/xlnet](https://github.com/zihangdai/xlnet) - XLNet: Generalized Autoregressive Pretraining for Language Understanding
 - [rwightman/pytorch-image-models](https://github.com/rwightman/pytorch-image-models) - PyTorch image models, scripts, pretrained weights -- ResNet, ResNeXT, EfficientNet, EfficientNetV2, NFNet, Vision Transformer, MixNet, MobileNet-V3/V2, RegNet, DPN, CSPNet, and more
 - [mit-han-lab/proxylessnas](https://github.com/mit-han-lab/proxylessnas) - [ICLR 2019] ProxylessNAS: Direct Neural Architecture Search on Target Task and Hardware
