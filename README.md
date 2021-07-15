@@ -84,6 +84,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred facebook/react](https://github.com/facebook/react)
+- [SidharthArya starred viraptor/reverse-interview](https://github.com/viraptor/reverse-interview)
 - [SidharthArya starred pseeth/torch-stft](https://github.com/pseeth/torch-stft)
 - [SidharthArya starred asteroid-team/asteroid](https://github.com/asteroid-team/asteroid)
 - [SidharthArya starred plasma-umass/scalene](https://github.com/plasma-umass/scalene)
@@ -92,8 +94,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred python/cpython](https://github.com/python/cpython)
 - [SidharthArya starred benfred/py-spy](https://github.com/benfred/py-spy)
 - [SidharthArya starred joerick/pyinstrument](https://github.com/joerick/pyinstrument)
-- [SidharthArya starred tensorflow/io](https://github.com/tensorflow/io)
-- [SidharthArya starred JMPerez/linkedin-to-json-resume](https://github.com/JMPerez/linkedin-to-json-resume)
 <!-- GITHUB:END -->
 
 ## Top Followers
