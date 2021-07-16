@@ -171,7 +171,6 @@
 - [acidanthera/AppleALC](https://github.com/acidanthera/AppleALC) - Native macOS HD audio for not officially supported codecs
 - [mlpack/mlpack](https://github.com/mlpack/mlpack) - mlpack: a scalable C++ machine learning library --
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
-- [flutter/engine](https://github.com/flutter/engine) - The Flutter engine
 - [lava/matplotlib-cpp](https://github.com/lava/matplotlib-cpp) - Extremely simple yet powerful header-only C++ plotting library built on the popular matplotlib
 - [fastmachinelearning/hls4ml](https://github.com/fastmachinelearning/hls4ml) - Machine learning in FPGAs using HLS
 - [managarm/managarm](https://github.com/managarm/managarm) - Pragmatic microkernel-based OS with fully asynchronous I/O
@@ -229,6 +228,7 @@
 - [mhmdanas/quantities](https://github.com/mhmdanas/quantities) - Work with physical quantities and units seamlessly!
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond.
+- [flutter/engine](https://github.com/flutter/engine) - The Flutter engine
 - [leoafarias/fvm](https://github.com/leoafarias/fvm) - Flutter Version Management: A simple CLI to manage Flutter SDK versions.
 - [bradyt/dart-mode](https://github.com/bradyt/dart-mode) - An Emacs mode for the Dart language
 
@@ -238,6 +238,7 @@
 
 ## Emacs Lisp 
 
+- [sebastiencs/company-box](https://github.com/sebastiencs/company-box) - A company front-end with icons
 - [magit/transient](https://github.com/magit/transient) - Transient commands
 - [flycheck/flycheck](https://github.com/flycheck/flycheck) - On the fly syntax checking for GNU Emacs
 - [tecosaur/emacs-everywhere](https://github.com/tecosaur/emacs-everywhere) - System-wide popup Emacs windows for quick edits
@@ -679,6 +680,8 @@
 
 ## Others 
 
+- [visenger/awesome-mlops](https://github.com/visenger/awesome-mlops) - A curated list of references for MLOps
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) - A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning
 - [viraptor/reverse-interview](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview
 - [freereadorg/awesome-libgen](https://github.com/freereadorg/awesome-libgen) - 😎 Awesome list of Library Genesis, the world's largest free library.
 - [audioset/ontology](https://github.com/audioset/ontology) - The Audio Set Ontology aims to provide a comprehensive set of categories to describe sound events.
@@ -780,9 +783,13 @@
 
 ## Python 
 
+- [asteroid-team/asteroid](https://github.com/asteroid-team/asteroid) - The PyTorch-based audio source separation toolkit for researchers
+- [activeloopai/Hub](https://github.com/activeloopai/Hub) - Fastest dataset optimization and management for machine and deep learning. Stream data real-time & version-control it. http://activeloop.ai
+- [quantumblacklabs/kedro](https://github.com/quantumblacklabs/kedro) - A Python framework for creating reproducible, maintainable and modular data science code.
+- [great-expectations/great_expectations](https://github.com/great-expectations/great_expectations) - Always know what to expect from your data.
+- [Netflix/metaflow](https://github.com/Netflix/metaflow) - Build and manage real-life data science projects with ease.
 - [microsoft/MMdnn](https://github.com/microsoft/MMdnn) - MMdnn is a set of tools to help users inter-operate among different deep learning frameworks. E.g. model conversion and visualization. Convert models between Caffe, Keras, MXNet, Tensorflow, CNTK, PyTorch Onnx and CoreML.
 - [pseeth/torch-stft](https://github.com/pseeth/torch-stft) - An STFT/iSTFT for PyTorch.
-- [asteroid-team/asteroid](https://github.com/asteroid-team/asteroid) - The PyTorch-based audio source separation toolkit for researchers
 - [plasma-umass/scalene](https://github.com/plasma-umass/scalene) - Scalene: a high-performance, high-precision CPU, GPU, and memory profiler for Python
 - [pyutils/line_profiler](https://github.com/pyutils/line_profiler) - Line-by-line profiling for Python
 - [sumerc/yappi](https://github.com/sumerc/yappi) - Yet Another Python Profiler, but this time thread&coroutine&greenlet aware.
