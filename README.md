@@ -84,6 +84,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred sebastiencs/company-box](https://github.com/sebastiencs/company-box)
 - [SidharthArya starred asteroid-team/asteroid](https://github.com/asteroid-team/asteroid)
 - [SidharthArya starred activeloopai/Hub](https://github.com/activeloopai/Hub)
 - [SidharthArya starred quantumblacklabs/kedro](https://github.com/quantumblacklabs/kedro)
@@ -93,7 +94,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning)
 - [SidharthArya starred microsoft/MMdnn](https://github.com/microsoft/MMdnn)
 - [SidharthArya starred facebook/react](https://github.com/facebook/react)
-- [SidharthArya starred viraptor/reverse-interview](https://github.com/viraptor/reverse-interview)
 <!-- GITHUB:END -->
 
 ## Top Followers
