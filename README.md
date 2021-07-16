@@ -84,16 +84,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred activeloopai/Hub](https://github.com/activeloopai/Hub)
+- [SidharthArya starred quantumblacklabs/kedro](https://github.com/quantumblacklabs/kedro)
+- [SidharthArya starred great-expectations/great_expectations](https://github.com/great-expectations/great_expectations)
+- [SidharthArya starred Netflix/metaflow](https://github.com/Netflix/metaflow)
+- [SidharthArya starred visenger/awesome-mlops](https://github.com/visenger/awesome-mlops)
+- [SidharthArya starred EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning)
 - [SidharthArya starred microsoft/MMdnn](https://github.com/microsoft/MMdnn)
 - [SidharthArya starred facebook/react](https://github.com/facebook/react)
 - [SidharthArya starred viraptor/reverse-interview](https://github.com/viraptor/reverse-interview)
 - [SidharthArya starred pseeth/torch-stft](https://github.com/pseeth/torch-stft)
-- [SidharthArya starred asteroid-team/asteroid](https://github.com/asteroid-team/asteroid)
-- [SidharthArya starred plasma-umass/scalene](https://github.com/plasma-umass/scalene)
-- [SidharthArya starred pyutils/line_profiler](https://github.com/pyutils/line_profiler)
-- [SidharthArya starred sumerc/yappi](https://github.com/sumerc/yappi)
-- [SidharthArya starred python/cpython](https://github.com/python/cpython)
-- [SidharthArya starred benfred/py-spy](https://github.com/benfred/py-spy)
 <!-- GITHUB:END -->
 
 ## Top Followers
