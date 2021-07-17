@@ -84,6 +84,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred microsoft/CNTK](https://github.com/microsoft/CNTK)
 - [SidharthArya starred Tencent/TNN](https://github.com/Tencent/TNN)
 - [SidharthArya starred Jack-Cherish/Machine-Learning](https://github.com/Jack-Cherish/Machine-Learning)
 - [SidharthArya starred bndw/wifi-card](https://github.com/bndw/wifi-card)
@@ -93,7 +94,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred grpc/grpc](https://github.com/grpc/grpc)
 - [SidharthArya starred facebook/folly](https://github.com/facebook/folly)
 - [SidharthArya starred microsoft/terminal](https://github.com/microsoft/terminal)
-- [SidharthArya starred dromara/Sa-Token](https://github.com/dromara/Sa-Token)
 <!-- GITHUB:END -->
 
 ## Top Followers
