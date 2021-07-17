@@ -129,6 +129,13 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       <a href="https://github.com/conao3">Naoya Yamashita</a>
     </td>
     <td align="center">
+      <a href="https://github.com/portgasray">
+        <img src="https://avatars2.githubusercontent.com/u/17681580" width="100px;" alt="portgasray"/>
+      </a>
+      <br />
+      <a href="https://github.com/portgasray">Lei Zhang</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/HakunanMatatat">
         <img src="https://avatars2.githubusercontent.com/u/56817048" width="100px;" alt="HakunanMatatat"/>
       </a>
@@ -142,6 +149,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       <br />
       <a href="https://github.com/G0rav">Gaurav</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/ChandanCharchit">
         <img src="https://avatars2.githubusercontent.com/u/74564556" width="100px;" alt="ChandanCharchit"/>
@@ -149,8 +158,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       <br />
       <a href="https://github.com/ChandanCharchit">Chandan Charchit Sahoo</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/samdyuti">
         <img src="https://avatars2.githubusercontent.com/u/69840173" width="100px;" alt="samdyuti"/>
@@ -193,6 +200,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       <br />
       <a href="https://github.com/Abhishekkashyap07">Abhishekkashyap07</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/APARNAGADHIYA">
         <img src="https://avatars2.githubusercontent.com/u/66026499" width="100px;" alt="APARNAGADHIYA"/>
@@ -200,8 +209,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       <br />
       <a href="https://github.com/APARNAGADHIYA">APARNA RAJESH GADHIYA</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/yalinosgb">
         <img src="https://avatars2.githubusercontent.com/u/7668543" width="100px;" alt="yalinosgb"/>
