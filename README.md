@@ -84,6 +84,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred huggingface/datasets](https://github.com/huggingface/datasets)
+- [SidharthArya pushed to master in SidharthArya/SidharthArya](https://github.com/SidharthArya/SidharthArya/compare/3e6db37584...1e5cec61fb)
 - [SidharthArya starred microsoft/CNTK](https://github.com/microsoft/CNTK)
 - [SidharthArya starred Tencent/TNN](https://github.com/Tencent/TNN)
 - [SidharthArya starred Jack-Cherish/Machine-Learning](https://github.com/Jack-Cherish/Machine-Learning)
@@ -92,8 +94,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred microsoft/IoT-For-Beginners](https://github.com/microsoft/IoT-For-Beginners)
 - [SidharthArya starred aws-amplify/amplify-js](https://github.com/aws-amplify/amplify-js)
 - [SidharthArya starred grpc/grpc](https://github.com/grpc/grpc)
-- [SidharthArya starred facebook/folly](https://github.com/facebook/folly)
-- [SidharthArya starred microsoft/terminal](https://github.com/microsoft/terminal)
 <!-- GITHUB:END -->
 
 ## Top Followers
