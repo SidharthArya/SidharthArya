@@ -65,7 +65,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
+ - 17-07-2021 [Eproj Testing](https://www.youtube.com/watch?v=UFLeJTyE4IA)<!-- YOUTUBE:END -->
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
