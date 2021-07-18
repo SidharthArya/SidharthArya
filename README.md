@@ -84,6 +84,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya opened a pull request in org-roam/org-roam](https://github.com/org-roam/org-roam/pull/1599)
 - [SidharthArya pushed to master in SidharthArya/org-roam](https://github.com/SidharthArya/org-roam/compare/2168490d5a...b11fc86be3)
 - [SidharthArya forked SidharthArya/org-roam from org-roam/org-roam](https://github.com/SidharthArya/org-roam)
 - [SidharthArya created a branch main in SidharthArya/nix-config](https://github.com/SidharthArya/nix-config/compare/main)
@@ -93,7 +94,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred deepmind/lab](https://github.com/deepmind/lab)
 - [SidharthArya starred deepmind/pysc2](https://github.com/deepmind/pysc2)
 - [SidharthArya starred deepmind/alphafold](https://github.com/deepmind/alphafold)
-- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/c9a334f3cf...dc58b584c3)
 <!-- GITHUB:END -->
 
 ## Top Followers
