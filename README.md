@@ -84,6 +84,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya created a branch main in SidharthArya/nix-config](https://github.com/SidharthArya/nix-config/compare/main)
+- [SidharthArya created a repository SidharthArya/nix-config](https://github.com/SidharthArya/nix-config//)
 - [SidharthArya starred deepmind/learning-to-learn](https://github.com/deepmind/learning-to-learn)
 - [SidharthArya starred deepmind/graph_nets](https://github.com/deepmind/graph_nets)
 - [SidharthArya starred deepmind/lab](https://github.com/deepmind/lab)
@@ -92,8 +94,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/c9a334f3cf...dc58b584c3)
 - [SidharthArya pushed to master in SidharthArya/.bspwm](https://github.com/SidharthArya/.bspwm/compare/6855740cfc...16e16fc3ac)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/9f64d4baf9...39629a417b)
-- [SidharthArya starred huggingface/datasets](https://github.com/huggingface/datasets)
-- [SidharthArya pushed to master in SidharthArya/SidharthArya](https://github.com/SidharthArya/SidharthArya/compare/3e6db37584...1e5cec61fb)
 <!-- GITHUB:END -->
 
 ## Top Followers
