@@ -84,16 +84,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred deepmind/learning-to-learn](https://github.com/deepmind/learning-to-learn)
+- [SidharthArya starred deepmind/graph_nets](https://github.com/deepmind/graph_nets)
+- [SidharthArya starred deepmind/lab](https://github.com/deepmind/lab)
+- [SidharthArya starred deepmind/pysc2](https://github.com/deepmind/pysc2)
+- [SidharthArya starred deepmind/alphafold](https://github.com/deepmind/alphafold)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/c9a334f3cf...dc58b584c3)
 - [SidharthArya pushed to master in SidharthArya/.bspwm](https://github.com/SidharthArya/.bspwm/compare/6855740cfc...16e16fc3ac)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/9f64d4baf9...39629a417b)
 - [SidharthArya starred huggingface/datasets](https://github.com/huggingface/datasets)
 - [SidharthArya pushed to master in SidharthArya/SidharthArya](https://github.com/SidharthArya/SidharthArya/compare/3e6db37584...1e5cec61fb)
-- [SidharthArya starred microsoft/CNTK](https://github.com/microsoft/CNTK)
-- [SidharthArya starred Tencent/TNN](https://github.com/Tencent/TNN)
-- [SidharthArya starred Jack-Cherish/Machine-Learning](https://github.com/Jack-Cherish/Machine-Learning)
-- [SidharthArya starred bndw/wifi-card](https://github.com/bndw/wifi-card)
-- [SidharthArya starred AstraZeneca/awesome-explainable-graph-reasoning](https://github.com/AstraZeneca/awesome-explainable-graph-reasoning)
 <!-- GITHUB:END -->
 
 ## Top Followers
