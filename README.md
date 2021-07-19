@@ -85,6 +85,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/6dd11135d6...b3f5907275)
+- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/3b8c648b4e...7c50a3828c)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/dc58b584c3...6dd11135d6)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/39629a417b...3b8c648b4e)
 - [SidharthArya pushed to main in SidharthArya/nix-config](https://github.com/SidharthArya/nix-config/compare/a301820e5a...a81cdc8964)
@@ -93,8 +95,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred jaypei/emacs-neotree](https://github.com/jaypei/emacs-neotree)
 - [SidharthArya pushed to master in SidharthArya/SidharthArya](https://github.com/SidharthArya/SidharthArya/compare/8055efcdd7...95387fe111)
 - [SidharthArya starred dkogan/feedgnuplot](https://github.com/dkogan/feedgnuplot)
-- [SidharthArya starred mxgmn/WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse)
-- [SidharthArya starred mmcdole/gofeed](https://github.com/mmcdole/gofeed)
 <!-- GITHUB:END -->
 
 ## Top Followers
