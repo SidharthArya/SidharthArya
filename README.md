@@ -85,6 +85,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred conao3/feather.el](https://github.com/conao3/feather.el)
+- [SidharthArya starred purcell/setup-emacs](https://github.com/purcell/setup-emacs)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/6dd11135d6...b3f5907275)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/3b8c648b4e...7c50a3828c)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/dc58b584c3...6dd11135d6)
@@ -93,8 +95,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred raxod502/prescient.el](https://github.com/raxod502/prescient.el)
 - [SidharthArya starred oantolin/orderless](https://github.com/oantolin/orderless)
 - [SidharthArya starred jaypei/emacs-neotree](https://github.com/jaypei/emacs-neotree)
-- [SidharthArya pushed to master in SidharthArya/SidharthArya](https://github.com/SidharthArya/SidharthArya/compare/8055efcdd7...95387fe111)
-- [SidharthArya starred dkogan/feedgnuplot](https://github.com/dkogan/feedgnuplot)
 <!-- GITHUB:END -->
 
 ## Top Followers
