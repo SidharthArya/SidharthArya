@@ -39,6 +39,7 @@ Wish you a good-looking profile README!
 -   Shell: Zsh
 -   Editor: Emacs, Neovim
 -   Browser: Qutebrowser
+-   :wave: [INTP-T](https://www.16personalities.com/intp-personality) Personality
 -   :key: GPG key: [`4881651806D31166`](https://github.com/SidharthArya.gpg)
 
 ---
