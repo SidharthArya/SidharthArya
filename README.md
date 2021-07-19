@@ -85,6 +85,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to master in SidharthArya/SidharthArya](https://github.com/SidharthArya/SidharthArya/compare/9411882342...dcfa27beca)
+- [SidharthArya closed an issue in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/issues/2)
 - [SidharthArya opened an issue in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/issues/2)
 - [SidharthArya starred emacs-lsp/lsp-pyright](https://github.com/emacs-lsp/lsp-pyright)
 - [SidharthArya starred conao3/feather.el](https://github.com/conao3/feather.el)
@@ -93,8 +95,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/3b8c648b4e...7c50a3828c)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/dc58b584c3...6dd11135d6)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/39629a417b...3b8c648b4e)
-- [SidharthArya pushed to main in SidharthArya/nix-config](https://github.com/SidharthArya/nix-config/compare/a301820e5a...a81cdc8964)
-- [SidharthArya starred raxod502/prescient.el](https://github.com/raxod502/prescient.el)
 <!-- GITHUB:END -->
 
 ## Top Followers
