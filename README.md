@@ -85,6 +85,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/dc58b584c3...6dd11135d6)
+- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/39629a417b...3b8c648b4e)
 - [SidharthArya pushed to main in SidharthArya/nix-config](https://github.com/SidharthArya/nix-config/compare/a301820e5a...a81cdc8964)
 - [SidharthArya starred raxod502/prescient.el](https://github.com/raxod502/prescient.el)
 - [SidharthArya starred oantolin/orderless](https://github.com/oantolin/orderless)
@@ -93,8 +95,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred dkogan/feedgnuplot](https://github.com/dkogan/feedgnuplot)
 - [SidharthArya starred mxgmn/WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse)
 - [SidharthArya starred mmcdole/gofeed](https://github.com/mmcdole/gofeed)
-- [SidharthArya starred rbren/rss-parser](https://github.com/rbren/rss-parser)
-- [SidharthArya pushed to master in SidharthArya/SidharthArya](https://github.com/SidharthArya/SidharthArya/compare/239a00cec3...489307e48e)
 <!-- GITHUB:END -->
 
 ## Top Followers
