@@ -85,6 +85,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to master in SidharthArya/SidharthArya](https://github.com/SidharthArya/SidharthArya/compare/8055efcdd7...95387fe111)
 - [SidharthArya starred dkogan/feedgnuplot](https://github.com/dkogan/feedgnuplot)
 - [SidharthArya starred mxgmn/WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse)
 - [SidharthArya starred mmcdole/gofeed](https://github.com/mmcdole/gofeed)
@@ -94,7 +95,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya opened a pull request in org-roam/org-roam](https://github.com/org-roam/org-roam/pull/1599)
 - [SidharthArya pushed to master in SidharthArya/org-roam](https://github.com/SidharthArya/org-roam/compare/2168490d5a...b11fc86be3)
 - [SidharthArya forked SidharthArya/org-roam from org-roam/org-roam](https://github.com/SidharthArya/org-roam)
-- [SidharthArya created a branch main in SidharthArya/nix-config](https://github.com/SidharthArya/nix-config/compare/main)
 <!-- GITHUB:END -->
 
 ## Top Followers
