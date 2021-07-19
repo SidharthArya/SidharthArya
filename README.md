@@ -34,11 +34,11 @@ Wish you a good-looking profile README!
 [![Website Badge](https://img.shields.io/badge/-sidhartharya.me-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://sidhartharya.me)](https://sidhartharya.me)
 
 -   Programming: Python, C++, GitHub Actions, JavaScript, Haskell, Nodejs
--   Operating System: Arch Linux 
--   Window Manager: bspwm 
--   Shell: Zsh
--   Editor: Emacs, Neovim
--   Browser: Qutebrowser
+-   Operating System: [Nix OS](https://nixos.org/) / [Arch Linux](https://archlinux.org/)
+-   Window Manager: [bspwm](https://github.com/baskerville/bspwm) 
+-   Shell: [Zsh](https://www.zsh.org/)
+-   Editor: [Emacs](https://www.gnu.org/software/emacs/) , [Neovim](https://neovim.io/)
+-   Browser: [Qutebrowser](https://qutebrowser.org/)
 -   :wave: [INTP-T](https://www.16personalities.com/intp-personality) Personality
 -   :key: GPG key: [`4881651806D31166`](https://github.com/SidharthArya.gpg)
 
