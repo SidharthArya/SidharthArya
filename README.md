@@ -85,6 +85,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred emacs-lsp/lsp-pyright](https://github.com/emacs-lsp/lsp-pyright)
 - [SidharthArya starred conao3/feather.el](https://github.com/conao3/feather.el)
 - [SidharthArya starred purcell/setup-emacs](https://github.com/purcell/setup-emacs)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/6dd11135d6...b3f5907275)
@@ -94,7 +95,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to main in SidharthArya/nix-config](https://github.com/SidharthArya/nix-config/compare/a301820e5a...a81cdc8964)
 - [SidharthArya starred raxod502/prescient.el](https://github.com/raxod502/prescient.el)
 - [SidharthArya starred oantolin/orderless](https://github.com/oantolin/orderless)
-- [SidharthArya starred jaypei/emacs-neotree](https://github.com/jaypei/emacs-neotree)
 <!-- GITHUB:END -->
 
 ## Top Followers
