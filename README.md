@@ -84,6 +84,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred dkogan/feedgnuplot](https://github.com/dkogan/feedgnuplot)
+- [SidharthArya starred mxgmn/WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse)
 - [SidharthArya starred mmcdole/gofeed](https://github.com/mmcdole/gofeed)
 - [SidharthArya starred rbren/rss-parser](https://github.com/rbren/rss-parser)
 - [SidharthArya pushed to master in SidharthArya/SidharthArya](https://github.com/SidharthArya/SidharthArya/compare/239a00cec3...489307e48e)
@@ -92,8 +94,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/org-roam](https://github.com/SidharthArya/org-roam/compare/2168490d5a...b11fc86be3)
 - [SidharthArya forked SidharthArya/org-roam from org-roam/org-roam](https://github.com/SidharthArya/org-roam)
 - [SidharthArya created a branch main in SidharthArya/nix-config](https://github.com/SidharthArya/nix-config/compare/main)
-- [SidharthArya created a repository SidharthArya/nix-config](https://github.com/SidharthArya/nix-config//)
-- [SidharthArya starred deepmind/learning-to-learn](https://github.com/deepmind/learning-to-learn)
 <!-- GITHUB:END -->
 
 ## Top Followers
