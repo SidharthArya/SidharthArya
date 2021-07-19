@@ -84,6 +84,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred mmcdole/gofeed](https://github.com/mmcdole/gofeed)
+- [SidharthArya starred rbren/rss-parser](https://github.com/rbren/rss-parser)
 - [SidharthArya pushed to master in SidharthArya/SidharthArya](https://github.com/SidharthArya/SidharthArya/compare/239a00cec3...489307e48e)
 - [SidharthArya pushed to master in SidharthArya/org-roam](https://github.com/SidharthArya/org-roam/compare/b11fc86be3...af40613ec4)
 - [SidharthArya opened a pull request in org-roam/org-roam](https://github.com/org-roam/org-roam/pull/1599)
@@ -92,8 +94,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya created a branch main in SidharthArya/nix-config](https://github.com/SidharthArya/nix-config/compare/main)
 - [SidharthArya created a repository SidharthArya/nix-config](https://github.com/SidharthArya/nix-config//)
 - [SidharthArya starred deepmind/learning-to-learn](https://github.com/deepmind/learning-to-learn)
-- [SidharthArya starred deepmind/graph_nets](https://github.com/deepmind/graph_nets)
-- [SidharthArya starred deepmind/lab](https://github.com/deepmind/lab)
 <!-- GITHUB:END -->
 
 ## Top Followers
