@@ -85,6 +85,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/b3f5907275...bbd3a45a85)
+- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/7c50a3828c...d62dbfdfd8)
 - [SidharthArya starred archlinux/arch-install-scripts](https://github.com/archlinux/arch-install-scripts)
 - [SidharthArya starred xiph/rnnoise](https://github.com/xiph/rnnoise)
 - [SidharthArya starred SethMMorton/natsort](https://github.com/SethMMorton/natsort)
@@ -93,8 +95,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya closed an issue in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/issues/2)
 - [SidharthArya opened an issue in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/issues/2)
 - [SidharthArya starred emacs-lsp/lsp-pyright](https://github.com/emacs-lsp/lsp-pyright)
-- [SidharthArya starred conao3/feather.el](https://github.com/conao3/feather.el)
-- [SidharthArya starred purcell/setup-emacs](https://github.com/purcell/setup-emacs)
 <!-- GITHUB:END -->
 
 ## Top Followers
