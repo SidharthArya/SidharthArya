@@ -85,6 +85,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred zetane/viewer](https://github.com/zetane/viewer)
 - [SidharthArya pushed to master in SidharthArya/SidharthArya](https://github.com/SidharthArya/SidharthArya/compare/9411882342...dcfa27beca)
 - [SidharthArya closed an issue in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/issues/2)
 - [SidharthArya opened an issue in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/issues/2)
@@ -94,7 +95,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/6dd11135d6...b3f5907275)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/3b8c648b4e...7c50a3828c)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/dc58b584c3...6dd11135d6)
-- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/39629a417b...3b8c648b4e)
 <!-- GITHUB:END -->
 
 ## Top Followers
