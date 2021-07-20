@@ -85,6 +85,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred xiph/rnnoise](https://github.com/xiph/rnnoise)
 - [SidharthArya starred SethMMorton/natsort](https://github.com/SethMMorton/natsort)
 - [SidharthArya starred zetane/viewer](https://github.com/zetane/viewer)
 - [SidharthArya pushed to master in SidharthArya/SidharthArya](https://github.com/SidharthArya/SidharthArya/compare/9411882342...dcfa27beca)
@@ -94,7 +95,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred conao3/feather.el](https://github.com/conao3/feather.el)
 - [SidharthArya starred purcell/setup-emacs](https://github.com/purcell/setup-emacs)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/6dd11135d6...b3f5907275)
-- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/3b8c648b4e...7c50a3828c)
 <!-- GITHUB:END -->
 
 ## Top Followers
