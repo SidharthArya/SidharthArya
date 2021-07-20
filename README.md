@@ -85,6 +85,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred archlinux/arch-install-scripts](https://github.com/archlinux/arch-install-scripts)
 - [SidharthArya starred xiph/rnnoise](https://github.com/xiph/rnnoise)
 - [SidharthArya starred SethMMorton/natsort](https://github.com/SethMMorton/natsort)
 - [SidharthArya starred zetane/viewer](https://github.com/zetane/viewer)
@@ -94,7 +95,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred emacs-lsp/lsp-pyright](https://github.com/emacs-lsp/lsp-pyright)
 - [SidharthArya starred conao3/feather.el](https://github.com/conao3/feather.el)
 - [SidharthArya starred purcell/setup-emacs](https://github.com/purcell/setup-emacs)
-- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/6dd11135d6...b3f5907275)
 <!-- GITHUB:END -->
 
 ## Top Followers
