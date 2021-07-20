@@ -85,6 +85,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/b3f5907275...bbd3a45a85)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/7c50a3828c...d62dbfdfd8)
 - [SidharthArya starred archlinux/arch-install-scripts](https://github.com/archlinux/arch-install-scripts)
@@ -94,7 +95,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/SidharthArya](https://github.com/SidharthArya/SidharthArya/compare/9411882342...dcfa27beca)
 - [SidharthArya closed an issue in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/issues/2)
 - [SidharthArya opened an issue in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/issues/2)
-- [SidharthArya starred emacs-lsp/lsp-pyright](https://github.com/emacs-lsp/lsp-pyright)
 <!-- GITHUB:END -->
 
 ## Top Followers
