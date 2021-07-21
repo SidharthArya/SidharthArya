@@ -85,6 +85,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred jakeret/tf_unet](https://github.com/jakeret/tf_unet)
 - [SidharthArya starred numba/llvmlite](https://github.com/numba/llvmlite)
 - [SidharthArya starred zsh-users/antigen](https://github.com/zsh-users/antigen)
 - [SidharthArya starred bbatsov/solarized-emacs](https://github.com/bbatsov/solarized-emacs)
@@ -94,7 +95,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to main in SidharthArya/arch-packages](https://github.com/SidharthArya/arch-packages/compare/27a1e904f2...c2a76bfea9)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/d62dbfdfd8...ffdeacbe2e)
 - [SidharthArya starred NoiSek/Aether](https://github.com/NoiSek/Aether)
-- [SidharthArya starred zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
 <!-- GITHUB:END -->
 
 ## Top Followers
