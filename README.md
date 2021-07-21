@@ -224,6 +224,13 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       <br />
       <a href="https://github.com/efh96">efh96</a>
     </td>
+    <td align="center">
+      <a href="https://github.com/Romchuk753">
+        <img src="https://avatars2.githubusercontent.com/u/87737871" width="100px;" alt="Romchuk753"/>
+      </a>
+      <br />
+      <a href="https://github.com/Romchuk753">Romchuk753</a>
+    </td>
   </tr>
 </table>
 <!--END_SECTION:top-followers-->
