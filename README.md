@@ -85,6 +85,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/48054427fb...b041760752)
+- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/ffdeacbe2e...4f7acb8fa4)
 - [SidharthArya starred jakeret/tf_unet](https://github.com/jakeret/tf_unet)
 - [SidharthArya starred numba/llvmlite](https://github.com/numba/llvmlite)
 - [SidharthArya starred zsh-users/antigen](https://github.com/zsh-users/antigen)
@@ -93,8 +95,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred sorin-ionescu/prezto](https://github.com/sorin-ionescu/prezto)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/bbd3a45a85...48054427fb)
 - [SidharthArya pushed to main in SidharthArya/arch-packages](https://github.com/SidharthArya/arch-packages/compare/27a1e904f2...c2a76bfea9)
-- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/d62dbfdfd8...ffdeacbe2e)
-- [SidharthArya starred NoiSek/Aether](https://github.com/NoiSek/Aether)
 <!-- GITHUB:END -->
 
 ## Top Followers
