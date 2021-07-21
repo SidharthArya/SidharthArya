@@ -85,16 +85,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred sorin-ionescu/prezto](https://github.com/sorin-ionescu/prezto)
+- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/bbd3a45a85...48054427fb)
+- [SidharthArya pushed to main in SidharthArya/arch-packages](https://github.com/SidharthArya/arch-packages/compare/27a1e904f2...c2a76bfea9)
+- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/d62dbfdfd8...ffdeacbe2e)
 - [SidharthArya starred NoiSek/Aether](https://github.com/NoiSek/Aether)
 - [SidharthArya starred zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/b3f5907275...bbd3a45a85)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/7c50a3828c...d62dbfdfd8)
 - [SidharthArya starred archlinux/arch-install-scripts](https://github.com/archlinux/arch-install-scripts)
 - [SidharthArya starred xiph/rnnoise](https://github.com/xiph/rnnoise)
-- [SidharthArya starred SethMMorton/natsort](https://github.com/SethMMorton/natsort)
-- [SidharthArya starred zetane/viewer](https://github.com/zetane/viewer)
-- [SidharthArya pushed to master in SidharthArya/SidharthArya](https://github.com/SidharthArya/SidharthArya/compare/9411882342...dcfa27beca)
-- [SidharthArya closed an issue in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/issues/2)
 <!-- GITHUB:END -->
 
 ## Top Followers
