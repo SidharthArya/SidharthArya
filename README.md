@@ -85,6 +85,9 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred zsh-users/antigen](https://github.com/zsh-users/antigen)
+- [SidharthArya starred bbatsov/solarized-emacs](https://github.com/bbatsov/solarized-emacs)
+- [SidharthArya starred Snowdar/asv-subtools](https://github.com/Snowdar/asv-subtools)
 - [SidharthArya starred sorin-ionescu/prezto](https://github.com/sorin-ionescu/prezto)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/bbd3a45a85...48054427fb)
 - [SidharthArya pushed to main in SidharthArya/arch-packages](https://github.com/SidharthArya/arch-packages/compare/27a1e904f2...c2a76bfea9)
@@ -92,9 +95,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred NoiSek/Aether](https://github.com/NoiSek/Aether)
 - [SidharthArya starred zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/b3f5907275...bbd3a45a85)
-- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/7c50a3828c...d62dbfdfd8)
-- [SidharthArya starred archlinux/arch-install-scripts](https://github.com/archlinux/arch-install-scripts)
-- [SidharthArya starred xiph/rnnoise](https://github.com/xiph/rnnoise)
 <!-- GITHUB:END -->
 
 ## Top Followers
