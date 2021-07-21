@@ -85,6 +85,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred bermanmaxim/LovaszSoftmax](https://github.com/bermanmaxim/LovaszSoftmax)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/48054427fb...b041760752)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/ffdeacbe2e...4f7acb8fa4)
 - [SidharthArya starred jakeret/tf_unet](https://github.com/jakeret/tf_unet)
@@ -94,7 +95,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred Snowdar/asv-subtools](https://github.com/Snowdar/asv-subtools)
 - [SidharthArya starred sorin-ionescu/prezto](https://github.com/sorin-ionescu/prezto)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/bbd3a45a85...48054427fb)
-- [SidharthArya pushed to main in SidharthArya/arch-packages](https://github.com/SidharthArya/arch-packages/compare/27a1e904f2...c2a76bfea9)
 <!-- GITHUB:END -->
 
 ## Top Followers
