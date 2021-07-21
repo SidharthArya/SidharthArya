@@ -85,6 +85,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/b041760752...8b0bc1a111)
+- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/4f7acb8fa4...ccfa9c496e)
 - [SidharthArya starred bermanmaxim/LovaszSoftmax](https://github.com/bermanmaxim/LovaszSoftmax)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/48054427fb...b041760752)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/ffdeacbe2e...4f7acb8fa4)
@@ -93,8 +95,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred zsh-users/antigen](https://github.com/zsh-users/antigen)
 - [SidharthArya starred bbatsov/solarized-emacs](https://github.com/bbatsov/solarized-emacs)
 - [SidharthArya starred Snowdar/asv-subtools](https://github.com/Snowdar/asv-subtools)
-- [SidharthArya starred sorin-ionescu/prezto](https://github.com/sorin-ionescu/prezto)
-- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/bbd3a45a85...48054427fb)
 <!-- GITHUB:END -->
 
 ## Top Followers
