@@ -85,6 +85,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred spatialaudio/python-sounddevice](https://github.com/spatialaudio/python-sounddevice)
+- [SidharthArya starred raxod502/selectrum](https://github.com/raxod502/selectrum)
 - [SidharthArya starred bmild/nerf](https://github.com/bmild/nerf)
 - [SidharthArya starred microsoft/unilm](https://github.com/microsoft/unilm)
 - [SidharthArya starred hughsk/flat](https://github.com/hughsk/flat)
@@ -93,8 +95,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred bermanmaxim/LovaszSoftmax](https://github.com/bermanmaxim/LovaszSoftmax)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/48054427fb...b041760752)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/ffdeacbe2e...4f7acb8fa4)
-- [SidharthArya starred jakeret/tf_unet](https://github.com/jakeret/tf_unet)
-- [SidharthArya starred numba/llvmlite](https://github.com/numba/llvmlite)
 <!-- GITHUB:END -->
 
 ## Top Followers
