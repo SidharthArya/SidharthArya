@@ -85,16 +85,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/db0cdaf963...f1964eabd2)
+- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/fc58f4b1e6...ab950aa312)
+- [SidharthArya starred minad/consult](https://github.com/minad/consult)
+- [SidharthArya starred raxod502/ctrlf](https://github.com/raxod502/ctrlf)
+- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/b94e66110f...db0cdaf963)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/8b0bc1a111...b94e66110f)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/ccfa9c496e...fc58f4b1e6)
 - [SidharthArya starred logseq/logseq](https://github.com/logseq/logseq)
 - [SidharthArya starred spatialaudio/python-sounddevice](https://github.com/spatialaudio/python-sounddevice)
 - [SidharthArya starred raxod502/selectrum](https://github.com/raxod502/selectrum)
-- [SidharthArya starred bmild/nerf](https://github.com/bmild/nerf)
-- [SidharthArya starred microsoft/unilm](https://github.com/microsoft/unilm)
-- [SidharthArya starred hughsk/flat](https://github.com/hughsk/flat)
-- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/b041760752...8b0bc1a111)
-- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/4f7acb8fa4...ccfa9c496e)
 <!-- GITHUB:END -->
 
 ## Top Followers
