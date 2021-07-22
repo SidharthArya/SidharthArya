@@ -85,6 +85,9 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred bmild/nerf](https://github.com/bmild/nerf)
+- [SidharthArya starred microsoft/unilm](https://github.com/microsoft/unilm)
+- [SidharthArya starred hughsk/flat](https://github.com/hughsk/flat)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/b041760752...8b0bc1a111)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/4f7acb8fa4...ccfa9c496e)
 - [SidharthArya starred bermanmaxim/LovaszSoftmax](https://github.com/bermanmaxim/LovaszSoftmax)
@@ -92,9 +95,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/ffdeacbe2e...4f7acb8fa4)
 - [SidharthArya starred jakeret/tf_unet](https://github.com/jakeret/tf_unet)
 - [SidharthArya starred numba/llvmlite](https://github.com/numba/llvmlite)
-- [SidharthArya starred zsh-users/antigen](https://github.com/zsh-users/antigen)
-- [SidharthArya starred bbatsov/solarized-emacs](https://github.com/bbatsov/solarized-emacs)
-- [SidharthArya starred Snowdar/asv-subtools](https://github.com/Snowdar/asv-subtools)
 <!-- GITHUB:END -->
 
 ## Top Followers
