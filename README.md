@@ -85,6 +85,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred timsainb/noisereduce](https://github.com/timsainb/noisereduce)
+- [SidharthArya pushed to master in SidharthArya/pakka](https://github.com/SidharthArya/pakka/compare/086eb6feb7...34654c4197)
 - [SidharthArya pushed to master in SidharthArya/pakka](https://github.com/SidharthArya/pakka/compare/864666b05d...086eb6feb7)
 - [SidharthArya pushed to master in SidharthArya/pakka](https://github.com/SidharthArya/pakka/compare/e8995f5d0c...864666b05d)
 - [SidharthArya pushed to master in SidharthArya/pakka](https://github.com/SidharthArya/pakka/compare/d140a9303b...e8995f5d0c)
@@ -93,8 +95,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to main in SidharthArya/pakka-config](https://github.com/SidharthArya/pakka-config/compare/c24e17646e...4b19ca15e3)
 - [SidharthArya pushed to main in SidharthArya/pakka-config](https://github.com/SidharthArya/pakka-config/compare/650859305f...c24e17646e)
 - [SidharthArya pushed to main in SidharthArya/pakka-config](https://github.com/SidharthArya/pakka-config/compare/c2a76bfea9...650859305f)
-- [SidharthArya pushed to master in SidharthArya/pakka](https://github.com/SidharthArya/pakka/compare/591bce827e...9ffb86c136)
-- [SidharthArya pushed to master in SidharthArya/pakka](https://github.com/SidharthArya/pakka/compare/e9dabc9f05...591bce827e)
 <!-- GITHUB:END -->
 
 ## Top Followers
