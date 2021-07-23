@@ -85,6 +85,9 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred microsoft/CBL-Mariner](https://github.com/microsoft/CBL-Mariner)
+- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/f1964eabd2...6cafa62951)
+- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/ab950aa312...75cd4a1cc6)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/db0cdaf963...f1964eabd2)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/fc58f4b1e6...ab950aa312)
 - [SidharthArya starred minad/consult](https://github.com/minad/consult)
@@ -92,9 +95,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/b94e66110f...db0cdaf963)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/8b0bc1a111...b94e66110f)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/ccfa9c496e...fc58f4b1e6)
-- [SidharthArya starred logseq/logseq](https://github.com/logseq/logseq)
-- [SidharthArya starred spatialaudio/python-sounddevice](https://github.com/spatialaudio/python-sounddevice)
-- [SidharthArya starred raxod502/selectrum](https://github.com/raxod502/selectrum)
 <!-- GITHUB:END -->
 
 ## Top Followers
