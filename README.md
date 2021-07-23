@@ -85,6 +85,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya created a repository SidharthArya/pakka](https://github.com/SidharthArya/pakka//)
 - [SidharthArya starred microsoft/CBL-Mariner](https://github.com/microsoft/CBL-Mariner)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/f1964eabd2...6cafa62951)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/ab950aa312...75cd4a1cc6)
@@ -94,7 +95,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred raxod502/ctrlf](https://github.com/raxod502/ctrlf)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/b94e66110f...db0cdaf963)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/8b0bc1a111...b94e66110f)
-- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/ccfa9c496e...fc58f4b1e6)
 <!-- GITHUB:END -->
 
 ## Top Followers
