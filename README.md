@@ -85,6 +85,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred lbeaucourt/Object-detection](https://github.com/lbeaucourt/Object-detection)
+- [SidharthArya starred PortAudio/portaudio](https://github.com/PortAudio/portaudio)
 - [SidharthArya starred timsainb/noisereduce](https://github.com/timsainb/noisereduce)
 - [SidharthArya pushed to master in SidharthArya/pakka](https://github.com/SidharthArya/pakka/compare/086eb6feb7...34654c4197)
 - [SidharthArya pushed to master in SidharthArya/pakka](https://github.com/SidharthArya/pakka/compare/864666b05d...086eb6feb7)
@@ -93,8 +95,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/pakka](https://github.com/SidharthArya/pakka/compare/9ffb86c136...d140a9303b)
 - [SidharthArya pushed to main in SidharthArya/pakka-config](https://github.com/SidharthArya/pakka-config/compare/4b19ca15e3...01558ad185)
 - [SidharthArya pushed to main in SidharthArya/pakka-config](https://github.com/SidharthArya/pakka-config/compare/c24e17646e...4b19ca15e3)
-- [SidharthArya pushed to main in SidharthArya/pakka-config](https://github.com/SidharthArya/pakka-config/compare/650859305f...c24e17646e)
-- [SidharthArya pushed to main in SidharthArya/pakka-config](https://github.com/SidharthArya/pakka-config/compare/c2a76bfea9...650859305f)
 <!-- GITHUB:END -->
 
 ## Top Followers
