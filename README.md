@@ -85,16 +85,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya forked SidharthArya/investigations from AmnestyTech/investigations](https://github.com/SidharthArya/investigations)
+- [SidharthArya starred AmnestyTech/investigations](https://github.com/AmnestyTech/investigations)
+- [SidharthArya starred Megvii-BaseDetection/YOLOX](https://github.com/Megvii-BaseDetection/YOLOX)
+- [SidharthArya starred mvt-project/mvt](https://github.com/mvt-project/mvt)
+- [SidharthArya starred funcwj/setk](https://github.com/funcwj/setk)
+- [SidharthArya starred JusperLee/Speech-Separation-Paper-Tutorial](https://github.com/JusperLee/Speech-Separation-Paper-Tutorial)
 - [SidharthArya starred lbeaucourt/Object-detection](https://github.com/lbeaucourt/Object-detection)
 - [SidharthArya starred PortAudio/portaudio](https://github.com/PortAudio/portaudio)
 - [SidharthArya starred timsainb/noisereduce](https://github.com/timsainb/noisereduce)
 - [SidharthArya pushed to master in SidharthArya/pakka](https://github.com/SidharthArya/pakka/compare/086eb6feb7...34654c4197)
-- [SidharthArya pushed to master in SidharthArya/pakka](https://github.com/SidharthArya/pakka/compare/864666b05d...086eb6feb7)
-- [SidharthArya pushed to master in SidharthArya/pakka](https://github.com/SidharthArya/pakka/compare/e8995f5d0c...864666b05d)
-- [SidharthArya pushed to master in SidharthArya/pakka](https://github.com/SidharthArya/pakka/compare/d140a9303b...e8995f5d0c)
-- [SidharthArya pushed to master in SidharthArya/pakka](https://github.com/SidharthArya/pakka/compare/9ffb86c136...d140a9303b)
-- [SidharthArya pushed to main in SidharthArya/pakka-config](https://github.com/SidharthArya/pakka-config/compare/4b19ca15e3...01558ad185)
-- [SidharthArya pushed to main in SidharthArya/pakka-config](https://github.com/SidharthArya/pakka-config/compare/c24e17646e...4b19ca15e3)
 <!-- GITHUB:END -->
 
 ## Top Followers
