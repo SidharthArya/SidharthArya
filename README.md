@@ -144,27 +144,27 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       <a href="https://github.com/HakunanMatatat">HakunanMatatat</a>
     </td>
     <td align="center">
+      <a href="https://github.com/samdyuti">
+        <img src="https://avatars2.githubusercontent.com/u/69840173" width="100px;" alt="samdyuti"/>
+      </a>
+      <br />
+      <a href="https://github.com/samdyuti">samdyuti</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
       <a href="https://github.com/G0rav">
         <img src="https://avatars2.githubusercontent.com/u/62126889" width="100px;" alt="G0rav"/>
       </a>
       <br />
       <a href="https://github.com/G0rav">Gaurav</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/ChandanCharchit">
         <img src="https://avatars2.githubusercontent.com/u/74564556" width="100px;" alt="ChandanCharchit"/>
       </a>
       <br />
       <a href="https://github.com/ChandanCharchit">Chandan Charchit Sahoo</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/samdyuti">
-        <img src="https://avatars2.githubusercontent.com/u/69840173" width="100px;" alt="samdyuti"/>
-      </a>
-      <br />
-      <a href="https://github.com/samdyuti">samdyuti</a>
     </td>
     <td align="center">
       <a href="https://github.com/Shailenderyedugani">
