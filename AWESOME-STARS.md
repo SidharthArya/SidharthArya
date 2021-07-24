@@ -220,6 +220,7 @@
 - [5t3ph/stylestage](https://github.com/5t3ph/stylestage) - A modern CSS showcase styled by community contributions. Add your stylesheet!
 - [luizdepra/hugo-coder](https://github.com/luizdepra/hugo-coder) - A minimalist blog theme for hugo.
 - [IBM/css-gridish](https://github.com/IBM/css-gridish) - Automatically build your grid design’s CSS Grid code, CSS Flexbox fallback code, Sketch artboards, and Chrome extension.
+- [IBM/plex](https://github.com/IBM/plex) - The package of IBM’s typeface, IBM Plex.
 - [vicky002/AlgoWiki](https://github.com/vicky002/AlgoWiki) - Repository which contains links and resources on different topics of Computer Science.
 
 ## Clojure 
@@ -252,6 +253,7 @@
 
 ## Emacs Lisp 
 
+- [oantolin/embark](https://github.com/oantolin/embark) - Emacs Mini-Buffer Actions Rooted in Keymaps
 - [minad/consult](https://github.com/minad/consult) - consult.el - Consulting completing-read
 - [raxod502/ctrlf](https://github.com/raxod502/ctrlf) - ⌨️ Emacs finally learns how to ctrl+F.
 - [raxod502/selectrum](https://github.com/raxod502/selectrum) - 🔔 Better solution for incremental narrowing in Emacs.
@@ -562,7 +564,6 @@
 - [webpack/webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
 - [maanavshah/stock-market-india](https://github.com/maanavshah/stock-market-india) - API for Indian Stock Market's NSE and BSE.
 - [minbrowser/min](https://github.com/minbrowser/min) - A fast, minimal browser that protects your privacy
-- [IBM/plex](https://github.com/IBM/plex) - The package of IBM’s typeface, IBM Plex.
 - [visjs/vis-network](https://github.com/visjs/vis-network) - :dizzy: Display dynamic, automatically organised, customizable network views.
 - [lerna/lerna](https://github.com/lerna/lerna) - :dragon: A tool for managing JavaScript projects with multiple packages.
 - [bichenkk/coinmon](https://github.com/bichenkk/coinmon) - 💰  The cryptocurrency price tool on CLI. 🖥
@@ -714,6 +715,7 @@
 
 ## Others 
 
+- [JusperLee/Speech-Separation-Paper-Tutorial](https://github.com/JusperLee/Speech-Separation-Paper-Tutorial) - A must-read paper for speech separation based on neural networks
 - [AstraZeneca/awesome-explainable-graph-reasoning](https://github.com/AstraZeneca/awesome-explainable-graph-reasoning) - A collection of research papers and software related to explainability in graph machine learning.
 - [visenger/awesome-mlops](https://github.com/visenger/awesome-mlops) - A curated list of references for MLOps
 - [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) - A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning
@@ -820,6 +822,10 @@
 
 ## Python 
 
+- [AmnestyTech/investigations](https://github.com/AmnestyTech/investigations) - Indicators from Amnesty International's investigations
+- [Megvii-BaseDetection/YOLOX](https://github.com/Megvii-BaseDetection/YOLOX) - YOLOX is a high-performance anchor-free YOLO, exceeding yolov3~v5 with ONNX, TensorRT, ncnn, and OpenVINO supported.
+- [mvt-project/mvt](https://github.com/mvt-project/mvt) - MVT is a forensic tool to look for signs of infection in smartphone devices
+- [funcwj/setk](https://github.com/funcwj/setk) - Tools for Speech Enhancement integrated with Kaldi
 - [lbeaucourt/Object-detection](https://github.com/lbeaucourt/Object-detection) - Object detection project for real-time (webcam) and offline (video processing) application.
 - [spatialaudio/python-sounddevice](https://github.com/spatialaudio/python-sounddevice) - :sound: Play and Record Sound with Python :snake:
 - [microsoft/unilm](https://github.com/microsoft/unilm) - UniLM AI - Unified "Language" Model Pre-training across Tasks, Languages, and Modalities
