@@ -225,6 +225,7 @@
 
 ## Clojure 
 
+- [lambdaisland/regal](https://github.com/lambdaisland/regal) - Royally reified regular expressions
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source(frontend now, backend later) platform for knowledge management and collaboration. Desktop app download link: https://github.com/logseq/logseq/releases, roadmap: https://trello.com/b/8txSM12G/roadmap
 
 ## Common Lisp 
@@ -478,9 +479,9 @@
 
 ## Java 
 
-- [dromara/Sa-Token](https://github.com/dromara/Sa-Token) - 这可能是史上功能最全的Java权限认证框架！目前已集成——登录认证、权限认证、分布式Session会话、微服务网关鉴权、单点登录、OAuth2.0、踢人下线、Redis集成、前后台分离、记住我模式、模拟他人账号、临时身份切换、账号封禁、多账号认证体系、注解式鉴权、路由拦截式鉴权、花式token生成、自动续签、同端互斥登录、会话治理、密码加密、jwt集成、Spring集成、WebFlux集成...
+- [dromara/Sa-Token](https://github.com/dromara/Sa-Token) - 这可能是史上功能最全的Java权限认证框架，权限架构设计的绝佳实践！目前已集成——登录认证、权限认证、分布式Session会话、微服务网关鉴权、单点登录、OAuth2.0、踢人下线、Redis集成、前后台分离、记住我模式、模拟他人账号、临时身份切换、账号封禁、多账号认证体系、注解式鉴权、路由拦截式鉴权、花式token生成、自动续签、同端互斥登录、会话治理、密码加密、jwt集成、Spring集成、WebFlux集成...
 - [assertj/assertj-core](https://github.com/assertj/assertj-core) - AssertJ is a library providing easy to use rich typed assertions
-- [termux/termux-app](https://github.com/termux/termux-app) - Android terminal and Linux environment - app repository.
+- [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 - [payatu/diva-android](https://github.com/payatu/diva-android) - DIVA Android - Damn Insecure and vulnerable App for Android
 - [antlr/antlr4](https://github.com/antlr/antlr4) - ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files.
 - [kdn251/interviews](https://github.com/kdn251/interviews) - Everything you need to know to get the job.
@@ -822,6 +823,7 @@
 
 ## Python 
 
+- [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
 - [AmnestyTech/investigations](https://github.com/AmnestyTech/investigations) - Indicators from Amnesty International's investigations
 - [Megvii-BaseDetection/YOLOX](https://github.com/Megvii-BaseDetection/YOLOX) - YOLOX is a high-performance anchor-free YOLO, exceeding yolov3~v5 with ONNX, TensorRT, ncnn, and OpenVINO supported.
 - [mvt-project/mvt](https://github.com/mvt-project/mvt) - MVT is a forensic tool to look for signs of infection in smartphone devices
@@ -912,7 +914,7 @@
 - [apachecn/AiLearning](https://github.com/apachecn/AiLearning) - AiLearning: 机器学习 - MachineLearning - ML、深度学习 - DeepLearning - DL、自然语言处理 NLP
 - [eriklindernoren/ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch) - Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learning.
 - [sebastianruder/NLP-progress](https://github.com/sebastianruder/NLP-progress) - Repository to track the progress in Natural Language Processing (NLP), including the datasets and the current state-of-the-art for the most common NLP tasks.
-- [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) - 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被全球175所大学采用教学。
+- [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) - 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被全球200所大学采用教学。
 - [ageitgey/face_recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api for Python and the command line
 - [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn) - scikit-learn: machine learning in Python
 - [owid/covid-19-data](https://github.com/owid/covid-19-data) - Data on COVID-19 (coronavirus) cases, deaths, hospitalizations, tests • All countries • Updated daily by Our World in Data
