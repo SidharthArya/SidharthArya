@@ -85,6 +85,9 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to master in SidharthArya/pakka](https://github.com/SidharthArya/pakka/compare/34654c4197...411c279862)
+- [SidharthArya merged a pull request in SidharthArya/pakka](https://github.com/SidharthArya/pakka/pull/1)
+- [SidharthArya commented on pull request SidharthArya/pakka#1](https://github.com/SidharthArya/pakka/pull/1#issuecomment-886149671)
 - [SidharthArya starred oantolin/embark](https://github.com/oantolin/embark)
 - [SidharthArya forked SidharthArya/investigations from AmnestyTech/investigations](https://github.com/SidharthArya/investigations)
 - [SidharthArya starred AmnestyTech/investigations](https://github.com/AmnestyTech/investigations)
@@ -92,9 +95,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred mvt-project/mvt](https://github.com/mvt-project/mvt)
 - [SidharthArya starred funcwj/setk](https://github.com/funcwj/setk)
 - [SidharthArya starred JusperLee/Speech-Separation-Paper-Tutorial](https://github.com/JusperLee/Speech-Separation-Paper-Tutorial)
-- [SidharthArya starred lbeaucourt/Object-detection](https://github.com/lbeaucourt/Object-detection)
-- [SidharthArya starred PortAudio/portaudio](https://github.com/PortAudio/portaudio)
-- [SidharthArya starred timsainb/noisereduce](https://github.com/timsainb/noisereduce)
 <!-- GITHUB:END -->
 
 ## Top Followers
