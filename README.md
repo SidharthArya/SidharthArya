@@ -85,6 +85,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to master in SidharthArya/pakka](https://github.com/SidharthArya/pakka/compare/70a0e8a3c1...0d1fd4cb19)
 - [SidharthArya pushed to master in SidharthArya/pakka](https://github.com/SidharthArya/pakka/compare/411c279862...70a0e8a3c1)
 - [SidharthArya pushed to master in SidharthArya/pakka](https://github.com/SidharthArya/pakka/compare/34654c4197...411c279862)
 - [SidharthArya merged a pull request in SidharthArya/pakka](https://github.com/SidharthArya/pakka/pull/1)
@@ -94,7 +95,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred AmnestyTech/investigations](https://github.com/AmnestyTech/investigations)
 - [SidharthArya starred Megvii-BaseDetection/YOLOX](https://github.com/Megvii-BaseDetection/YOLOX)
 - [SidharthArya starred mvt-project/mvt](https://github.com/mvt-project/mvt)
-- [SidharthArya starred funcwj/setk](https://github.com/funcwj/setk)
 <!-- GITHUB:END -->
 
 ## Top Followers
