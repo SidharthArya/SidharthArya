@@ -85,6 +85,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred getredash/redash](https://github.com/getredash/redash)
+- [SidharthArya starred lambdaisland/regal](https://github.com/lambdaisland/regal)
 - [SidharthArya pushed to master in SidharthArya/pakka](https://github.com/SidharthArya/pakka/compare/70a0e8a3c1...0d1fd4cb19)
 - [SidharthArya pushed to master in SidharthArya/pakka](https://github.com/SidharthArya/pakka/compare/411c279862...70a0e8a3c1)
 - [SidharthArya pushed to master in SidharthArya/pakka](https://github.com/SidharthArya/pakka/compare/34654c4197...411c279862)
@@ -93,8 +95,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred oantolin/embark](https://github.com/oantolin/embark)
 - [SidharthArya forked SidharthArya/investigations from AmnestyTech/investigations](https://github.com/SidharthArya/investigations)
 - [SidharthArya starred AmnestyTech/investigations](https://github.com/AmnestyTech/investigations)
-- [SidharthArya starred Megvii-BaseDetection/YOLOX](https://github.com/Megvii-BaseDetection/YOLOX)
-- [SidharthArya starred mvt-project/mvt](https://github.com/mvt-project/mvt)
 <!-- GITHUB:END -->
 
 ## Top Followers
