@@ -85,6 +85,9 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/6cafa62951...c20c81b143)
+- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/75cd4a1cc6...898ba25701)
+- [SidharthArya starred tmux-plugins/tmux-copycat](https://github.com/tmux-plugins/tmux-copycat)
 - [SidharthArya starred getredash/redash](https://github.com/getredash/redash)
 - [SidharthArya starred lambdaisland/regal](https://github.com/lambdaisland/regal)
 - [SidharthArya pushed to master in SidharthArya/pakka](https://github.com/SidharthArya/pakka/compare/70a0e8a3c1...0d1fd4cb19)
@@ -92,9 +95,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/pakka](https://github.com/SidharthArya/pakka/compare/34654c4197...411c279862)
 - [SidharthArya merged a pull request in SidharthArya/pakka](https://github.com/SidharthArya/pakka/pull/1)
 - [SidharthArya commented on pull request SidharthArya/pakka#1](https://github.com/SidharthArya/pakka/pull/1#issuecomment-886149671)
-- [SidharthArya starred oantolin/embark](https://github.com/oantolin/embark)
-- [SidharthArya forked SidharthArya/investigations from AmnestyTech/investigations](https://github.com/SidharthArya/investigations)
-- [SidharthArya starred AmnestyTech/investigations](https://github.com/AmnestyTech/investigations)
 <!-- GITHUB:END -->
 
 ## Top Followers
