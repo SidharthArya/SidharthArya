@@ -85,6 +85,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya opened an issue in SidharthArya/modular-config.el](https://github.com/SidharthArya/modular-config.el/issues/8)
+- [SidharthArya opened an issue in SidharthArya/modular-config.el](https://github.com/SidharthArya/modular-config.el/issues/7)
 - [SidharthArya starred manilarome/lightdm-webkit2-theme-glorious](https://github.com/manilarome/lightdm-webkit2-theme-glorious)
 - [SidharthArya starred nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
 - [SidharthArya starred tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter)
@@ -93,8 +95,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya commented on issue SidharthArya/pakka#4](https://github.com/SidharthArya/pakka/issues/4#issuecomment-886551605)
 - [SidharthArya created a tag 0.0.2 in SidharthArya/pakka](https://github.com/SidharthArya/pakka/tree/0.0.2)
 - [SidharthArya pushed to master in SidharthArya/pakka](https://github.com/SidharthArya/pakka/compare/f3f0b75b7b...449965daf4)
-- [SidharthArya created a tag 0.0.1 in SidharthArya/pakka](https://github.com/SidharthArya/pakka/tree/0.0.1)
-- [SidharthArya pushed to master in SidharthArya/pakka](https://github.com/SidharthArya/pakka/compare/608aaaf9f1...f3f0b75b7b)
 <!-- GITHUB:END -->
 
 ## Top Followers
