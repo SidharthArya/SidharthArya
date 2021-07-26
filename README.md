@@ -85,16 +85,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to master in SidharthArya/modular-config.el](https://github.com/SidharthArya/modular-config.el/compare/460622609a...043907d96e)
+- [SidharthArya starred SidharthArya/pakka](https://github.com/SidharthArya/pakka)
+- [SidharthArya starred SidharthArya/modular-config.el](https://github.com/SidharthArya/modular-config.el)
+- [SidharthArya released 0.0.5 at SidharthArya/modular-config.el](https://github.com/SidharthArya/modular-config.el/releases/tag/0.0.5)
+- [SidharthArya released Inherit Config at SidharthArya/modular-config.el](https://github.com/SidharthArya/modular-config.el/releases/tag/0.0.5)
+- [SidharthArya pushed to master in SidharthArya/modular-config.el](https://github.com/SidharthArya/modular-config.el/compare/3c78fde6b7...460622609a)
+- [SidharthArya created a tag 0.0.5 in SidharthArya/modular-config.el](https://github.com/SidharthArya/modular-config.el/tree/0.0.5)
+- [SidharthArya pushed to master in SidharthArya/modular-config.el](https://github.com/SidharthArya/modular-config.el/compare/222ed4aab7...3c78fde6b7)
 - [SidharthArya opened an issue in SidharthArya/modular-config.el](https://github.com/SidharthArya/modular-config.el/issues/8)
 - [SidharthArya opened an issue in SidharthArya/modular-config.el](https://github.com/SidharthArya/modular-config.el/issues/7)
-- [SidharthArya starred manilarome/lightdm-webkit2-theme-glorious](https://github.com/manilarome/lightdm-webkit2-theme-glorious)
-- [SidharthArya starred nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
-- [SidharthArya starred tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter)
-- [SidharthArya starred ksanjeevan/crnn-audio-classification](https://github.com/ksanjeevan/crnn-audio-classification)
-- [SidharthArya pushed to master in SidharthArya/pakka](https://github.com/SidharthArya/pakka/compare/449965daf4...a570d5b8d7)
-- [SidharthArya commented on issue SidharthArya/pakka#4](https://github.com/SidharthArya/pakka/issues/4#issuecomment-886551605)
-- [SidharthArya created a tag 0.0.2 in SidharthArya/pakka](https://github.com/SidharthArya/pakka/tree/0.0.2)
-- [SidharthArya pushed to master in SidharthArya/pakka](https://github.com/SidharthArya/pakka/compare/f3f0b75b7b...449965daf4)
 <!-- GITHUB:END -->
 
 ## Top Followers
