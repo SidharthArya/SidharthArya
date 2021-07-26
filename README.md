@@ -85,6 +85,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya created a tag 0.0.2 in SidharthArya/pakka](https://github.com/SidharthArya/pakka/tree/0.0.2)
+- [SidharthArya pushed to master in SidharthArya/pakka](https://github.com/SidharthArya/pakka/compare/f3f0b75b7b...449965daf4)
 - [SidharthArya created a tag 0.0.1 in SidharthArya/pakka](https://github.com/SidharthArya/pakka/tree/0.0.1)
 - [SidharthArya pushed to master in SidharthArya/pakka](https://github.com/SidharthArya/pakka/compare/608aaaf9f1...f3f0b75b7b)
 - [SidharthArya pushed to master in SidharthArya/pakka](https://github.com/SidharthArya/pakka/compare/490c58825c...608aaaf9f1)
@@ -93,8 +95,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/pakka](https://github.com/SidharthArya/pakka/compare/0d1fd4cb19...8eb4d7d251)
 - [SidharthArya commented on pull request SidharthArya/pakka#2](https://github.com/SidharthArya/pakka/pull/2#issuecomment-886420293)
 - [SidharthArya closed a pull request in SidharthArya/pakka](https://github.com/SidharthArya/pakka/pull/2)
-- [SidharthArya commented on pull request SidharthArya/pakka#2](https://github.com/SidharthArya/pakka/pull/2#issuecomment-886420262)
-- [SidharthArya closed a pull request in SidharthArya/pakka](https://github.com/SidharthArya/pakka/pull/3)
 <!-- GITHUB:END -->
 
 ## Top Followers
