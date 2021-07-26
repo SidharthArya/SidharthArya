@@ -85,16 +85,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya created a tag 0.0.1 in SidharthArya/pakka](https://github.com/SidharthArya/pakka/tree/0.0.1)
+- [SidharthArya pushed to master in SidharthArya/pakka](https://github.com/SidharthArya/pakka/compare/608aaaf9f1...f3f0b75b7b)
+- [SidharthArya pushed to master in SidharthArya/pakka](https://github.com/SidharthArya/pakka/compare/490c58825c...608aaaf9f1)
+- [SidharthArya opened an issue in SidharthArya/pakka](https://github.com/SidharthArya/pakka/issues/4)
+- [SidharthArya pushed to master in SidharthArya/pakka](https://github.com/SidharthArya/pakka/compare/8eb4d7d251...490c58825c)
 - [SidharthArya pushed to master in SidharthArya/pakka](https://github.com/SidharthArya/pakka/compare/0d1fd4cb19...8eb4d7d251)
 - [SidharthArya commented on pull request SidharthArya/pakka#2](https://github.com/SidharthArya/pakka/pull/2#issuecomment-886420293)
 - [SidharthArya closed a pull request in SidharthArya/pakka](https://github.com/SidharthArya/pakka/pull/2)
 - [SidharthArya commented on pull request SidharthArya/pakka#2](https://github.com/SidharthArya/pakka/pull/2#issuecomment-886420262)
 - [SidharthArya closed a pull request in SidharthArya/pakka](https://github.com/SidharthArya/pakka/pull/3)
-- [SidharthArya commented on pull request SidharthArya/pakka#3](https://github.com/SidharthArya/pakka/pull/3#issuecomment-886418215)
-- [SidharthArya starred muffinmad/emacs-mini-frame](https://github.com/muffinmad/emacs-mini-frame)
-- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/6cafa62951...c20c81b143)
-- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/75cd4a1cc6...898ba25701)
-- [SidharthArya starred tmux-plugins/tmux-copycat](https://github.com/tmux-plugins/tmux-copycat)
 <!-- GITHUB:END -->
 
 ## Top Followers
