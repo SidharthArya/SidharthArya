@@ -188,12 +188,21 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       <a href="https://github.com/rjachuthan">Rituraj Achuthan</a>
     </td>
     <td align="center">
+      <a href="https://github.com/newmentos">
+        <img src="https://avatars2.githubusercontent.com/u/2989858" width="100px;" alt="newmentos"/>
+      </a>
+      <br />
+      <a href="https://github.com/newmentos">Eugene</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/AmanGupta273">
         <img src="https://avatars2.githubusercontent.com/u/77335745" width="100px;" alt="AmanGupta273"/>
       </a>
       <br />
       <a href="https://github.com/AmanGupta273">AmanGupta273</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/Abhishekkashyap07">
         <img src="https://avatars2.githubusercontent.com/u/84564038" width="100px;" alt="Abhishekkashyap07"/>
@@ -201,8 +210,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       <br />
       <a href="https://github.com/Abhishekkashyap07">Abhishekkashyap07</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/APARNAGADHIYA">
         <img src="https://avatars2.githubusercontent.com/u/66026499" width="100px;" alt="APARNAGADHIYA"/>
