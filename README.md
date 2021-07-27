@@ -85,6 +85,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to master in SidharthArya/pakka](https://github.com/SidharthArya/pakka/compare/7cc3fadd07...505baa2ca0)
 - [SidharthArya commented on issue SidharthArya/modular-config.el#8](https://github.com/SidharthArya/modular-config.el/issues/8#issuecomment-887598760)
 - [SidharthArya pushed to master in SidharthArya/modular-config.el](https://github.com/SidharthArya/modular-config.el/compare/043907d96e...2bd77193fa)
 - [SidharthArya commented on issue SidharthArya/modular-config.el#8](https://github.com/SidharthArya/modular-config.el/issues/8#issuecomment-887592736)
@@ -94,7 +95,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya opened an issue in SidharthArya/pakka](https://github.com/SidharthArya/pakka/issues/7)
 - [SidharthArya forked SidharthArya/pandas from pandas-dev/pandas](https://github.com/SidharthArya/pandas)
 - [SidharthArya commented on issue pandas-dev/pandas#31644](https://github.com/pandas-dev/pandas/issues/31644#issuecomment-887336041)
-- [SidharthArya starred anatol/booster](https://github.com/anatol/booster)
 <!-- GITHUB:END -->
 
 ## Top Followers
