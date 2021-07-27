@@ -85,16 +85,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/576493535a...9e8aae26af)
+- [SidharthArya pushed to master in SidharthArya/scripts](https://github.com/SidharthArya/scripts/compare/9917d3b12c...4b8f6f2ce9)
+- [SidharthArya pushed to master in SidharthArya/.bspwm](https://github.com/SidharthArya/.bspwm/compare/16e16fc3ac...4813982a03)
+- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/40bffc6b81...94259af126)
 - [SidharthArya pushed to master in SidharthArya/pakka](https://github.com/SidharthArya/pakka/compare/7cc3fadd07...505baa2ca0)
 - [SidharthArya commented on issue SidharthArya/modular-config.el#8](https://github.com/SidharthArya/modular-config.el/issues/8#issuecomment-887598760)
 - [SidharthArya pushed to master in SidharthArya/modular-config.el](https://github.com/SidharthArya/modular-config.el/compare/043907d96e...2bd77193fa)
 - [SidharthArya commented on issue SidharthArya/modular-config.el#8](https://github.com/SidharthArya/modular-config.el/issues/8#issuecomment-887592736)
 - [SidharthArya pushed to master in SidharthArya/pakka](https://github.com/SidharthArya/pakka/compare/a7af392c17...7cc3fadd07)
 - [SidharthArya pushed to master in SidharthArya/pakka](https://github.com/SidharthArya/pakka/compare/8c9aadb5b5...a7af392c17)
-- [SidharthArya pushed to master in SidharthArya/pakka](https://github.com/SidharthArya/pakka/compare/a570d5b8d7...8c9aadb5b5)
-- [SidharthArya opened an issue in SidharthArya/pakka](https://github.com/SidharthArya/pakka/issues/7)
-- [SidharthArya forked SidharthArya/pandas from pandas-dev/pandas](https://github.com/SidharthArya/pandas)
-- [SidharthArya commented on issue pandas-dev/pandas#31644](https://github.com/pandas-dev/pandas/issues/31644#issuecomment-887336041)
 <!-- GITHUB:END -->
 
 ## Top Followers
