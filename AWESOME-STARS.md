@@ -255,6 +255,7 @@
 
 ## Emacs Lisp 
 
+- [Malabarba/aggressive-indent-mode](https://github.com/Malabarba/aggressive-indent-mode) - Emacs minor mode that keeps your code always indented. More reliable than electric-indent-mode.
 - [SidharthArya/modular-config.el](https://github.com/SidharthArya/modular-config.el) - Organize your emacs config into small manageable modules
 - [muffinmad/emacs-mini-frame](https://github.com/muffinmad/emacs-mini-frame) - Show minibuffer in child frame on read-from-minibuffer
 - [oantolin/embark](https://github.com/oantolin/embark) - Emacs Mini-Buffer Actions Rooted in Keymaps
@@ -400,6 +401,7 @@
 
 ## Go 
 
+- [anatol/booster](https://github.com/anatol/booster) - Fast and secure initramfs generator
 - [microsoft/CBL-Mariner](https://github.com/microsoft/CBL-Mariner) - Linux OS for Azure 1P services and edge appliances
 - [mmcdole/gofeed](https://github.com/mmcdole/gofeed) - Parse RSS, Atom and JSON feeds in Go
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
