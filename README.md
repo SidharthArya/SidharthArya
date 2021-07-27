@@ -85,6 +85,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred anatol/booster](https://github.com/anatol/booster)
 - [SidharthArya starred Malabarba/aggressive-indent-mode](https://github.com/Malabarba/aggressive-indent-mode)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/c20c81b143...576493535a)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/898ba25701...40bffc6b81)
@@ -94,7 +95,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya released 0.0.5 at SidharthArya/modular-config.el](https://github.com/SidharthArya/modular-config.el/releases/tag/0.0.5)
 - [SidharthArya released Inherit Config at SidharthArya/modular-config.el](https://github.com/SidharthArya/modular-config.el/releases/tag/0.0.5)
 - [SidharthArya pushed to master in SidharthArya/modular-config.el](https://github.com/SidharthArya/modular-config.el/compare/3c78fde6b7...460622609a)
-- [SidharthArya created a tag 0.0.5 in SidharthArya/modular-config.el](https://github.com/SidharthArya/modular-config.el/tree/0.0.5)
 <!-- GITHUB:END -->
 
 ## Top Followers
