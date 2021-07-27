@@ -85,6 +85,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to master in SidharthArya/pakka](https://github.com/SidharthArya/pakka/compare/a570d5b8d7...8c9aadb5b5)
+- [SidharthArya opened an issue in SidharthArya/pakka](https://github.com/SidharthArya/pakka/issues/7)
 - [SidharthArya forked SidharthArya/pandas from pandas-dev/pandas](https://github.com/SidharthArya/pandas)
 - [SidharthArya commented on issue pandas-dev/pandas#31644](https://github.com/pandas-dev/pandas/issues/31644#issuecomment-887336041)
 - [SidharthArya starred anatol/booster](https://github.com/anatol/booster)
@@ -93,8 +95,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/898ba25701...40bffc6b81)
 - [SidharthArya pushed to master in SidharthArya/modular-config.el](https://github.com/SidharthArya/modular-config.el/compare/460622609a...043907d96e)
 - [SidharthArya starred SidharthArya/pakka](https://github.com/SidharthArya/pakka)
-- [SidharthArya starred SidharthArya/modular-config.el](https://github.com/SidharthArya/modular-config.el)
-- [SidharthArya released 0.0.5 at SidharthArya/modular-config.el](https://github.com/SidharthArya/modular-config.el/releases/tag/0.0.5)
 <!-- GITHUB:END -->
 
 ## Top Followers
