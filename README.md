@@ -85,6 +85,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/c20c81b143...576493535a)
+- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/898ba25701...40bffc6b81)
 - [SidharthArya pushed to master in SidharthArya/modular-config.el](https://github.com/SidharthArya/modular-config.el/compare/460622609a...043907d96e)
 - [SidharthArya starred SidharthArya/pakka](https://github.com/SidharthArya/pakka)
 - [SidharthArya starred SidharthArya/modular-config.el](https://github.com/SidharthArya/modular-config.el)
@@ -93,8 +95,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/modular-config.el](https://github.com/SidharthArya/modular-config.el/compare/3c78fde6b7...460622609a)
 - [SidharthArya created a tag 0.0.5 in SidharthArya/modular-config.el](https://github.com/SidharthArya/modular-config.el/tree/0.0.5)
 - [SidharthArya pushed to master in SidharthArya/modular-config.el](https://github.com/SidharthArya/modular-config.el/compare/222ed4aab7...3c78fde6b7)
-- [SidharthArya opened an issue in SidharthArya/modular-config.el](https://github.com/SidharthArya/modular-config.el/issues/8)
-- [SidharthArya opened an issue in SidharthArya/modular-config.el](https://github.com/SidharthArya/modular-config.el/issues/7)
 <!-- GITHUB:END -->
 
 ## Top Followers
