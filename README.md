@@ -85,16 +85,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya commented on issue SidharthArya/modular-config.el#8](https://github.com/SidharthArya/modular-config.el/issues/8#issuecomment-887598760)
+- [SidharthArya pushed to master in SidharthArya/modular-config.el](https://github.com/SidharthArya/modular-config.el/compare/043907d96e...2bd77193fa)
+- [SidharthArya commented on issue SidharthArya/modular-config.el#8](https://github.com/SidharthArya/modular-config.el/issues/8#issuecomment-887592736)
+- [SidharthArya pushed to master in SidharthArya/pakka](https://github.com/SidharthArya/pakka/compare/a7af392c17...7cc3fadd07)
+- [SidharthArya pushed to master in SidharthArya/pakka](https://github.com/SidharthArya/pakka/compare/8c9aadb5b5...a7af392c17)
 - [SidharthArya pushed to master in SidharthArya/pakka](https://github.com/SidharthArya/pakka/compare/a570d5b8d7...8c9aadb5b5)
 - [SidharthArya opened an issue in SidharthArya/pakka](https://github.com/SidharthArya/pakka/issues/7)
 - [SidharthArya forked SidharthArya/pandas from pandas-dev/pandas](https://github.com/SidharthArya/pandas)
 - [SidharthArya commented on issue pandas-dev/pandas#31644](https://github.com/pandas-dev/pandas/issues/31644#issuecomment-887336041)
 - [SidharthArya starred anatol/booster](https://github.com/anatol/booster)
-- [SidharthArya starred Malabarba/aggressive-indent-mode](https://github.com/Malabarba/aggressive-indent-mode)
-- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/c20c81b143...576493535a)
-- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/898ba25701...40bffc6b81)
-- [SidharthArya pushed to master in SidharthArya/modular-config.el](https://github.com/SidharthArya/modular-config.el/compare/460622609a...043907d96e)
-- [SidharthArya starred SidharthArya/pakka](https://github.com/SidharthArya/pakka)
 <!-- GITHUB:END -->
 
 ## Top Followers
