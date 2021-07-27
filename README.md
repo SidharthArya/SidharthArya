@@ -85,6 +85,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya forked SidharthArya/pandas from pandas-dev/pandas](https://github.com/SidharthArya/pandas)
+- [SidharthArya commented on issue pandas-dev/pandas#31644](https://github.com/pandas-dev/pandas/issues/31644#issuecomment-887336041)
 - [SidharthArya starred anatol/booster](https://github.com/anatol/booster)
 - [SidharthArya starred Malabarba/aggressive-indent-mode](https://github.com/Malabarba/aggressive-indent-mode)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/c20c81b143...576493535a)
@@ -93,8 +95,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred SidharthArya/pakka](https://github.com/SidharthArya/pakka)
 - [SidharthArya starred SidharthArya/modular-config.el](https://github.com/SidharthArya/modular-config.el)
 - [SidharthArya released 0.0.5 at SidharthArya/modular-config.el](https://github.com/SidharthArya/modular-config.el/releases/tag/0.0.5)
-- [SidharthArya released Inherit Config at SidharthArya/modular-config.el](https://github.com/SidharthArya/modular-config.el/releases/tag/0.0.5)
-- [SidharthArya pushed to master in SidharthArya/modular-config.el](https://github.com/SidharthArya/modular-config.el/compare/3c78fde6b7...460622609a)
 <!-- GITHUB:END -->
 
 ## Top Followers
