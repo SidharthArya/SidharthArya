@@ -85,6 +85,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred DIYgod/RSSHub](https://github.com/DIYgod/RSSHub)
+- [SidharthArya starred company-mode/company-mode](https://github.com/company-mode/company-mode)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/9e8aae26af...865fce5f19)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/94259af126...74898094c2)
 - [SidharthArya starred vuejs/vue-next](https://github.com/vuejs/vue-next)
@@ -93,8 +95,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/scripts](https://github.com/SidharthArya/scripts/compare/9917d3b12c...4b8f6f2ce9)
 - [SidharthArya pushed to master in SidharthArya/.bspwm](https://github.com/SidharthArya/.bspwm/compare/16e16fc3ac...4813982a03)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/40bffc6b81...94259af126)
-- [SidharthArya pushed to master in SidharthArya/pakka](https://github.com/SidharthArya/pakka/compare/7cc3fadd07...505baa2ca0)
-- [SidharthArya commented on issue SidharthArya/modular-config.el#8](https://github.com/SidharthArya/modular-config.el/issues/8#issuecomment-887598760)
 <!-- GITHUB:END -->
 
 ## Top Followers
