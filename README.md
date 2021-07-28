@@ -85,6 +85,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/9e8aae26af...865fce5f19)
+- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/94259af126...74898094c2)
 - [SidharthArya starred vuejs/vue-next](https://github.com/vuejs/vue-next)
 - [SidharthArya starred amsehili/auditok](https://github.com/amsehili/auditok)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/576493535a...9e8aae26af)
@@ -93,8 +95,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/40bffc6b81...94259af126)
 - [SidharthArya pushed to master in SidharthArya/pakka](https://github.com/SidharthArya/pakka/compare/7cc3fadd07...505baa2ca0)
 - [SidharthArya commented on issue SidharthArya/modular-config.el#8](https://github.com/SidharthArya/modular-config.el/issues/8#issuecomment-887598760)
-- [SidharthArya pushed to master in SidharthArya/modular-config.el](https://github.com/SidharthArya/modular-config.el/compare/043907d96e...2bd77193fa)
-- [SidharthArya commented on issue SidharthArya/modular-config.el#8](https://github.com/SidharthArya/modular-config.el/issues/8#issuecomment-887592736)
 <!-- GITHUB:END -->
 
 ## Top Followers
