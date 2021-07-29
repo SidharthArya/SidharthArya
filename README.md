@@ -85,6 +85,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to main in SidharthArya/wazirx-data-extractor](https://github.com/SidharthArya/wazirx-data-extractor/compare/7d749c6fbe...aa7106c48d)
+- [SidharthArya pushed to main in SidharthArya/wazirx-data-extractor](https://github.com/SidharthArya/wazirx-data-extractor/compare/37b59eb403...7d749c6fbe)
 - [SidharthArya made SidharthArya/wazirx-data-extractor public](https://github.com/SidharthArya/wazirx-data-extractor)
 - [SidharthArya pushed to main in SidharthArya/wazirx-data-extractor](https://github.com/SidharthArya/wazirx-data-extractor/compare/4fd57aeada...37b59eb403)
 - [SidharthArya pushed to main in SidharthArya/wazirx-data-extractor](https://github.com/SidharthArya/wazirx-data-extractor/compare/30f909f693...4fd57aeada)
@@ -93,8 +95,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred abecodes/tabout.nvim](https://github.com/abecodes/tabout.nvim)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/865fce5f19...11df2dcd1a)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/74898094c2...7a0e47415b)
-- [SidharthArya starred DIYgod/RSSHub](https://github.com/DIYgod/RSSHub)
-- [SidharthArya starred company-mode/company-mode](https://github.com/company-mode/company-mode)
 <!-- GITHUB:END -->
 
 ## Top Followers
