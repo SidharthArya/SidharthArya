@@ -85,6 +85,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to main in SidharthArya/wazirx-data-extractor](https://github.com/SidharthArya/wazirx-data-extractor/compare/4fd57aeada...37b59eb403)
+- [SidharthArya pushed to main in SidharthArya/wazirx-data-extractor](https://github.com/SidharthArya/wazirx-data-extractor/compare/30f909f693...4fd57aeada)
 - [SidharthArya starred gennaro-tedesco/nvim-jqx](https://github.com/gennaro-tedesco/nvim-jqx)
 - [SidharthArya starred open-keychain/open-keychain](https://github.com/open-keychain/open-keychain)
 - [SidharthArya starred abecodes/tabout.nvim](https://github.com/abecodes/tabout.nvim)
@@ -93,8 +95,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred DIYgod/RSSHub](https://github.com/DIYgod/RSSHub)
 - [SidharthArya starred company-mode/company-mode](https://github.com/company-mode/company-mode)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/9e8aae26af...865fce5f19)
-- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/94259af126...74898094c2)
-- [SidharthArya starred vuejs/vue-next](https://github.com/vuejs/vue-next)
 <!-- GITHUB:END -->
 
 ## Top Followers
