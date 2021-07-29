@@ -85,6 +85,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred chartjs/Chart.js](https://github.com/chartjs/Chart.js)
 - [SidharthArya pushed to main in SidharthArya/wazirx-data-extractor](https://github.com/SidharthArya/wazirx-data-extractor/compare/aa7106c48d...27f4a35fda)
 - [SidharthArya pushed to main in SidharthArya/wazirx-data-extractor](https://github.com/SidharthArya/wazirx-data-extractor/compare/7d749c6fbe...aa7106c48d)
 - [SidharthArya pushed to main in SidharthArya/wazirx-data-extractor](https://github.com/SidharthArya/wazirx-data-extractor/compare/37b59eb403...7d749c6fbe)
@@ -94,7 +95,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred gennaro-tedesco/nvim-jqx](https://github.com/gennaro-tedesco/nvim-jqx)
 - [SidharthArya starred open-keychain/open-keychain](https://github.com/open-keychain/open-keychain)
 - [SidharthArya starred abecodes/tabout.nvim](https://github.com/abecodes/tabout.nvim)
-- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/865fce5f19...11df2dcd1a)
 <!-- GITHUB:END -->
 
 ## Top Followers
