@@ -85,6 +85,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya made SidharthArya/wazirx-data-extractor public](https://github.com/SidharthArya/wazirx-data-extractor)
 - [SidharthArya pushed to main in SidharthArya/wazirx-data-extractor](https://github.com/SidharthArya/wazirx-data-extractor/compare/4fd57aeada...37b59eb403)
 - [SidharthArya pushed to main in SidharthArya/wazirx-data-extractor](https://github.com/SidharthArya/wazirx-data-extractor/compare/30f909f693...4fd57aeada)
 - [SidharthArya starred gennaro-tedesco/nvim-jqx](https://github.com/gennaro-tedesco/nvim-jqx)
@@ -94,7 +95,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/74898094c2...7a0e47415b)
 - [SidharthArya starred DIYgod/RSSHub](https://github.com/DIYgod/RSSHub)
 - [SidharthArya starred company-mode/company-mode](https://github.com/company-mode/company-mode)
-- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/9e8aae26af...865fce5f19)
 <!-- GITHUB:END -->
 
 ## Top Followers
