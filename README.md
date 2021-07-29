@@ -85,16 +85,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred gennaro-tedesco/nvim-jqx](https://github.com/gennaro-tedesco/nvim-jqx)
+- [SidharthArya starred open-keychain/open-keychain](https://github.com/open-keychain/open-keychain)
+- [SidharthArya starred abecodes/tabout.nvim](https://github.com/abecodes/tabout.nvim)
+- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/865fce5f19...11df2dcd1a)
+- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/74898094c2...7a0e47415b)
 - [SidharthArya starred DIYgod/RSSHub](https://github.com/DIYgod/RSSHub)
 - [SidharthArya starred company-mode/company-mode](https://github.com/company-mode/company-mode)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/9e8aae26af...865fce5f19)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/94259af126...74898094c2)
 - [SidharthArya starred vuejs/vue-next](https://github.com/vuejs/vue-next)
-- [SidharthArya starred amsehili/auditok](https://github.com/amsehili/auditok)
-- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/576493535a...9e8aae26af)
-- [SidharthArya pushed to master in SidharthArya/scripts](https://github.com/SidharthArya/scripts/compare/9917d3b12c...4b8f6f2ce9)
-- [SidharthArya pushed to master in SidharthArya/.bspwm](https://github.com/SidharthArya/.bspwm/compare/16e16fc3ac...4813982a03)
-- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/40bffc6b81...94259af126)
 <!-- GITHUB:END -->
 
 ## Top Followers
