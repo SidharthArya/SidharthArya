@@ -85,6 +85,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/11df2dcd1a...1ff58a0f60)
+- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/7a0e47415b...d0fb566bc4)
 - [SidharthArya starred chartjs/Chart.js](https://github.com/chartjs/Chart.js)
 - [SidharthArya pushed to main in SidharthArya/wazirx-data-extractor](https://github.com/SidharthArya/wazirx-data-extractor/compare/aa7106c48d...27f4a35fda)
 - [SidharthArya pushed to main in SidharthArya/wazirx-data-extractor](https://github.com/SidharthArya/wazirx-data-extractor/compare/7d749c6fbe...aa7106c48d)
@@ -93,8 +95,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to main in SidharthArya/wazirx-data-extractor](https://github.com/SidharthArya/wazirx-data-extractor/compare/4fd57aeada...37b59eb403)
 - [SidharthArya pushed to main in SidharthArya/wazirx-data-extractor](https://github.com/SidharthArya/wazirx-data-extractor/compare/30f909f693...4fd57aeada)
 - [SidharthArya starred gennaro-tedesco/nvim-jqx](https://github.com/gennaro-tedesco/nvim-jqx)
-- [SidharthArya starred open-keychain/open-keychain](https://github.com/open-keychain/open-keychain)
-- [SidharthArya starred abecodes/tabout.nvim](https://github.com/abecodes/tabout.nvim)
 <!-- GITHUB:END -->
 
 ## Top Followers
