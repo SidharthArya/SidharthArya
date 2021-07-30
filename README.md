@@ -85,16 +85,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred RaRe-Technologies/gensim](https://github.com/RaRe-Technologies/gensim)
+- [SidharthArya starred dask/dask-tutorial](https://github.com/dask/dask-tutorial)
+- [SidharthArya starred dask/dask-examples](https://github.com/dask/dask-examples)
+- [SidharthArya starred dask/dask](https://github.com/dask/dask)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/11df2dcd1a...1ff58a0f60)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/7a0e47415b...d0fb566bc4)
 - [SidharthArya starred chartjs/Chart.js](https://github.com/chartjs/Chart.js)
 - [SidharthArya pushed to main in SidharthArya/wazirx-data-extractor](https://github.com/SidharthArya/wazirx-data-extractor/compare/aa7106c48d...27f4a35fda)
 - [SidharthArya pushed to main in SidharthArya/wazirx-data-extractor](https://github.com/SidharthArya/wazirx-data-extractor/compare/7d749c6fbe...aa7106c48d)
 - [SidharthArya pushed to main in SidharthArya/wazirx-data-extractor](https://github.com/SidharthArya/wazirx-data-extractor/compare/37b59eb403...7d749c6fbe)
-- [SidharthArya made SidharthArya/wazirx-data-extractor public](https://github.com/SidharthArya/wazirx-data-extractor)
-- [SidharthArya pushed to main in SidharthArya/wazirx-data-extractor](https://github.com/SidharthArya/wazirx-data-extractor/compare/4fd57aeada...37b59eb403)
-- [SidharthArya pushed to main in SidharthArya/wazirx-data-extractor](https://github.com/SidharthArya/wazirx-data-extractor/compare/30f909f693...4fd57aeada)
-- [SidharthArya starred gennaro-tedesco/nvim-jqx](https://github.com/gennaro-tedesco/nvim-jqx)
 <!-- GITHUB:END -->
 
 ## Top Followers
