@@ -402,6 +402,7 @@
 
 ## Go 
 
+- [cosmtrek/air](https://github.com/cosmtrek/air) - ☁️ Live reload for Go apps
 - [anatol/booster](https://github.com/anatol/booster) - Fast and secure initramfs generator
 - [microsoft/CBL-Mariner](https://github.com/microsoft/CBL-Mariner) - Linux OS for Azure 1P services and edge appliances
 - [mmcdole/gofeed](https://github.com/mmcdole/gofeed) - Parse RSS, Atom and JSON feeds in Go
@@ -639,6 +640,8 @@
 
 ## Jupyter Notebook 
 
+- [dask/dask-tutorial](https://github.com/dask/dask-tutorial) - Dask tutorial
+- [dask/dask-examples](https://github.com/dask/dask-examples) - Easy-to-run example notebooks for Dask
 - [timsainb/noisereduce](https://github.com/timsainb/noisereduce) - Noise reduction in python using spectral gating (speech, bioacoustics, audio, time-domain signals)
 - [bmild/nerf](https://github.com/bmild/nerf) - Code release for NeRF (Neural Radiance Fields)
 - [bermanmaxim/LovaszSoftmax](https://github.com/bermanmaxim/LovaszSoftmax) - Code for the Lovász-Softmax loss (CVPR 2018)
@@ -834,6 +837,8 @@
 
 ## Python 
 
+- [RaRe-Technologies/gensim](https://github.com/RaRe-Technologies/gensim) - Topic Modelling for Humans
+- [dask/dask](https://github.com/dask/dask) - Parallel computing with task scheduling
 - [amsehili/auditok](https://github.com/amsehili/auditok) - An audio/acoustic activity detection and audio segmentation tool
 - [ksanjeevan/crnn-audio-classification](https://github.com/ksanjeevan/crnn-audio-classification) - UrbanSound classification using Convolutional Recurrent Networks in PyTorch
 - [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
@@ -1141,6 +1146,7 @@
 
 ## Rust 
 
+- [conao3/rust-risp](https://github.com/conao3/rust-risp) - 
 - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
 - [benfred/py-spy](https://github.com/benfred/py-spy) - Sampling profiler for Python programs
 - [sharkdp/hexyl](https://github.com/sharkdp/hexyl) - A command-line hex viewer
@@ -1256,6 +1262,7 @@
 
 ## TypeScript 
 
+- [phiresky/sql.js-httpvfs](https://github.com/phiresky/sql.js-httpvfs) - 
 - [vuejs/vue-next](https://github.com/vuejs/vue-next) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 - [purcell/setup-emacs](https://github.com/purcell/setup-emacs) - Github action which installs a given Emacs version
 - [aws-amplify/amplify-js](https://github.com/aws-amplify/amplify-js) - A declarative JavaScript library for application development using cloud services.
