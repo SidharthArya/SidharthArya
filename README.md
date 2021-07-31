@@ -85,6 +85,9 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred conao3/rust-risp](https://github.com/conao3/rust-risp)
+- [SidharthArya starred phiresky/sql.js-httpvfs](https://github.com/phiresky/sql.js-httpvfs)
+- [SidharthArya starred cosmtrek/air](https://github.com/cosmtrek/air)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/1ff58a0f60...28db5286d9)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/d0fb566bc4...487eb3ed9c)
 - [SidharthArya starred RaRe-Technologies/gensim](https://github.com/RaRe-Technologies/gensim)
@@ -92,9 +95,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred dask/dask-examples](https://github.com/dask/dask-examples)
 - [SidharthArya starred dask/dask](https://github.com/dask/dask)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/11df2dcd1a...1ff58a0f60)
-- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/7a0e47415b...d0fb566bc4)
-- [SidharthArya starred chartjs/Chart.js](https://github.com/chartjs/Chart.js)
-- [SidharthArya pushed to main in SidharthArya/wazirx-data-extractor](https://github.com/SidharthArya/wazirx-data-extractor/compare/aa7106c48d...27f4a35fda)
 <!-- GITHUB:END -->
 
 ## Top Followers
