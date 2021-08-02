@@ -85,6 +85,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred tensorflow/ecosystem](https://github.com/tensorflow/ecosystem)
 - [SidharthArya starred conao3/rust-risp](https://github.com/conao3/rust-risp)
 - [SidharthArya starred phiresky/sql.js-httpvfs](https://github.com/phiresky/sql.js-httpvfs)
 - [SidharthArya starred cosmtrek/air](https://github.com/cosmtrek/air)
@@ -94,7 +95,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred dask/dask-tutorial](https://github.com/dask/dask-tutorial)
 - [SidharthArya starred dask/dask-examples](https://github.com/dask/dask-examples)
 - [SidharthArya starred dask/dask](https://github.com/dask/dask)
-- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/11df2dcd1a...1ff58a0f60)
 <!-- GITHUB:END -->
 
 ## Top Followers
