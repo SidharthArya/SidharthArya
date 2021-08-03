@@ -86,6 +86,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred Somelauw/evil-org-mode](https://github.com/Somelauw/evil-org-mode)
 - [SidharthArya pushed to master in SidharthArya/covid19-vaccine-tracker-india](https://github.com/SidharthArya/covid19-vaccine-tracker-india/compare/63e5e567cd...6e38b3ea41)
 - [SidharthArya pushed to master in SidharthArya/covid19-vaccine-tracker-india](https://github.com/SidharthArya/covid19-vaccine-tracker-india/compare/ef16b8fa44...63e5e567cd)
 - [SidharthArya pushed to master in SidharthArya/covid19-vaccine-tracker-india](https://github.com/SidharthArya/covid19-vaccine-tracker-india/compare/35c67271c1...ef16b8fa44)
@@ -95,7 +96,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred matfish2/vue-tables-2](https://github.com/matfish2/vue-tables-2)
 - [SidharthArya created a repository SidharthArya/covid19-vaccine-tracker-india](https://github.com/SidharthArya/covid19-vaccine-tracker-india//)
 - [SidharthArya starred galaunay/poetry.el](https://github.com/galaunay/poetry.el)
-- [SidharthArya starred bytedance/bytemd](https://github.com/bytedance/bytemd)
 <!-- GITHUB:END -->
 
 ## Top Followers
