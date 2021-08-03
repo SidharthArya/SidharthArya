@@ -85,6 +85,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/28db5286d9...f254250246)
+- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/487eb3ed9c...af3be2b3b6)
 - [SidharthArya starred tensorflow/ecosystem](https://github.com/tensorflow/ecosystem)
 - [SidharthArya starred conao3/rust-risp](https://github.com/conao3/rust-risp)
 - [SidharthArya starred phiresky/sql.js-httpvfs](https://github.com/phiresky/sql.js-httpvfs)
@@ -93,8 +95,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/d0fb566bc4...487eb3ed9c)
 - [SidharthArya starred RaRe-Technologies/gensim](https://github.com/RaRe-Technologies/gensim)
 - [SidharthArya starred dask/dask-tutorial](https://github.com/dask/dask-tutorial)
-- [SidharthArya starred dask/dask-examples](https://github.com/dask/dask-examples)
-- [SidharthArya starred dask/dask](https://github.com/dask/dask)
 <!-- GITHUB:END -->
 
 ## Top Followers
