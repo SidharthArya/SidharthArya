@@ -86,16 +86,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to master in SidharthArya/covid19-vaccine-tracker-india](https://github.com/SidharthArya/covid19-vaccine-tracker-india/compare/63e5e567cd...6e38b3ea41)
+- [SidharthArya pushed to master in SidharthArya/covid19-vaccine-tracker-india](https://github.com/SidharthArya/covid19-vaccine-tracker-india/compare/ef16b8fa44...63e5e567cd)
+- [SidharthArya pushed to master in SidharthArya/covid19-vaccine-tracker-india](https://github.com/SidharthArya/covid19-vaccine-tracker-india/compare/35c67271c1...ef16b8fa44)
+- [SidharthArya pushed to master in SidharthArya/covid19-vaccine-tracker-india](https://github.com/SidharthArya/covid19-vaccine-tracker-india/compare/38daad4fda...35c67271c1)
+- [SidharthArya pushed to master in SidharthArya/covid19-vaccine-tracker-india](https://github.com/SidharthArya/covid19-vaccine-tracker-india/compare/8398d493a4...38daad4fda)
+- [SidharthArya created a branch master in SidharthArya/covid19-vaccine-tracker-india](https://github.com/SidharthArya/covid19-vaccine-tracker-india/compare/master)
 - [SidharthArya starred matfish2/vue-tables-2](https://github.com/matfish2/vue-tables-2)
 - [SidharthArya created a repository SidharthArya/covid19-vaccine-tracker-india](https://github.com/SidharthArya/covid19-vaccine-tracker-india//)
 - [SidharthArya starred galaunay/poetry.el](https://github.com/galaunay/poetry.el)
 - [SidharthArya starred bytedance/bytemd](https://github.com/bytedance/bytemd)
-- [SidharthArya starred emacs-evil/evil](https://github.com/emacs-evil/evil)
-- [SidharthArya starred kracekumar/jut](https://github.com/kracekumar/jut)
-- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/28db5286d9...f254250246)
-- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/487eb3ed9c...af3be2b3b6)
-- [SidharthArya starred tensorflow/ecosystem](https://github.com/tensorflow/ecosystem)
-- [SidharthArya starred conao3/rust-risp](https://github.com/conao3/rust-risp)
 <!-- GITHUB:END -->
 
 ## Top Followers
