@@ -85,6 +85,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred matfish2/vue-tables-2](https://github.com/matfish2/vue-tables-2)
+- [SidharthArya created a repository SidharthArya/covid19-vaccine-tracker-india](https://github.com/SidharthArya/covid19-vaccine-tracker-india//)
 - [SidharthArya starred galaunay/poetry.el](https://github.com/galaunay/poetry.el)
 - [SidharthArya starred bytedance/bytemd](https://github.com/bytedance/bytemd)
 - [SidharthArya starred emacs-evil/evil](https://github.com/emacs-evil/evil)
@@ -93,8 +95,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/487eb3ed9c...af3be2b3b6)
 - [SidharthArya starred tensorflow/ecosystem](https://github.com/tensorflow/ecosystem)
 - [SidharthArya starred conao3/rust-risp](https://github.com/conao3/rust-risp)
-- [SidharthArya starred phiresky/sql.js-httpvfs](https://github.com/phiresky/sql.js-httpvfs)
-- [SidharthArya starred cosmtrek/air](https://github.com/cosmtrek/air)
 <!-- GITHUB:END -->
 
 ## Top Followers
