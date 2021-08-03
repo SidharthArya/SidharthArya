@@ -85,6 +85,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred emacs-evil/evil](https://github.com/emacs-evil/evil)
+- [SidharthArya starred kracekumar/jut](https://github.com/kracekumar/jut)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/28db5286d9...f254250246)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/487eb3ed9c...af3be2b3b6)
 - [SidharthArya starred tensorflow/ecosystem](https://github.com/tensorflow/ecosystem)
@@ -93,8 +95,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred cosmtrek/air](https://github.com/cosmtrek/air)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/1ff58a0f60...28db5286d9)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/d0fb566bc4...487eb3ed9c)
-- [SidharthArya starred RaRe-Technologies/gensim](https://github.com/RaRe-Technologies/gensim)
-- [SidharthArya starred dask/dask-tutorial](https://github.com/dask/dask-tutorial)
 <!-- GITHUB:END -->
 
 ## Top Followers
