@@ -85,6 +85,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred bytedance/bytemd](https://github.com/bytedance/bytemd)
 - [SidharthArya starred emacs-evil/evil](https://github.com/emacs-evil/evil)
 - [SidharthArya starred kracekumar/jut](https://github.com/kracekumar/jut)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/28db5286d9...f254250246)
@@ -94,7 +95,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred phiresky/sql.js-httpvfs](https://github.com/phiresky/sql.js-httpvfs)
 - [SidharthArya starred cosmtrek/air](https://github.com/cosmtrek/air)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/1ff58a0f60...28db5286d9)
-- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/d0fb566bc4...487eb3ed9c)
 <!-- GITHUB:END -->
 
 ## Top Followers
