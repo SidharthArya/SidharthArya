@@ -86,16 +86,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred thenewboston-developers/Account-Manager](https://github.com/thenewboston-developers/Account-Manager)
+- [SidharthArya starred fedspendingtransparency/usaspending-api](https://github.com/fedspendingtransparency/usaspending-api)
+- [SidharthArya starred fedspendingtransparency/data-transparency-ui](https://github.com/fedspendingtransparency/data-transparency-ui)
+- [SidharthArya starred fedspendingtransparency/usaspending-website](https://github.com/fedspendingtransparency/usaspending-website)
 - [SidharthArya starred Somelauw/evil-org-mode](https://github.com/Somelauw/evil-org-mode)
 - [SidharthArya pushed to master in SidharthArya/covid19-vaccine-tracker-india](https://github.com/SidharthArya/covid19-vaccine-tracker-india/compare/63e5e567cd...6e38b3ea41)
 - [SidharthArya pushed to master in SidharthArya/covid19-vaccine-tracker-india](https://github.com/SidharthArya/covid19-vaccine-tracker-india/compare/ef16b8fa44...63e5e567cd)
 - [SidharthArya pushed to master in SidharthArya/covid19-vaccine-tracker-india](https://github.com/SidharthArya/covid19-vaccine-tracker-india/compare/35c67271c1...ef16b8fa44)
 - [SidharthArya pushed to master in SidharthArya/covid19-vaccine-tracker-india](https://github.com/SidharthArya/covid19-vaccine-tracker-india/compare/38daad4fda...35c67271c1)
 - [SidharthArya pushed to master in SidharthArya/covid19-vaccine-tracker-india](https://github.com/SidharthArya/covid19-vaccine-tracker-india/compare/8398d493a4...38daad4fda)
-- [SidharthArya created a branch master in SidharthArya/covid19-vaccine-tracker-india](https://github.com/SidharthArya/covid19-vaccine-tracker-india/compare/master)
-- [SidharthArya starred matfish2/vue-tables-2](https://github.com/matfish2/vue-tables-2)
-- [SidharthArya created a repository SidharthArya/covid19-vaccine-tracker-india](https://github.com/SidharthArya/covid19-vaccine-tracker-india//)
-- [SidharthArya starred galaunay/poetry.el](https://github.com/galaunay/poetry.el)
 <!-- GITHUB:END -->
 
 ## Top Followers
