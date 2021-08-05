@@ -86,6 +86,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred speechbrain/speechbrain](https://github.com/speechbrain/speechbrain)
 - [SidharthArya commented on issue SidharthArya/pakka#4](https://github.com/SidharthArya/pakka/issues/4#issuecomment-893416965)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/832ea10aa9...0367271b0e)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/1312f2c6d9...ad66e0cc9b)
@@ -95,7 +96,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/pakka](https://github.com/SidharthArya/pakka/compare/505baa2ca0...e67aae7246)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/f254250246...832ea10aa9)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/af3be2b3b6...1312f2c6d9)
-- [SidharthArya starred alphapapa/prism.el](https://github.com/alphapapa/prism.el)
 <!-- GITHUB:END -->
 
 ## Top Followers
