@@ -86,16 +86,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/832ea10aa9...0367271b0e)
+- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/1312f2c6d9...ad66e0cc9b)
+- [SidharthArya pushed to master in SidharthArya/pakka](https://github.com/SidharthArya/pakka/compare/e67aae7246...1a70624989)
+- [SidharthArya merged a pull request in SidharthArya/pakka](https://github.com/SidharthArya/pakka/pull/8)
+- [SidharthArya commented on issue SidharthArya/pakka#7](https://github.com/SidharthArya/pakka/issues/7#issuecomment-893268682)
+- [SidharthArya pushed to master in SidharthArya/pakka](https://github.com/SidharthArya/pakka/compare/505baa2ca0...e67aae7246)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/f254250246...832ea10aa9)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/af3be2b3b6...1312f2c6d9)
 - [SidharthArya starred alphapapa/prism.el](https://github.com/alphapapa/prism.el)
 - [SidharthArya starred thenewboston-developers/Account-Manager](https://github.com/thenewboston-developers/Account-Manager)
-- [SidharthArya starred fedspendingtransparency/usaspending-api](https://github.com/fedspendingtransparency/usaspending-api)
-- [SidharthArya starred fedspendingtransparency/data-transparency-ui](https://github.com/fedspendingtransparency/data-transparency-ui)
-- [SidharthArya starred fedspendingtransparency/usaspending-website](https://github.com/fedspendingtransparency/usaspending-website)
-- [SidharthArya starred Somelauw/evil-org-mode](https://github.com/Somelauw/evil-org-mode)
-- [SidharthArya pushed to master in SidharthArya/covid19-vaccine-tracker-india](https://github.com/SidharthArya/covid19-vaccine-tracker-india/compare/63e5e567cd...6e38b3ea41)
-- [SidharthArya pushed to master in SidharthArya/covid19-vaccine-tracker-india](https://github.com/SidharthArya/covid19-vaccine-tracker-india/compare/ef16b8fa44...63e5e567cd)
 <!-- GITHUB:END -->
 
 ## Top Followers
