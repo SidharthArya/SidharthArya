@@ -86,6 +86,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred haoxiangsnr/Wave-U-Net-for-Speech-Enhancement](https://github.com/haoxiangsnr/Wave-U-Net-for-Speech-Enhancement)
 - [SidharthArya starred tmux-plugins/tmux-pain-control](https://github.com/tmux-plugins/tmux-pain-control)
 - [SidharthArya starred haoxiangsnr/FullSubNet](https://github.com/haoxiangsnr/FullSubNet)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/0367271b0e...21d426f68d)
@@ -95,7 +96,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/832ea10aa9...0367271b0e)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/1312f2c6d9...ad66e0cc9b)
 - [SidharthArya pushed to master in SidharthArya/pakka](https://github.com/SidharthArya/pakka/compare/e67aae7246...1a70624989)
-- [SidharthArya merged a pull request in SidharthArya/pakka](https://github.com/SidharthArya/pakka/pull/8)
 <!-- GITHUB:END -->
 
 ## Top Followers
