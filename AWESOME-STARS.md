@@ -844,6 +844,7 @@
 
 ## Python 
 
+- [haoxiangsnr/Wave-U-Net-for-Speech-Enhancement](https://github.com/haoxiangsnr/Wave-U-Net-for-Speech-Enhancement) - Implement Wave-U-Net by PyTorch, and migrate it to the speech enhancement.
 - [haoxiangsnr/FullSubNet](https://github.com/haoxiangsnr/FullSubNet) - PyTorch implementation of "FullSubNet: A Full-Band and Sub-Band Fusion Model for Real-Time Single-Channel Speech Enhancement."
 - [speechbrain/speechbrain](https://github.com/speechbrain/speechbrain) - A PyTorch-based Speech Toolkit
 - [fedspendingtransparency/usaspending-api](https://github.com/fedspendingtransparency/usaspending-api) - Server application to serve U.S. federal spending data via a RESTful API
