@@ -86,6 +86,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred deepklarity/jupyter-text2code](https://github.com/deepklarity/jupyter-text2code)
 - [SidharthArya starred google/pasta](https://github.com/google/pasta)
 - [SidharthArya starred fjvallarino/monomer](https://github.com/fjvallarino/monomer)
 - [SidharthArya commented on issue SidharthArya/pakka#7](https://github.com/SidharthArya/pakka/issues/7#issuecomment-895440602)
@@ -95,7 +96,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred sfu-db/dataprep](https://github.com/sfu-db/dataprep)
 - [SidharthArya starred rapidsai/cudf](https://github.com/rapidsai/cudf)
 - [SidharthArya starred slundberg/shap](https://github.com/slundberg/shap)
-- [SidharthArya starred shankarpandala/lazypredict](https://github.com/shankarpandala/lazypredict)
 <!-- GITHUB:END -->
 
 ## Top Followers
