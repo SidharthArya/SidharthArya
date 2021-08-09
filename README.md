@@ -86,16 +86,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred slundberg/shap](https://github.com/slundberg/shap)
+- [SidharthArya starred shankarpandala/lazypredict](https://github.com/shankarpandala/lazypredict)
+- [SidharthArya starred scikit-learn-contrib/metric-learn](https://github.com/scikit-learn-contrib/metric-learn)
+- [SidharthArya starred scikit-learn-contrib/lightning](https://github.com/scikit-learn-contrib/lightning)
+- [SidharthArya starred scikit-learn-contrib/category_encoders](https://github.com/scikit-learn-contrib/category_encoders)
+- [SidharthArya starred scikit-learn-contrib/sklearn-pandas](https://github.com/scikit-learn-contrib/sklearn-pandas)
+- [SidharthArya starred h2oai/datatable](https://github.com/h2oai/datatable)
 - [SidharthArya starred scikit-learn-contrib/hdbscan](https://github.com/scikit-learn-contrib/hdbscan)
 - [SidharthArya starred lmcinnes/pynndescent](https://github.com/lmcinnes/pynndescent)
 - [SidharthArya starred lmcinnes/umap](https://github.com/lmcinnes/umap)
-- [SidharthArya created a branch master in SidharthArya/tmp](https://github.com/SidharthArya/tmp/compare/master)
-- [SidharthArya created a repository SidharthArya/tmp](https://github.com/SidharthArya/tmp//)
-- [SidharthArya opened a pull request in MaggieAppleton/digital-gardeners](https://github.com/MaggieAppleton/digital-gardeners/pull/70)
-- [SidharthArya pushed to patch-2 in SidharthArya/digital-gardeners](https://github.com/SidharthArya/digital-gardeners/compare/6a2bde16e5...dfec388233)
-- [SidharthArya pushed to patch-1 in SidharthArya/digital-gardeners](https://github.com/SidharthArya/digital-gardeners/compare/6a2bde16e5...e673222ca4)
-- [SidharthArya commented on issue SidharthArya/pakka#7](https://github.com/SidharthArya/pakka/issues/7#issuecomment-895080136)
-- [SidharthArya starred MaggieAppleton/digital-gardeners](https://github.com/MaggieAppleton/digital-gardeners)
 <!-- GITHUB:END -->
 
 ## Top Followers
