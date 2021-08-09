@@ -86,6 +86,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred google/pasta](https://github.com/google/pasta)
+- [SidharthArya starred fjvallarino/monomer](https://github.com/fjvallarino/monomer)
 - [SidharthArya commented on issue SidharthArya/pakka#7](https://github.com/SidharthArya/pakka/issues/7#issuecomment-895440602)
 - [SidharthArya starred lux-org/lux](https://github.com/lux-org/lux)
 - [SidharthArya starred pandas-profiling/pandas-profiling](https://github.com/pandas-profiling/pandas-profiling)
@@ -94,8 +96,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred rapidsai/cudf](https://github.com/rapidsai/cudf)
 - [SidharthArya starred slundberg/shap](https://github.com/slundberg/shap)
 - [SidharthArya starred shankarpandala/lazypredict](https://github.com/shankarpandala/lazypredict)
-- [SidharthArya starred scikit-learn-contrib/metric-learn](https://github.com/scikit-learn-contrib/metric-learn)
-- [SidharthArya starred scikit-learn-contrib/lightning](https://github.com/scikit-learn-contrib/lightning)
 <!-- GITHUB:END -->
 
 ## Top Followers
