@@ -86,6 +86,9 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred MaggieAppleton/digital-gardeners](https://github.com/MaggieAppleton/digital-gardeners)
+- [SidharthArya forked SidharthArya/digital-gardeners from MaggieAppleton/digital-gardeners](https://github.com/SidharthArya/digital-gardeners)
+- [SidharthArya starred open-mmlab/mmocr](https://github.com/open-mmlab/mmocr)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/21d426f68d...c8bafc4935)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/76aa52cea1...e152825d8e)
 - [SidharthArya starred haoxiangsnr/Wave-U-Net-for-Speech-Enhancement](https://github.com/haoxiangsnr/Wave-U-Net-for-Speech-Enhancement)
@@ -93,9 +96,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred haoxiangsnr/FullSubNet](https://github.com/haoxiangsnr/FullSubNet)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/0367271b0e...21d426f68d)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/ad66e0cc9b...76aa52cea1)
-- [SidharthArya starred speechbrain/speechbrain](https://github.com/speechbrain/speechbrain)
-- [SidharthArya commented on issue SidharthArya/pakka#4](https://github.com/SidharthArya/pakka/issues/4#issuecomment-893416965)
-- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/832ea10aa9...0367271b0e)
 <!-- GITHUB:END -->
 
 ## Top Followers
