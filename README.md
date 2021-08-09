@@ -86,16 +86,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya opened a pull request in MaggieAppleton/digital-gardeners](https://github.com/MaggieAppleton/digital-gardeners/pull/70)
+- [SidharthArya pushed to patch-2 in SidharthArya/digital-gardeners](https://github.com/SidharthArya/digital-gardeners/compare/6a2bde16e5...dfec388233)
+- [SidharthArya pushed to patch-1 in SidharthArya/digital-gardeners](https://github.com/SidharthArya/digital-gardeners/compare/6a2bde16e5...e673222ca4)
+- [SidharthArya commented on issue SidharthArya/pakka#7](https://github.com/SidharthArya/pakka/issues/7#issuecomment-895080136)
 - [SidharthArya starred MaggieAppleton/digital-gardeners](https://github.com/MaggieAppleton/digital-gardeners)
 - [SidharthArya forked SidharthArya/digital-gardeners from MaggieAppleton/digital-gardeners](https://github.com/SidharthArya/digital-gardeners)
 - [SidharthArya starred open-mmlab/mmocr](https://github.com/open-mmlab/mmocr)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/21d426f68d...c8bafc4935)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/76aa52cea1...e152825d8e)
 - [SidharthArya starred haoxiangsnr/Wave-U-Net-for-Speech-Enhancement](https://github.com/haoxiangsnr/Wave-U-Net-for-Speech-Enhancement)
-- [SidharthArya starred tmux-plugins/tmux-pain-control](https://github.com/tmux-plugins/tmux-pain-control)
-- [SidharthArya starred haoxiangsnr/FullSubNet](https://github.com/haoxiangsnr/FullSubNet)
-- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/0367271b0e...21d426f68d)
-- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/ad66e0cc9b...76aa52cea1)
 <!-- GITHUB:END -->
 
 ## Top Followers
