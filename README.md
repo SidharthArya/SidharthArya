@@ -86,6 +86,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya created a branch master in SidharthArya/tmp](https://github.com/SidharthArya/tmp/compare/master)
+- [SidharthArya created a repository SidharthArya/tmp](https://github.com/SidharthArya/tmp//)
 - [SidharthArya opened a pull request in MaggieAppleton/digital-gardeners](https://github.com/MaggieAppleton/digital-gardeners/pull/70)
 - [SidharthArya pushed to patch-2 in SidharthArya/digital-gardeners](https://github.com/SidharthArya/digital-gardeners/compare/6a2bde16e5...dfec388233)
 - [SidharthArya pushed to patch-1 in SidharthArya/digital-gardeners](https://github.com/SidharthArya/digital-gardeners/compare/6a2bde16e5...e673222ca4)
@@ -94,8 +96,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya forked SidharthArya/digital-gardeners from MaggieAppleton/digital-gardeners](https://github.com/SidharthArya/digital-gardeners)
 - [SidharthArya starred open-mmlab/mmocr](https://github.com/open-mmlab/mmocr)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/21d426f68d...c8bafc4935)
-- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/76aa52cea1...e152825d8e)
-- [SidharthArya starred haoxiangsnr/Wave-U-Net-for-Speech-Enhancement](https://github.com/haoxiangsnr/Wave-U-Net-for-Speech-Enhancement)
 <!-- GITHUB:END -->
 
 ## Top Followers
