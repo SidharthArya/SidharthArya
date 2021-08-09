@@ -86,16 +86,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya commented on issue SidharthArya/pakka#7](https://github.com/SidharthArya/pakka/issues/7#issuecomment-895440602)
+- [SidharthArya starred lux-org/lux](https://github.com/lux-org/lux)
+- [SidharthArya starred pandas-profiling/pandas-profiling](https://github.com/pandas-profiling/pandas-profiling)
+- [SidharthArya starred AutoViML/AutoViz](https://github.com/AutoViML/AutoViz)
+- [SidharthArya starred sfu-db/dataprep](https://github.com/sfu-db/dataprep)
+- [SidharthArya starred rapidsai/cudf](https://github.com/rapidsai/cudf)
 - [SidharthArya starred slundberg/shap](https://github.com/slundberg/shap)
 - [SidharthArya starred shankarpandala/lazypredict](https://github.com/shankarpandala/lazypredict)
 - [SidharthArya starred scikit-learn-contrib/metric-learn](https://github.com/scikit-learn-contrib/metric-learn)
 - [SidharthArya starred scikit-learn-contrib/lightning](https://github.com/scikit-learn-contrib/lightning)
-- [SidharthArya starred scikit-learn-contrib/category_encoders](https://github.com/scikit-learn-contrib/category_encoders)
-- [SidharthArya starred scikit-learn-contrib/sklearn-pandas](https://github.com/scikit-learn-contrib/sklearn-pandas)
-- [SidharthArya starred h2oai/datatable](https://github.com/h2oai/datatable)
-- [SidharthArya starred scikit-learn-contrib/hdbscan](https://github.com/scikit-learn-contrib/hdbscan)
-- [SidharthArya starred lmcinnes/pynndescent](https://github.com/lmcinnes/pynndescent)
-- [SidharthArya starred lmcinnes/umap](https://github.com/lmcinnes/umap)
 <!-- GITHUB:END -->
 
 ## Top Followers
