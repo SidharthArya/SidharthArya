@@ -86,6 +86,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to master in SidharthArya/comp-ide.el](https://github.com/SidharthArya/comp-ide.el/compare/1dd8d35b37...6344582fb4)
 - [SidharthArya starred deepklarity/jupyter-text2code](https://github.com/deepklarity/jupyter-text2code)
 - [SidharthArya starred google/pasta](https://github.com/google/pasta)
 - [SidharthArya starred fjvallarino/monomer](https://github.com/fjvallarino/monomer)
@@ -95,7 +96,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred AutoViML/AutoViz](https://github.com/AutoViML/AutoViz)
 - [SidharthArya starred sfu-db/dataprep](https://github.com/sfu-db/dataprep)
 - [SidharthArya starred rapidsai/cudf](https://github.com/rapidsai/cudf)
-- [SidharthArya starred slundberg/shap](https://github.com/slundberg/shap)
 <!-- GITHUB:END -->
 
 ## Top Followers
