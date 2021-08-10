@@ -86,16 +86,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred riscy/melpazoid](https://github.com/riscy/melpazoid)
+- [SidharthArya pushed to master in SidharthArya/comp-ide.el](https://github.com/SidharthArya/comp-ide.el/compare/2b65f9cd2f...67d033ea16)
+- [SidharthArya pushed to master in SidharthArya/comp-ide.el](https://github.com/SidharthArya/comp-ide.el/compare/f2e737cd7c...2b65f9cd2f)
+- [SidharthArya pushed to master in SidharthArya/comp-ide.el](https://github.com/SidharthArya/comp-ide.el/compare/4d7b274250...f2e737cd7c)
+- [SidharthArya pushed to master in SidharthArya/comp-ide.el](https://github.com/SidharthArya/comp-ide.el/compare/a1ef2000d9...4d7b274250)
+- [SidharthArya pushed to master in SidharthArya/comp-ide.el](https://github.com/SidharthArya/comp-ide.el/compare/4c566587e9...a1ef2000d9)
+- [SidharthArya pushed to master in SidharthArya/comp-ide.el](https://github.com/SidharthArya/comp-ide.el/compare/6344582fb4...4c566587e9)
 - [SidharthArya pushed to master in SidharthArya/comp-ide.el](https://github.com/SidharthArya/comp-ide.el/compare/1dd8d35b37...6344582fb4)
 - [SidharthArya starred deepklarity/jupyter-text2code](https://github.com/deepklarity/jupyter-text2code)
 - [SidharthArya starred google/pasta](https://github.com/google/pasta)
-- [SidharthArya starred fjvallarino/monomer](https://github.com/fjvallarino/monomer)
-- [SidharthArya commented on issue SidharthArya/pakka#7](https://github.com/SidharthArya/pakka/issues/7#issuecomment-895440602)
-- [SidharthArya starred lux-org/lux](https://github.com/lux-org/lux)
-- [SidharthArya starred pandas-profiling/pandas-profiling](https://github.com/pandas-profiling/pandas-profiling)
-- [SidharthArya starred AutoViML/AutoViz](https://github.com/AutoViML/AutoViz)
-- [SidharthArya starred sfu-db/dataprep](https://github.com/sfu-db/dataprep)
-- [SidharthArya starred rapidsai/cudf](https://github.com/rapidsai/cudf)
 <!-- GITHUB:END -->
 
 ## Top Followers
