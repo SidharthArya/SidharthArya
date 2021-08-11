@@ -60,9 +60,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SidharthArya&layout=compact"/>
 
 </td>
-<td>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SidharthArya" />
-    </td>
+
 <//tr>
 </table>
 
