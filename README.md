@@ -87,16 +87,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to master in SidharthArya/SidharthArya](https://github.com/SidharthArya/SidharthArya/compare/2f1ff251da...76734db38f)
+- [SidharthArya starred UKHomeOffice/posters](https://github.com/UKHomeOffice/posters)
+- [SidharthArya pushed to master in SidharthArya/SidharthArya](https://github.com/SidharthArya/SidharthArya/compare/697533866a...2f1ff251da)
+- [SidharthArya starred DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+- [SidharthArya starred SidharthArya/browse-rules.el](https://github.com/SidharthArya/browse-rules.el)
+- [SidharthArya starred SidharthArya/emacsit](https://github.com/SidharthArya/emacsit)
+- [SidharthArya starred SidharthArya/.xmonad](https://github.com/SidharthArya/.xmonad)
+- [SidharthArya starred SidharthArya/Computer_Vision_Class_Manit](https://github.com/SidharthArya/Computer_Vision_Class_Manit)
+- [SidharthArya starred SidharthArya/Deep_Learning_Class_Manit](https://github.com/SidharthArya/Deep_Learning_Class_Manit)
 - [SidharthArya starred SidharthArya/LoveIt](https://github.com/SidharthArya/LoveIt)
-- [SidharthArya starred SidharthArya/Bots](https://github.com/SidharthArya/Bots)
-- [SidharthArya starred SidharthArya/qutebrowser](https://github.com/SidharthArya/qutebrowser)
-- [SidharthArya starred SidharthArya/.pacman](https://github.com/SidharthArya/.pacman)
-- [SidharthArya starred SidharthArya/.qutebrowser](https://github.com/SidharthArya/.qutebrowser)
-- [SidharthArya starred SidharthArya/helm-org-roam](https://github.com/SidharthArya/helm-org-roam)
-- [SidharthArya starred SidharthArya/org-google-tasks](https://github.com/SidharthArya/org-google-tasks)
-- [SidharthArya starred SidharthArya/sidhartharya.github.io](https://github.com/SidharthArya/sidhartharya.github.io)
-- [SidharthArya starred SidharthArya/org-roam](https://github.com/SidharthArya/org-roam)
-- [SidharthArya starred SidharthArya/nix-config](https://github.com/SidharthArya/nix-config)
 <!-- GITHUB:END -->
 
 ## Top Followers
