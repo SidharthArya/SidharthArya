@@ -86,16 +86,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred SidharthArya/LoveIt](https://github.com/SidharthArya/LoveIt)
+- [SidharthArya starred SidharthArya/Bots](https://github.com/SidharthArya/Bots)
+- [SidharthArya starred SidharthArya/qutebrowser](https://github.com/SidharthArya/qutebrowser)
+- [SidharthArya starred SidharthArya/.pacman](https://github.com/SidharthArya/.pacman)
+- [SidharthArya starred SidharthArya/.qutebrowser](https://github.com/SidharthArya/.qutebrowser)
+- [SidharthArya starred SidharthArya/helm-org-roam](https://github.com/SidharthArya/helm-org-roam)
+- [SidharthArya starred SidharthArya/org-google-tasks](https://github.com/SidharthArya/org-google-tasks)
 - [SidharthArya starred SidharthArya/sidhartharya.github.io](https://github.com/SidharthArya/sidhartharya.github.io)
 - [SidharthArya starred SidharthArya/org-roam](https://github.com/SidharthArya/org-roam)
 - [SidharthArya starred SidharthArya/nix-config](https://github.com/SidharthArya/nix-config)
-- [SidharthArya starred SidharthArya/pakka-config](https://github.com/SidharthArya/pakka-config)
-- [SidharthArya starred SidharthArya/investigations](https://github.com/SidharthArya/investigations)
-- [SidharthArya starred SidharthArya/pandas](https://github.com/SidharthArya/pandas)
-- [SidharthArya starred SidharthArya/.bspwm](https://github.com/SidharthArya/.bspwm)
-- [SidharthArya starred SidharthArya/scripts](https://github.com/SidharthArya/scripts)
-- [SidharthArya starred SidharthArya/wazirx-data-extractor](https://github.com/SidharthArya/wazirx-data-extractor)
-- [SidharthArya starred SidharthArya/covid19-vaccine-tracker-india](https://github.com/SidharthArya/covid19-vaccine-tracker-india)
 <!-- GITHUB:END -->
 
 ## Top Followers
