@@ -70,6 +70,8 @@
 
 ## C 
 
+- [SidharthArya/pakka-config](https://github.com/SidharthArya/pakka-config) - 
+- [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
 - [PortAudio/portaudio](https://github.com/PortAudio/portaudio) - PortAudio is a cross-platform, open-source C language library for real-time audio input and output.
 - [xiph/rnnoise](https://github.com/xiph/rnnoise) - Recurrent neural network for audio noise reduction
 - [deepmind/lab](https://github.com/deepmind/lab) - A customisable 3D platform for agent-based AI research
@@ -257,6 +259,11 @@
 
 ## Emacs Lisp 
 
+- [SidharthArya/org-roam](https://github.com/SidharthArya/org-roam) - Rudimentary Roam replica with Org-mode
+- [SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d) - Emacs Configuration
+- [SidharthArya/comp-ide.el](https://github.com/SidharthArya/comp-ide.el) - A simple and efficient Emacs Competitive IDE.
+- [jeremy-compostella/org-msg](https://github.com/jeremy-compostella/org-msg) - OrgMsg is a GNU/Emacs global minor mode mixing up Org mode and Message mode to compose and reply to emails in a Outlook HTML friendly style.
+- [abo-abo/lispy](https://github.com/abo-abo/lispy) - Short and sweet LISP editing
 - [alphapapa/prism.el](https://github.com/alphapapa/prism.el) - Disperse Lisp forms (and other languages) into a spectrum of colors by depth
 - [Somelauw/evil-org-mode](https://github.com/Somelauw/evil-org-mode) - Supplemental evil-mode keybindings to emacs org-mode
 - [galaunay/poetry.el](https://github.com/galaunay/poetry.el) - Python dependency management and packaging in Emacs
@@ -344,7 +351,6 @@
 - [manateelazycat/awesome-tab](https://github.com/manateelazycat/awesome-tab) - Emacs package to provide out-of-the-box configuration to use tabs.
 - [manateelazycat/aweshell](https://github.com/manateelazycat/aweshell) - Awesome shell extension base on eshell with wonderful features!
 - [manateelazycat/snails](https://github.com/manateelazycat/snails) - A modern, easy-to-expand fuzzy search framework
-- [manateelazycat/emacs-application-framework](https://github.com/manateelazycat/emacs-application-framework) - Emacs application framework
 - [zevlg/telega.el](https://github.com/zevlg/telega.el) - GNU Emacs telegram client (unofficial)
 - [nicferrier/rcirc-notify](https://github.com/nicferrier/rcirc-notify) - Notifications for rcirc, the emacs IRC client
 - [alphapapa/org-super-agenda](https://github.com/alphapapa/org-super-agenda) - Supercharge your Org daily/weekly agenda by grouping items
@@ -409,6 +415,7 @@
 
 ## Go 
 
+- [kellegous/go](https://github.com/kellegous/go) - Another Google-like Go short link service
 - [cosmtrek/air](https://github.com/cosmtrek/air) - ☁️ Live reload for Go apps
 - [anatol/booster](https://github.com/anatol/booster) - Fast and secure initramfs generator
 - [microsoft/CBL-Mariner](https://github.com/microsoft/CBL-Mariner) - Linux OS for Azure 1P services and edge appliances
@@ -457,6 +464,8 @@
 
 ## HTML 
 
+- [SidharthArya/sidhartharya.github.io](https://github.com/SidharthArya/sidhartharya.github.io) - My Personal Website And Blog
+- [SidharthArya/.bspwm](https://github.com/SidharthArya/.bspwm) - 
 - [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
 - [microsoft/MS-SNSD](https://github.com/microsoft/MS-SNSD) - The Microsoft Scalable Noisy Speech Dataset (MS-SNSD) is a noisy speech dataset that can scale to arbitrary sizes depending on the number of speakers, noise types, and Speech to Noise Ratio (SNR) levels desired.
 - [microsoft/P.808](https://github.com/microsoft/P.808) - This is an open-source implementation of the ITU P.808 standard for "Subjective evaluation of speech quality with a crowdsourcing approach" (see https://www.itu.int/rec/T-REC-P.808/en). It uses Amazon Mechanical Turk as the crowdsourcing platform. It includes implementations for Absolute Category Rating (ACR), Degradation Category Rating (DCR), and Comparison Category Rating (CCR).
@@ -553,7 +562,6 @@
 - [bower/bower](https://github.com/bower/bower) - A package manager for the web
 - [yarnpkg/yarn](https://github.com/yarnpkg/yarn) - The 1.x line is frozen - features and bugfixes now happen on https://github.com/yarnpkg/berry
 - [meteor/meteor](https://github.com/meteor/meteor) - Meteor, the JavaScript App Platform
-- [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) - :green_book: SheetJS Community Edition -- Spreadsheet Data Toolkit
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
 - [hexojs/hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
 - [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - 👻 The #1 headless Node.js CMS for professional publishing
@@ -713,6 +721,7 @@
 
 ## Makefile 
 
+- [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) - :green_book: SheetJS Community Edition -- Spreadsheet Data Toolkit
 - [redox-os/redox](https://github.com/redox-os/redox) - Mirror of https://gitlab.redox-os.org/redox-os/redox
 
 ## Markdown 
@@ -726,6 +735,7 @@
 
 ## Nix 
 
+- [SidharthArya/nix-config](https://github.com/SidharthArya/nix-config) - My local nix config
 - [nix-community/poetry2nix](https://github.com/nix-community/poetry2nix) - Convert poetry projects to nix automagically [maintainer=@adisbladis]
 - [hlissner/dotfiles](https://github.com/hlissner/dotfiles) - And I say hey, what's going on?
 - [numtide/devshell](https://github.com/numtide/devshell) - Per project developer environments
@@ -745,6 +755,10 @@
 
 ## Others 
 
+- [SidharthArya/investigations](https://github.com/SidharthArya/investigations) - Indicators from Amnesty International's investigations
+- [SidharthArya/pandas](https://github.com/SidharthArya/pandas) - Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
+- [SidharthArya/digital-gardeners](https://github.com/SidharthArya/digital-gardeners) - Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs
+- [jhuangtw/xg2xg](https://github.com/jhuangtw/xg2xg) - by ex-googlers, for ex-googlers - a lookup table of similar tech & services
 - [MaggieAppleton/digital-gardeners](https://github.com/MaggieAppleton/digital-gardeners) - Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs
 - [JusperLee/Speech-Separation-Paper-Tutorial](https://github.com/JusperLee/Speech-Separation-Paper-Tutorial) - A must-read paper for speech separation based on neural networks
 - [AstraZeneca/awesome-explainable-graph-reasoning](https://github.com/AstraZeneca/awesome-explainable-graph-reasoning) - A collection of research papers and software related to explainability in graph machine learning.
@@ -853,6 +867,11 @@
 
 ## Python 
 
+- [SidharthArya/scripts](https://github.com/SidharthArya/scripts) - 
+- [SidharthArya/wazirx-data-extractor](https://github.com/SidharthArya/wazirx-data-extractor) - Extracting Cryptocurrency data from wazirx
+- [SidharthArya/covid19-vaccine-tracker-india](https://github.com/SidharthArya/covid19-vaccine-tracker-india) - 
+- [SidharthArya/SidharthArya](https://github.com/SidharthArya/SidharthArya) - 
+- [riscy/melpazoid](https://github.com/riscy/melpazoid) - A bundle of CI scripts for testing Emacs packages, primarily submissions to MELPA.
 - [google/pasta](https://github.com/google/pasta) - Library to refactor python code through AST manipulation.
 - [lux-org/lux](https://github.com/lux-org/lux) - Python API for Intelligent Visual Data Discovery
 - [AutoViML/AutoViz](https://github.com/AutoViML/AutoViz) - Automatically Visualize any dataset, any size with a single line of code.  Created by Ram Seshadri. Collaborators Welcome. Permission Granted upon Request.
@@ -961,7 +980,7 @@
 - [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
 - [flairNLP/flair](https://github.com/flairNLP/flair) - A very simple framework for state-of-the-art Natural Language Processing (NLP)
 - [RasaHQ/rasa](https://github.com/RasaHQ/rasa) - 💬   Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants
-- [hankcs/HanLP](https://github.com/hankcs/HanLP) - 中文分词 词性标注 命名实体识别 依存句法分析 语义依存分析 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁转换 自然语言处理
+- [hankcs/HanLP](https://github.com/hankcs/HanLP) - Natural Language Processing for the next decade. Tokenization, Part-of-Speech Tagging, Named Entity Recognition, Syntactic & Semantic Dependency Parsing, Document Classification
 - [apachecn/AiLearning](https://github.com/apachecn/AiLearning) - AiLearning: 机器学习 - MachineLearning - ML、深度学习 - DeepLearning - DL、自然语言处理 NLP
 - [eriklindernoren/ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch) - Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learning.
 - [sebastianruder/NLP-progress](https://github.com/sebastianruder/NLP-progress) - Repository to track the progress in Natural Language Processing (NLP), including the datasets and the current state-of-the-art for the most common NLP tasks.
@@ -1067,6 +1086,7 @@
 - [dabasajay/Image-Caption-Generator](https://github.com/dabasajay/Image-Caption-Generator) - A neural network to generate captions for an image using CNN and RNN with BEAM Search.
 - [TachibanaYoshino/AnimeGAN](https://github.com/TachibanaYoshino/AnimeGAN) - A Tensorflow implementation of AnimeGAN for fast photo animation  ! This is the Open source of the paper 「AnimeGAN: a novel lightweight GAN for photo animation」, which uses the GAN framwork to transform real-world photos into anime images.
 - [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Big Sur support now! Only commercial (paid) support is available.
+- [emacs-eaf/emacs-application-framework](https://github.com/emacs-eaf/emacs-application-framework) - EAF, a customizable and extensible GUI framework that revolutionizes Emacs graphical capabilities
 - [kornia/kornia](https://github.com/kornia/kornia) - Open Source Differentiable Computer Vision Library for PyTorch
 - [spotify/chartify](https://github.com/spotify/chartify) - Python library that makes it easy for data scientists to create charts.
 - [qtile/qtile](https://github.com/qtile/qtile) - :cookie: A full-featured, hackable tiling window manager written and configured in Python
@@ -1233,6 +1253,9 @@
 
 ## Shell 
 
+- [SidharthArya/.nnn](https://github.com/SidharthArya/.nnn) - 
+- [SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles) - The most amazing dotfiles ever
+- [SidharthArya/pakka](https://github.com/SidharthArya/pakka) - A simple bash based AUR helper for Arch Linux
 - [tmux-plugins/tmux-pain-control](https://github.com/tmux-plugins/tmux-pain-control) - standard pane key-bindings for tmux
 - [tmux-plugins/tmux-copycat](https://github.com/tmux-plugins/tmux-copycat) - A plugin that enhances tmux search
 - [zsh-users/antigen](https://github.com/zsh-users/antigen) - The plugin manager for zsh.
@@ -1304,7 +1327,7 @@
 - [aws-amplify/amplify-js](https://github.com/aws-amplify/amplify-js) - A declarative JavaScript library for application development using cloud services.
 - [JMPerez/linkedin-to-json-resume](https://github.com/JMPerez/linkedin-to-json-resume) - An exporter from a LinkedIn profile to JSON Résumé
 - [framer/motion](https://github.com/framer/motion) - Open source, production-ready animation and gesture library for React
-- [botpress/botpress](https://github.com/botpress/botpress) - 🤖 The Conversational Platform with built-in language understanding (NLU), beautiful graphical interface and Dialog Manager (DM). Easily create chatbots and AI-based virtual assistants.
+- [botpress/botpress](https://github.com/botpress/botpress) - 🤖 Dev tools to reliably understand text and automate conversations. Built-in NLU.  Connect & deploy on any messaging channel (Slack, MS Teams, website, Telegram, etc).
 - [youzan/vant](https://github.com/youzan/vant) - Lightweight Mobile UI Components built on Vue
 - [softprops/action-gh-release](https://github.com/softprops/action-gh-release) - 📦 :octocat: GitHub Action for creating GitHub Releases
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - Gitpod automates the provisioning of ready-to-code development environments.
