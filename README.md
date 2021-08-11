@@ -86,6 +86,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred SidharthArya/pakka](https://github.com/SidharthArya/pakka)
 - [SidharthArya starred SidharthArya/comp-ide.el](https://github.com/SidharthArya/comp-ide.el)
 - [SidharthArya starred obsproject/obs-studio](https://github.com/obsproject/obs-studio)
 - [SidharthArya starred kellegous/go](https://github.com/kellegous/go)
@@ -95,7 +96,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/c8bafc4935...566ecca435)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/e152825d8e...ff3e4ef171)
 - [SidharthArya pushed to master in SidharthArya/.nnn](https://github.com/SidharthArya/.nnn/compare/df395d4d2b...538fa278f6)
-- [SidharthArya starred riscy/melpazoid](https://github.com/riscy/melpazoid)
 <!-- GITHUB:END -->
 
 ## Top Followers
