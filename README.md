@@ -67,6 +67,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+ - 10-08-2021 [Emacs Comp IDE demo](https://www.youtube.com/watch?v=zY0gr3Tv3hU)
  - 03-08-2021 [Covid19 Vaccine Tracking Telegram Bot demo](https://www.youtube.com/watch?v=9W0XNbmQQRQ)
  - 17-07-2021 [Eproj Testing](https://www.youtube.com/watch?v=UFLeJTyE4IA)<!-- YOUTUBE:END -->
 
