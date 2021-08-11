@@ -86,16 +86,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
-- [SidharthArya starred SidharthArya/pakka](https://github.com/SidharthArya/pakka)
-- [SidharthArya starred SidharthArya/comp-ide.el](https://github.com/SidharthArya/comp-ide.el)
-- [SidharthArya starred obsproject/obs-studio](https://github.com/obsproject/obs-studio)
-- [SidharthArya starred kellegous/go](https://github.com/kellegous/go)
-- [SidharthArya starred jhuangtw/xg2xg](https://github.com/jhuangtw/xg2xg)
-- [SidharthArya starred jeremy-compostella/org-msg](https://github.com/jeremy-compostella/org-msg)
-- [SidharthArya starred abo-abo/lispy](https://github.com/abo-abo/lispy)
-- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/c8bafc4935...566ecca435)
-- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/e152825d8e...ff3e4ef171)
-- [SidharthArya pushed to master in SidharthArya/.nnn](https://github.com/SidharthArya/.nnn/compare/df395d4d2b...538fa278f6)
+- [SidharthArya starred SidharthArya/sidhartharya.github.io](https://github.com/SidharthArya/sidhartharya.github.io)
+- [SidharthArya starred SidharthArya/org-roam](https://github.com/SidharthArya/org-roam)
+- [SidharthArya starred SidharthArya/nix-config](https://github.com/SidharthArya/nix-config)
+- [SidharthArya starred SidharthArya/pakka-config](https://github.com/SidharthArya/pakka-config)
+- [SidharthArya starred SidharthArya/investigations](https://github.com/SidharthArya/investigations)
+- [SidharthArya starred SidharthArya/pandas](https://github.com/SidharthArya/pandas)
+- [SidharthArya starred SidharthArya/.bspwm](https://github.com/SidharthArya/.bspwm)
+- [SidharthArya starred SidharthArya/scripts](https://github.com/SidharthArya/scripts)
+- [SidharthArya starred SidharthArya/wazirx-data-extractor](https://github.com/SidharthArya/wazirx-data-extractor)
+- [SidharthArya starred SidharthArya/covid19-vaccine-tracker-india](https://github.com/SidharthArya/covid19-vaccine-tracker-india)
 <!-- GITHUB:END -->
 
 ## Top Followers
