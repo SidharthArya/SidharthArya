@@ -86,6 +86,9 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred obsproject/obs-studio](https://github.com/obsproject/obs-studio)
+- [SidharthArya starred kellegous/go](https://github.com/kellegous/go)
+- [SidharthArya starred jhuangtw/xg2xg](https://github.com/jhuangtw/xg2xg)
 - [SidharthArya starred jeremy-compostella/org-msg](https://github.com/jeremy-compostella/org-msg)
 - [SidharthArya starred abo-abo/lispy](https://github.com/abo-abo/lispy)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/c8bafc4935...566ecca435)
@@ -93,9 +96,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/.nnn](https://github.com/SidharthArya/.nnn/compare/df395d4d2b...538fa278f6)
 - [SidharthArya starred riscy/melpazoid](https://github.com/riscy/melpazoid)
 - [SidharthArya pushed to master in SidharthArya/comp-ide.el](https://github.com/SidharthArya/comp-ide.el/compare/2b65f9cd2f...67d033ea16)
-- [SidharthArya pushed to master in SidharthArya/comp-ide.el](https://github.com/SidharthArya/comp-ide.el/compare/f2e737cd7c...2b65f9cd2f)
-- [SidharthArya pushed to master in SidharthArya/comp-ide.el](https://github.com/SidharthArya/comp-ide.el/compare/4d7b274250...f2e737cd7c)
-- [SidharthArya pushed to master in SidharthArya/comp-ide.el](https://github.com/SidharthArya/comp-ide.el/compare/a1ef2000d9...4d7b274250)
 <!-- GITHUB:END -->
 
 ## Top Followers
