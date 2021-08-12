@@ -88,6 +88,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya opened an issue in SidharthArya/comp-ide.el](https://github.com/SidharthArya/comp-ide.el/issues/1)
 - [SidharthArya pushed to master in SidharthArya/SidharthArya](https://github.com/SidharthArya/SidharthArya/compare/2f1ff251da...76734db38f)
 - [SidharthArya starred UKHomeOffice/posters](https://github.com/UKHomeOffice/posters)
 - [SidharthArya pushed to master in SidharthArya/SidharthArya](https://github.com/SidharthArya/SidharthArya/compare/697533866a...2f1ff251da)
@@ -97,7 +98,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred SidharthArya/.xmonad](https://github.com/SidharthArya/.xmonad)
 - [SidharthArya starred SidharthArya/Computer_Vision_Class_Manit](https://github.com/SidharthArya/Computer_Vision_Class_Manit)
 - [SidharthArya starred SidharthArya/Deep_Learning_Class_Manit](https://github.com/SidharthArya/Deep_Learning_Class_Manit)
-- [SidharthArya starred SidharthArya/LoveIt](https://github.com/SidharthArya/LoveIt)
 <!-- GITHUB:END -->
 
 ## Top Followers
