@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred feenkcom/gtoolkit](https://github.com/feenkcom/gtoolkit)
 - [SidharthArya starred searleser97/cpbooster](https://github.com/searleser97/cpbooster)
 - [SidharthArya pushed to comp-ide in SidharthArya/melpa](https://github.com/SidharthArya/melpa/compare/26a7f77b2c...e4c4aeb10d)
 - [SidharthArya opened a pull request in melpa/melpa](https://github.com/melpa/melpa/pull/7682)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/melpa](https://github.com/SidharthArya/melpa/compare/5eb339ee07...b9ec35c458)
 - [SidharthArya pushed to modular-config in SidharthArya/melpa](https://github.com/SidharthArya/melpa/compare/62b7256005...0071a0e526)
 - [SidharthArya starred microsoft/gctoolkit](https://github.com/microsoft/gctoolkit)
-- [SidharthArya starred kingoflolz/mesh-transformer-jax](https://github.com/kingoflolz/mesh-transformer-jax)
 <!-- GITHUB:END -->
 
 ## Top Followers
