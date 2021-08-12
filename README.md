@@ -87,16 +87,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred microsoft/gctoolkit](https://github.com/microsoft/gctoolkit)
+- [SidharthArya starred kingoflolz/mesh-transformer-jax](https://github.com/kingoflolz/mesh-transformer-jax)
+- [SidharthArya starred willmcgugan/textual](https://github.com/willmcgugan/textual)
+- [SidharthArya pushed to master in SidharthArya/SidharthArya](https://github.com/SidharthArya/SidharthArya/compare/e0a16fb5f1...54c991adf5)
 - [SidharthArya opened an issue in SidharthArya/comp-ide.el](https://github.com/SidharthArya/comp-ide.el/issues/1)
 - [SidharthArya pushed to master in SidharthArya/SidharthArya](https://github.com/SidharthArya/SidharthArya/compare/2f1ff251da...76734db38f)
 - [SidharthArya starred UKHomeOffice/posters](https://github.com/UKHomeOffice/posters)
 - [SidharthArya pushed to master in SidharthArya/SidharthArya](https://github.com/SidharthArya/SidharthArya/compare/697533866a...2f1ff251da)
 - [SidharthArya starred DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
 - [SidharthArya starred SidharthArya/browse-rules.el](https://github.com/SidharthArya/browse-rules.el)
-- [SidharthArya starred SidharthArya/emacsit](https://github.com/SidharthArya/emacsit)
-- [SidharthArya starred SidharthArya/.xmonad](https://github.com/SidharthArya/.xmonad)
-- [SidharthArya starred SidharthArya/Computer_Vision_Class_Manit](https://github.com/SidharthArya/Computer_Vision_Class_Manit)
-- [SidharthArya starred SidharthArya/Deep_Learning_Class_Manit](https://github.com/SidharthArya/Deep_Learning_Class_Manit)
 <!-- GITHUB:END -->
 
 ## Top Followers
