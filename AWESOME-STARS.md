@@ -259,6 +259,10 @@
 
 ## Emacs Lisp 
 
+- [SidharthArya/browse-rules.el](https://github.com/SidharthArya/browse-rules.el) - Rules for browsing various urls
+- [SidharthArya/emacsit](https://github.com/SidharthArya/emacsit) - A Toy Package Manager for Emacs.
+- [SidharthArya/helm-org-roam](https://github.com/SidharthArya/helm-org-roam) - 
+- [SidharthArya/org-google-tasks](https://github.com/SidharthArya/org-google-tasks) - 
 - [SidharthArya/org-roam](https://github.com/SidharthArya/org-roam) - Rudimentary Roam replica with Org-mode
 - [SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d) - Emacs Configuration
 - [SidharthArya/comp-ide.el](https://github.com/SidharthArya/comp-ide.el) - A simple and efficient Emacs Competitive IDE.
@@ -351,6 +355,7 @@
 - [manateelazycat/awesome-tab](https://github.com/manateelazycat/awesome-tab) - Emacs package to provide out-of-the-box configuration to use tabs.
 - [manateelazycat/aweshell](https://github.com/manateelazycat/aweshell) - Awesome shell extension base on eshell with wonderful features!
 - [manateelazycat/snails](https://github.com/manateelazycat/snails) - A modern, easy-to-expand fuzzy search framework
+- [emacs-eaf/emacs-application-framework](https://github.com/emacs-eaf/emacs-application-framework) - EAF, a customizable and extensible framework that revolutionizes Emacs graphical capabilities
 - [zevlg/telega.el](https://github.com/zevlg/telega.el) - GNU Emacs telegram client (unofficial)
 - [nicferrier/rcirc-notify](https://github.com/nicferrier/rcirc-notify) - Notifications for rcirc, the emacs IRC client
 - [alphapapa/org-super-agenda](https://github.com/alphapapa/org-super-agenda) - Supercharge your Org daily/weekly agenda by grouping items
@@ -480,6 +485,7 @@
 
 ## Haskell 
 
+- [SidharthArya/.xmonad](https://github.com/SidharthArya/.xmonad) - 
 - [fjvallarino/monomer](https://github.com/fjvallarino/monomer) - An easy to use, cross platform, GUI library for writing Haskell applications.
 - [purescript/purescript](https://github.com/purescript/purescript) - A strongly-typed language that compiles to JavaScript
 - [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter
@@ -503,6 +509,7 @@
 
 ## Java 
 
+- [microsoft/gctoolkit](https://github.com/microsoft/gctoolkit) - Tool for parsing GC logs
 - [open-keychain/open-keychain](https://github.com/open-keychain/open-keychain) - OpenKeychain is an OpenPGP implementation for Android.
 - [dromara/Sa-Token](https://github.com/dromara/Sa-Token) - 这可能是史上功能最全的Java权限认证框架，权限架构设计的绝佳实践！目前已集成——登录认证、权限认证、分布式Session会话、微服务网关鉴权、单点登录、OAuth2.0、踢人下线、Redis集成、前后台分离、记住我模式、模拟他人账号、临时身份切换、账号封禁、多账号认证体系、注解式鉴权、路由拦截式鉴权、花式token生成、自动续签、同端互斥登录、会话治理、密码加密、jwt集成、Spring集成、WebFlux集成...
 - [assertj/assertj-core](https://github.com/assertj/assertj-core) - AssertJ is a library providing easy to use rich typed assertions
@@ -659,6 +666,8 @@
 
 ## Jupyter Notebook 
 
+- [SidharthArya/Computer_Vision_Class_Manit](https://github.com/SidharthArya/Computer_Vision_Class_Manit) - For all the class work.
+- [SidharthArya/Deep_Learning_Class_Manit](https://github.com/SidharthArya/Deep_Learning_Class_Manit) - For all the class work in Deep Learning Class By Prof. Vijay Bhaskar Semwal
 - [deepklarity/jupyter-text2code](https://github.com/deepklarity/jupyter-text2code) - A proof-of-concept jupyter extension which converts english queries into relevant python code
 - [pandas-profiling/pandas-profiling](https://github.com/pandas-profiling/pandas-profiling) - Create HTML profiling reports from pandas DataFrame objects
 - [slundberg/shap](https://github.com/slundberg/shap) - A game theoretic approach to explain the output of any machine learning model.
@@ -755,6 +764,10 @@
 
 ## Others 
 
+- [UKHomeOffice/posters](https://github.com/UKHomeOffice/posters) - Home Office Digital repository of posters covering different topics - research, access needs, accessibility, design.
+- [SidharthArya/LoveIt](https://github.com/SidharthArya/LoveIt) - ❤️A clean, elegant but advanced blog theme for Hugo 一个简洁、优雅且高效的 Hugo 主题
+- [SidharthArya/Bots](https://github.com/SidharthArya/Bots) - 
+- [SidharthArya/qutebrowser](https://github.com/SidharthArya/qutebrowser) - A keyboard-driven, vim-like browser based on PyQt5.
 - [SidharthArya/investigations](https://github.com/SidharthArya/investigations) - Indicators from Amnesty International's investigations
 - [SidharthArya/pandas](https://github.com/SidharthArya/pandas) - Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
 - [SidharthArya/digital-gardeners](https://github.com/SidharthArya/digital-gardeners) - Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs
@@ -853,6 +866,7 @@
 
 ## PHP 
 
+- [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
 - [kanboard/kanboard](https://github.com/kanboard/kanboard) - Kanban project management software
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - Liberating Web Analytics. Star us on Github? +1. Matomo is the leading open alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from websites & apps and visualise this data and extract insights. Privacy is built-in. We love Pull Requests!
 - [felixfbecker/php-language-server](https://github.com/felixfbecker/php-language-server) - PHP Implementation of the VS Code Language Server Protocol 🆚↔🖥
@@ -867,6 +881,9 @@
 
 ## Python 
 
+- [kingoflolz/mesh-transformer-jax](https://github.com/kingoflolz/mesh-transformer-jax) - Model parallel transformers in JAX and Haiku
+- [willmcgugan/textual](https://github.com/willmcgugan/textual) - Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.
+- [SidharthArya/.qutebrowser](https://github.com/SidharthArya/.qutebrowser) - 
 - [SidharthArya/scripts](https://github.com/SidharthArya/scripts) - 
 - [SidharthArya/wazirx-data-extractor](https://github.com/SidharthArya/wazirx-data-extractor) - Extracting Cryptocurrency data from wazirx
 - [SidharthArya/covid19-vaccine-tracker-india](https://github.com/SidharthArya/covid19-vaccine-tracker-india) - 
@@ -1086,7 +1103,6 @@
 - [dabasajay/Image-Caption-Generator](https://github.com/dabasajay/Image-Caption-Generator) - A neural network to generate captions for an image using CNN and RNN with BEAM Search.
 - [TachibanaYoshino/AnimeGAN](https://github.com/TachibanaYoshino/AnimeGAN) - A Tensorflow implementation of AnimeGAN for fast photo animation  ! This is the Open source of the paper 「AnimeGAN: a novel lightweight GAN for photo animation」, which uses the GAN framwork to transform real-world photos into anime images.
 - [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Big Sur support now! Only commercial (paid) support is available.
-- [emacs-eaf/emacs-application-framework](https://github.com/emacs-eaf/emacs-application-framework) - EAF, a customizable and extensible GUI framework that revolutionizes Emacs graphical capabilities
 - [kornia/kornia](https://github.com/kornia/kornia) - Open Source Differentiable Computer Vision Library for PyTorch
 - [spotify/chartify](https://github.com/spotify/chartify) - Python library that makes it easy for data scientists to create charts.
 - [qtile/qtile](https://github.com/qtile/qtile) - :cookie: A full-featured, hackable tiling window manager written and configured in Python
@@ -1253,6 +1269,7 @@
 
 ## Shell 
 
+- [SidharthArya/.pacman](https://github.com/SidharthArya/.pacman) - 
 - [SidharthArya/.nnn](https://github.com/SidharthArya/.nnn) - 
 - [SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles) - The most amazing dotfiles ever
 - [SidharthArya/pakka](https://github.com/SidharthArya/pakka) - A simple bash based AUR helper for Arch Linux
@@ -1319,6 +1336,7 @@
 
 ## TypeScript 
 
+- [searleser97/cpbooster](https://github.com/searleser97/cpbooster) - Competitive Programming Booster
 - [thenewboston-developers/Account-Manager](https://github.com/thenewboston-developers/Account-Manager) - Account manager desktop application for thenewboston digital currency.
 - [bytedance/bytemd](https://github.com/bytedance/bytemd) - A hackable Markdown editor component built with Svelte
 - [phiresky/sql.js-httpvfs](https://github.com/phiresky/sql.js-httpvfs) - 
