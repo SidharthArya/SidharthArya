@@ -87,6 +87,9 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to master in SidharthArya/comp-ide.el](https://github.com/SidharthArya/comp-ide.el/compare/67d033ea16...107462e6e9)
+- [SidharthArya pushed to master in SidharthArya/melpa](https://github.com/SidharthArya/melpa/compare/5eb339ee07...b9ec35c458)
+- [SidharthArya pushed to modular-config in SidharthArya/melpa](https://github.com/SidharthArya/melpa/compare/62b7256005...0071a0e526)
 - [SidharthArya starred microsoft/gctoolkit](https://github.com/microsoft/gctoolkit)
 - [SidharthArya starred kingoflolz/mesh-transformer-jax](https://github.com/kingoflolz/mesh-transformer-jax)
 - [SidharthArya starred willmcgugan/textual](https://github.com/willmcgugan/textual)
@@ -94,9 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya opened an issue in SidharthArya/comp-ide.el](https://github.com/SidharthArya/comp-ide.el/issues/1)
 - [SidharthArya pushed to master in SidharthArya/SidharthArya](https://github.com/SidharthArya/SidharthArya/compare/2f1ff251da...76734db38f)
 - [SidharthArya starred UKHomeOffice/posters](https://github.com/UKHomeOffice/posters)
-- [SidharthArya pushed to master in SidharthArya/SidharthArya](https://github.com/SidharthArya/SidharthArya/compare/697533866a...2f1ff251da)
-- [SidharthArya starred DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-- [SidharthArya starred SidharthArya/browse-rules.el](https://github.com/SidharthArya/browse-rules.el)
 <!-- GITHUB:END -->
 
 ## Top Followers
