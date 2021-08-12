@@ -87,16 +87,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to comp-ide in SidharthArya/melpa](https://github.com/SidharthArya/melpa/compare/26a7f77b2c...e4c4aeb10d)
+- [SidharthArya opened a pull request in melpa/melpa](https://github.com/melpa/melpa/pull/7682)
+- [SidharthArya pushed to master in SidharthArya/comp-ide.el](https://github.com/SidharthArya/comp-ide.el/compare/107462e6e9...6a0ecaff37)
+- [SidharthArya created a branch comp-ide in SidharthArya/melpa](https://github.com/SidharthArya/melpa/compare/comp-ide)
 - [SidharthArya pushed to master in SidharthArya/comp-ide.el](https://github.com/SidharthArya/comp-ide.el/compare/67d033ea16...107462e6e9)
 - [SidharthArya pushed to master in SidharthArya/melpa](https://github.com/SidharthArya/melpa/compare/5eb339ee07...b9ec35c458)
 - [SidharthArya pushed to modular-config in SidharthArya/melpa](https://github.com/SidharthArya/melpa/compare/62b7256005...0071a0e526)
 - [SidharthArya starred microsoft/gctoolkit](https://github.com/microsoft/gctoolkit)
 - [SidharthArya starred kingoflolz/mesh-transformer-jax](https://github.com/kingoflolz/mesh-transformer-jax)
 - [SidharthArya starred willmcgugan/textual](https://github.com/willmcgugan/textual)
-- [SidharthArya pushed to master in SidharthArya/SidharthArya](https://github.com/SidharthArya/SidharthArya/compare/e0a16fb5f1...54c991adf5)
-- [SidharthArya opened an issue in SidharthArya/comp-ide.el](https://github.com/SidharthArya/comp-ide.el/issues/1)
-- [SidharthArya pushed to master in SidharthArya/SidharthArya](https://github.com/SidharthArya/SidharthArya/compare/2f1ff251da...76734db38f)
-- [SidharthArya starred UKHomeOffice/posters](https://github.com/UKHomeOffice/posters)
 <!-- GITHUB:END -->
 
 ## Top Followers
