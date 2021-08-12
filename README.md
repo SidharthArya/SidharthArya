@@ -49,7 +49,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Github Stats
 
 <table border="0">
-  <tr>
+ <tr>
 <td class="d-inline">
   <td>
 <img src="https://github-readme-stats.vercel.app/api?username=SidharthArya&count_private=true&show_icons=true" />
@@ -61,7 +61,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 
 </td>
 
-<//tr>
 </table>
 
 ## Latest YouTube Videos
