@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred onnx/onnx-tensorrt](https://github.com/onnx/onnx-tensorrt)
 - [SidharthArya starred onnx/tensorflow-onnx](https://github.com/onnx/tensorflow-onnx)
 - [SidharthArya starred feenkcom/gtoolkit](https://github.com/feenkcom/gtoolkit)
 - [SidharthArya starred searleser97/cpbooster](https://github.com/searleser97/cpbooster)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya created a branch comp-ide in SidharthArya/melpa](https://github.com/SidharthArya/melpa/compare/comp-ide)
 - [SidharthArya pushed to master in SidharthArya/comp-ide.el](https://github.com/SidharthArya/comp-ide.el/compare/67d033ea16...107462e6e9)
 - [SidharthArya pushed to master in SidharthArya/melpa](https://github.com/SidharthArya/melpa/compare/5eb339ee07...b9ec35c458)
-- [SidharthArya pushed to modular-config in SidharthArya/melpa](https://github.com/SidharthArya/melpa/compare/62b7256005...0071a0e526)
 <!-- GITHUB:END -->
 
 ## Top Followers
