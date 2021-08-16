@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/566ecca435...667df74d5e)
+- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/ff3e4ef171...d29ef8d8ca)
 - [SidharthArya starred emacs-tree-sitter/elisp-tree-sitter](https://github.com/emacs-tree-sitter/elisp-tree-sitter)
 - [SidharthArya starred onnx/onnx-tensorrt](https://github.com/onnx/onnx-tensorrt)
 - [SidharthArya starred onnx/tensorflow-onnx](https://github.com/onnx/tensorflow-onnx)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to comp-ide in SidharthArya/melpa](https://github.com/SidharthArya/melpa/compare/26a7f77b2c...e4c4aeb10d)
 - [SidharthArya opened a pull request in melpa/melpa](https://github.com/melpa/melpa/pull/7682)
 - [SidharthArya pushed to master in SidharthArya/comp-ide.el](https://github.com/SidharthArya/comp-ide.el/compare/107462e6e9...6a0ecaff37)
-- [SidharthArya created a branch comp-ide in SidharthArya/melpa](https://github.com/SidharthArya/melpa/compare/comp-ide)
-- [SidharthArya pushed to master in SidharthArya/comp-ide.el](https://github.com/SidharthArya/comp-ide.el/compare/67d033ea16...107462e6e9)
 <!-- GITHUB:END -->
 
 ## Top Followers
