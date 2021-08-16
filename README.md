@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya commented on pull request melpa/melpa#7682](https://github.com/melpa/melpa/pull/7682#issuecomment-899385581)
+- [SidharthArya pushed to master in SidharthArya/comp-ide.el](https://github.com/SidharthArya/comp-ide.el/compare/6a0ecaff37...a87e19cdbb)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/566ecca435...667df74d5e)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/ff3e4ef171...d29ef8d8ca)
 - [SidharthArya starred emacs-tree-sitter/elisp-tree-sitter](https://github.com/emacs-tree-sitter/elisp-tree-sitter)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred feenkcom/gtoolkit](https://github.com/feenkcom/gtoolkit)
 - [SidharthArya starred searleser97/cpbooster](https://github.com/searleser97/cpbooster)
 - [SidharthArya pushed to comp-ide in SidharthArya/melpa](https://github.com/SidharthArya/melpa/compare/26a7f77b2c...e4c4aeb10d)
-- [SidharthArya opened a pull request in melpa/melpa](https://github.com/melpa/melpa/pull/7682)
-- [SidharthArya pushed to master in SidharthArya/comp-ide.el](https://github.com/SidharthArya/comp-ide.el/compare/107462e6e9...6a0ecaff37)
 <!-- GITHUB:END -->
 
 ## Top Followers
