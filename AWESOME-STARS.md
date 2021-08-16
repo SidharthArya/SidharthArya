@@ -261,6 +261,7 @@
 
 ## Emacs Lisp 
 
+- [emacs-tree-sitter/elisp-tree-sitter](https://github.com/emacs-tree-sitter/elisp-tree-sitter) - Tree-sitter bindings for Emacs Lisp
 - [SidharthArya/browse-rules.el](https://github.com/SidharthArya/browse-rules.el) - Rules for browsing various urls
 - [SidharthArya/emacsit](https://github.com/SidharthArya/emacsit) - A Toy Package Manager for Emacs.
 - [SidharthArya/helm-org-roam](https://github.com/SidharthArya/helm-org-roam) - 
