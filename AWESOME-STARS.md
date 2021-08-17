@@ -358,7 +358,7 @@
 - [manateelazycat/awesome-tab](https://github.com/manateelazycat/awesome-tab) - Emacs package to provide out-of-the-box configuration to use tabs.
 - [manateelazycat/aweshell](https://github.com/manateelazycat/aweshell) - Awesome shell extension base on eshell with wonderful features!
 - [manateelazycat/snails](https://github.com/manateelazycat/snails) - A modern, easy-to-expand fuzzy search framework
-- [emacs-eaf/emacs-application-framework](https://github.com/emacs-eaf/emacs-application-framework) - EAF, a customizable and extensible framework that revolutionizes Emacs graphical capabilities
+- [emacs-eaf/emacs-application-framework](https://github.com/emacs-eaf/emacs-application-framework) - A free/libre and open-source extensible framework that revolutionizes the graphical capabilities of Emacs, the key to ultimately Live in Emacs
 - [zevlg/telega.el](https://github.com/zevlg/telega.el) - GNU Emacs telegram client (unofficial)
 - [nicferrier/rcirc-notify](https://github.com/nicferrier/rcirc-notify) - Notifications for rcirc, the emacs IRC client
 - [alphapapa/org-super-agenda](https://github.com/alphapapa/org-super-agenda) - Supercharge your Org daily/weekly agenda by grouping items
@@ -1218,6 +1218,7 @@
 
 ## Rust 
 
+- [rslint/rslint](https://github.com/rslint/rslint) - A  (WIP) Extremely fast JavaScript and TypeScript linter and Rust crate
 - [conao3/rust-risp](https://github.com/conao3/rust-risp) - 
 - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
 - [benfred/py-spy](https://github.com/benfred/py-spy) - Sampling profiler for Python programs
