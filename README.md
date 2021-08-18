@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred quchen/generative-art](https://github.com/quchen/generative-art)
 - [SidharthArya starred ludlows/python-pesq](https://github.com/ludlows/python-pesq)
 - [SidharthArya starred rslint/rslint](https://github.com/rslint/rslint)
 - [SidharthArya commented on pull request melpa/melpa#7682](https://github.com/melpa/melpa/pull/7682#issuecomment-899385581)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred emacs-tree-sitter/elisp-tree-sitter](https://github.com/emacs-tree-sitter/elisp-tree-sitter)
 - [SidharthArya starred onnx/onnx-tensorrt](https://github.com/onnx/onnx-tensorrt)
 - [SidharthArya starred onnx/tensorflow-onnx](https://github.com/onnx/tensorflow-onnx)
-- [SidharthArya starred feenkcom/gtoolkit](https://github.com/feenkcom/gtoolkit)
 <!-- GITHUB:END -->
 
 ## Top Followers
