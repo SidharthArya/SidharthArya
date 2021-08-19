@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/667df74d5e...b011b35d4b)
+- [SidharthArya pushed to master in SidharthArya/.nnn](https://github.com/SidharthArya/.nnn/compare/538fa278f6...d712bc560e)
 - [SidharthArya starred quchen/generative-art](https://github.com/quchen/generative-art)
 - [SidharthArya starred ludlows/python-pesq](https://github.com/ludlows/python-pesq)
 - [SidharthArya starred rslint/rslint](https://github.com/rslint/rslint)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/566ecca435...667df74d5e)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/ff3e4ef171...d29ef8d8ca)
 - [SidharthArya starred emacs-tree-sitter/elisp-tree-sitter](https://github.com/emacs-tree-sitter/elisp-tree-sitter)
-- [SidharthArya starred onnx/onnx-tensorrt](https://github.com/onnx/onnx-tensorrt)
-- [SidharthArya starred onnx/tensorflow-onnx](https://github.com/onnx/tensorflow-onnx)
 <!-- GITHUB:END -->
 
 ## Top Followers
