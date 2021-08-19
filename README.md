@@ -88,6 +88,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 
 <!-- GITHUB:START -->
 - [SidharthArya starred mattingalls/Soundflower](https://github.com/mattingalls/Soundflower)
+- [SidharthArya starred mattingalls/Soundflower](https://github.com/mattingalls/Soundflower)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/667df74d5e...b011b35d4b)
 - [SidharthArya pushed to master in SidharthArya/.nnn](https://github.com/SidharthArya/.nnn/compare/538fa278f6...d712bc560e)
 - [SidharthArya starred quchen/generative-art](https://github.com/quchen/generative-art)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya commented on pull request melpa/melpa#7682](https://github.com/melpa/melpa/pull/7682#issuecomment-899385581)
 - [SidharthArya pushed to master in SidharthArya/comp-ide.el](https://github.com/SidharthArya/comp-ide.el/compare/6a0ecaff37...a87e19cdbb)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/566ecca435...667df74d5e)
-- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/ff3e4ef171...d29ef8d8ca)
 <!-- GITHUB:END -->
 
 ## Top Followers
