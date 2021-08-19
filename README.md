@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred kadirilkimen/Polar-Bear-Cnc-Machine](https://github.com/kadirilkimen/Polar-Bear-Cnc-Machine)
 - [SidharthArya starred mattingalls/Soundflower](https://github.com/mattingalls/Soundflower)
 - [SidharthArya starred mattingalls/Soundflower](https://github.com/mattingalls/Soundflower)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/667df74d5e...b011b35d4b)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred rslint/rslint](https://github.com/rslint/rslint)
 - [SidharthArya commented on pull request melpa/melpa#7682](https://github.com/melpa/melpa/pull/7682#issuecomment-899385581)
 - [SidharthArya pushed to master in SidharthArya/comp-ide.el](https://github.com/SidharthArya/comp-ide.el/compare/6a0ecaff37...a87e19cdbb)
-- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/566ecca435...667df74d5e)
 <!-- GITHUB:END -->
 
 ## Top Followers
