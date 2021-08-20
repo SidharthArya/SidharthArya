@@ -87,6 +87,9 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred necolas/normalize.css](https://github.com/necolas/normalize.css)
+- [SidharthArya starred paularmstrong/normalizr](https://github.com/paularmstrong/normalizr)
+- [SidharthArya starred doakey3/Bligify](https://github.com/doakey3/Bligify)
 - [SidharthArya starred macvim-dev/macvim](https://github.com/macvim-dev/macvim)
 - [SidharthArya starred airbnb/lottie-android](https://github.com/airbnb/lottie-android)
 - [SidharthArya starred d3/d3](https://github.com/d3/d3)
@@ -94,9 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred kadirilkimen/Polar-Bear-Cnc-Machine](https://github.com/kadirilkimen/Polar-Bear-Cnc-Machine)
 - [SidharthArya starred mattingalls/Soundflower](https://github.com/mattingalls/Soundflower)
 - [SidharthArya starred mattingalls/Soundflower](https://github.com/mattingalls/Soundflower)
-- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/667df74d5e...b011b35d4b)
-- [SidharthArya pushed to master in SidharthArya/.nnn](https://github.com/SidharthArya/.nnn/compare/538fa278f6...d712bc560e)
-- [SidharthArya starred quchen/generative-art](https://github.com/quchen/generative-art)
 <!-- GITHUB:END -->
 
 ## Top Followers
