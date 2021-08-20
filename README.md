@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred phracker/MacOSX-SDKs](https://github.com/phracker/MacOSX-SDKs)
 - [SidharthArya starred necolas/normalize.css](https://github.com/necolas/normalize.css)
 - [SidharthArya starred paularmstrong/normalizr](https://github.com/paularmstrong/normalizr)
 - [SidharthArya starred doakey3/Bligify](https://github.com/doakey3/Bligify)
@@ -95,7 +96,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred d3/d3](https://github.com/d3/d3)
 - [SidharthArya starred android/media-samples](https://github.com/android/media-samples)
 - [SidharthArya starred kadirilkimen/Polar-Bear-Cnc-Machine](https://github.com/kadirilkimen/Polar-Bear-Cnc-Machine)
-- [SidharthArya starred mattingalls/Soundflower](https://github.com/mattingalls/Soundflower)
 - [SidharthArya starred mattingalls/Soundflower](https://github.com/mattingalls/Soundflower)
 <!-- GITHUB:END -->
 
