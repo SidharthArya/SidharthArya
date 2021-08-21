@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/b011b35d4b...44adc3d878)
+- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/d29ef8d8ca...c2f60f7327)
 - [SidharthArya starred phracker/MacOSX-SDKs](https://github.com/phracker/MacOSX-SDKs)
 - [SidharthArya starred necolas/normalize.css](https://github.com/necolas/normalize.css)
 - [SidharthArya starred paularmstrong/normalizr](https://github.com/paularmstrong/normalizr)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred airbnb/lottie-android](https://github.com/airbnb/lottie-android)
 - [SidharthArya starred d3/d3](https://github.com/d3/d3)
 - [SidharthArya starred android/media-samples](https://github.com/android/media-samples)
-- [SidharthArya starred kadirilkimen/Polar-Bear-Cnc-Machine](https://github.com/kadirilkimen/Polar-Bear-Cnc-Machine)
-- [SidharthArya starred mattingalls/Soundflower](https://github.com/mattingalls/Soundflower)
 <!-- GITHUB:END -->
 
 ## Top Followers
