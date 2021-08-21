@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/44adc3d878...b3e322ff5a)
 - [SidharthArya forked SidharthArya/recommenders from microsoft/recommenders](https://github.com/SidharthArya/recommenders)
 - [SidharthArya starred microsoft/recommenders](https://github.com/microsoft/recommenders)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/b011b35d4b...44adc3d878)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred paularmstrong/normalizr](https://github.com/paularmstrong/normalizr)
 - [SidharthArya starred doakey3/Bligify](https://github.com/doakey3/Bligify)
 - [SidharthArya starred macvim-dev/macvim](https://github.com/macvim-dev/macvim)
-- [SidharthArya starred airbnb/lottie-android](https://github.com/airbnb/lottie-android)
 <!-- GITHUB:END -->
 
 ## Top Followers
