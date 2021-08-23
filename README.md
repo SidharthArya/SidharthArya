@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred Cosmo/OpenSwiftUI](https://github.com/Cosmo/OpenSwiftUI)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/44adc3d878...b3e322ff5a)
 - [SidharthArya forked SidharthArya/recommenders from microsoft/recommenders](https://github.com/SidharthArya/recommenders)
 - [SidharthArya starred microsoft/recommenders](https://github.com/microsoft/recommenders)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred necolas/normalize.css](https://github.com/necolas/normalize.css)
 - [SidharthArya starred paularmstrong/normalizr](https://github.com/paularmstrong/normalizr)
 - [SidharthArya starred doakey3/Bligify](https://github.com/doakey3/Bligify)
-- [SidharthArya starred macvim-dev/macvim](https://github.com/macvim-dev/macvim)
 <!-- GITHUB:END -->
 
 ## Top Followers
