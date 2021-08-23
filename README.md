@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred likedan/Awesome-CoreML-Models](https://github.com/likedan/Awesome-CoreML-Models)
 - [SidharthArya starred kirualex/NSTDemo](https://github.com/kirualex/NSTDemo)
 - [SidharthArya starred apple/coremltools](https://github.com/apple/coremltools)
 - [SidharthArya starred Cosmo/OpenSwiftUI](https://github.com/Cosmo/OpenSwiftUI)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/b011b35d4b...44adc3d878)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/d29ef8d8ca...c2f60f7327)
 - [SidharthArya starred phracker/MacOSX-SDKs](https://github.com/phracker/MacOSX-SDKs)
-- [SidharthArya starred necolas/normalize.css](https://github.com/necolas/normalize.css)
 <!-- GITHUB:END -->
 
 ## Top Followers
