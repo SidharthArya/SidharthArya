@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred kirualex/NSTDemo](https://github.com/kirualex/NSTDemo)
+- [SidharthArya starred apple/coremltools](https://github.com/apple/coremltools)
 - [SidharthArya starred Cosmo/OpenSwiftUI](https://github.com/Cosmo/OpenSwiftUI)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/44adc3d878...b3e322ff5a)
 - [SidharthArya forked SidharthArya/recommenders from microsoft/recommenders](https://github.com/SidharthArya/recommenders)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/d29ef8d8ca...c2f60f7327)
 - [SidharthArya starred phracker/MacOSX-SDKs](https://github.com/phracker/MacOSX-SDKs)
 - [SidharthArya starred necolas/normalize.css](https://github.com/necolas/normalize.css)
-- [SidharthArya starred paularmstrong/normalizr](https://github.com/paularmstrong/normalizr)
-- [SidharthArya starred doakey3/Bligify](https://github.com/doakey3/Bligify)
 <!-- GITHUB:END -->
 
 ## Top Followers
