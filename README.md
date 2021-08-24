@@ -87,6 +87,9 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya forked SidharthArya/QNNPACK from pytorch/QNNPACK](https://github.com/SidharthArya/QNNPACK)
+- [SidharthArya starred pytorch/QNNPACK](https://github.com/pytorch/QNNPACK)
+- [SidharthArya starred pytorch/FBGEMM](https://github.com/pytorch/FBGEMM)
 - [SidharthArya starred likedan/Awesome-CoreML-Models](https://github.com/likedan/Awesome-CoreML-Models)
 - [SidharthArya starred kirualex/NSTDemo](https://github.com/kirualex/NSTDemo)
 - [SidharthArya starred apple/coremltools](https://github.com/apple/coremltools)
@@ -94,9 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/44adc3d878...b3e322ff5a)
 - [SidharthArya forked SidharthArya/recommenders from microsoft/recommenders](https://github.com/SidharthArya/recommenders)
 - [SidharthArya starred microsoft/recommenders](https://github.com/microsoft/recommenders)
-- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/b011b35d4b...44adc3d878)
-- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/d29ef8d8ca...c2f60f7327)
-- [SidharthArya starred phracker/MacOSX-SDKs](https://github.com/phracker/MacOSX-SDKs)
 <!-- GITHUB:END -->
 
 ## Top Followers
