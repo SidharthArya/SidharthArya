@@ -87,6 +87,9 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred apple/swift-package-manager](https://github.com/apple/swift-package-manager)
+- [SidharthArya starred apple/swift](https://github.com/apple/swift)
+- [SidharthArya starred apple/swift-corelibs-foundation](https://github.com/apple/swift-corelibs-foundation)
 - [SidharthArya starred wakatime/xcode-wakatime](https://github.com/wakatime/xcode-wakatime)
 - [SidharthArya starred pytorch/ios-demo-app](https://github.com/pytorch/ios-demo-app)
 - [SidharthArya forked SidharthArya/QNNPACK from pytorch/QNNPACK](https://github.com/SidharthArya/QNNPACK)
@@ -94,9 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred pytorch/FBGEMM](https://github.com/pytorch/FBGEMM)
 - [SidharthArya starred likedan/Awesome-CoreML-Models](https://github.com/likedan/Awesome-CoreML-Models)
 - [SidharthArya starred kirualex/NSTDemo](https://github.com/kirualex/NSTDemo)
-- [SidharthArya starred apple/coremltools](https://github.com/apple/coremltools)
-- [SidharthArya starred Cosmo/OpenSwiftUI](https://github.com/Cosmo/OpenSwiftUI)
-- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/44adc3d878...b3e322ff5a)
 <!-- GITHUB:END -->
 
 ## Top Followers
