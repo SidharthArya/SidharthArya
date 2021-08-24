@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred wakatime/xcode-wakatime](https://github.com/wakatime/xcode-wakatime)
+- [SidharthArya starred pytorch/ios-demo-app](https://github.com/pytorch/ios-demo-app)
 - [SidharthArya forked SidharthArya/QNNPACK from pytorch/QNNPACK](https://github.com/SidharthArya/QNNPACK)
 - [SidharthArya starred pytorch/QNNPACK](https://github.com/pytorch/QNNPACK)
 - [SidharthArya starred pytorch/FBGEMM](https://github.com/pytorch/FBGEMM)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred apple/coremltools](https://github.com/apple/coremltools)
 - [SidharthArya starred Cosmo/OpenSwiftUI](https://github.com/Cosmo/OpenSwiftUI)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/44adc3d878...b3e322ff5a)
-- [SidharthArya forked SidharthArya/recommenders from microsoft/recommenders](https://github.com/SidharthArya/recommenders)
-- [SidharthArya starred microsoft/recommenders](https://github.com/microsoft/recommenders)
 <!-- GITHUB:END -->
 
 ## Top Followers
