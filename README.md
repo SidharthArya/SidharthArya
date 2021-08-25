@@ -87,6 +87,9 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
+- [SidharthArya starred medipixel/rl_algorithms](https://github.com/medipixel/rl_algorithms)
+- [SidharthArya starred dicebear/dicebear](https://github.com/dicebear/dicebear)
 - [SidharthArya starred apple/swift-package-manager](https://github.com/apple/swift-package-manager)
 - [SidharthArya starred apple/swift](https://github.com/apple/swift)
 - [SidharthArya starred apple/swift-corelibs-foundation](https://github.com/apple/swift-corelibs-foundation)
@@ -94,9 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred pytorch/ios-demo-app](https://github.com/pytorch/ios-demo-app)
 - [SidharthArya forked SidharthArya/QNNPACK from pytorch/QNNPACK](https://github.com/SidharthArya/QNNPACK)
 - [SidharthArya starred pytorch/QNNPACK](https://github.com/pytorch/QNNPACK)
-- [SidharthArya starred pytorch/FBGEMM](https://github.com/pytorch/FBGEMM)
-- [SidharthArya starred likedan/Awesome-CoreML-Models](https://github.com/likedan/Awesome-CoreML-Models)
-- [SidharthArya starred kirualex/NSTDemo](https://github.com/kirualex/NSTDemo)
 <!-- GITHUB:END -->
 
 ## Top Followers
