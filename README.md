@@ -87,16 +87,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred weichsel/ZIPFoundation](https://github.com/weichsel/ZIPFoundation)
+- [SidharthArya starred daltoniam/Starscream](https://github.com/daltoniam/Starscream)
+- [SidharthArya starred socketio/socket.io-client-swift](https://github.com/socketio/socket.io-client-swift)
+- [SidharthArya starred getsentry/sentry](https://github.com/getsentry/sentry)
+- [SidharthArya starred realm/realm-cocoa](https://github.com/realm/realm-cocoa)
+- [SidharthArya starred Alamofire/Alamofire](https://github.com/Alamofire/Alamofire)
+- [SidharthArya starred Carthage/Carthage](https://github.com/Carthage/Carthage)
 - [SidharthArya starred yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
 - [SidharthArya starred medipixel/rl_algorithms](https://github.com/medipixel/rl_algorithms)
 - [SidharthArya starred dicebear/dicebear](https://github.com/dicebear/dicebear)
-- [SidharthArya starred apple/swift-package-manager](https://github.com/apple/swift-package-manager)
-- [SidharthArya starred apple/swift](https://github.com/apple/swift)
-- [SidharthArya starred apple/swift-corelibs-foundation](https://github.com/apple/swift-corelibs-foundation)
-- [SidharthArya starred wakatime/xcode-wakatime](https://github.com/wakatime/xcode-wakatime)
-- [SidharthArya starred pytorch/ios-demo-app](https://github.com/pytorch/ios-demo-app)
-- [SidharthArya forked SidharthArya/QNNPACK from pytorch/QNNPACK](https://github.com/SidharthArya/QNNPACK)
-- [SidharthArya starred pytorch/QNNPACK](https://github.com/pytorch/QNNPACK)
 <!-- GITHUB:END -->
 
 ## Top Followers
