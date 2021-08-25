@@ -155,18 +155,18 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/samdyuti">
-        <img src="https://avatars2.githubusercontent.com/u/69840173" width="100px;" alt="samdyuti"/>
-      </a>
-      <br />
-      <a href="https://github.com/samdyuti">samdyuti</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/HakunanMatatat">
         <img src="https://avatars2.githubusercontent.com/u/56817048" width="100px;" alt="HakunanMatatat"/>
       </a>
       <br />
       <a href="https://github.com/HakunanMatatat">HakunanMatatat</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/samdyuti">
+        <img src="https://avatars2.githubusercontent.com/u/69840173" width="100px;" alt="samdyuti"/>
+      </a>
+      <br />
+      <a href="https://github.com/samdyuti">samdyuti</a>
     </td>
     <td align="center">
       <a href="https://github.com/G0rav">
