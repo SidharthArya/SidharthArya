@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred facebookresearch/denoiser](https://github.com/facebookresearch/denoiser)
 - [SidharthArya starred CocoaPods/CocoaPods](https://github.com/CocoaPods/CocoaPods)
 - [SidharthArya starred leeoniya/RgbQuant.js](https://github.com/leeoniya/RgbQuant.js)
 - [SidharthArya starred ibezkrovnyi/image-quantization](https://github.com/ibezkrovnyi/image-quantization)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred daltoniam/Starscream](https://github.com/daltoniam/Starscream)
 - [SidharthArya starred socketio/socket.io-client-swift](https://github.com/socketio/socket.io-client-swift)
 - [SidharthArya starred getsentry/sentry](https://github.com/getsentry/sentry)
-- [SidharthArya starred realm/realm-cocoa](https://github.com/realm/realm-cocoa)
 <!-- GITHUB:END -->
 
 ## Top Followers
