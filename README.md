@@ -87,6 +87,9 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred varbhat/exatorrent](https://github.com/varbhat/exatorrent)
+- [SidharthArya created a branch master in SidharthArya/Public](https://github.com/SidharthArya/Public/compare/master)
+- [SidharthArya created a repository SidharthArya/Public](https://github.com/SidharthArya/Public//)
 - [SidharthArya starred facebookresearch/denoiser](https://github.com/facebookresearch/denoiser)
 - [SidharthArya starred CocoaPods/CocoaPods](https://github.com/CocoaPods/CocoaPods)
 - [SidharthArya starred leeoniya/RgbQuant.js](https://github.com/leeoniya/RgbQuant.js)
@@ -94,9 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred SwiftKickMobile/SwiftMessages](https://github.com/SwiftKickMobile/SwiftMessages)
 - [SidharthArya starred ExistentialAudio/BlackHole](https://github.com/ExistentialAudio/BlackHole)
 - [SidharthArya starred weichsel/ZIPFoundation](https://github.com/weichsel/ZIPFoundation)
-- [SidharthArya starred daltoniam/Starscream](https://github.com/daltoniam/Starscream)
-- [SidharthArya starred socketio/socket.io-client-swift](https://github.com/socketio/socket.io-client-swift)
-- [SidharthArya starred getsentry/sentry](https://github.com/getsentry/sentry)
 <!-- GITHUB:END -->
 
 ## Top Followers
