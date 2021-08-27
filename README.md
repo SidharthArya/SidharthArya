@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/b3e322ff5a...963c499c92)
+- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/c2f60f7327...439f31caa5)
 - [SidharthArya starred emacs-lsp/lsp-sourcekit](https://github.com/emacs-lsp/lsp-sourcekit)
 - [SidharthArya starred apple/sourcekit-lsp](https://github.com/apple/sourcekit-lsp)
 - [SidharthArya starred varbhat/exatorrent](https://github.com/varbhat/exatorrent)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred facebookresearch/denoiser](https://github.com/facebookresearch/denoiser)
 - [SidharthArya starred CocoaPods/CocoaPods](https://github.com/CocoaPods/CocoaPods)
 - [SidharthArya starred leeoniya/RgbQuant.js](https://github.com/leeoniya/RgbQuant.js)
-- [SidharthArya starred ibezkrovnyi/image-quantization](https://github.com/ibezkrovnyi/image-quantization)
-- [SidharthArya starred SwiftKickMobile/SwiftMessages](https://github.com/SwiftKickMobile/SwiftMessages)
 <!-- GITHUB:END -->
 
 ## Top Followers
