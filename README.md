@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred emacs-lsp/lsp-sourcekit](https://github.com/emacs-lsp/lsp-sourcekit)
+- [SidharthArya starred apple/sourcekit-lsp](https://github.com/apple/sourcekit-lsp)
 - [SidharthArya starred varbhat/exatorrent](https://github.com/varbhat/exatorrent)
 - [SidharthArya created a branch master in SidharthArya/Public](https://github.com/SidharthArya/Public/compare/master)
 - [SidharthArya created a repository SidharthArya/Public](https://github.com/SidharthArya/Public//)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred leeoniya/RgbQuant.js](https://github.com/leeoniya/RgbQuant.js)
 - [SidharthArya starred ibezkrovnyi/image-quantization](https://github.com/ibezkrovnyi/image-quantization)
 - [SidharthArya starred SwiftKickMobile/SwiftMessages](https://github.com/SwiftKickMobile/SwiftMessages)
-- [SidharthArya starred ExistentialAudio/BlackHole](https://github.com/ExistentialAudio/BlackHole)
-- [SidharthArya starred weichsel/ZIPFoundation](https://github.com/weichsel/ZIPFoundation)
 <!-- GITHUB:END -->
 
 ## Top Followers
