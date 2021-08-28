@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/963c499c92...270f099ae9)
+- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/439f31caa5...0cf59c5abf)
 - [SidharthArya starred pytorch/android-demo-app](https://github.com/pytorch/android-demo-app)
 - [SidharthArya starred facebookresearch/demucs](https://github.com/facebookresearch/demucs)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/b3e322ff5a...963c499c92)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred apple/sourcekit-lsp](https://github.com/apple/sourcekit-lsp)
 - [SidharthArya starred varbhat/exatorrent](https://github.com/varbhat/exatorrent)
 - [SidharthArya created a branch master in SidharthArya/Public](https://github.com/SidharthArya/Public/compare/master)
-- [SidharthArya created a repository SidharthArya/Public](https://github.com/SidharthArya/Public//)
-- [SidharthArya starred facebookresearch/denoiser](https://github.com/facebookresearch/denoiser)
 <!-- GITHUB:END -->
 
 ## Top Followers
