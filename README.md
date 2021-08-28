@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred facebookresearch/demucs](https://github.com/facebookresearch/demucs)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/b3e322ff5a...963c499c92)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/c2f60f7327...439f31caa5)
 - [SidharthArya starred emacs-lsp/lsp-sourcekit](https://github.com/emacs-lsp/lsp-sourcekit)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya created a repository SidharthArya/Public](https://github.com/SidharthArya/Public//)
 - [SidharthArya starred facebookresearch/denoiser](https://github.com/facebookresearch/denoiser)
 - [SidharthArya starred CocoaPods/CocoaPods](https://github.com/CocoaPods/CocoaPods)
-- [SidharthArya starred leeoniya/RgbQuant.js](https://github.com/leeoniya/RgbQuant.js)
 <!-- GITHUB:END -->
 
 ## Top Followers
