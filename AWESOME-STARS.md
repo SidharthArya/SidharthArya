@@ -71,6 +71,7 @@
 
 ## C 
 
+- [acidanthera/OpenCorePkg](https://github.com/acidanthera/OpenCorePkg) - OpenCore bootloader
 - [ExistentialAudio/BlackHole](https://github.com/ExistentialAudio/BlackHole) - BlackHole is a modern macOS virtual audio driver that allows applications to pass audio to other applications with zero additional latency.
 - [pytorch/QNNPACK](https://github.com/pytorch/QNNPACK) - Quantized Neural Network PACKage - mobile-optimized implementation of quantized neural network operators
 - [ludlows/python-pesq](https://github.com/ludlows/python-pesq) - PESQ (Perceptual Evaluation of Speech Quality) Wrapper for Python Users (narrow band and wide band)
@@ -521,6 +522,7 @@
 
 ## Java 
 
+- [Kotlin/kotlin-interactive-shell](https://github.com/Kotlin/kotlin-interactive-shell) - Kotlin Language Interactive Shell
 - [pytorch/android-demo-app](https://github.com/pytorch/android-demo-app) - PyTorch android examples of usage in applications
 - [airbnb/lottie-android](https://github.com/airbnb/lottie-android) - Render After Effects animations natively on Android and iOS, Web, and React Native
 - [android/media-samples](https://github.com/android/media-samples) - Multiple samples showing the best practices in media APIs on Android (audio, video, etc.).
@@ -733,6 +735,7 @@
 
 ## Kotlin 
 
+- [JetBrains/ideavim](https://github.com/JetBrains/ideavim) - Vim emulation plugin for IDEs based on the IntelliJ Platform
 - [kotest/kotest](https://github.com/kotest/kotest) - Powerful, elegant and flexible test framework for Kotlin with additional assertions, property testing and data driven testing
 - [tipsy/javalin](https://github.com/tipsy/javalin) - A simple and modern Java and Kotlin web framework
 
@@ -953,7 +956,7 @@
 - [funcwj/setk](https://github.com/funcwj/setk) - Tools for Speech Enhancement integrated with Kaldi
 - [lbeaucourt/Object-detection](https://github.com/lbeaucourt/Object-detection) - Object detection project for real-time (webcam) and offline (video processing) application.
 - [spatialaudio/python-sounddevice](https://github.com/spatialaudio/python-sounddevice) - :sound: Play and Record Sound with Python :snake:
-- [microsoft/unilm](https://github.com/microsoft/unilm) - UniLM AI - Unified "Language" Model Pre-training across Tasks, Languages, and Modalities
+- [microsoft/unilm](https://github.com/microsoft/unilm) - UniLM AI - Large-scale Self-supervised Pre-training across Tasks, Languages, and Modalities
 - [jakeret/tf_unet](https://github.com/jakeret/tf_unet) - Generic U-Net Tensorflow implementation for image segmentation
 - [numba/llvmlite](https://github.com/numba/llvmlite) - A lightweight LLVM python binding for writing JIT compilers
 - [Snowdar/asv-subtools](https://github.com/Snowdar/asv-subtools) - An Open Source Tools for Speaker Recognition
