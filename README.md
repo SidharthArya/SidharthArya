@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred acidanthera/OpenCorePkg](https://github.com/acidanthera/OpenCorePkg)
+- [SidharthArya starred Kotlin/kotlin-interactive-shell](https://github.com/Kotlin/kotlin-interactive-shell)
 - [SidharthArya starred JetBrains/ideavim](https://github.com/JetBrains/ideavim)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/270f099ae9...59080bb8e7)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/0cf59c5abf...86013ab409)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred pytorch/android-demo-app](https://github.com/pytorch/android-demo-app)
 - [SidharthArya starred facebookresearch/demucs](https://github.com/facebookresearch/demucs)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/b3e322ff5a...963c499c92)
-- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/c2f60f7327...439f31caa5)
-- [SidharthArya starred emacs-lsp/lsp-sourcekit](https://github.com/emacs-lsp/lsp-sourcekit)
 <!-- GITHUB:END -->
 
 ## Top Followers
