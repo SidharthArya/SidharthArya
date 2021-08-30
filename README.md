@@ -87,6 +87,9 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred JetBrains/ideavim](https://github.com/JetBrains/ideavim)
+- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/270f099ae9...59080bb8e7)
+- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/0cf59c5abf...86013ab409)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/963c499c92...270f099ae9)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/439f31caa5...0cf59c5abf)
 - [SidharthArya starred pytorch/android-demo-app](https://github.com/pytorch/android-demo-app)
@@ -94,9 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/b3e322ff5a...963c499c92)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/c2f60f7327...439f31caa5)
 - [SidharthArya starred emacs-lsp/lsp-sourcekit](https://github.com/emacs-lsp/lsp-sourcekit)
-- [SidharthArya starred apple/sourcekit-lsp](https://github.com/apple/sourcekit-lsp)
-- [SidharthArya starred varbhat/exatorrent](https://github.com/varbhat/exatorrent)
-- [SidharthArya created a branch master in SidharthArya/Public](https://github.com/SidharthArya/Public/compare/master)
 <!-- GITHUB:END -->
 
 ## Top Followers
