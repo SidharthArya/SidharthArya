@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred mdn/content](https://github.com/mdn/content)
 - [SidharthArya starred kareman/SwiftShell](https://github.com/kareman/SwiftShell)
 - [SidharthArya starred acidanthera/OpenCorePkg](https://github.com/acidanthera/OpenCorePkg)
 - [SidharthArya starred Kotlin/kotlin-interactive-shell](https://github.com/Kotlin/kotlin-interactive-shell)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/963c499c92...270f099ae9)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/439f31caa5...0cf59c5abf)
 - [SidharthArya starred pytorch/android-demo-app](https://github.com/pytorch/android-demo-app)
-- [SidharthArya starred facebookresearch/demucs](https://github.com/facebookresearch/demucs)
 <!-- GITHUB:END -->
 
 ## Top Followers
