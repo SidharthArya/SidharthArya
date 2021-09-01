@@ -87,16 +87,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred NVIDIA/TRTorch](https://github.com/NVIDIA/TRTorch)
+- [SidharthArya starred prettier/prettier](https://github.com/prettier/prettier)
+- [SidharthArya starred KevinMusgrave/pytorch-metric-learning](https://github.com/KevinMusgrave/pytorch-metric-learning)
+- [SidharthArya starred Dr-Noob/cpufetch](https://github.com/Dr-Noob/cpufetch)
+- [SidharthArya starred netbox-community/netbox](https://github.com/netbox-community/netbox)
 - [SidharthArya starred facebookincubator/Glean](https://github.com/facebookincubator/Glean)
 - [SidharthArya starred rogerboesch/SceneKitTutorial](https://github.com/rogerboesch/SceneKitTutorial)
 - [SidharthArya starred mdn/content](https://github.com/mdn/content)
 - [SidharthArya starred kareman/SwiftShell](https://github.com/kareman/SwiftShell)
 - [SidharthArya starred acidanthera/OpenCorePkg](https://github.com/acidanthera/OpenCorePkg)
-- [SidharthArya starred Kotlin/kotlin-interactive-shell](https://github.com/Kotlin/kotlin-interactive-shell)
-- [SidharthArya starred JetBrains/ideavim](https://github.com/JetBrains/ideavim)
-- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/270f099ae9...59080bb8e7)
-- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/0cf59c5abf...86013ab409)
-- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/963c499c92...270f099ae9)
 <!-- GITHUB:END -->
 
 ## Top Followers
