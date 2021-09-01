@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred facebookincubator/Glean](https://github.com/facebookincubator/Glean)
 - [SidharthArya starred rogerboesch/SceneKitTutorial](https://github.com/rogerboesch/SceneKitTutorial)
 - [SidharthArya starred mdn/content](https://github.com/mdn/content)
 - [SidharthArya starred kareman/SwiftShell](https://github.com/kareman/SwiftShell)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/270f099ae9...59080bb8e7)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/0cf59c5abf...86013ab409)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/963c499c92...270f099ae9)
-- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/439f31caa5...0cf59c5abf)
 <!-- GITHUB:END -->
 
 ## Top Followers
