@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred xiaobinlzy/VoiceChanger_Android](https://github.com/xiaobinlzy/VoiceChanger_Android)
 - [SidharthArya starred Theano/Theano](https://github.com/Theano/Theano)
 - [SidharthArya starred NVIDIA/TRTorch](https://github.com/NVIDIA/TRTorch)
 - [SidharthArya starred prettier/prettier](https://github.com/prettier/prettier)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred facebookincubator/Glean](https://github.com/facebookincubator/Glean)
 - [SidharthArya starred rogerboesch/SceneKitTutorial](https://github.com/rogerboesch/SceneKitTutorial)
 - [SidharthArya starred mdn/content](https://github.com/mdn/content)
-- [SidharthArya starred kareman/SwiftShell](https://github.com/kareman/SwiftShell)
 <!-- GITHUB:END -->
 
 ## Top Followers
