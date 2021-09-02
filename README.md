@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred aykuttasil/CallRecorder](https://github.com/aykuttasil/CallRecorder)
 - [SidharthArya starred tmux-plugins/tmux-sensible](https://github.com/tmux-plugins/tmux-sensible)
 - [SidharthArya starred xiaobinlzy/VoiceChanger_Android](https://github.com/xiaobinlzy/VoiceChanger_Android)
 - [SidharthArya starred Theano/Theano](https://github.com/Theano/Theano)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred Dr-Noob/cpufetch](https://github.com/Dr-Noob/cpufetch)
 - [SidharthArya starred netbox-community/netbox](https://github.com/netbox-community/netbox)
 - [SidharthArya starred facebookincubator/Glean](https://github.com/facebookincubator/Glean)
-- [SidharthArya starred rogerboesch/SceneKitTutorial](https://github.com/rogerboesch/SceneKitTutorial)
 <!-- GITHUB:END -->
 
 ## Top Followers
