@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred Theano/Theano](https://github.com/Theano/Theano)
 - [SidharthArya starred NVIDIA/TRTorch](https://github.com/NVIDIA/TRTorch)
 - [SidharthArya starred prettier/prettier](https://github.com/prettier/prettier)
 - [SidharthArya starred KevinMusgrave/pytorch-metric-learning](https://github.com/KevinMusgrave/pytorch-metric-learning)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred rogerboesch/SceneKitTutorial](https://github.com/rogerboesch/SceneKitTutorial)
 - [SidharthArya starred mdn/content](https://github.com/mdn/content)
 - [SidharthArya starred kareman/SwiftShell](https://github.com/kareman/SwiftShell)
-- [SidharthArya starred acidanthera/OpenCorePkg](https://github.com/acidanthera/OpenCorePkg)
 <!-- GITHUB:END -->
 
 ## Top Followers
