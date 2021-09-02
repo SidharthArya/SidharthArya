@@ -213,6 +213,13 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       <a href="https://github.com/newmentos">Eugene</a>
     </td>
     <td align="center">
+      <a href="https://github.com/Kushpad">
+        <img src="https://avatars2.githubusercontent.com/u/89928620" width="100px;" alt="Kushpad"/>
+      </a>
+      <br />
+      <a href="https://github.com/Kushpad">Kushpad</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/AmanGupta273">
         <img src="https://avatars2.githubusercontent.com/u/77335745" width="100px;" alt="AmanGupta273"/>
       </a>
@@ -246,13 +253,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       </a>
       <br />
       <a href="https://github.com/efh96">efh96</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Romchuk753">
-        <img src="https://avatars2.githubusercontent.com/u/87737871" width="100px;" alt="Romchuk753"/>
-      </a>
-      <br />
-      <a href="https://github.com/Romchuk753">Romchuk753</a>
     </td>
   </tr>
 </table>
