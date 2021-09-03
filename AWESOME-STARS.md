@@ -158,6 +158,7 @@
 
 ## C++ 
 
+- [keyboardio/Kaleidoscope](https://github.com/keyboardio/Kaleidoscope) - Firmware for the Keyboardio Model 01 and other keyboards with AVR or ARM MCUs.
 - [apple/swift](https://github.com/apple/swift) - The Swift Programming Language
 - [pytorch/FBGEMM](https://github.com/pytorch/FBGEMM) - FB (Facebook) + GEMM (General Matrix-Matrix Multiplication) - https://code.fb.com/ml-applications/fbgemm/
 - [onnx/onnx-tensorrt](https://github.com/onnx/onnx-tensorrt) - ONNX-TensorRT: TensorRT backend for ONNX
@@ -556,6 +557,7 @@
 
 ## JavaScript 
 
+- [lgwebdream/FE-Interview](https://github.com/lgwebdream/FE-Interview) - 🔥🔥🔥 前端面试，独有前端面试题详解，前端面试刷题必备，1000+前端面试真题，Html、Css、JavaScript、Vue、React、Node、TypeScript、Webpack、算法、网络与安全、浏览器
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [leeoniya/RgbQuant.js](https://github.com/leeoniya/RgbQuant.js) - color quantization lib
 - [paularmstrong/normalizr](https://github.com/paularmstrong/normalizr) - Normalizes nested JSON according to a schema
@@ -718,7 +720,7 @@
 - [mosheman5/DNP](https://github.com/mosheman5/DNP) - Audio Denoising with Deep Network Priors
 - [sthalles/deeplab_v3](https://github.com/sthalles/deeplab_v3) - Tensorflow Implementation of the Semantic Segmentation DeepLab_V3 CNN
 - [virgili0/Virgilio](https://github.com/virgili0/Virgilio) - Your new Mentor for Data Science E-Learning.
-- [AI4Finance-LLC/Deep-Reinforcement-Learning-for-Automated-Stock-Trading-Ensemble-Strategy-ICAIF-2020](https://github.com/AI4Finance-LLC/Deep-Reinforcement-Learning-for-Automated-Stock-Trading-Ensemble-Strategy-ICAIF-2020) - Deep Reinforcement Learning for Automated Stock Trading: An Ensemble Strategy. ICAIF 2020. Please star.
+- [AI4Finance-Foundation/Deep-Reinforcement-Learning-for-Automated-Stock-Trading-Ensemble-Strategy-ICAIF-2020](https://github.com/AI4Finance-Foundation/Deep-Reinforcement-Learning-for-Automated-Stock-Trading-Ensemble-Strategy-ICAIF-2020) - Deep Reinforcement Learning for Automated Stock Trading: An Ensemble Strategy. ICAIF 2020. Please star.
 - [google-research/google-research](https://github.com/google-research/google-research) - Google Research
 - [fastai/fastai](https://github.com/fastai/fastai) - The fastai deep learning library
 - [aymericdamien/TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples) - TensorFlow Tutorial and Examples for Beginners (support TF v1 & v2)
@@ -803,6 +805,7 @@
 
 ## Others 
 
+- [brettkromkamp/awesome-knowledge-management](https://github.com/brettkromkamp/awesome-knowledge-management) - A curated list of amazingly awesome articles, people, applications, software libraries and projects related to the knowledge management space
 - [phracker/MacOSX-SDKs](https://github.com/phracker/MacOSX-SDKs) - A collection of those pesky SDK folders: MacOSX10.1.5.sdk thru MacOSX11.3.sdk
 - [kadirilkimen/Polar-Bear-Cnc-Machine](https://github.com/kadirilkimen/Polar-Bear-Cnc-Machine) - A multipurpose, 2 linear, 1 rotary axis cnc machine concept
 - [UKHomeOffice/posters](https://github.com/UKHomeOffice/posters) - Home Office Digital repository of posters covering different topics - research, access needs, accessibility, design.
@@ -922,6 +925,8 @@
 
 ## Python 
 
+- [twopirllc/pandas-ta](https://github.com/twopirllc/pandas-ta) - Technical Analysis Indicators - Pandas TA is an easy to use Python 3 Pandas Extension with 130+ Indicators
+- [pytorch/captum](https://github.com/pytorch/captum) - Model interpretability and understanding for PyTorch
 - [Theano/Theano](https://github.com/Theano/Theano) - Theano was a Python library that allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently. It is being continued as aesara: www.github.com/pymc-devs/aesara
 - [KevinMusgrave/pytorch-metric-learning](https://github.com/KevinMusgrave/pytorch-metric-learning) - The easiest way to use deep metric learning in your application. Modular, flexible, and extensible. Written in PyTorch.
 - [netbox-community/netbox](https://github.com/netbox-community/netbox) - Infrastructure resource modeling for network automation. Open source under Apache 2. Public demo: https://demo.netbox.dev
@@ -1039,7 +1044,7 @@
 - [vbelz/Speech-enhancement](https://github.com/vbelz/Speech-enhancement) - Deep learning for audio denoising
 - [drethage/speech-denoising-wavenet](https://github.com/drethage/speech-denoising-wavenet) - A neural network for end-to-end speech denoising
 - [devsnd/tinytag](https://github.com/devsnd/tinytag) - Read music meta data and length of MP3, OGG, OPUS, MP4, M4A, FLAC, WMA and Wave files with python 2 or 3
-- [rusty1s/pytorch_geometric](https://github.com/rusty1s/pytorch_geometric) - Geometric Deep Learning Extension Library for PyTorch
+- [rusty1s/pytorch_geometric](https://github.com/rusty1s/pytorch_geometric) - Graph Neural Network Library for PyTorch
 - [nltk/nltk](https://github.com/nltk/nltk) - NLTK Source
 - [nix-community/nix-direnv](https://github.com/nix-community/nix-direnv) - A fast, persistent use_nix/use_flake implementation for direnv [maintainer=@Mic92]
 - [mementum/backtrader](https://github.com/mementum/backtrader) - Python Backtesting library for trading strategies
