@@ -87,16 +87,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred twopirllc/pandas-ta](https://github.com/twopirllc/pandas-ta)
+- [SidharthArya starred lgwebdream/FE-Interview](https://github.com/lgwebdream/FE-Interview)
+- [SidharthArya starred pytorch/captum](https://github.com/pytorch/captum)
+- [SidharthArya starred keyboardio/Kaleidoscope](https://github.com/keyboardio/Kaleidoscope)
+- [SidharthArya starred brettkromkamp/awesome-knowledge-management](https://github.com/brettkromkamp/awesome-knowledge-management)
 - [SidharthArya starred aykuttasil/CallRecorder](https://github.com/aykuttasil/CallRecorder)
 - [SidharthArya starred tmux-plugins/tmux-sensible](https://github.com/tmux-plugins/tmux-sensible)
 - [SidharthArya starred xiaobinlzy/VoiceChanger_Android](https://github.com/xiaobinlzy/VoiceChanger_Android)
 - [SidharthArya starred Theano/Theano](https://github.com/Theano/Theano)
 - [SidharthArya starred NVIDIA/TRTorch](https://github.com/NVIDIA/TRTorch)
-- [SidharthArya starred prettier/prettier](https://github.com/prettier/prettier)
-- [SidharthArya starred KevinMusgrave/pytorch-metric-learning](https://github.com/KevinMusgrave/pytorch-metric-learning)
-- [SidharthArya starred Dr-Noob/cpufetch](https://github.com/Dr-Noob/cpufetch)
-- [SidharthArya starred netbox-community/netbox](https://github.com/netbox-community/netbox)
-- [SidharthArya starred facebookincubator/Glean](https://github.com/facebookincubator/Glean)
 <!-- GITHUB:END -->
 
 ## Top Followers
