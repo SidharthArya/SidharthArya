@@ -87,6 +87,9 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/59080bb8e7...121908b94b)
+- [SidharthArya pushed to master in SidharthArya/scripts](https://github.com/SidharthArya/scripts/compare/4b8f6f2ce9...9a21cac296)
+- [SidharthArya pushed to master in SidharthArya/.bspwm](https://github.com/SidharthArya/.bspwm/compare/4813982a03...3935c8b4f4)
 - [SidharthArya starred twopirllc/pandas-ta](https://github.com/twopirllc/pandas-ta)
 - [SidharthArya starred lgwebdream/FE-Interview](https://github.com/lgwebdream/FE-Interview)
 - [SidharthArya starred pytorch/captum](https://github.com/pytorch/captum)
@@ -94,9 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred brettkromkamp/awesome-knowledge-management](https://github.com/brettkromkamp/awesome-knowledge-management)
 - [SidharthArya starred aykuttasil/CallRecorder](https://github.com/aykuttasil/CallRecorder)
 - [SidharthArya starred tmux-plugins/tmux-sensible](https://github.com/tmux-plugins/tmux-sensible)
-- [SidharthArya starred xiaobinlzy/VoiceChanger_Android](https://github.com/xiaobinlzy/VoiceChanger_Android)
-- [SidharthArya starred Theano/Theano](https://github.com/Theano/Theano)
-- [SidharthArya starred NVIDIA/TRTorch](https://github.com/NVIDIA/TRTorch)
 <!-- GITHUB:END -->
 
 ## Top Followers
