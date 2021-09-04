@@ -87,16 +87,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred dkim0419/SoundRecorder](https://github.com/dkim0419/SoundRecorder)
+- [SidharthArya starred Telegram-FOSS-Team/Telegram-FOSS](https://github.com/Telegram-FOSS-Team/Telegram-FOSS)
+- [SidharthArya starred sinch/app-app-calling-android](https://github.com/sinch/app-app-calling-android)
+- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/121908b94b...819836f022)
+- [SidharthArya pushed to master in SidharthArya/scripts](https://github.com/SidharthArya/scripts/compare/9a21cac296...18c42c8023)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/59080bb8e7...121908b94b)
 - [SidharthArya pushed to master in SidharthArya/scripts](https://github.com/SidharthArya/scripts/compare/4b8f6f2ce9...9a21cac296)
 - [SidharthArya pushed to master in SidharthArya/.bspwm](https://github.com/SidharthArya/.bspwm/compare/4813982a03...3935c8b4f4)
 - [SidharthArya starred twopirllc/pandas-ta](https://github.com/twopirllc/pandas-ta)
 - [SidharthArya starred lgwebdream/FE-Interview](https://github.com/lgwebdream/FE-Interview)
-- [SidharthArya starred pytorch/captum](https://github.com/pytorch/captum)
-- [SidharthArya starred keyboardio/Kaleidoscope](https://github.com/keyboardio/Kaleidoscope)
-- [SidharthArya starred brettkromkamp/awesome-knowledge-management](https://github.com/brettkromkamp/awesome-knowledge-management)
-- [SidharthArya starred aykuttasil/CallRecorder](https://github.com/aykuttasil/CallRecorder)
-- [SidharthArya starred tmux-plugins/tmux-sensible](https://github.com/tmux-plugins/tmux-sensible)
 <!-- GITHUB:END -->
 
 ## Top Followers
