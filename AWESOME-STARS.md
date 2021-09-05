@@ -566,6 +566,7 @@
 - [leeoniya/RgbQuant.js](https://github.com/leeoniya/RgbQuant.js) - color quantization lib
 - [paularmstrong/normalizr](https://github.com/paularmstrong/normalizr) - Normalizes nested JSON according to a schema
 - [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
+- [MaggieAppleton/digital-gardeners](https://github.com/MaggieAppleton/digital-gardeners) - Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs
 - [fedspendingtransparency/usaspending-website](https://github.com/fedspendingtransparency/usaspending-website) - Web application for U.S. federal spending data
 - [matfish2/vue-tables-2](https://github.com/matfish2/vue-tables-2) - Vue.js 2 grid components
 - [chartjs/Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the &lt;canvas&gt; tag
@@ -824,7 +825,6 @@
 - [SidharthArya/pandas](https://github.com/SidharthArya/pandas) - Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
 - [SidharthArya/digital-gardeners](https://github.com/SidharthArya/digital-gardeners) - Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs
 - [jhuangtw/xg2xg](https://github.com/jhuangtw/xg2xg) - by ex-googlers, for ex-googlers - a lookup table of similar tech & services
-- [MaggieAppleton/digital-gardeners](https://github.com/MaggieAppleton/digital-gardeners) - Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs
 - [JusperLee/Speech-Separation-Paper-Tutorial](https://github.com/JusperLee/Speech-Separation-Paper-Tutorial) - A must-read paper for speech separation based on neural networks
 - [AstraZeneca/awesome-explainable-graph-reasoning](https://github.com/AstraZeneca/awesome-explainable-graph-reasoning) - A collection of research papers and software related to explainability in graph machine learning.
 - [visenger/awesome-mlops](https://github.com/visenger/awesome-mlops) - A curated list of references for MLOps
