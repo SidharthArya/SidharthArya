@@ -96,7 +96,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred android/architecture-samples](https://github.com/android/architecture-samples)
 - [SidharthArya starred dkim0419/SoundRecorder](https://github.com/dkim0419/SoundRecorder)
 - [SidharthArya starred Telegram-FOSS-Team/Telegram-FOSS](https://github.com/Telegram-FOSS-Team/Telegram-FOSS)
-- [SidharthArya starred sinch/app-app-calling-android](https://github.com/sinch/app-app-calling-android)
+- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/121908b94b...819836f022)
 <!-- GITHUB:END -->
 
 ## Top Followers
