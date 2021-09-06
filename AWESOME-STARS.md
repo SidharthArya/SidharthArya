@@ -259,6 +259,7 @@
 
 ## Cython 
 
+- [pyutils/line_profiler](https://github.com/pyutils/line_profiler) - Line-by-line profiling for Python
 - [mrjbq7/ta-lib](https://github.com/mrjbq7/ta-lib) - Python wrapper for TA-Lib (http://ta-lib.org/).
 
 ## Dart 
@@ -438,6 +439,7 @@
 
 ## Go 
 
+- [adonovan/gopl.io](https://github.com/adonovan/gopl.io) - Example programs from "The Go Programming Language"
 - [varbhat/exatorrent](https://github.com/varbhat/exatorrent) - Self-hostable , easy-to-use , lightweight and feature-rich torrent client written in Go . It comes with beautiful Web UI and Optional Multi-User Support . Run Locally or Host in Server . Open/Download/Stream Torrents in Browser Right Away!
 - [kellegous/go](https://github.com/kellegous/go) - Another Google-like Go short link service
 - [cosmtrek/air](https://github.com/cosmtrek/air) - ☁️ Live reload for Go apps
@@ -534,7 +536,6 @@
 - [aJIEw/PhoneCallApp](https://github.com/aJIEw/PhoneCallApp) - A demo shows how to make your app as the default phone call app(Android 6.0+) and listen phone call states.
 - [dkim0419/SoundRecorder](https://github.com/dkim0419/SoundRecorder) - A simple sound recording app implementing Material Design
 - [Telegram-FOSS-Team/Telegram-FOSS](https://github.com/Telegram-FOSS-Team/Telegram-FOSS) - Unofficial, FOSS-friendly fork of the original Telegram client for Android
-- [sinch/app-app-calling-android](https://github.com/sinch/app-app-calling-android) - Use this tutorial to build an app-to-app Android calling app.
 - [Kotlin/kotlin-interactive-shell](https://github.com/Kotlin/kotlin-interactive-shell) - Kotlin Language Interactive Shell
 - [pytorch/android-demo-app](https://github.com/pytorch/android-demo-app) - PyTorch android examples of usage in applications
 - [airbnb/lottie-android](https://github.com/airbnb/lottie-android) - Render After Effects animations natively on Android and iOS, Web, and React Native
@@ -1003,7 +1004,6 @@
 - [microsoft/MMdnn](https://github.com/microsoft/MMdnn) - MMdnn is a set of tools to help users inter-operate among different deep learning frameworks. E.g. model conversion and visualization. Convert models between Caffe, Keras, MXNet, Tensorflow, CNTK, PyTorch Onnx and CoreML.
 - [pseeth/torch-stft](https://github.com/pseeth/torch-stft) - An STFT/iSTFT for PyTorch.
 - [plasma-umass/scalene](https://github.com/plasma-umass/scalene) - Scalene: a high-performance, high-precision CPU, GPU, and memory profiler for Python
-- [pyutils/line_profiler](https://github.com/pyutils/line_profiler) - Line-by-line profiling for Python
 - [sumerc/yappi](https://github.com/sumerc/yappi) - Yet Another Python Profiler, but this time thread&coroutine&greenlet aware.
 - [python/cpython](https://github.com/python/cpython) - The Python programming language
 - [joerick/pyinstrument](https://github.com/joerick/pyinstrument) - 🚴 Call stack profiler for Python. Shows you why your code is slow!
