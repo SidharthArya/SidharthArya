@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred PKUanonym/REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT)
 - [SidharthArya starred adonovan/gopl.io](https://github.com/adonovan/gopl.io)
 - [SidharthArya starred aJIEw/PhoneCallApp](https://github.com/aJIEw/PhoneCallApp)
 - [SidharthArya starred esnyder/callrecorder](https://github.com/esnyder/callrecorder)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred android/architecture-samples](https://github.com/android/architecture-samples)
 - [SidharthArya starred dkim0419/SoundRecorder](https://github.com/dkim0419/SoundRecorder)
 - [SidharthArya starred Telegram-FOSS-Team/Telegram-FOSS](https://github.com/Telegram-FOSS-Team/Telegram-FOSS)
-- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/121908b94b...819836f022)
 <!-- GITHUB:END -->
 
 ## Top Followers
