@@ -490,6 +490,7 @@
 
 ## HTML 
 
+- [PKUanonym/REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT) - 清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University
 - [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
 - [SidharthArya/sidhartharya.github.io](https://github.com/SidharthArya/sidhartharya.github.io) - My Personal Website And Blog
 - [SidharthArya/.bspwm](https://github.com/SidharthArya/.bspwm) - 
