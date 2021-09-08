@@ -158,6 +158,8 @@
 
 ## C++ 
 
+- [google/oboe](https://github.com/google/oboe) - Oboe is a C++ library that makes it easy to build high-performance audio apps on Android.
+- [dogecoin/dogecoin](https://github.com/dogecoin/dogecoin) - very currency
 - [keyboardio/Kaleidoscope](https://github.com/keyboardio/Kaleidoscope) - Firmware for the Keyboardio Model 01 and other keyboards with AVR or ARM MCUs.
 - [apple/swift](https://github.com/apple/swift) - The Swift Programming Language
 - [pytorch/FBGEMM](https://github.com/pytorch/FBGEMM) - FB (Facebook) + GEMM (General Matrix-Matrix Multiplication) - https://code.fb.com/ml-applications/fbgemm/
@@ -1169,7 +1171,7 @@
 - [dabasajay/Image-Caption-Generator](https://github.com/dabasajay/Image-Caption-Generator) - A neural network to generate captions for an image using CNN and RNN with BEAM Search.
 - [TachibanaYoshino/AnimeGAN](https://github.com/TachibanaYoshino/AnimeGAN) - A Tensorflow implementation of AnimeGAN for fast photo animation  ! This is the Open source of the paper 「AnimeGAN: a novel lightweight GAN for photo animation」, which uses the GAN framwork to transform real-world photos into anime images.
 - [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Big Sur support now! Only commercial (paid) support is available now to avoid spammy issues.
-- [kornia/kornia](https://github.com/kornia/kornia) - Open Source Differentiable Computer Vision Library for PyTorch
+- [kornia/kornia](https://github.com/kornia/kornia) - Open Source Differentiable Computer Vision Library
 - [spotify/chartify](https://github.com/spotify/chartify) - Python library that makes it easy for data scientists to create charts.
 - [qtile/qtile](https://github.com/qtile/qtile) - :cookie: A full-featured, hackable tiling window manager written and configured in Python
 - [pandas-dev/pandas](https://github.com/pandas-dev/pandas) - Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
