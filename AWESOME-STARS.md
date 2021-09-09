@@ -158,6 +158,7 @@
 
 ## C++ 
 
+- [juce-framework/JUCE](https://github.com/juce-framework/JUCE) - JUCE is an open-source cross-platform C++ application framework for desktop and mobile applications, including VST, VST3, AU, AUv3, RTAS and AAX audio plug-ins.
 - [google/oboe](https://github.com/google/oboe) - Oboe is a C++ library that makes it easy to build high-performance audio apps on Android.
 - [dogecoin/dogecoin](https://github.com/dogecoin/dogecoin) - very currency
 - [keyboardio/Kaleidoscope](https://github.com/keyboardio/Kaleidoscope) - Firmware for the Keyboardio Model 01 and other keyboards with AVR or ARM MCUs.
@@ -536,6 +537,7 @@
 
 ## Java 
 
+- [google/ringdroid](https://github.com/google/ringdroid) - 
 - [aJIEw/PhoneCallApp](https://github.com/aJIEw/PhoneCallApp) - A demo shows how to make your app as the default phone call app(Android 6.0+) and listen phone call states.
 - [dkim0419/SoundRecorder](https://github.com/dkim0419/SoundRecorder) - A simple sound recording app implementing Material Design
 - [Telegram-FOSS-Team/Telegram-FOSS](https://github.com/Telegram-FOSS-Team/Telegram-FOSS) - Unofficial, FOSS-friendly fork of the original Telegram client for Android
@@ -565,6 +567,7 @@
 
 ## JavaScript 
 
+- [ErickWendel/semana-javascript-expert05](https://github.com/ErickWendel/semana-javascript-expert05) - Todas as aulas da Semana JS Expert 5.0 - Google Drive Clone
 - [lgwebdream/FE-Interview](https://github.com/lgwebdream/FE-Interview) - 🔥🔥🔥 前端面试，独有前端面试题详解，前端面试刷题必备，1000+前端面试真题，Html、Css、JavaScript、Vue、React、Node、TypeScript、Webpack、算法、网络与安全、浏览器
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [leeoniya/RgbQuant.js](https://github.com/leeoniya/RgbQuant.js) - color quantization lib
@@ -818,6 +821,7 @@
 
 ## Others 
 
+- [wangdoc/clang-tutorial](https://github.com/wangdoc/clang-tutorial) - C 语言教程
 - [brettkromkamp/awesome-knowledge-management](https://github.com/brettkromkamp/awesome-knowledge-management) - A curated list of amazingly awesome articles, people, applications, software libraries and projects related to the knowledge management space
 - [phracker/MacOSX-SDKs](https://github.com/phracker/MacOSX-SDKs) - A collection of those pesky SDK folders: MacOSX10.1.5.sdk thru MacOSX11.3.sdk
 - [kadirilkimen/Polar-Bear-Cnc-Machine](https://github.com/kadirilkimen/Polar-Bear-Cnc-Machine) - A multipurpose, 2 linear, 1 rotary axis cnc machine concept
