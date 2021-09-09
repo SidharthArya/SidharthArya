@@ -87,6 +87,9 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred wangdoc/clang-tutorial](https://github.com/wangdoc/clang-tutorial)
+- [SidharthArya starred ErickWendel/semana-javascript-expert05](https://github.com/ErickWendel/semana-javascript-expert05)
+- [SidharthArya starred juce-framework/JUCE](https://github.com/juce-framework/JUCE)
 - [SidharthArya starred google/ringdroid](https://github.com/google/ringdroid)
 - [SidharthArya starred google/oboe](https://github.com/google/oboe)
 - [SidharthArya starred dogecoin/dogecoin](https://github.com/dogecoin/dogecoin)
@@ -94,9 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/86013ab409...8d45eddce0)
 - [SidharthArya starred PKUanonym/REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT)
 - [SidharthArya starred adonovan/gopl.io](https://github.com/adonovan/gopl.io)
-- [SidharthArya starred aJIEw/PhoneCallApp](https://github.com/aJIEw/PhoneCallApp)
-- [SidharthArya starred esnyder/callrecorder](https://github.com/esnyder/callrecorder)
-- [SidharthArya starred android/sunflower](https://github.com/android/sunflower)
 <!-- GITHUB:END -->
 
 ## Top Followers
