@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred google/ringdroid](https://github.com/google/ringdroid)
 - [SidharthArya starred google/oboe](https://github.com/google/oboe)
 - [SidharthArya starred dogecoin/dogecoin](https://github.com/dogecoin/dogecoin)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/819836f022...1ad8ea2222)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred aJIEw/PhoneCallApp](https://github.com/aJIEw/PhoneCallApp)
 - [SidharthArya starred esnyder/callrecorder](https://github.com/esnyder/callrecorder)
 - [SidharthArya starred android/sunflower](https://github.com/android/sunflower)
-- [SidharthArya starred nickbutcher/plaid](https://github.com/nickbutcher/plaid)
 <!-- GITHUB:END -->
 
 ## Top Followers
