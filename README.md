@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/1ad8ea2222...ea126e95d8)
+- [SidharthArya pushed to master in SidharthArya/.nnn](https://github.com/SidharthArya/.nnn/compare/d712bc560e...995909f31c)
 - [SidharthArya starred wangdoc/clang-tutorial](https://github.com/wangdoc/clang-tutorial)
 - [SidharthArya starred ErickWendel/semana-javascript-expert05](https://github.com/ErickWendel/semana-javascript-expert05)
 - [SidharthArya starred juce-framework/JUCE](https://github.com/juce-framework/JUCE)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred dogecoin/dogecoin](https://github.com/dogecoin/dogecoin)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/819836f022...1ad8ea2222)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/86013ab409...8d45eddce0)
-- [SidharthArya starred PKUanonym/REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT)
-- [SidharthArya starred adonovan/gopl.io](https://github.com/adonovan/gopl.io)
 <!-- GITHUB:END -->
 
 ## Top Followers
