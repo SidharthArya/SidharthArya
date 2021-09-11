@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred NVIDIAGameWorks/kaolin](https://github.com/NVIDIAGameWorks/kaolin)
+- [SidharthArya starred facebookresearch/higher](https://github.com/facebookresearch/higher)
 - [SidharthArya starred tailscale/tailscale](https://github.com/tailscale/tailscale)
 - [SidharthArya starred microsoft/PowerToys](https://github.com/microsoft/PowerToys)
 - [SidharthArya starred cdanis/sandia-public-license](https://github.com/cdanis/sandia-public-license)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred wangdoc/clang-tutorial](https://github.com/wangdoc/clang-tutorial)
 - [SidharthArya starred ErickWendel/semana-javascript-expert05](https://github.com/ErickWendel/semana-javascript-expert05)
 - [SidharthArya starred juce-framework/JUCE](https://github.com/juce-framework/JUCE)
-- [SidharthArya starred google/ringdroid](https://github.com/google/ringdroid)
-- [SidharthArya starred google/oboe](https://github.com/google/oboe)
 <!-- GITHUB:END -->
 
 ## Top Followers
