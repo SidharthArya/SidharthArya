@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred tailscale/tailscale](https://github.com/tailscale/tailscale)
+- [SidharthArya starred microsoft/PowerToys](https://github.com/microsoft/PowerToys)
 - [SidharthArya starred cdanis/sandia-public-license](https://github.com/cdanis/sandia-public-license)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/1ad8ea2222...ea126e95d8)
 - [SidharthArya pushed to master in SidharthArya/.nnn](https://github.com/SidharthArya/.nnn/compare/d712bc560e...995909f31c)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred juce-framework/JUCE](https://github.com/juce-framework/JUCE)
 - [SidharthArya starred google/ringdroid](https://github.com/google/ringdroid)
 - [SidharthArya starred google/oboe](https://github.com/google/oboe)
-- [SidharthArya starred dogecoin/dogecoin](https://github.com/dogecoin/dogecoin)
-- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/819836f022...1ad8ea2222)
 <!-- GITHUB:END -->
 
 ## Top Followers
