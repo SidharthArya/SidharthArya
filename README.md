@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred cdanis/sandia-public-license](https://github.com/cdanis/sandia-public-license)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/1ad8ea2222...ea126e95d8)
 - [SidharthArya pushed to master in SidharthArya/.nnn](https://github.com/SidharthArya/.nnn/compare/d712bc560e...995909f31c)
 - [SidharthArya starred wangdoc/clang-tutorial](https://github.com/wangdoc/clang-tutorial)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred google/oboe](https://github.com/google/oboe)
 - [SidharthArya starred dogecoin/dogecoin](https://github.com/dogecoin/dogecoin)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/819836f022...1ad8ea2222)
-- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/86013ab409...8d45eddce0)
 <!-- GITHUB:END -->
 
 ## Top Followers
