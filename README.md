@@ -87,16 +87,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred ant-design/ant-design-pro](https://github.com/ant-design/ant-design-pro)
+- [SidharthArya starred react-boilerplate/react-boilerplate](https://github.com/react-boilerplate/react-boilerplate)
+- [SidharthArya starred kriasoft/react-starter-kit](https://github.com/kriasoft/react-starter-kit)
+- [SidharthArya starred electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate)
+- [SidharthArya starred infinitered/ignite](https://github.com/infinitered/ignite)
+- [SidharthArya starred zubairehman/flutter-boilerplate-project](https://github.com/zubairehman/flutter-boilerplate-project)
+- [SidharthArya starred jhen0409/react-native-debugger](https://github.com/jhen0409/react-native-debugger)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/ea126e95d8...ea0032e068)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/8d45eddce0...490e537f55)
 - [SidharthArya pushed to master in SidharthArya/.nnn](https://github.com/SidharthArya/.nnn/compare/995909f31c...f481ea05cc)
-- [SidharthArya starred NVIDIAGameWorks/kaolin](https://github.com/NVIDIAGameWorks/kaolin)
-- [SidharthArya starred facebookresearch/higher](https://github.com/facebookresearch/higher)
-- [SidharthArya starred tailscale/tailscale](https://github.com/tailscale/tailscale)
-- [SidharthArya starred microsoft/PowerToys](https://github.com/microsoft/PowerToys)
-- [SidharthArya starred cdanis/sandia-public-license](https://github.com/cdanis/sandia-public-license)
-- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/1ad8ea2222...ea126e95d8)
-- [SidharthArya pushed to master in SidharthArya/.nnn](https://github.com/SidharthArya/.nnn/compare/d712bc560e...995909f31c)
 <!-- GITHUB:END -->
 
 ## Top Followers
