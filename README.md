@@ -132,6 +132,13 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       <a href="https://github.com/conao3">Naoya Yamashita</a>
     </td>
     <td align="center">
+      <a href="https://github.com/maskegger">
+        <img src="https://avatars2.githubusercontent.com/u/3811321" width="100px;" alt="maskegger"/>
+      </a>
+      <br />
+      <a href="https://github.com/maskegger">AM</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/Tiancheng-Luo">
         <img src="https://avatars2.githubusercontent.com/u/6097951" width="100px;" alt="Tiancheng-Luo"/>
       </a>
@@ -145,6 +152,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       <br />
       <a href="https://github.com/portgasray">Lei Zhang</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/relativelyrehan">
         <img src="https://avatars2.githubusercontent.com/u/48210765" width="100px;" alt="relativelyrehan"/>
@@ -152,8 +161,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       <br />
       <a href="https://github.com/relativelyrehan">rreel </a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/samdyuti">
         <img src="https://avatars2.githubusercontent.com/u/69840173" width="100px;" alt="samdyuti"/>
@@ -196,6 +203,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       <br />
       <a href="https://github.com/souvikg123">souvikg123</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/rjachuthan">
         <img src="https://avatars2.githubusercontent.com/u/7797813" width="100px;" alt="rjachuthan"/>
@@ -203,8 +212,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       <br />
       <a href="https://github.com/rjachuthan">Rituraj Achuthan</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/newmentos">
         <img src="https://avatars2.githubusercontent.com/u/2989858" width="100px;" alt="newmentos"/>
@@ -246,13 +253,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       </a>
       <br />
       <a href="https://github.com/yalinosgb">Yalın OSGB</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/efh96">
-        <img src="https://avatars2.githubusercontent.com/u/42412191" width="100px;" alt="efh96"/>
-      </a>
-      <br />
-      <a href="https://github.com/efh96">efh96</a>
     </td>
   </tr>
 </table>
