@@ -830,7 +830,6 @@
 
 - [cdanis/sandia-public-license](https://github.com/cdanis/sandia-public-license) - This is not a license of honor. No highly esteemed copyright statement is written here.
 - [wangdoc/clang-tutorial](https://github.com/wangdoc/clang-tutorial) - C 语言教程
-- [brettkromkamp/awesome-knowledge-management](https://github.com/brettkromkamp/awesome-knowledge-management) - A curated list of amazingly awesome articles, people, applications, software libraries and projects related to the knowledge management space
 - [phracker/MacOSX-SDKs](https://github.com/phracker/MacOSX-SDKs) - A collection of those pesky SDK folders: MacOSX10.1.5.sdk thru MacOSX11.3.sdk
 - [kadirilkimen/Polar-Bear-Cnc-Machine](https://github.com/kadirilkimen/Polar-Bear-Cnc-Machine) - A multipurpose, 2 linear, 1 rotary axis cnc machine concept
 - [UKHomeOffice/posters](https://github.com/UKHomeOffice/posters) - Home Office Digital repository of posters covering different topics - research, access needs, accessibility, design.
