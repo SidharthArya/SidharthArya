@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred aws/aws-cli](https://github.com/aws/aws-cli)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/ea0032e068...0d988500c1)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/490e537f55...876ef31dc8)
 - [SidharthArya starred ant-design/ant-design-pro](https://github.com/ant-design/ant-design-pro)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred infinitered/ignite](https://github.com/infinitered/ignite)
 - [SidharthArya starred zubairehman/flutter-boilerplate-project](https://github.com/zubairehman/flutter-boilerplate-project)
 - [SidharthArya starred jhen0409/react-native-debugger](https://github.com/jhen0409/react-native-debugger)
-- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/ea126e95d8...ea0032e068)
 <!-- GITHUB:END -->
 
 ## Top Followers
