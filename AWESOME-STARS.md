@@ -269,6 +269,8 @@
 
 ## Dart 
 
+- [flutter/photobooth](https://github.com/flutter/photobooth) - Google I/O 2021 Photo Booth built with Flutter and Firebase
+- [dart-lang/shelf](https://github.com/dart-lang/shelf) - Web server middleware for Dart
 - [zubairehman/flutter-boilerplate-project](https://github.com/zubairehman/flutter-boilerplate-project) - A boilerplate project created in flutter using MobX and Provider.
 - [mhmdanas/quantities](https://github.com/mhmdanas/quantities) - Work with physical quantities and units seamlessly!
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
@@ -767,6 +769,7 @@
 
 ## Kotlin 
 
+- [android/compose-samples](https://github.com/android/compose-samples) - Official Jetpack Compose samples.
 - [android/sunflower](https://github.com/android/sunflower) - A gardening app illustrating Android development best practices with Android Jetpack.
 - [nickbutcher/plaid](https://github.com/nickbutcher/plaid) - An Android app which provides design news & inspiration as well as being an example of implementing material design.
 - [google/iosched](https://github.com/google/iosched) - The Google I/O Android App
@@ -948,6 +951,7 @@
 
 ## Python 
 
+- [aws/aws-cli](https://github.com/aws/aws-cli) - Universal Command Line Interface for Amazon Web Services
 - [NVIDIAGameWorks/kaolin](https://github.com/NVIDIAGameWorks/kaolin) - A PyTorch Library for Accelerating 3D Deep Learning Research
 - [facebookresearch/higher](https://github.com/facebookresearch/higher) - higher is a pytorch library allowing users to obtain higher order gradients over losses spanning training loops rather than individual training steps.
 - [twopirllc/pandas-ta](https://github.com/twopirllc/pandas-ta) - Technical Analysis Indicators - Pandas TA is an easy to use Python 3 Pandas Extension with 130+ Indicators
