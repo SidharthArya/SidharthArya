@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred flutter/photobooth](https://github.com/flutter/photobooth)
+- [SidharthArya starred dart-lang/shelf](https://github.com/dart-lang/shelf)
 - [SidharthArya starred aws/aws-cli](https://github.com/aws/aws-cli)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/ea0032e068...0d988500c1)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/490e537f55...876ef31dc8)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred kriasoft/react-starter-kit](https://github.com/kriasoft/react-starter-kit)
 - [SidharthArya starred electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate)
 - [SidharthArya starred infinitered/ignite](https://github.com/infinitered/ignite)
-- [SidharthArya starred zubairehman/flutter-boilerplate-project](https://github.com/zubairehman/flutter-boilerplate-project)
-- [SidharthArya starred jhen0409/react-native-debugger](https://github.com/jhen0409/react-native-debugger)
 <!-- GITHUB:END -->
 
 ## Top Followers
