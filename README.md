@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/ea0032e068...0d988500c1)
+- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/490e537f55...876ef31dc8)
 - [SidharthArya starred ant-design/ant-design-pro](https://github.com/ant-design/ant-design-pro)
 - [SidharthArya starred react-boilerplate/react-boilerplate](https://github.com/react-boilerplate/react-boilerplate)
 - [SidharthArya starred kriasoft/react-starter-kit](https://github.com/kriasoft/react-starter-kit)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred zubairehman/flutter-boilerplate-project](https://github.com/zubairehman/flutter-boilerplate-project)
 - [SidharthArya starred jhen0409/react-native-debugger](https://github.com/jhen0409/react-native-debugger)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/ea126e95d8...ea0032e068)
-- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/8d45eddce0...490e537f55)
-- [SidharthArya pushed to master in SidharthArya/.nnn](https://github.com/SidharthArya/.nnn/compare/995909f31c...f481ea05cc)
 <!-- GITHUB:END -->
 
 ## Top Followers
