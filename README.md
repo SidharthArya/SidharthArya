@@ -87,16 +87,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred oruga-ui/oruga](https://github.com/oruga-ui/oruga)
+- [SidharthArya starred desktop/desktop](https://github.com/desktop/desktop)
+- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/0d988500c1...e154d6d6d0)
+- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/876ef31dc8...5edc6d6eaa)
 - [SidharthArya starred android/compose-samples](https://github.com/android/compose-samples)
 - [SidharthArya starred flutter/photobooth](https://github.com/flutter/photobooth)
 - [SidharthArya starred dart-lang/shelf](https://github.com/dart-lang/shelf)
 - [SidharthArya starred aws/aws-cli](https://github.com/aws/aws-cli)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/ea0032e068...0d988500c1)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/490e537f55...876ef31dc8)
-- [SidharthArya starred ant-design/ant-design-pro](https://github.com/ant-design/ant-design-pro)
-- [SidharthArya starred react-boilerplate/react-boilerplate](https://github.com/react-boilerplate/react-boilerplate)
-- [SidharthArya starred kriasoft/react-starter-kit](https://github.com/kriasoft/react-starter-kit)
-- [SidharthArya starred electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate)
 <!-- GITHUB:END -->
 
 ## Top Followers
