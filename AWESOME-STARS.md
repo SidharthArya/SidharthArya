@@ -831,6 +831,7 @@
 
 ## Others 
 
+- [stoplightio/studio](https://github.com/stoplightio/studio) - The modern editor for API Design and Technical Writing.
 - [cdanis/sandia-public-license](https://github.com/cdanis/sandia-public-license) - This is not a license of honor. No highly esteemed copyright statement is written here.
 - [wangdoc/clang-tutorial](https://github.com/wangdoc/clang-tutorial) - C 语言教程
 - [phracker/MacOSX-SDKs](https://github.com/phracker/MacOSX-SDKs) - A collection of those pesky SDK folders: MacOSX10.1.5.sdk thru MacOSX11.3.sdk
@@ -1509,6 +1510,7 @@
 
 ## Vue 
 
+- [oruga-ui/oruga](https://github.com/oruga-ui/oruga) - 🐛 Oruga is a lightweight library of UI components without CSS framework dependency
 - [tipsy/profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) - Tool for visualizing GitHub profiles
 - [ElemeFE/mint-ui](https://github.com/ElemeFE/mint-ui) - Mobile UI elements for Vue.js
 - [airyland/vux](https://github.com/airyland/vux) - Mobile UI Components based on Vue & WeUI
