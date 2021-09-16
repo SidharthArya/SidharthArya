@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/e154d6d6d0...7a2a1e18e9)
+- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/5edc6d6eaa...ad36760419)
 - [SidharthArya starred stoplightio/studio](https://github.com/stoplightio/studio)
 - [SidharthArya starred oruga-ui/oruga](https://github.com/oruga-ui/oruga)
 - [SidharthArya starred desktop/desktop](https://github.com/desktop/desktop)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred android/compose-samples](https://github.com/android/compose-samples)
 - [SidharthArya starred flutter/photobooth](https://github.com/flutter/photobooth)
 - [SidharthArya starred dart-lang/shelf](https://github.com/dart-lang/shelf)
-- [SidharthArya starred aws/aws-cli](https://github.com/aws/aws-cli)
-- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/ea0032e068...0d988500c1)
 <!-- GITHUB:END -->
 
 ## Top Followers
