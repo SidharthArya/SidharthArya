@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya created a branch master in SidharthArya/flutter-demo-project](https://github.com/SidharthArya/flutter-demo-project/compare/master)
 - [SidharthArya created a repository SidharthArya/flutter-demo-project](https://github.com/SidharthArya/flutter-demo-project//)
 - [SidharthArya starred symfony/symfony](https://github.com/symfony/symfony)
 - [SidharthArya starred flutter/gallery](https://github.com/flutter/gallery)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred fluttercommunity/flutter_sticky_headers](https://github.com/fluttercommunity/flutter_sticky_headers)
 - [SidharthArya starred fluttercommunity/plus_plugins](https://github.com/fluttercommunity/plus_plugins)
 - [SidharthArya starred felangel/bloc](https://github.com/felangel/bloc)
-- [SidharthArya starred dart-lang/sdk](https://github.com/dart-lang/sdk)
 <!-- GITHUB:END -->
 
 ## Top Followers
