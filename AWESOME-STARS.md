@@ -269,6 +269,13 @@
 
 ## Dart 
 
+- [flutter/gallery](https://github.com/flutter/gallery) - Flutter Gallery is a resource to help developers evaluate and use Flutter
+- [fluttercommunity/flutter_sms](https://github.com/fluttercommunity/flutter_sms) - A Flutter plugin to Send SMS and MMS on iOS and Android. If iMessage is enabled it will send as iMessage on iOS. This plugin must be tested on a real device on iOS. Maintainer: @rodydavis
+- [fluttercommunity/flutter_launcher_icons](https://github.com/fluttercommunity/flutter_launcher_icons) - Flutter Launcher Icons - A package which simplifies the task of updating your Flutter app's launcher icon. Fully flexible, allowing you to choose what platform you wish to update the launcher icon for and if you want, the option to keep your old launcher icon in case you want to revert back sometime in the future. Maintainer: @MarkOSullivan94
+- [fluttercommunity/flutter_sticky_headers](https://github.com/fluttercommunity/flutter_sticky_headers) - Flutter Sticky Headers - Lets you place "sticky headers" into any scrollable content in your Flutter app. No special wrappers or magic required. Maintainer: @slightfoot
+- [fluttercommunity/plus_plugins](https://github.com/fluttercommunity/plus_plugins) - Flutter Community Plus Plugins
+- [felangel/bloc](https://github.com/felangel/bloc) - A predictable state management library that helps implement the BLoC design pattern
+- [dart-lang/sdk](https://github.com/dart-lang/sdk) - The Dart SDK, including the VM, dart2js, core libraries, and more.
 - [flutter/photobooth](https://github.com/flutter/photobooth) - Google I/O 2021 Photo Booth built with Flutter and Firebase
 - [dart-lang/shelf](https://github.com/dart-lang/shelf) - Web server middleware for Dart
 - [zubairehman/flutter-boilerplate-project](https://github.com/zubairehman/flutter-boilerplate-project) - A boilerplate project created in flutter using MobX and Provider.
@@ -573,6 +580,7 @@
 
 ## JavaScript 
 
+- [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 - [react-boilerplate/react-boilerplate](https://github.com/react-boilerplate/react-boilerplate) - :fire: A highly scalable, offline-first foundation with the best developer experience and a focus on performance and best practices.
 - [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) - A Foundation for Scalable Cross-Platform Apps
 - [jhen0409/react-native-debugger](https://github.com/jhen0409/react-native-debugger) - The standalone app based on official debugger of React Native, and includes React Inspector / Redux DevTools
@@ -937,6 +945,7 @@
 
 ## PHP 
 
+- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework
 - [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
 - [kanboard/kanboard](https://github.com/kanboard/kanboard) - Kanban project management software
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - Liberating Web Analytics. Star us on Github? +1. Matomo is the leading open alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from websites & apps and visualise this data and extract insights. Privacy is built-in. We love Pull Requests!
@@ -1430,6 +1439,7 @@
 
 ## TeX 
 
+- [devonfw-forge/devonfw4flutter](https://github.com/devonfw-forge/devonfw4flutter) - A guide aiming to bridge the gap between the absolute Flutter basics and clean, structured Flutter Development
 - [tuhdo/os01](https://github.com/tuhdo/os01) - Bootstrap yourself to write an OS from scratch. A book for self-learner.
 - [ybayle/awesome-deep-learning-music](https://github.com/ybayle/awesome-deep-learning-music) - List of articles related to deep learning applied to music
 - [posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV) - :page_facing_up: Awesome CV is LaTeX template for your outstanding job application
