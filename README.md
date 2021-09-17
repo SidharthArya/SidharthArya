@@ -87,16 +87,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred fluttercommunity/flutter_sms](https://github.com/fluttercommunity/flutter_sms)
+- [SidharthArya starred fluttercommunity/flutter_launcher_icons](https://github.com/fluttercommunity/flutter_launcher_icons)
+- [SidharthArya starred fluttercommunity/flutter_sticky_headers](https://github.com/fluttercommunity/flutter_sticky_headers)
+- [SidharthArya starred fluttercommunity/plus_plugins](https://github.com/fluttercommunity/plus_plugins)
+- [SidharthArya starred felangel/bloc](https://github.com/felangel/bloc)
 - [SidharthArya starred dart-lang/sdk](https://github.com/dart-lang/sdk)
 - [SidharthArya starred facebook/react-native](https://github.com/facebook/react-native)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/e154d6d6d0...7a2a1e18e9)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/5edc6d6eaa...ad36760419)
 - [SidharthArya starred stoplightio/studio](https://github.com/stoplightio/studio)
-- [SidharthArya starred oruga-ui/oruga](https://github.com/oruga-ui/oruga)
-- [SidharthArya starred desktop/desktop](https://github.com/desktop/desktop)
-- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/0d988500c1...e154d6d6d0)
-- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/876ef31dc8...5edc6d6eaa)
-- [SidharthArya starred android/compose-samples](https://github.com/android/compose-samples)
 <!-- GITHUB:END -->
 
 ## Top Followers
