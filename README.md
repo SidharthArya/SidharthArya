@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred facebook/react-native](https://github.com/facebook/react-native)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/e154d6d6d0...7a2a1e18e9)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/5edc6d6eaa...ad36760419)
 - [SidharthArya starred stoplightio/studio](https://github.com/stoplightio/studio)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/876ef31dc8...5edc6d6eaa)
 - [SidharthArya starred android/compose-samples](https://github.com/android/compose-samples)
 - [SidharthArya starred flutter/photobooth](https://github.com/flutter/photobooth)
-- [SidharthArya starred dart-lang/shelf](https://github.com/dart-lang/shelf)
 <!-- GITHUB:END -->
 
 ## Top Followers
