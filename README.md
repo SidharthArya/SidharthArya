@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred flutter/gallery](https://github.com/flutter/gallery)
+- [SidharthArya starred devonfw-forge/devonfw4flutter](https://github.com/devonfw-forge/devonfw4flutter)
 - [SidharthArya starred fluttercommunity/flutter_sms](https://github.com/fluttercommunity/flutter_sms)
 - [SidharthArya starred fluttercommunity/flutter_launcher_icons](https://github.com/fluttercommunity/flutter_launcher_icons)
 - [SidharthArya starred fluttercommunity/flutter_sticky_headers](https://github.com/fluttercommunity/flutter_sticky_headers)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred dart-lang/sdk](https://github.com/dart-lang/sdk)
 - [SidharthArya starred facebook/react-native](https://github.com/facebook/react-native)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/e154d6d6d0...7a2a1e18e9)
-- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/5edc6d6eaa...ad36760419)
-- [SidharthArya starred stoplightio/studio](https://github.com/stoplightio/studio)
 <!-- GITHUB:END -->
 
 ## Top Followers
