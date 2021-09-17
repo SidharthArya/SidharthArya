@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya created a repository SidharthArya/flutter-demo-project](https://github.com/SidharthArya/flutter-demo-project//)
+- [SidharthArya starred symfony/symfony](https://github.com/symfony/symfony)
 - [SidharthArya starred flutter/gallery](https://github.com/flutter/gallery)
 - [SidharthArya starred devonfw-forge/devonfw4flutter](https://github.com/devonfw-forge/devonfw4flutter)
 - [SidharthArya starred fluttercommunity/flutter_sms](https://github.com/fluttercommunity/flutter_sms)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred fluttercommunity/plus_plugins](https://github.com/fluttercommunity/plus_plugins)
 - [SidharthArya starred felangel/bloc](https://github.com/felangel/bloc)
 - [SidharthArya starred dart-lang/sdk](https://github.com/dart-lang/sdk)
-- [SidharthArya starred facebook/react-native](https://github.com/facebook/react-native)
-- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/e154d6d6d0...7a2a1e18e9)
 <!-- GITHUB:END -->
 
 ## Top Followers
