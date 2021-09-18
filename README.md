@@ -87,16 +87,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/7a2a1e18e9...e3b8fe5c5a)
+- [SidharthArya pushed to master in SidharthArya/scripts](https://github.com/SidharthArya/scripts/compare/18c42c8023...3336e1bfa8)
+- [SidharthArya pushed to master in SidharthArya/.bspwm](https://github.com/SidharthArya/.bspwm/compare/3935c8b4f4...0e378f22a0)
+- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/ad36760419...46ed501469)
 - [SidharthArya created a branch master in SidharthArya/flutter-demo-project](https://github.com/SidharthArya/flutter-demo-project/compare/master)
 - [SidharthArya created a repository SidharthArya/flutter-demo-project](https://github.com/SidharthArya/flutter-demo-project//)
 - [SidharthArya starred symfony/symfony](https://github.com/symfony/symfony)
 - [SidharthArya starred flutter/gallery](https://github.com/flutter/gallery)
 - [SidharthArya starred devonfw-forge/devonfw4flutter](https://github.com/devonfw-forge/devonfw4flutter)
 - [SidharthArya starred fluttercommunity/flutter_sms](https://github.com/fluttercommunity/flutter_sms)
-- [SidharthArya starred fluttercommunity/flutter_launcher_icons](https://github.com/fluttercommunity/flutter_launcher_icons)
-- [SidharthArya starred fluttercommunity/flutter_sticky_headers](https://github.com/fluttercommunity/flutter_sticky_headers)
-- [SidharthArya starred fluttercommunity/plus_plugins](https://github.com/fluttercommunity/plus_plugins)
-- [SidharthArya starred felangel/bloc](https://github.com/felangel/bloc)
 <!-- GITHUB:END -->
 
 ## Top Followers
