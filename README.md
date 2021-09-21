@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred jonbhanson/flutter_native_splash](https://github.com/jonbhanson/flutter_native_splash)
 - [SidharthArya starred emacs-lsp/lsp-dart](https://github.com/emacs-lsp/lsp-dart)
 - [SidharthArya starred angulardart/angular](https://github.com/angulardart/angular)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/7a2a1e18e9...e3b8fe5c5a)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya created a branch master in SidharthArya/flutter-demo-project](https://github.com/SidharthArya/flutter-demo-project/compare/master)
 - [SidharthArya created a repository SidharthArya/flutter-demo-project](https://github.com/SidharthArya/flutter-demo-project//)
 - [SidharthArya starred symfony/symfony](https://github.com/symfony/symfony)
-- [SidharthArya starred flutter/gallery](https://github.com/flutter/gallery)
 <!-- GITHUB:END -->
 
 ## Top Followers
