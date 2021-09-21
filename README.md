@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/e3b8fe5c5a...36c85a7b7c)
+- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/46ed501469...86cd1be73c)
 - [SidharthArya starred jonbhanson/flutter_native_splash](https://github.com/jonbhanson/flutter_native_splash)
 - [SidharthArya starred emacs-lsp/lsp-dart](https://github.com/emacs-lsp/lsp-dart)
 - [SidharthArya starred angulardart/angular](https://github.com/angulardart/angular)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/.bspwm](https://github.com/SidharthArya/.bspwm/compare/3935c8b4f4...0e378f22a0)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/ad36760419...46ed501469)
 - [SidharthArya created a branch master in SidharthArya/flutter-demo-project](https://github.com/SidharthArya/flutter-demo-project/compare/master)
-- [SidharthArya created a repository SidharthArya/flutter-demo-project](https://github.com/SidharthArya/flutter-demo-project//)
-- [SidharthArya starred symfony/symfony](https://github.com/symfony/symfony)
 <!-- GITHUB:END -->
 
 ## Top Followers
