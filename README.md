@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred emacs-lsp/lsp-dart](https://github.com/emacs-lsp/lsp-dart)
 - [SidharthArya starred angulardart/angular](https://github.com/angulardart/angular)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/7a2a1e18e9...e3b8fe5c5a)
 - [SidharthArya pushed to master in SidharthArya/scripts](https://github.com/SidharthArya/scripts/compare/18c42c8023...3336e1bfa8)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya created a repository SidharthArya/flutter-demo-project](https://github.com/SidharthArya/flutter-demo-project//)
 - [SidharthArya starred symfony/symfony](https://github.com/symfony/symfony)
 - [SidharthArya starred flutter/gallery](https://github.com/flutter/gallery)
-- [SidharthArya starred devonfw-forge/devonfw4flutter](https://github.com/devonfw-forge/devonfw4flutter)
 <!-- GITHUB:END -->
 
 ## Top Followers
