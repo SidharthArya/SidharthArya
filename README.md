@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred dart-lang/dart_style](https://github.com/dart-lang/dart_style)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/e3b8fe5c5a...36c85a7b7c)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/46ed501469...86cd1be73c)
 - [SidharthArya starred jonbhanson/flutter_native_splash](https://github.com/jonbhanson/flutter_native_splash)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/scripts](https://github.com/SidharthArya/scripts/compare/18c42c8023...3336e1bfa8)
 - [SidharthArya pushed to master in SidharthArya/.bspwm](https://github.com/SidharthArya/.bspwm/compare/3935c8b4f4...0e378f22a0)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/ad36760419...46ed501469)
-- [SidharthArya created a branch master in SidharthArya/flutter-demo-project](https://github.com/SidharthArya/flutter-demo-project/compare/master)
 <!-- GITHUB:END -->
 
 ## Top Followers
