@@ -240,7 +240,6 @@
 - [ibezkrovnyi/image-quantization](https://github.com/ibezkrovnyi/image-quantization) - Image Quantization Library with alpha support (based on https://github.com/leeoniya/RgbQuant.js, https://github.com/timoxley/neuquant and http://www.ece.mcmaster.ca/~xwu/cq.c)
 - [necolas/normalize.css](https://github.com/necolas/normalize.css) - A modern alternative to CSS resets
 - [5t3ph/stylestage](https://github.com/5t3ph/stylestage) - A modern CSS showcase styled by community contributions. Add your stylesheet!
-- [luizdepra/hugo-coder](https://github.com/luizdepra/hugo-coder) - A minimalist blog theme for hugo.
 - [IBM/css-gridish](https://github.com/IBM/css-gridish) - Automatically build your grid design’s CSS Grid code, CSS Flexbox fallback code, Sketch artboards, and Chrome extension.
 - [IBM/plex](https://github.com/IBM/plex) - The package of IBM’s typeface, IBM Plex.
 - [vicky002/AlgoWiki](https://github.com/vicky002/AlgoWiki) - Repository which contains links and resources on different topics of Computer Science.
@@ -1059,7 +1058,7 @@
 - [hanxiao/bert-as-service](https://github.com/hanxiao/bert-as-service) - Mapping a variable-length sentence to a fixed-length vector using BERT model
 - [allenai/allennlp](https://github.com/allenai/allennlp) - An open-source NLP research library, built on PyTorch.
 - [demotomohiro/remocolab](https://github.com/demotomohiro/remocolab) - remocolab is a Python module to allow remote access to Google Colaboratory using SSH or TurboVNC.
-- [yoshitomo-matsubara/torchdistill](https://github.com/yoshitomo-matsubara/torchdistill) - PyTorch-based modular, configuration-driven framework for knowledge distillation. 🏆20 methods presented at CVPR, ICLR, ECCV, NeurIPS, ICCV, etc are implemented so far. 🎁 Trained models, training logs and configurations are available for ensuring the reproducibiliy and benchmark.
+- [yoshitomo-matsubara/torchdistill](https://github.com/yoshitomo-matsubara/torchdistill) - A coding-free framework built on PyTorch for reproducible deep learning studies. 🏆20 knowledge distillation methods presented at CVPR, ICLR, ECCV, NeurIPS, ICCV, etc are implemented so far. 🎁 Trained models, training logs and configurations are available for ensuring the reproducibiliy and benchmark.
 - [mxrch/GHunt](https://github.com/mxrch/GHunt) - 🕵️‍♂️ Investigate Google emails and documents.
 - [tensorlayer/tensorlayer](https://github.com/tensorlayer/tensorlayer) - Deep Learning and Reinforcement Learning Library for Scientists and Engineers 🔥
 - [pallets/flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
@@ -1328,7 +1327,7 @@
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [nix-rust/nix](https://github.com/nix-rust/nix) - Rust friendly bindings to *nix APIs
 - [RustScan/RustScan](https://github.com/RustScan/RustScan) - 🤖 The Modern Port Scanner 🤖
-- [dandavison/delta](https://github.com/dandavison/delta) - A viewer for git and diff output
+- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git
 - [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
 - [cloudflare/quiche](https://github.com/cloudflare/quiche) - 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
 - [tomaka/redshirt](https://github.com/tomaka/redshirt) - 🧑‍🔬 Operating system
@@ -1354,6 +1353,7 @@
 - [Hacker0x01/hacker101](https://github.com/Hacker0x01/hacker101) - Source code for Hacker101.com - a free online web and mobile security class.
 - [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 - [primer/css](https://github.com/primer/css) - The CSS design system that powers GitHub
+- [luizdepra/hugo-coder](https://github.com/luizdepra/hugo-coder) - A minimalist blog theme for hugo.
 - [KittyGiraudel/sass-boilerplate](https://github.com/KittyGiraudel/sass-boilerplate) - A boilerplate for Sass projects using the 7-1 architecture pattern from Sass Guidelines.
 
 ## Scala 
