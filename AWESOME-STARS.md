@@ -688,7 +688,7 @@
 - [danielesteban/vrconcert](https://github.com/danielesteban/vrconcert) - A tool to create VR music concerts/videos
 - [sprig/org-capture-extension](https://github.com/sprig/org-capture-extension) - A Chrome and firefox extension facilitating org-capture in emacs
 - [vladikoff/chromeos-apk](https://github.com/vladikoff/chromeos-apk) - ☢️  Run Android Apps in Chrome OS OR Chrome in OS X, Linux and Windows.
-- [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies in tech.
+- [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies (jobs) in tech.
 - [acode/FunctionScript](https://github.com/acode/FunctionScript) - An API gateway and framework for turning functions into web services
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Node.js library to automate Chromium, Firefox and WebKit with a single API
 - [aframevr/aframe](https://github.com/aframevr/aframe) - :a: web framework for building virtual reality experiences.
@@ -732,6 +732,7 @@
 
 ## Jupyter Notebook 
 
+- [clovaai/deep-text-recognition-benchmark](https://github.com/clovaai/deep-text-recognition-benchmark) - Text recognition (optical character recognition) with deep learning methods.
 - [NVIDIA/TRTorch](https://github.com/NVIDIA/TRTorch) - PyTorch/TorchScript compiler for NVIDIA GPUs using TensorRT
 - [onnx/tensorflow-onnx](https://github.com/onnx/tensorflow-onnx) - Convert TensorFlow, Keras, Tensorflow.js and Tflite models to ONNX
 - [SidharthArya/Computer_Vision_Class_Manit](https://github.com/SidharthArya/Computer_Vision_Class_Manit) - For all the class work.
@@ -1031,7 +1032,7 @@
 - [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools
 - [Jack-Cherish/Machine-Learning](https://github.com/Jack-Cherish/Machine-Learning) - :zap:机器学习实战（Python3）：kNN、决策树、贝叶斯、逻辑回归、SVM、线性回归、树回归
 - [asteroid-team/asteroid](https://github.com/asteroid-team/asteroid) - The PyTorch-based audio source separation toolkit for researchers
-- [activeloopai/Hub](https://github.com/activeloopai/Hub) - Fastest dataset optimization and management for machine and deep learning. Stream data real-time & version-control it. http://activeloop.ai
+- [activeloopai/Hub](https://github.com/activeloopai/Hub) - Dataset format for AI. Easily and manage data for machine and deep learning. Stream data real-time & version-control it. http://activeloop.ai
 - [quantumblacklabs/kedro](https://github.com/quantumblacklabs/kedro) - A Python framework for creating reproducible, maintainable and modular data science code.
 - [great-expectations/great_expectations](https://github.com/great-expectations/great_expectations) - Always know what to expect from your data.
 - [Netflix/metaflow](https://github.com/Netflix/metaflow) - Build and manage real-life data science projects with ease :rocket:
