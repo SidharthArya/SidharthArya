@@ -87,6 +87,9 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred react-native-elements/react-native-elements](https://github.com/react-native-elements/react-native-elements)
+- [SidharthArya starred bamlab/react-native-make](https://github.com/bamlab/react-native-make)
+- [SidharthArya starred bamlab/generator-rn-toolbox](https://github.com/bamlab/generator-rn-toolbox)
 - [SidharthArya starred clovaai/deep-text-recognition-benchmark](https://github.com/clovaai/deep-text-recognition-benchmark)
 - [SidharthArya starred ananthakumaran/tide](https://github.com/ananthakumaran/tide)
 - [SidharthArya pushed to master in SidharthArya/.nnn](https://github.com/SidharthArya/.nnn/compare/f481ea05cc...7b4e339260)
@@ -94,9 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/e3b8fe5c5a...36c85a7b7c)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/46ed501469...86cd1be73c)
 - [SidharthArya starred jonbhanson/flutter_native_splash](https://github.com/jonbhanson/flutter_native_splash)
-- [SidharthArya starred emacs-lsp/lsp-dart](https://github.com/emacs-lsp/lsp-dart)
-- [SidharthArya starred angulardart/angular](https://github.com/angulardart/angular)
-- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/7a2a1e18e9...e3b8fe5c5a)
 <!-- GITHUB:END -->
 
 ## Top Followers
