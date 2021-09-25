@@ -87,16 +87,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
-- [SidharthArya starred wix/react-native-navigation](https://github.com/wix/react-native-navigation)
-- [SidharthArya starred react-native-camera/react-native-camera](https://github.com/react-native-camera/react-native-camera)
-- [SidharthArya starred wix/react-native-calendars](https://github.com/wix/react-native-calendars)
-- [SidharthArya starred FaridSafi/react-native-gifted-chat](https://github.com/FaridSafi/react-native-gifted-chat)
-- [SidharthArya starred Kureev/react-native-navbar](https://github.com/Kureev/react-native-navbar)
-- [SidharthArya pushed to master in SidharthArya/react-native-guide](https://github.com/SidharthArya/react-native-guide/compare/3638ccb79e...8c7a723d12)
-- [SidharthArya forked SidharthArya/react-native-guide from reactnativecn/react-native-guide](https://github.com/SidharthArya/react-native-guide)
-- [SidharthArya starred react-native-maps/react-native-maps](https://github.com/react-native-maps/react-native-maps)
-- [SidharthArya starred react-native-elements/react-native-elements](https://github.com/react-native-elements/react-native-elements)
-- [SidharthArya starred bamlab/react-native-make](https://github.com/bamlab/react-native-make)
+- [SidharthArya starred callstack/react-native-paper](https://github.com/callstack/react-native-paper)
+- [SidharthArya starred ptomasroos/react-native-scrollable-tab-view](https://github.com/ptomasroos/react-native-scrollable-tab-view)
+- [SidharthArya starred react-native-device-info/react-native-device-info](https://github.com/react-native-device-info/react-native-device-info)
+- [SidharthArya starred itinance/react-native-fs](https://github.com/itinance/react-native-fs)
+- [SidharthArya starred DylanVann/react-native-fast-image](https://github.com/DylanVann/react-native-fast-image)
+- [SidharthArya starred akveo/react-native-ui-kitten](https://github.com/akveo/react-native-ui-kitten)
+- [SidharthArya starred fangwei716/30-days-of-react-native](https://github.com/fangwei716/30-days-of-react-native)
+- [SidharthArya starred crazycodeboy/react-native-splash-screen](https://github.com/crazycodeboy/react-native-splash-screen)
+- [SidharthArya starred leecade/react-native-swiper](https://github.com/leecade/react-native-swiper)
+- [SidharthArya starred react-navigation/react-navigation](https://github.com/react-navigation/react-navigation)
 <!-- GITHUB:END -->
 
 ## Top Followers
