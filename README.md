@@ -87,16 +87,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred wix/react-native-navigation](https://github.com/wix/react-native-navigation)
+- [SidharthArya starred react-native-camera/react-native-camera](https://github.com/react-native-camera/react-native-camera)
+- [SidharthArya starred wix/react-native-calendars](https://github.com/wix/react-native-calendars)
+- [SidharthArya starred FaridSafi/react-native-gifted-chat](https://github.com/FaridSafi/react-native-gifted-chat)
+- [SidharthArya starred Kureev/react-native-navbar](https://github.com/Kureev/react-native-navbar)
+- [SidharthArya pushed to master in SidharthArya/react-native-guide](https://github.com/SidharthArya/react-native-guide/compare/3638ccb79e...8c7a723d12)
+- [SidharthArya forked SidharthArya/react-native-guide from reactnativecn/react-native-guide](https://github.com/SidharthArya/react-native-guide)
+- [SidharthArya starred react-native-maps/react-native-maps](https://github.com/react-native-maps/react-native-maps)
 - [SidharthArya starred react-native-elements/react-native-elements](https://github.com/react-native-elements/react-native-elements)
 - [SidharthArya starred bamlab/react-native-make](https://github.com/bamlab/react-native-make)
-- [SidharthArya starred bamlab/generator-rn-toolbox](https://github.com/bamlab/generator-rn-toolbox)
-- [SidharthArya starred clovaai/deep-text-recognition-benchmark](https://github.com/clovaai/deep-text-recognition-benchmark)
-- [SidharthArya starred ananthakumaran/tide](https://github.com/ananthakumaran/tide)
-- [SidharthArya pushed to master in SidharthArya/.nnn](https://github.com/SidharthArya/.nnn/compare/f481ea05cc...7b4e339260)
-- [SidharthArya starred dart-lang/dart_style](https://github.com/dart-lang/dart_style)
-- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/e3b8fe5c5a...36c85a7b7c)
-- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/46ed501469...86cd1be73c)
-- [SidharthArya starred jonbhanson/flutter_native_splash](https://github.com/jonbhanson/flutter_native_splash)
 <!-- GITHUB:END -->
 
 ## Top Followers
