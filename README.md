@@ -87,16 +87,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
-- [SidharthArya starred balancap/SSD-Tensorflow](https://github.com/balancap/SSD-Tensorflow)
-- [SidharthArya starred react-native-webview/react-native-webview](https://github.com/react-native-webview/react-native-webview)
-- [SidharthArya starred callstack/react-native-paper](https://github.com/callstack/react-native-paper)
-- [SidharthArya starred ptomasroos/react-native-scrollable-tab-view](https://github.com/ptomasroos/react-native-scrollable-tab-view)
-- [SidharthArya starred react-native-device-info/react-native-device-info](https://github.com/react-native-device-info/react-native-device-info)
-- [SidharthArya starred itinance/react-native-fs](https://github.com/itinance/react-native-fs)
-- [SidharthArya starred DylanVann/react-native-fast-image](https://github.com/DylanVann/react-native-fast-image)
-- [SidharthArya starred akveo/react-native-ui-kitten](https://github.com/akveo/react-native-ui-kitten)
-- [SidharthArya starred fangwei716/30-days-of-react-native](https://github.com/fangwei716/30-days-of-react-native)
-- [SidharthArya starred crazycodeboy/react-native-splash-screen](https://github.com/crazycodeboy/react-native-splash-screen)
+- [SidharthArya starred zo0r/react-native-push-notification](https://github.com/zo0r/react-native-push-notification)
+- [SidharthArya starred react-native-image-picker/react-native-image-picker](https://github.com/react-native-image-picker/react-native-image-picker)
+- [SidharthArya starred meliorence/react-native-snap-carousel](https://github.com/meliorence/react-native-snap-carousel)
+- [SidharthArya starred react-native-video/react-native-video](https://github.com/react-native-video/react-native-video)
+- [SidharthArya starred invertase/react-native-firebase](https://github.com/invertase/react-native-firebase)
+- [SidharthArya starred StephenGrider/ReactNativeReduxCasts](https://github.com/StephenGrider/ReactNativeReduxCasts)
+- [SidharthArya starred lottie-react-native/lottie-react-native](https://github.com/lottie-react-native/lottie-react-native)
+- [SidharthArya starred aksonov/react-native-router-flux](https://github.com/aksonov/react-native-router-flux)
+- [SidharthArya starred necolas/react-native-web](https://github.com/necolas/react-native-web)
+- [SidharthArya starred oblador/react-native-vector-icons](https://github.com/oblador/react-native-vector-icons)
 <!-- GITHUB:END -->
 
 ## Top Followers
