@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred balancap/SSD-Tensorflow](https://github.com/balancap/SSD-Tensorflow)
 - [SidharthArya starred react-native-webview/react-native-webview](https://github.com/react-native-webview/react-native-webview)
 - [SidharthArya starred callstack/react-native-paper](https://github.com/callstack/react-native-paper)
 - [SidharthArya starred ptomasroos/react-native-scrollable-tab-view](https://github.com/ptomasroos/react-native-scrollable-tab-view)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred akveo/react-native-ui-kitten](https://github.com/akveo/react-native-ui-kitten)
 - [SidharthArya starred fangwei716/30-days-of-react-native](https://github.com/fangwei716/30-days-of-react-native)
 - [SidharthArya starred crazycodeboy/react-native-splash-screen](https://github.com/crazycodeboy/react-native-splash-screen)
-- [SidharthArya starred leecade/react-native-swiper](https://github.com/leecade/react-native-swiper)
 <!-- GITHUB:END -->
 
 ## Top Followers
