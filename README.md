@@ -87,6 +87,9 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred qqwweee/keras-yolo3](https://github.com/qqwweee/keras-yolo3)
+- [SidharthArya starred rbgirshick/fast-rcnn](https://github.com/rbgirshick/fast-rcnn)
+- [SidharthArya starred endernewton/tf-faster-rcnn](https://github.com/endernewton/tf-faster-rcnn)
 - [SidharthArya starred akshitgupta95/IDCardDataExtractorWithOnDeviceML](https://github.com/akshitgupta95/IDCardDataExtractorWithOnDeviceML)
 - [SidharthArya starred wkentaro/labelme](https://github.com/wkentaro/labelme)
 - [SidharthArya starred zo0r/react-native-push-notification](https://github.com/zo0r/react-native-push-notification)
@@ -94,9 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred meliorence/react-native-snap-carousel](https://github.com/meliorence/react-native-snap-carousel)
 - [SidharthArya starred react-native-video/react-native-video](https://github.com/react-native-video/react-native-video)
 - [SidharthArya starred invertase/react-native-firebase](https://github.com/invertase/react-native-firebase)
-- [SidharthArya starred StephenGrider/ReactNativeReduxCasts](https://github.com/StephenGrider/ReactNativeReduxCasts)
-- [SidharthArya starred lottie-react-native/lottie-react-native](https://github.com/lottie-react-native/lottie-react-native)
-- [SidharthArya starred aksonov/react-native-router-flux](https://github.com/aksonov/react-native-router-flux)
 <!-- GITHUB:END -->
 
 ## Top Followers
