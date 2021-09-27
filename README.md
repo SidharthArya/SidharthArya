@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred wkentaro/labelme](https://github.com/wkentaro/labelme)
 - [SidharthArya starred zo0r/react-native-push-notification](https://github.com/zo0r/react-native-push-notification)
 - [SidharthArya starred react-native-image-picker/react-native-image-picker](https://github.com/react-native-image-picker/react-native-image-picker)
 - [SidharthArya starred meliorence/react-native-snap-carousel](https://github.com/meliorence/react-native-snap-carousel)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred lottie-react-native/lottie-react-native](https://github.com/lottie-react-native/lottie-react-native)
 - [SidharthArya starred aksonov/react-native-router-flux](https://github.com/aksonov/react-native-router-flux)
 - [SidharthArya starred necolas/react-native-web](https://github.com/necolas/react-native-web)
-- [SidharthArya starred oblador/react-native-vector-icons](https://github.com/oblador/react-native-vector-icons)
 <!-- GITHUB:END -->
 
 ## Top Followers
