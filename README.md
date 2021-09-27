@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred mystic123/tensorflow-yolo-v3](https://github.com/mystic123/tensorflow-yolo-v3)
 - [SidharthArya starred qqwweee/keras-yolo3](https://github.com/qqwweee/keras-yolo3)
 - [SidharthArya starred rbgirshick/fast-rcnn](https://github.com/rbgirshick/fast-rcnn)
 - [SidharthArya starred endernewton/tf-faster-rcnn](https://github.com/endernewton/tf-faster-rcnn)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred react-native-image-picker/react-native-image-picker](https://github.com/react-native-image-picker/react-native-image-picker)
 - [SidharthArya starred meliorence/react-native-snap-carousel](https://github.com/meliorence/react-native-snap-carousel)
 - [SidharthArya starred react-native-video/react-native-video](https://github.com/react-native-video/react-native-video)
-- [SidharthArya starred invertase/react-native-firebase](https://github.com/invertase/react-native-firebase)
 <!-- GITHUB:END -->
 
 ## Top Followers
