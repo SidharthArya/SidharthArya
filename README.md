@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/36c85a7b7c...03dbc0860d)
+- [SidharthArya pushed to master in SidharthArya/.nnn](https://github.com/SidharthArya/.nnn/compare/7b4e339260...605b9b2b3d)
 - [SidharthArya starred mrnugget/opencv-haar-classifier-training](https://github.com/mrnugget/opencv-haar-classifier-training)
 - [SidharthArya starred ultralytics/yolov5](https://github.com/ultralytics/yolov5)
 - [SidharthArya starred pytorch/vision](https://github.com/pytorch/vision)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred rbgirshick/fast-rcnn](https://github.com/rbgirshick/fast-rcnn)
 - [SidharthArya starred endernewton/tf-faster-rcnn](https://github.com/endernewton/tf-faster-rcnn)
 - [SidharthArya starred akshitgupta95/IDCardDataExtractorWithOnDeviceML](https://github.com/akshitgupta95/IDCardDataExtractorWithOnDeviceML)
-- [SidharthArya starred wkentaro/labelme](https://github.com/wkentaro/labelme)
-- [SidharthArya starred zo0r/react-native-push-notification](https://github.com/zo0r/react-native-push-notification)
 <!-- GITHUB:END -->
 
 ## Top Followers
