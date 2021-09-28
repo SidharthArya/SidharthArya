@@ -564,7 +564,7 @@
 - [crazycodeboy/react-native-splash-screen](https://github.com/crazycodeboy/react-native-splash-screen) - A splash screen for react-native, hide when application loaded ,it works on iOS and Android.
 - [react-native-camera/react-native-camera](https://github.com/react-native-camera/react-native-camera) - A Camera component for React Native. Also supports barcode scanning!
 - [google/ringdroid](https://github.com/google/ringdroid) - 
-- [aJIEw/PhoneCallApp](https://github.com/aJIEw/PhoneCallApp) - A demo shows how to make your app as the default phone call app(Android 6.0+) and listen phone call states.
+- [aJIEw/PhoneCallApp](https://github.com/aJIEw/PhoneCallApp) - A demo shows how to make your app the default phone call app(Android 6.0+) and listen to phone call states change.
 - [dkim0419/SoundRecorder](https://github.com/dkim0419/SoundRecorder) - A simple sound recording app implementing Material Design
 - [Telegram-FOSS-Team/Telegram-FOSS](https://github.com/Telegram-FOSS-Team/Telegram-FOSS) - Unofficial, FOSS-friendly fork of the original Telegram client for Android
 - [Kotlin/kotlin-interactive-shell](https://github.com/Kotlin/kotlin-interactive-shell) - Kotlin Language Interactive Shell
@@ -982,12 +982,16 @@
 
 ## Perl 
 
+- [mrnugget/opencv-haar-classifier-training](https://github.com/mrnugget/opencv-haar-classifier-training) - Learn how to train your own OpenCV Haar classifier
 - [dkogan/feedgnuplot](https://github.com/dkogan/feedgnuplot) - Tool to plot realtime and stored data from the commandline, using gnuplot.
 - [pasky/speedread](https://github.com/pasky/speedread) - A simple terminal-based open source Spritz-alike (per-word RSVP aligned on optimal reading points)
 - [htrgouvea/nipe](https://github.com/htrgouvea/nipe) - An engine to make Tor network your default gateway
 
 ## Python 
 
+- [ultralytics/yolov5](https://github.com/ultralytics/yolov5) - YOLOv5 🚀 in PyTorch &gt; ONNX &gt; CoreML &gt; TFLite
+- [pytorch/vision](https://github.com/pytorch/vision) - Datasets, Transforms and Models specific to Computer Vision
+- [mystic123/tensorflow-yolo-v3](https://github.com/mystic123/tensorflow-yolo-v3) - Implementation of YOLO v3 object detector in Tensorflow (TF-Slim)
 - [qqwweee/keras-yolo3](https://github.com/qqwweee/keras-yolo3) - A Keras implementation of YOLOv3 (Tensorflow backend)
 - [rbgirshick/fast-rcnn](https://github.com/rbgirshick/fast-rcnn) - Fast R-CNN
 - [endernewton/tf-faster-rcnn](https://github.com/endernewton/tf-faster-rcnn) - Tensorflow Faster RCNN for Object Detection
