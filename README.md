@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred mrnugget/opencv-haar-classifier-training](https://github.com/mrnugget/opencv-haar-classifier-training)
 - [SidharthArya starred ultralytics/yolov5](https://github.com/ultralytics/yolov5)
 - [SidharthArya starred pytorch/vision](https://github.com/pytorch/vision)
 - [SidharthArya starred mystic123/tensorflow-yolo-v3](https://github.com/mystic123/tensorflow-yolo-v3)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred akshitgupta95/IDCardDataExtractorWithOnDeviceML](https://github.com/akshitgupta95/IDCardDataExtractorWithOnDeviceML)
 - [SidharthArya starred wkentaro/labelme](https://github.com/wkentaro/labelme)
 - [SidharthArya starred zo0r/react-native-push-notification](https://github.com/zo0r/react-native-push-notification)
-- [SidharthArya starred react-native-image-picker/react-native-image-picker](https://github.com/react-native-image-picker/react-native-image-picker)
 <!-- GITHUB:END -->
 
 ## Top Followers
