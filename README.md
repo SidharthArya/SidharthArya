@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred ultralytics/yolov5](https://github.com/ultralytics/yolov5)
 - [SidharthArya starred pytorch/vision](https://github.com/pytorch/vision)
 - [SidharthArya starred mystic123/tensorflow-yolo-v3](https://github.com/mystic123/tensorflow-yolo-v3)
 - [SidharthArya starred qqwweee/keras-yolo3](https://github.com/qqwweee/keras-yolo3)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred wkentaro/labelme](https://github.com/wkentaro/labelme)
 - [SidharthArya starred zo0r/react-native-push-notification](https://github.com/zo0r/react-native-push-notification)
 - [SidharthArya starred react-native-image-picker/react-native-image-picker](https://github.com/react-native-image-picker/react-native-image-picker)
-- [SidharthArya starred meliorence/react-native-snap-carousel](https://github.com/meliorence/react-native-snap-carousel)
 <!-- GITHUB:END -->
 
 ## Top Followers
