@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/03dbc0860d...fa246f001e)
+- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/86cd1be73c...77e2881e30)
 - [SidharthArya starred satojkovic/DeepLogo](https://github.com/satojkovic/DeepLogo)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/36c85a7b7c...03dbc0860d)
 - [SidharthArya pushed to master in SidharthArya/.nnn](https://github.com/SidharthArya/.nnn/compare/7b4e339260...605b9b2b3d)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred pytorch/vision](https://github.com/pytorch/vision)
 - [SidharthArya starred mystic123/tensorflow-yolo-v3](https://github.com/mystic123/tensorflow-yolo-v3)
 - [SidharthArya starred qqwweee/keras-yolo3](https://github.com/qqwweee/keras-yolo3)
-- [SidharthArya starred rbgirshick/fast-rcnn](https://github.com/rbgirshick/fast-rcnn)
-- [SidharthArya starred endernewton/tf-faster-rcnn](https://github.com/endernewton/tf-faster-rcnn)
 <!-- GITHUB:END -->
 
 ## Top Followers
