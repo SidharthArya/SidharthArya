@@ -102,6 +102,7 @@
 - [skeeto/emacsql](https://github.com/skeeto/emacsql) - A high-level Emacs Lisp RDBMS front-end
 - [Jimx-/emacs-gl](https://github.com/Jimx-/emacs-gl) - OpenGL bindings for Emacs Lisp
 - [openai/retro](https://github.com/openai/retro) - Retro Games in Gym
+- [NixOS/mobile-nixos](https://github.com/NixOS/mobile-nixos) - 
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [muennich/sxiv](https://github.com/muennich/sxiv) - Simple X Image Viewer
 - [bk138/gromit-mpx](https://github.com/bk138/gromit-mpx) - Gromit-MPX is an on-screen annotation tool that works with any Unix desktop environment under X11 as well as Wayland.
@@ -847,7 +848,6 @@
 - [t184256/nix-on-droid](https://github.com/t184256/nix-on-droid) - Nix-enabled environment for your Android device.
 - [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@rycee]
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection
-- [NixOS/mobile-nixos](https://github.com/NixOS/mobile-nixos) - 
 
 ## OCaml 
 
@@ -989,6 +989,7 @@
 
 ## Python 
 
+- [satojkovic/DeepLogo](https://github.com/satojkovic/DeepLogo) - A brand logo detection system using tensorflow object detection API.
 - [ultralytics/yolov5](https://github.com/ultralytics/yolov5) - YOLOv5 🚀 in PyTorch &gt; ONNX &gt; CoreML &gt; TFLite
 - [pytorch/vision](https://github.com/pytorch/vision) - Datasets, Transforms and Models specific to Computer Vision
 - [mystic123/tensorflow-yolo-v3](https://github.com/mystic123/tensorflow-yolo-v3) - Implementation of YOLO v3 object detector in Tensorflow (TF-Slim)
