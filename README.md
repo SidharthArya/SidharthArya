@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred satojkovic/DeepLogo](https://github.com/satojkovic/DeepLogo)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/36c85a7b7c...03dbc0860d)
 - [SidharthArya pushed to master in SidharthArya/.nnn](https://github.com/SidharthArya/.nnn/compare/7b4e339260...605b9b2b3d)
 - [SidharthArya starred mrnugget/opencv-haar-classifier-training](https://github.com/mrnugget/opencv-haar-classifier-training)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred qqwweee/keras-yolo3](https://github.com/qqwweee/keras-yolo3)
 - [SidharthArya starred rbgirshick/fast-rcnn](https://github.com/rbgirshick/fast-rcnn)
 - [SidharthArya starred endernewton/tf-faster-rcnn](https://github.com/endernewton/tf-faster-rcnn)
-- [SidharthArya starred akshitgupta95/IDCardDataExtractorWithOnDeviceML](https://github.com/akshitgupta95/IDCardDataExtractorWithOnDeviceML)
 <!-- GITHUB:END -->
 
 ## Top Followers
