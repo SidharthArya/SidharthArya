@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/fa246f001e...c5bf6e30b7)
+- [SidharthArya pushed to master in SidharthArya/scripts](https://github.com/SidharthArya/scripts/compare/3336e1bfa8...be75d52d7e)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/03dbc0860d...fa246f001e)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/86cd1be73c...77e2881e30)
 - [SidharthArya starred satojkovic/DeepLogo](https://github.com/satojkovic/DeepLogo)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred mrnugget/opencv-haar-classifier-training](https://github.com/mrnugget/opencv-haar-classifier-training)
 - [SidharthArya starred ultralytics/yolov5](https://github.com/ultralytics/yolov5)
 - [SidharthArya starred pytorch/vision](https://github.com/pytorch/vision)
-- [SidharthArya starred mystic123/tensorflow-yolo-v3](https://github.com/mystic123/tensorflow-yolo-v3)
-- [SidharthArya starred qqwweee/keras-yolo3](https://github.com/qqwweee/keras-yolo3)
 <!-- GITHUB:END -->
 
 ## Top Followers
