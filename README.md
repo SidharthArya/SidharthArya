@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred openvinotoolkit/openvino](https://github.com/openvinotoolkit/openvino)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/fa246f001e...c5bf6e30b7)
 - [SidharthArya pushed to master in SidharthArya/scripts](https://github.com/SidharthArya/scripts/compare/3336e1bfa8...be75d52d7e)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/03dbc0860d...fa246f001e)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/.nnn](https://github.com/SidharthArya/.nnn/compare/7b4e339260...605b9b2b3d)
 - [SidharthArya starred mrnugget/opencv-haar-classifier-training](https://github.com/mrnugget/opencv-haar-classifier-training)
 - [SidharthArya starred ultralytics/yolov5](https://github.com/ultralytics/yolov5)
-- [SidharthArya starred pytorch/vision](https://github.com/pytorch/vision)
 <!-- GITHUB:END -->
 
 ## Top Followers
