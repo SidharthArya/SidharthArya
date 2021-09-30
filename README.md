@@ -146,14 +146,21 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       <a href="https://github.com/Tiancheng-Luo">Tiancheng-Luo</a>
     </td>
     <td align="center">
+      <a href="https://github.com/RL-TOP-DEV">
+        <img src="https://avatars2.githubusercontent.com/u/87107784" width="100px;" alt="RL-TOP-DEV"/>
+      </a>
+      <br />
+      <a href="https://github.com/RL-TOP-DEV">RL-Dev</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
       <a href="https://github.com/portgasray">
         <img src="https://avatars2.githubusercontent.com/u/17681580" width="100px;" alt="portgasray"/>
       </a>
       <br />
       <a href="https://github.com/portgasray">Lei Zhang</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/relativelyrehan">
         <img src="https://avatars2.githubusercontent.com/u/48210765" width="100px;" alt="relativelyrehan"/>
@@ -196,6 +203,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       <br />
       <a href="https://github.com/Shailenderyedugani">Shailender Yedugani</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/souvikg123">
         <img src="https://avatars2.githubusercontent.com/u/63902209" width="100px;" alt="souvikg123"/>
@@ -203,8 +212,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       <br />
       <a href="https://github.com/souvikg123">souvikg123</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/rjachuthan">
         <img src="https://avatars2.githubusercontent.com/u/7797813" width="100px;" alt="rjachuthan"/>
@@ -246,13 +253,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       </a>
       <br />
       <a href="https://github.com/APARNAGADHIYA">APARNA RAJESH GADHIYA</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/yalinosgb">
-        <img src="https://avatars2.githubusercontent.com/u/7668543" width="100px;" alt="yalinosgb"/>
-      </a>
-      <br />
-      <a href="https://github.com/yalinosgb">Yalın OSGB</a>
     </td>
   </tr>
 </table>
