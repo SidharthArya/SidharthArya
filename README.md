@@ -87,6 +87,9 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred authzed/spicedb](https://github.com/authzed/spicedb)
+- [SidharthArya starred cytoscape/cytoscape.js](https://github.com/cytoscape/cytoscape.js)
+- [SidharthArya starred rescript-association/rescript-lang.org](https://github.com/rescript-association/rescript-lang.org)
 - [SidharthArya starred thunlp/GNNPapers](https://github.com/thunlp/GNNPapers)
 - [SidharthArya starred substack/tape](https://github.com/substack/tape)
 - [SidharthArya starred peterbraden/node-opencv](https://github.com/peterbraden/node-opencv)
@@ -94,9 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/fa246f001e...c5bf6e30b7)
 - [SidharthArya pushed to master in SidharthArya/scripts](https://github.com/SidharthArya/scripts/compare/3336e1bfa8...be75d52d7e)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/03dbc0860d...fa246f001e)
-- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/86cd1be73c...77e2881e30)
-- [SidharthArya starred satojkovic/DeepLogo](https://github.com/satojkovic/DeepLogo)
-- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/36c85a7b7c...03dbc0860d)
 <!-- GITHUB:END -->
 
 ## Top Followers
