@@ -146,11 +146,11 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       <a href="https://github.com/Tiancheng-Luo">Tiancheng-Luo</a>
     </td>
     <td align="center">
-      <a href="https://github.com/RL-TOP-DEV">
-        <img src="https://avatars2.githubusercontent.com/u/87107784" width="100px;" alt="RL-TOP-DEV"/>
+      <a href="https://github.com/Alena-lebedeva">
+        <img src="https://avatars2.githubusercontent.com/u/87107784" width="100px;" alt="Alena-lebedeva"/>
       </a>
       <br />
-      <a href="https://github.com/RL-TOP-DEV">RL-Dev</a>
+      <a href="https://github.com/Alena-lebedeva">Alena-Lebedeva</a>
     </td>
   </tr>
   <tr>
