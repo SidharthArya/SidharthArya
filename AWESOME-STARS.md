@@ -475,6 +475,7 @@
 - [ory/hydra](https://github.com/ory/hydra) - OpenID Certified™ OpenID Connect and OAuth Provider written in Go - cloud native, security-first, open source API security for your infrastructure. SDKs for any language. Compatible with MITREid.
 - [yudai/gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
 - [sqshq/sampler](https://github.com/sqshq/sampler) - Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
+- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - Gitpod automates the provisioning of ready-to-code development environments.
 - [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go) - Algorithms Implemented in GoLang
 - [glycerine/zygomys](https://github.com/glycerine/zygomys) - Zygo is a Lisp interpreter written in 100% Go. Central use case: dynamically compose Go struct trees in a zygo script, then invoke compiled Go functions on those trees. Makes Go reflection easy.
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
@@ -758,6 +759,7 @@
 
 ## Jupyter Notebook 
 
+- [zzh8829/yolov3-tf2](https://github.com/zzh8829/yolov3-tf2) - YoloV3 Implemented in Tensorflow 2.0
 - [balancap/SSD-Tensorflow](https://github.com/balancap/SSD-Tensorflow) - Single Shot MultiBox Detector in TensorFlow
 - [clovaai/deep-text-recognition-benchmark](https://github.com/clovaai/deep-text-recognition-benchmark) - Text recognition (optical character recognition) with deep learning methods.
 - [NVIDIA/TRTorch](https://github.com/NVIDIA/TRTorch) - PyTorch/TorchScript compiler for NVIDIA GPUs using TensorRT
@@ -873,6 +875,7 @@
 
 ## Others 
 
+- [BNN-UPC/GNNPapersCommNets](https://github.com/BNN-UPC/GNNPapersCommNets) - 
 - [thunlp/GNNPapers](https://github.com/thunlp/GNNPapers) - Must-read papers on graph neural networks (GNN)
 - [stoplightio/studio](https://github.com/stoplightio/studio) - The modern editor for API Design and Technical Writing.
 - [cdanis/sandia-public-license](https://github.com/cdanis/sandia-public-license) - This is not a license of honor. No highly esteemed copyright statement is written here.
@@ -995,6 +998,9 @@
 
 ## Python 
 
+- [PyTorchLightning/pytorch-lightning](https://github.com/PyTorchLightning/pytorch-lightning) - The lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate.
+- [murtazahassan/OpenCV-Python-Tutorials-and-Projects](https://github.com/murtazahassan/OpenCV-Python-Tutorials-and-Projects) - An easy to follow course of OpenCV using Python for beginners.
+- [microsoft/tf-gnn-samples](https://github.com/microsoft/tf-gnn-samples) - TensorFlow implementations of Graph Neural Networks
 - [madmaze/pytesseract](https://github.com/madmaze/pytesseract) - A Python wrapper for Google Tesseract
 - [satojkovic/DeepLogo](https://github.com/satojkovic/DeepLogo) - A brand logo detection system using tensorflow object detection API.
 - [ultralytics/yolov5](https://github.com/ultralytics/yolov5) - YOLOv5 🚀 in PyTorch &gt; ONNX &gt; CoreML &gt; TFLite
@@ -1406,6 +1412,7 @@
 
 ## Shell 
 
+- [opencv/opencv-python](https://github.com/opencv/opencv-python) - Automated CI toolchain to produce precompiled opencv-python, opencv-python-headless, opencv-contrib-python and opencv-contrib-python-headless packages.
 - [tmux-plugins/tmux-sensible](https://github.com/tmux-plugins/tmux-sensible) - basic tmux settings everyone can agree on
 - [SidharthArya/.pacman](https://github.com/SidharthArya/.pacman) - 
 - [SidharthArya/.nnn](https://github.com/SidharthArya/.nnn) - 
@@ -1522,7 +1529,6 @@
 - [botpress/botpress](https://github.com/botpress/botpress) - 🤖 Dev tools to reliably understand text and automate conversations. Built-in NLU.  Connect & deploy on any messaging channel (Slack, MS Teams, website, Telegram, etc).
 - [youzan/vant](https://github.com/youzan/vant) - Lightweight Mobile UI Components built on Vue
 - [softprops/action-gh-release](https://github.com/softprops/action-gh-release) - 📦 :octocat: GitHub Action for creating GitHub Releases
-- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - Gitpod automates the provisioning of ready-to-code development environments.
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - 📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more!
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀
