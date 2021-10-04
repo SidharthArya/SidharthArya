@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred microsoft/tf-gnn-samples](https://github.com/microsoft/tf-gnn-samples)
 - [SidharthArya starred BNN-UPC/GNNPapersCommNets](https://github.com/BNN-UPC/GNNPapersCommNets)
 - [SidharthArya starred madmaze/pytesseract](https://github.com/madmaze/pytesseract)
 - [SidharthArya starred tesseract-ocr/tessdoc](https://github.com/tesseract-ocr/tessdoc)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred thunlp/GNNPapers](https://github.com/thunlp/GNNPapers)
 - [SidharthArya starred substack/tape](https://github.com/substack/tape)
 - [SidharthArya starred peterbraden/node-opencv](https://github.com/peterbraden/node-opencv)
-- [SidharthArya starred openvinotoolkit/openvino](https://github.com/openvinotoolkit/openvino)
 <!-- GITHUB:END -->
 
 ## Top Followers
