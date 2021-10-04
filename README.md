@@ -87,16 +87,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred zzh8829/yolov3-tf2](https://github.com/zzh8829/yolov3-tf2)
+- [SidharthArya starred PyTorchLightning/pytorch-lightning](https://github.com/PyTorchLightning/pytorch-lightning)
+- [SidharthArya starred murtazahassan/OpenCV-Python-Tutorials-and-Projects](https://github.com/murtazahassan/OpenCV-Python-Tutorials-and-Projects)
+- [SidharthArya starred opencv/opencv-python](https://github.com/opencv/opencv-python)
 - [SidharthArya forked SidharthArya/GNNetworkingChallenge from BNN-UPC/GNNetworkingChallenge](https://github.com/SidharthArya/GNNetworkingChallenge)
 - [SidharthArya starred microsoft/tf-gnn-samples](https://github.com/microsoft/tf-gnn-samples)
 - [SidharthArya starred BNN-UPC/GNNPapersCommNets](https://github.com/BNN-UPC/GNNPapersCommNets)
 - [SidharthArya starred madmaze/pytesseract](https://github.com/madmaze/pytesseract)
 - [SidharthArya starred tesseract-ocr/tessdoc](https://github.com/tesseract-ocr/tessdoc)
 - [SidharthArya starred authzed/spicedb](https://github.com/authzed/spicedb)
-- [SidharthArya starred cytoscape/cytoscape.js](https://github.com/cytoscape/cytoscape.js)
-- [SidharthArya starred rescript-association/rescript-lang.org](https://github.com/rescript-association/rescript-lang.org)
-- [SidharthArya starred thunlp/GNNPapers](https://github.com/thunlp/GNNPapers)
-- [SidharthArya starred substack/tape](https://github.com/substack/tape)
 <!-- GITHUB:END -->
 
 ## Top Followers
