@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred nuxt/nuxt.js](https://github.com/nuxt/nuxt.js)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/c5bf6e30b7...25af17291f)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/77e2881e30...b34802cdf9)
 - [SidharthArya starred zzh8829/yolov3-tf2](https://github.com/zzh8829/yolov3-tf2)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya forked SidharthArya/GNNetworkingChallenge from BNN-UPC/GNNetworkingChallenge](https://github.com/SidharthArya/GNNetworkingChallenge)
 - [SidharthArya starred microsoft/tf-gnn-samples](https://github.com/microsoft/tf-gnn-samples)
 - [SidharthArya starred BNN-UPC/GNNPapersCommNets](https://github.com/BNN-UPC/GNNPapersCommNets)
-- [SidharthArya starred madmaze/pytesseract](https://github.com/madmaze/pytesseract)
 <!-- GITHUB:END -->
 
 ## Top Followers
