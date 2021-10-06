@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred spmallick/learnopencv](https://github.com/spmallick/learnopencv)
+- [SidharthArya starred argman/EAST](https://github.com/argman/EAST)
 - [SidharthArya starred nuxt/nuxt.js](https://github.com/nuxt/nuxt.js)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/c5bf6e30b7...25af17291f)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/77e2881e30...b34802cdf9)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred murtazahassan/OpenCV-Python-Tutorials-and-Projects](https://github.com/murtazahassan/OpenCV-Python-Tutorials-and-Projects)
 - [SidharthArya starred opencv/opencv-python](https://github.com/opencv/opencv-python)
 - [SidharthArya forked SidharthArya/GNNetworkingChallenge from BNN-UPC/GNNetworkingChallenge](https://github.com/SidharthArya/GNNetworkingChallenge)
-- [SidharthArya starred microsoft/tf-gnn-samples](https://github.com/microsoft/tf-gnn-samples)
-- [SidharthArya starred BNN-UPC/GNNPapersCommNets](https://github.com/BNN-UPC/GNNPapersCommNets)
 <!-- GITHUB:END -->
 
 ## Top Followers
