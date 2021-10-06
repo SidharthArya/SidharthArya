@@ -87,16 +87,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred PaddlePaddle/PaddleHub](https://github.com/PaddlePaddle/PaddleHub)
+- [SidharthArya starred ztane/python-Levenshtein](https://github.com/ztane/python-Levenshtein)
+- [SidharthArya starred Toblerity/Shapely](https://github.com/Toblerity/Shapely)
+- [SidharthArya starred masyagin1998/robin](https://github.com/masyagin1998/robin)
+- [SidharthArya starred PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)
 - [SidharthArya starred spmallick/learnopencv](https://github.com/spmallick/learnopencv)
 - [SidharthArya starred argman/EAST](https://github.com/argman/EAST)
 - [SidharthArya starred nuxt/nuxt.js](https://github.com/nuxt/nuxt.js)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/c5bf6e30b7...25af17291f)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/77e2881e30...b34802cdf9)
-- [SidharthArya starred zzh8829/yolov3-tf2](https://github.com/zzh8829/yolov3-tf2)
-- [SidharthArya starred PyTorchLightning/pytorch-lightning](https://github.com/PyTorchLightning/pytorch-lightning)
-- [SidharthArya starred murtazahassan/OpenCV-Python-Tutorials-and-Projects](https://github.com/murtazahassan/OpenCV-Python-Tutorials-and-Projects)
-- [SidharthArya starred opencv/opencv-python](https://github.com/opencv/opencv-python)
-- [SidharthArya forked SidharthArya/GNNetworkingChallenge from BNN-UPC/GNNetworkingChallenge](https://github.com/SidharthArya/GNNetworkingChallenge)
 <!-- GITHUB:END -->
 
 ## Top Followers
