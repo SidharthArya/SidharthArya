@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR)
 - [SidharthArya starred PaddlePaddle/PaddleHub](https://github.com/PaddlePaddle/PaddleHub)
 - [SidharthArya starred ztane/python-Levenshtein](https://github.com/ztane/python-Levenshtein)
 - [SidharthArya starred Toblerity/Shapely](https://github.com/Toblerity/Shapely)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred argman/EAST](https://github.com/argman/EAST)
 - [SidharthArya starred nuxt/nuxt.js](https://github.com/nuxt/nuxt.js)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/c5bf6e30b7...25af17291f)
-- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/77e2881e30...b34802cdf9)
 <!-- GITHUB:END -->
 
 ## Top Followers
