@@ -132,11 +132,11 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       <a href="https://github.com/conao3">Naoya Yamashita</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Alena-lebedeva">
-        <img src="https://avatars2.githubusercontent.com/u/87107784" width="100px;" alt="Alena-lebedeva"/>
+      <a href="https://github.com/Top-coder-1">
+        <img src="https://avatars2.githubusercontent.com/u/87107784" width="100px;" alt="Top-coder-1"/>
       </a>
       <br />
-      <a href="https://github.com/Alena-lebedeva">Alena-Lebedeva</a>
+      <a href="https://github.com/Top-coder-1">Top-Coder</a>
     </td>
     <td align="center">
       <a href="https://github.com/maskegger">
