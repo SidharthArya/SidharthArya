@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred restic/restic](https://github.com/restic/restic)
 - [SidharthArya starred Michaelvilleneuve/react-native-document-scanner](https://github.com/Michaelvilleneuve/react-native-document-scanner)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/25af17291f...672745af21)
 - [SidharthArya pushed to master in SidharthArya/.nnn](https://github.com/SidharthArya/.nnn/compare/605b9b2b3d...e842249624)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred Toblerity/Shapely](https://github.com/Toblerity/Shapely)
 - [SidharthArya starred masyagin1998/robin](https://github.com/masyagin1998/robin)
 - [SidharthArya starred PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)
-- [SidharthArya starred spmallick/learnopencv](https://github.com/spmallick/learnopencv)
 <!-- GITHUB:END -->
 
 ## Top Followers
