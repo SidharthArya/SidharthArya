@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/25af17291f...672745af21)
+- [SidharthArya pushed to master in SidharthArya/.nnn](https://github.com/SidharthArya/.nnn/compare/605b9b2b3d...e842249624)
 - [SidharthArya starred JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR)
 - [SidharthArya starred PaddlePaddle/PaddleHub](https://github.com/PaddlePaddle/PaddleHub)
 - [SidharthArya starred ztane/python-Levenshtein](https://github.com/ztane/python-Levenshtein)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)
 - [SidharthArya starred spmallick/learnopencv](https://github.com/spmallick/learnopencv)
 - [SidharthArya starred argman/EAST](https://github.com/argman/EAST)
-- [SidharthArya starred nuxt/nuxt.js](https://github.com/nuxt/nuxt.js)
-- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/c5bf6e30b7...25af17291f)
 <!-- GITHUB:END -->
 
 ## Top Followers
