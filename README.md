@@ -87,6 +87,9 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred pjreddie/darknet](https://github.com/pjreddie/darknet)
+- [SidharthArya starred chineseocr/chineseocr](https://github.com/chineseocr/chineseocr)
+- [SidharthArya starred PyImageSearch/imutils](https://github.com/PyImageSearch/imutils)
 - [SidharthArya starred ray-project/ray](https://github.com/ray-project/ray)
 - [SidharthArya starred restic/restic](https://github.com/restic/restic)
 - [SidharthArya starred Michaelvilleneuve/react-native-document-scanner](https://github.com/Michaelvilleneuve/react-native-document-scanner)
@@ -94,9 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/.nnn](https://github.com/SidharthArya/.nnn/compare/605b9b2b3d...e842249624)
 - [SidharthArya starred JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR)
 - [SidharthArya starred PaddlePaddle/PaddleHub](https://github.com/PaddlePaddle/PaddleHub)
-- [SidharthArya starred ztane/python-Levenshtein](https://github.com/ztane/python-Levenshtein)
-- [SidharthArya starred Toblerity/Shapely](https://github.com/Toblerity/Shapely)
-- [SidharthArya starred masyagin1998/robin](https://github.com/masyagin1998/robin)
 <!-- GITHUB:END -->
 
 ## Top Followers
