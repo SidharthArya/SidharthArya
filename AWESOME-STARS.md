@@ -72,6 +72,7 @@
 
 ## C 
 
+- [pjreddie/darknet](https://github.com/pjreddie/darknet) - Convolutional Neural Networks
 - [ztane/python-Levenshtein](https://github.com/ztane/python-Levenshtein) - The Levenshtein Python C extension module contains functions for fast computation of Levenshtein distance and string similarity
 - [Dr-Noob/cpufetch](https://github.com/Dr-Noob/cpufetch) - Simple yet fancy CPU architecture fetching tool
 - [acidanthera/OpenCorePkg](https://github.com/acidanthera/OpenCorePkg) - OpenCore bootloader
@@ -357,7 +358,6 @@
 - [bbatsov/zenburn-emacs](https://github.com/bbatsov/zenburn-emacs) - The Zenburn colour theme ported to Emacs
 - [emacsorphanage/helm-swoop](https://github.com/emacsorphanage/helm-swoop) - Efficiently hopping squeezed lines powered by Emacs helm interface
 - [noctuid/general.el](https://github.com/noctuid/general.el) - More convenient key definitions in emacs
-- [nobiot/Zero-to-Emacs-and-Org-roam](https://github.com/nobiot/Zero-to-Emacs-and-Org-roam) - Step by step guide from zero to installing and setting up Emacs and Org-roam on Windows 10
 - [the-ted/org-mind-map](https://github.com/the-ted/org-mind-map) - This is an emacs package that creates graphviz directed graphs.
 - [legalnonsense/elgantt](https://github.com/legalnonsense/elgantt) - A Gantt Chart (Calendar) for Org Mode
 - [org-roam/org-roam-bibtex](https://github.com/org-roam/org-roam-bibtex) - Connector between Org-roam, BibTeX-completion, and Org-ref
@@ -935,6 +935,7 @@
 - [elyase/awesome-gpt3](https://github.com/elyase/awesome-gpt3) - 
 - [fniessen/refcard-org-mode](https://github.com/fniessen/refcard-org-mode) - Org mode syntax reference card
 - [fniessen/refcard-org-beamer](https://github.com/fniessen/refcard-org-beamer) - Org Beamer reference card
+- [nobiot/Zero-to-Emacs-and-Org-roam](https://github.com/nobiot/Zero-to-Emacs-and-Org-roam) - Step by step guide from zero to installing and setting up Emacs and Org-roam on Windows 10
 - [WazirX/wazirx-api](https://github.com/WazirX/wazirx-api) - Wazirx API documentation
 - [openai/gpt-3](https://github.com/openai/gpt-3) - GPT-3: Language Models are Few-Shot Learners
 - [kjw0612/awesome-rnn](https://github.com/kjw0612/awesome-rnn) - Recurrent Neural Network - A curated list of resources dedicated to RNN
@@ -1004,6 +1005,8 @@
 
 ## Python 
 
+- [chineseocr/chineseocr](https://github.com/chineseocr/chineseocr) - yolo3+ocr
+- [PyImageSearch/imutils](https://github.com/PyImageSearch/imutils) - A series of convenience functions to make basic image processing operations such as translation, rotation, resizing, skeletonization, and displaying Matplotlib images easier with OpenCV and Python.
 - [ray-project/ray](https://github.com/ray-project/ray) - An open source framework that provides a simple, universal API for building distributed applications. Ray is packaged with RLlib, a scalable reinforcement learning library, and Tune, a scalable hyperparameter tuning library.
 - [JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.
 - [PaddlePaddle/PaddleHub](https://github.com/PaddlePaddle/PaddleHub) - Awesome pre-trained models toolkit based on PaddlePaddle.(300+ models including Image, Text, Audio and Video with Easy Inference & Serving deployment)
