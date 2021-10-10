@@ -87,6 +87,9 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/672745af21...03dcf9c1ac)
+- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/b34802cdf9...4c6a802956)
+- [SidharthArya pushed to master in SidharthArya/.nnn](https://github.com/SidharthArya/.nnn/compare/e842249624...7eb5d2934a)
 - [SidharthArya starred pjreddie/darknet](https://github.com/pjreddie/darknet)
 - [SidharthArya starred chineseocr/chineseocr](https://github.com/chineseocr/chineseocr)
 - [SidharthArya starred PyImageSearch/imutils](https://github.com/PyImageSearch/imutils)
@@ -94,9 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred restic/restic](https://github.com/restic/restic)
 - [SidharthArya starred Michaelvilleneuve/react-native-document-scanner](https://github.com/Michaelvilleneuve/react-native-document-scanner)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/25af17291f...672745af21)
-- [SidharthArya pushed to master in SidharthArya/.nnn](https://github.com/SidharthArya/.nnn/compare/605b9b2b3d...e842249624)
-- [SidharthArya starred JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR)
-- [SidharthArya starred PaddlePaddle/PaddleHub](https://github.com/PaddlePaddle/PaddleHub)
 <!-- GITHUB:END -->
 
 ## Top Followers
