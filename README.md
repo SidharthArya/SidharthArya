@@ -87,16 +87,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred hoya012/deep_learning_object_detection](https://github.com/hoya012/deep_learning_object_detection)
+- [SidharthArya starred jquense/yup](https://github.com/jquense/yup)
+- [SidharthArya starred google/gson](https://github.com/google/gson)
+- [SidharthArya starred google/python-fire](https://github.com/google/python-fire)
+- [SidharthArya starred matterport/Mask_RCNN](https://github.com/matterport/Mask_RCNN)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/672745af21...03dcf9c1ac)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/b34802cdf9...4c6a802956)
 - [SidharthArya pushed to master in SidharthArya/.nnn](https://github.com/SidharthArya/.nnn/compare/e842249624...7eb5d2934a)
 - [SidharthArya starred pjreddie/darknet](https://github.com/pjreddie/darknet)
 - [SidharthArya starred chineseocr/chineseocr](https://github.com/chineseocr/chineseocr)
-- [SidharthArya starred PyImageSearch/imutils](https://github.com/PyImageSearch/imutils)
-- [SidharthArya starred ray-project/ray](https://github.com/ray-project/ray)
-- [SidharthArya starred restic/restic](https://github.com/restic/restic)
-- [SidharthArya starred Michaelvilleneuve/react-native-document-scanner](https://github.com/Michaelvilleneuve/react-native-document-scanner)
-- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/25af17291f...672745af21)
 <!-- GITHUB:END -->
 
 ## Top Followers
