@@ -565,6 +565,7 @@
 
 ## Java 
 
+- [google/gson](https://github.com/google/gson) - A Java serialization/deserialization library to convert Java Objects into JSON and back
 - [Michaelvilleneuve/react-native-document-scanner](https://github.com/Michaelvilleneuve/react-native-document-scanner) - Document scanner, features live border detection, perspective correction, image filters and more ! 📲📸
 - [akshitgupta95/IDCardDataExtractorWithOnDeviceML](https://github.com/akshitgupta95/IDCardDataExtractorWithOnDeviceML) - Text Extraction from Aadhaar Card,Pan Card for Indian Citizens using on-device(Android) machine learning.
 - [zo0r/react-native-push-notification](https://github.com/zo0r/react-native-push-notification) - React Native Local and Remote Notifications
@@ -881,6 +882,7 @@
 
 ## Others 
 
+- [hoya012/deep_learning_object_detection](https://github.com/hoya012/deep_learning_object_detection) - A paper list of object detection using deep learning.
 - [BNN-UPC/GNNPapersCommNets](https://github.com/BNN-UPC/GNNPapersCommNets) - 
 - [thunlp/GNNPapers](https://github.com/thunlp/GNNPapers) - Must-read papers on graph neural networks (GNN)
 - [stoplightio/studio](https://github.com/stoplightio/studio) - The modern editor for API Design and Technical Writing.
@@ -1005,6 +1007,8 @@
 
 ## Python 
 
+- [google/python-fire](https://github.com/google/python-fire) - Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
+- [matterport/Mask_RCNN](https://github.com/matterport/Mask_RCNN) - Mask R-CNN for object detection and instance segmentation on Keras and TensorFlow
 - [chineseocr/chineseocr](https://github.com/chineseocr/chineseocr) - yolo3+ocr
 - [PyImageSearch/imutils](https://github.com/PyImageSearch/imutils) - A series of convenience functions to make basic image processing operations such as translation, rotation, resizing, skeletonization, and displaying Matplotlib images easier with OpenCV and Python.
 - [ray-project/ray](https://github.com/ray-project/ray) - An open source framework that provides a simple, universal API for building distributed applications. Ray is packaged with RLlib, a scalable reinforcement learning library, and Tune, a scalable hyperparameter tuning library.
@@ -1517,6 +1521,7 @@
 
 ## TypeScript 
 
+- [jquense/yup](https://github.com/jquense/yup) - Dead simple Object schema validation
 - [react-native-webview/react-native-webview](https://github.com/react-native-webview/react-native-webview) - React Native Cross-Platform WebView
 - [callstack/react-native-paper](https://github.com/callstack/react-native-paper) - Material Design for React Native (Android & iOS)
 - [react-native-device-info/react-native-device-info](https://github.com/react-native-device-info/react-native-device-info) - Device Information for React Native iOS and Android
