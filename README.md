@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred microsoft/onnxruntime-inference-examples](https://github.com/microsoft/onnxruntime-inference-examples)
 - [SidharthArya starred luxonis/depthai-experiments](https://github.com/luxonis/depthai-experiments)
 - [SidharthArya starred PaddlePaddle/PaddleDetection](https://github.com/PaddlePaddle/PaddleDetection)
 - [SidharthArya starred baidu/NoahV](https://github.com/baidu/NoahV)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred naptha/tesseract.js](https://github.com/naptha/tesseract.js)
 - [SidharthArya starred PaddlePaddle/Paddle2ONNX](https://github.com/PaddlePaddle/Paddle2ONNX)
 - [SidharthArya starred PaddlePaddle/PaddleSeg](https://github.com/PaddlePaddle/PaddleSeg)
-- [SidharthArya starred hoya012/deep_learning_object_detection](https://github.com/hoya012/deep_learning_object_detection)
 <!-- GITHUB:END -->
 
 ## Top Followers
