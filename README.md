@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred PaddlePaddle/PaddleSeg](https://github.com/PaddlePaddle/PaddleSeg)
 - [SidharthArya starred hoya012/deep_learning_object_detection](https://github.com/hoya012/deep_learning_object_detection)
 - [SidharthArya starred jquense/yup](https://github.com/jquense/yup)
 - [SidharthArya starred google/gson](https://github.com/google/gson)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/b34802cdf9...4c6a802956)
 - [SidharthArya pushed to master in SidharthArya/.nnn](https://github.com/SidharthArya/.nnn/compare/e842249624...7eb5d2934a)
 - [SidharthArya starred pjreddie/darknet](https://github.com/pjreddie/darknet)
-- [SidharthArya starred chineseocr/chineseocr](https://github.com/chineseocr/chineseocr)
 <!-- GITHUB:END -->
 
 ## Top Followers
