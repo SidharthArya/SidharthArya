@@ -72,6 +72,7 @@
 
 ## C 
 
+- [emscripten-core/emscripten](https://github.com/emscripten-core/emscripten) - Emscripten: An LLVM-to-WebAssembly Compiler
 - [pjreddie/darknet](https://github.com/pjreddie/darknet) - Convolutional Neural Networks
 - [ztane/python-Levenshtein](https://github.com/ztane/python-Levenshtein) - The Levenshtein Python C extension module contains functions for fast computation of Levenshtein distance and string similarity
 - [Dr-Noob/cpufetch](https://github.com/Dr-Noob/cpufetch) - Simple yet fancy CPU architecture fetching tool
@@ -163,6 +164,7 @@
 
 ## C++ 
 
+- [apache/incubator-mxnet](https://github.com/apache/incubator-mxnet) - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more
 - [argman/EAST](https://github.com/argman/EAST) - A tensorflow implementation of EAST text detector
 - [peterbraden/node-opencv](https://github.com/peterbraden/node-opencv) - OpenCV Bindings for node.js
 - [openvinotoolkit/openvino](https://github.com/openvinotoolkit/openvino) - OpenVINO™ Toolkit repository
@@ -604,6 +606,8 @@
 
 ## JavaScript 
 
+- [baidu/NoahV](https://github.com/baidu/NoahV) - An efficient front-end application framework based on vue.js
+- [naptha/tesseract.js](https://github.com/naptha/tesseract.js) - Pure Javascript OCR for more than 100 Languages 📖🎉🖥
 - [nuxt/nuxt.js](https://github.com/nuxt/nuxt.js) - The Intuitive Vue Framework
 - [cytoscape/cytoscape.js](https://github.com/cytoscape/cytoscape.js) - Graph theory (network) library for visualisation and analysis
 - [rescript-association/rescript-lang.org](https://github.com/rescript-association/rescript-lang.org) - Official documentation website for the ReScript programming language
@@ -1007,6 +1011,13 @@
 
 ## Python 
 
+- [microsoft/Microsoft-Rocketbox](https://github.com/microsoft/Microsoft-Rocketbox) - Microsoft Rocketbox is now available with MIT license! The library of 115 rigged avatars offers flexibility, enabling the easy use of facial animations across characters and the mixing and matching of texture elements.
+- [NTMC-Community/MatchZoo](https://github.com/NTMC-Community/MatchZoo) - Facilitating the design, comparison and sharing of deep text matching models.
+- [microsoft/onnxruntime-inference-examples](https://github.com/microsoft/onnxruntime-inference-examples) - Examples for using ONNX Runtime for machine learning inferencing.
+- [luxonis/depthai-experiments](https://github.com/luxonis/depthai-experiments) - Experimental projects we've done with DepthAI.
+- [PaddlePaddle/PaddleDetection](https://github.com/PaddlePaddle/PaddleDetection) - Object detection and instance segmentation toolkit based on PaddlePaddle.
+- [PaddlePaddle/Paddle2ONNX](https://github.com/PaddlePaddle/Paddle2ONNX) - ONNX Model Exporter for PaddlePaddle
+- [PaddlePaddle/PaddleSeg](https://github.com/PaddlePaddle/PaddleSeg) - End-to-end image segmentation kit based on PaddlePaddle.
 - [google/python-fire](https://github.com/google/python-fire) - Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
 - [matterport/Mask_RCNN](https://github.com/matterport/Mask_RCNN) - Mask R-CNN for object detection and instance segmentation on Keras and TensorFlow
 - [chineseocr/chineseocr](https://github.com/chineseocr/chineseocr) - yolo3+ocr
@@ -1491,6 +1502,7 @@
 
 ## Swift 
 
+- [anupamchugh/iowncode](https://github.com/anupamchugh/iowncode) - A curated collection of iOS, ML, AR resources sprinkled with some UI additions
 - [rogerboesch/SceneKitTutorial](https://github.com/rogerboesch/SceneKitTutorial) - SceneKit Tutorial Series - From Zero to Hero
 - [kareman/SwiftShell](https://github.com/kareman/SwiftShell) - A Swift framework for shell scripting.
 - [apple/sourcekit-lsp](https://github.com/apple/sourcekit-lsp) - Language Server Protocol implementation for Swift and C-based languages
@@ -1521,6 +1533,7 @@
 
 ## TypeScript 
 
+- [baidu/amis](https://github.com/baidu/amis) - 前端低代码框架，通过 JSON 配置就能生成各种页面。
 - [jquense/yup](https://github.com/jquense/yup) - Dead simple Object schema validation
 - [react-native-webview/react-native-webview](https://github.com/react-native-webview/react-native-webview) - React Native Cross-Platform WebView
 - [callstack/react-native-paper](https://github.com/callstack/react-native-paper) - Material Design for React Native (Android & iOS)
