@@ -87,6 +87,9 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred apache/incubator-mxnet](https://github.com/apache/incubator-mxnet)
+- [SidharthArya starred microsoft/Microsoft-Rocketbox](https://github.com/microsoft/Microsoft-Rocketbox)
+- [SidharthArya starred NTMC-Community/MatchZoo](https://github.com/NTMC-Community/MatchZoo)
 - [SidharthArya starred microsoft/onnxruntime-inference-examples](https://github.com/microsoft/onnxruntime-inference-examples)
 - [SidharthArya starred luxonis/depthai-experiments](https://github.com/luxonis/depthai-experiments)
 - [SidharthArya starred PaddlePaddle/PaddleDetection](https://github.com/PaddlePaddle/PaddleDetection)
@@ -94,9 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred baidu/amis](https://github.com/baidu/amis)
 - [SidharthArya starred anupamchugh/iowncode](https://github.com/anupamchugh/iowncode)
 - [SidharthArya starred emscripten-core/emscripten](https://github.com/emscripten-core/emscripten)
-- [SidharthArya starred naptha/tesseract.js](https://github.com/naptha/tesseract.js)
-- [SidharthArya starred PaddlePaddle/Paddle2ONNX](https://github.com/PaddlePaddle/Paddle2ONNX)
-- [SidharthArya starred PaddlePaddle/PaddleSeg](https://github.com/PaddlePaddle/PaddleSeg)
 <!-- GITHUB:END -->
 
 ## Top Followers
