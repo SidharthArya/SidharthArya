@@ -87,16 +87,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred luxonis/depthai-experiments](https://github.com/luxonis/depthai-experiments)
+- [SidharthArya starred PaddlePaddle/PaddleDetection](https://github.com/PaddlePaddle/PaddleDetection)
+- [SidharthArya starred baidu/NoahV](https://github.com/baidu/NoahV)
+- [SidharthArya starred baidu/amis](https://github.com/baidu/amis)
+- [SidharthArya starred anupamchugh/iowncode](https://github.com/anupamchugh/iowncode)
+- [SidharthArya starred emscripten-core/emscripten](https://github.com/emscripten-core/emscripten)
+- [SidharthArya starred naptha/tesseract.js](https://github.com/naptha/tesseract.js)
 - [SidharthArya starred PaddlePaddle/Paddle2ONNX](https://github.com/PaddlePaddle/Paddle2ONNX)
 - [SidharthArya starred PaddlePaddle/PaddleSeg](https://github.com/PaddlePaddle/PaddleSeg)
 - [SidharthArya starred hoya012/deep_learning_object_detection](https://github.com/hoya012/deep_learning_object_detection)
-- [SidharthArya starred jquense/yup](https://github.com/jquense/yup)
-- [SidharthArya starred google/gson](https://github.com/google/gson)
-- [SidharthArya starred google/python-fire](https://github.com/google/python-fire)
-- [SidharthArya starred matterport/Mask_RCNN](https://github.com/matterport/Mask_RCNN)
-- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/672745af21...03dcf9c1ac)
-- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/b34802cdf9...4c6a802956)
-- [SidharthArya pushed to master in SidharthArya/.nnn](https://github.com/SidharthArya/.nnn/compare/e842249624...7eb5d2934a)
 <!-- GITHUB:END -->
 
 ## Top Followers
