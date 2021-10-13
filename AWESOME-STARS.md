@@ -835,6 +835,7 @@
 
 ## Lua 
 
+- [jcjohnson/fast-neural-style](https://github.com/jcjohnson/fast-neural-style) - Feedforward style transfer
 - [gennaro-tedesco/nvim-jqx](https://github.com/gennaro-tedesco/nvim-jqx) - Populate the quickfix with json entries
 - [luakit/luakit](https://github.com/luakit/luakit) - Fast, small, webkit based browser framework extensible by Lua.
 - [kuz/DeepMind-Atari-Deep-Q-Learner](https://github.com/kuz/DeepMind-Atari-Deep-Q-Learner) - The original code from the DeepMind article + my tweaks
