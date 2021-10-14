@@ -87,6 +87,9 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/03dcf9c1ac...8784028ecd)
+- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/4c6a802956...3f2254532a)
+- [SidharthArya pushed to master in SidharthArya/.nnn](https://github.com/SidharthArya/.nnn/compare/7eb5d2934a...09bbe52e75)
 - [SidharthArya starred GoogleCloudPlatform/cloudml-samples](https://github.com/GoogleCloudPlatform/cloudml-samples)
 - [SidharthArya starred python-excel/xlrd](https://github.com/python-excel/xlrd)
 - [SidharthArya starred jcjohnson/fast-neural-style](https://github.com/jcjohnson/fast-neural-style)
@@ -94,9 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred microsoft/Microsoft-Rocketbox](https://github.com/microsoft/Microsoft-Rocketbox)
 - [SidharthArya starred NTMC-Community/MatchZoo](https://github.com/NTMC-Community/MatchZoo)
 - [SidharthArya starred microsoft/onnxruntime-inference-examples](https://github.com/microsoft/onnxruntime-inference-examples)
-- [SidharthArya starred luxonis/depthai-experiments](https://github.com/luxonis/depthai-experiments)
-- [SidharthArya starred PaddlePaddle/PaddleDetection](https://github.com/PaddlePaddle/PaddleDetection)
-- [SidharthArya starred baidu/NoahV](https://github.com/baidu/NoahV)
 <!-- GITHUB:END -->
 
 ## Top Followers
