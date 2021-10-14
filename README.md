@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred python-excel/xlrd](https://github.com/python-excel/xlrd)
 - [SidharthArya starred jcjohnson/fast-neural-style](https://github.com/jcjohnson/fast-neural-style)
 - [SidharthArya starred apache/incubator-mxnet](https://github.com/apache/incubator-mxnet)
 - [SidharthArya starred microsoft/Microsoft-Rocketbox](https://github.com/microsoft/Microsoft-Rocketbox)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred PaddlePaddle/PaddleDetection](https://github.com/PaddlePaddle/PaddleDetection)
 - [SidharthArya starred baidu/NoahV](https://github.com/baidu/NoahV)
 - [SidharthArya starred baidu/amis](https://github.com/baidu/amis)
-- [SidharthArya starred anupamchugh/iowncode](https://github.com/anupamchugh/iowncode)
 <!-- GITHUB:END -->
 
 ## Top Followers
