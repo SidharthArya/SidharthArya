@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred GoogleCloudPlatform/cloudml-samples](https://github.com/GoogleCloudPlatform/cloudml-samples)
 - [SidharthArya starred python-excel/xlrd](https://github.com/python-excel/xlrd)
 - [SidharthArya starred jcjohnson/fast-neural-style](https://github.com/jcjohnson/fast-neural-style)
 - [SidharthArya starred apache/incubator-mxnet](https://github.com/apache/incubator-mxnet)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred luxonis/depthai-experiments](https://github.com/luxonis/depthai-experiments)
 - [SidharthArya starred PaddlePaddle/PaddleDetection](https://github.com/PaddlePaddle/PaddleDetection)
 - [SidharthArya starred baidu/NoahV](https://github.com/baidu/NoahV)
-- [SidharthArya starred baidu/amis](https://github.com/baidu/amis)
 <!-- GITHUB:END -->
 
 ## Top Followers
