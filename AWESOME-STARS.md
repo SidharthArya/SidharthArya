@@ -699,7 +699,6 @@
 - [dlmanning/gulp-sass](https://github.com/dlmanning/gulp-sass) - SASS plugin for gulp
 - [dillonzq/LoveIt](https://github.com/dillonzq/LoveIt) - ❤️A clean, elegant but advanced blog theme for Hugo 一个简洁、优雅且高效的 Hugo 主题
 - [uPagge/uBlogger](https://github.com/uPagge/uBlogger) - A template designed with your readers in mind :heart:
-- [socketio/socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
 - [koajs/koa](https://github.com/koajs/koa) - Expressive middleware for node.js using ES2017 async functions
 - [webpack/webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
 - [maanavshah/stock-market-india](https://github.com/maanavshah/stock-market-india) - API for Indian Stock Market's NSE and BSE.
@@ -1012,6 +1011,8 @@
 
 ## Python 
 
+- [GoogleCloudPlatform/cloudml-samples](https://github.com/GoogleCloudPlatform/cloudml-samples) - Cloud ML Engine is now a part of AI Platform
+- [python-excel/xlrd](https://github.com/python-excel/xlrd) - Please use openpyxl where you can...
 - [microsoft/Microsoft-Rocketbox](https://github.com/microsoft/Microsoft-Rocketbox) - Microsoft Rocketbox is now available with MIT license! The library of 115 rigged avatars offers flexibility, enabling the easy use of facial animations across characters and the mixing and matching of texture elements.
 - [NTMC-Community/MatchZoo](https://github.com/NTMC-Community/MatchZoo) - Facilitating the design, comparison and sharing of deep text matching models.
 - [microsoft/onnxruntime-inference-examples](https://github.com/microsoft/onnxruntime-inference-examples) - Examples for using ONNX Runtime for machine learning inferencing.
@@ -1569,6 +1570,7 @@
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 - [BrainJS/brain.js](https://github.com/BrainJS/brain.js) - 🤖 GPU accelerated Neural networks in JavaScript for Browsers and Node.js
 - [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
+- [socketio/socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
 - [IBM/openapi-to-graphql](https://github.com/IBM/openapi-to-graphql) - Translate APIs described by OpenAPI Specifications (OAS) into GraphQL
 - [helmetjs/helmet](https://github.com/helmetjs/helmet) - Help secure Express apps with various HTTP headers
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
