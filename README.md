@@ -220,6 +220,13 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       <a href="https://github.com/souvikg123">souvikg123</a>
     </td>
     <td align="center">
+      <a href="https://github.com/snuffop">
+        <img src="https://avatars2.githubusercontent.com/u/40603030" width="100px;" alt="snuffop"/>
+      </a>
+      <br />
+      <a href="https://github.com/snuffop">Marty Buchaus</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/rjachuthan">
         <img src="https://avatars2.githubusercontent.com/u/7797813" width="100px;" alt="rjachuthan"/>
       </a>
@@ -246,13 +253,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       </a>
       <br />
       <a href="https://github.com/Abhishekkashyap07">Abhishekkashyap07</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/APARNAGADHIYA">
-        <img src="https://avatars2.githubusercontent.com/u/66026499" width="100px;" alt="APARNAGADHIYA"/>
-      </a>
-      <br />
-      <a href="https://github.com/APARNAGADHIYA">APARNA RAJESH GADHIYA</a>
     </td>
   </tr>
 </table>
