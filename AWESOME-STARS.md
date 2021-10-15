@@ -567,6 +567,7 @@
 
 ## Java 
 
+- [omnetpp/omnetpp](https://github.com/omnetpp/omnetpp) - OMNeT++ Discrete Event Simulator
 - [google/gson](https://github.com/google/gson) - A Java serialization/deserialization library to convert Java Objects into JSON and back
 - [Michaelvilleneuve/react-native-document-scanner](https://github.com/Michaelvilleneuve/react-native-document-scanner) - Document scanner, features live border detection, perspective correction, image filters and more ! 📲📸
 - [akshitgupta95/IDCardDataExtractorWithOnDeviceML](https://github.com/akshitgupta95/IDCardDataExtractorWithOnDeviceML) - Text Extraction from Aadhaar Card,Pan Card for Indian Citizens using on-device(Android) machine learning.
