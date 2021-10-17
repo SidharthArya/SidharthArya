@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/8784028ecd...edb59fa332)
+- [SidharthArya pushed to master in SidharthArya/scripts](https://github.com/SidharthArya/scripts/compare/be75d52d7e...2f73873816)
 - [SidharthArya starred omnetpp/omnetpp](https://github.com/omnetpp/omnetpp)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/03dcf9c1ac...8784028ecd)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/4c6a802956...3f2254532a)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred python-excel/xlrd](https://github.com/python-excel/xlrd)
 - [SidharthArya starred jcjohnson/fast-neural-style](https://github.com/jcjohnson/fast-neural-style)
 - [SidharthArya starred apache/incubator-mxnet](https://github.com/apache/incubator-mxnet)
-- [SidharthArya starred microsoft/Microsoft-Rocketbox](https://github.com/microsoft/Microsoft-Rocketbox)
-- [SidharthArya starred NTMC-Community/MatchZoo](https://github.com/NTMC-Community/MatchZoo)
 <!-- GITHUB:END -->
 
 ## Top Followers
