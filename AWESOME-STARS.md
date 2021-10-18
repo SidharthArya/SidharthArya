@@ -467,7 +467,7 @@
 ## Go 
 
 - [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
-- [authzed/spicedb](https://github.com/authzed/spicedb) - A database system for centrally managing authorization data across your organization. Inspired by the Google Zanzibar paper.
+- [authzed/spicedb](https://github.com/authzed/spicedb) - A database system for managing security-critical permissions checking. Inspired by Google's Zanzibar paper.
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
 - [adonovan/gopl.io](https://github.com/adonovan/gopl.io) - Example programs from "The Go Programming Language"
 - [varbhat/exatorrent](https://github.com/varbhat/exatorrent) - Self-hostable , easy-to-use , lightweight and feature-rich torrent client written in Go . It comes with beautiful Web UI and Optional Multi-User Support . Run Locally or Host in Server . Open/Download/Stream Torrents in Browser Right Away!
@@ -521,6 +521,7 @@
 
 ## HTML 
 
+- [KuroLabs/Airshare](https://github.com/KuroLabs/Airshare) - Cross-platform content sharing in a local network
 - [tesseract-ocr/tessdoc](https://github.com/tesseract-ocr/tessdoc) - Tesseract documentation
 - [PKUanonym/REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT) - 清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University
 - [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
@@ -1012,6 +1013,7 @@
 
 ## Python 
 
+- [leopd/timebudget](https://github.com/leopd/timebudget) - Stupidly-simple speed measurements for Python.
 - [GoogleCloudPlatform/cloudml-samples](https://github.com/GoogleCloudPlatform/cloudml-samples) - Cloud ML Engine is now a part of AI Platform
 - [python-excel/xlrd](https://github.com/python-excel/xlrd) - Please use openpyxl where you can...
 - [microsoft/Microsoft-Rocketbox](https://github.com/microsoft/Microsoft-Rocketbox) - Microsoft Rocketbox is now available with MIT license! The library of 115 rigged avatars offers flexibility, enabling the easy use of facial animations across characters and the mixing and matching of texture elements.
