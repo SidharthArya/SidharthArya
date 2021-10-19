@@ -87,6 +87,9 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred ionelmc/python-hunter](https://github.com/ionelmc/python-hunter)
+- [SidharthArya starred nedbat/coveragepy](https://github.com/nedbat/coveragepy)
+- [SidharthArya starred gaogaotiantian/viztracer](https://github.com/gaogaotiantian/viztracer)
 - [SidharthArya starred KuroLabs/Airshare](https://github.com/KuroLabs/Airshare)
 - [SidharthArya starred leopd/timebudget](https://github.com/leopd/timebudget)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/8784028ecd...edb59fa332)
@@ -94,9 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred omnetpp/omnetpp](https://github.com/omnetpp/omnetpp)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/03dcf9c1ac...8784028ecd)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/4c6a802956...3f2254532a)
-- [SidharthArya pushed to master in SidharthArya/.nnn](https://github.com/SidharthArya/.nnn/compare/7eb5d2934a...09bbe52e75)
-- [SidharthArya starred GoogleCloudPlatform/cloudml-samples](https://github.com/GoogleCloudPlatform/cloudml-samples)
-- [SidharthArya starred python-excel/xlrd](https://github.com/python-excel/xlrd)
 <!-- GITHUB:END -->
 
 ## Top Followers
