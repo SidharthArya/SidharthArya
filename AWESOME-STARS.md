@@ -401,7 +401,6 @@
 - [manateelazycat/awesome-tab](https://github.com/manateelazycat/awesome-tab) - Emacs package to provide out-of-the-box configuration to use tabs.
 - [manateelazycat/aweshell](https://github.com/manateelazycat/aweshell) - Awesome shell extension base on eshell with wonderful features!
 - [manateelazycat/snails](https://github.com/manateelazycat/snails) - A modern, easy-to-expand fuzzy search framework
-- [emacs-eaf/emacs-application-framework](https://github.com/emacs-eaf/emacs-application-framework) - A free/libre and open-source extensible framework that revolutionizes the graphical capabilities of Emacs, the key to ultimately Live in Emacs
 - [zevlg/telega.el](https://github.com/zevlg/telega.el) - GNU Emacs telegram client (unofficial)
 - [nicferrier/rcirc-notify](https://github.com/nicferrier/rcirc-notify) - Notifications for rcirc, the emacs IRC client
 - [alphapapa/org-super-agenda](https://github.com/alphapapa/org-super-agenda) - Supercharge your Org daily/weekly agenda by grouping items
@@ -1013,6 +1012,9 @@
 
 ## Python 
 
+- [ionelmc/python-hunter](https://github.com/ionelmc/python-hunter) - Hunter is a flexible code tracing toolkit.
+- [nedbat/coveragepy](https://github.com/nedbat/coveragepy) - Code coverage measurement for Python
+- [gaogaotiantian/viztracer](https://github.com/gaogaotiantian/viztracer) - VizTracer is a low-overhead logging/debugging/profiling tool that can trace and visualize your python code execution.
 - [leopd/timebudget](https://github.com/leopd/timebudget) - Stupidly-simple speed measurements for Python.
 - [GoogleCloudPlatform/cloudml-samples](https://github.com/GoogleCloudPlatform/cloudml-samples) - Cloud ML Engine is now a part of AI Platform
 - [python-excel/xlrd](https://github.com/python-excel/xlrd) - Please use openpyxl where you can...
@@ -1282,6 +1284,7 @@
 - [dabasajay/Image-Caption-Generator](https://github.com/dabasajay/Image-Caption-Generator) - A neural network to generate captions for an image using CNN and RNN with BEAM Search.
 - [TachibanaYoshino/AnimeGAN](https://github.com/TachibanaYoshino/AnimeGAN) - A Tensorflow implementation of AnimeGAN for fast photo animation  ! This is the Open source of the paper 「AnimeGAN: a novel lightweight GAN for photo animation」, which uses the GAN framwork to transform real-world photos into anime images.
 - [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Big Sur support now! Only commercial (paid) support is available now to avoid spammy issues.
+- [emacs-eaf/emacs-application-framework](https://github.com/emacs-eaf/emacs-application-framework) - A free/libre and open-source extensible framework that revolutionizes the graphical capabilities of Emacs, the key to ultimately Live in Emacs
 - [kornia/kornia](https://github.com/kornia/kornia) - Open Source Differentiable Computer Vision Library
 - [spotify/chartify](https://github.com/spotify/chartify) - Python library that makes it easy for data scientists to create charts.
 - [qtile/qtile](https://github.com/qtile/qtile) - :cookie: A full-featured, hackable tiling window manager written and configured in Python
@@ -1488,7 +1491,7 @@
 - [windelicato/dotfiles](https://github.com/windelicato/dotfiles) - arch linux configuration files
 - [bash-my-aws/bash-my-aws](https://github.com/bash-my-aws/bash-my-aws) - Bash-my-AWS provides simple but powerful CLI commands for managing AWS resources
 - [learnbyexample/Command-line-text-processing](https://github.com/learnbyexample/Command-line-text-processing) - :zap: From finding text to search and replace, from sorting to beautifying text and more :art:
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 1900+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, OSX, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 1900+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 - [gotbletu/shownotes](https://github.com/gotbletu/shownotes) - notes for videos from my youtube channel
 - [adi1090x/polybar-themes](https://github.com/adi1090x/polybar-themes) - A huge collection of polybar themes with different styles, colors and variants.
