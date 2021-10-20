@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/edb59fa332...dd4ca0f9a8)
+- [SidharthArya pushed to master in SidharthArya/scripts](https://github.com/SidharthArya/scripts/compare/2f73873816...1940e70142)
 - [SidharthArya starred ionelmc/python-hunter](https://github.com/ionelmc/python-hunter)
 - [SidharthArya starred nedbat/coveragepy](https://github.com/nedbat/coveragepy)
 - [SidharthArya starred gaogaotiantian/viztracer](https://github.com/gaogaotiantian/viztracer)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/8784028ecd...edb59fa332)
 - [SidharthArya pushed to master in SidharthArya/scripts](https://github.com/SidharthArya/scripts/compare/be75d52d7e...2f73873816)
 - [SidharthArya starred omnetpp/omnetpp](https://github.com/omnetpp/omnetpp)
-- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/03dcf9c1ac...8784028ecd)
-- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/4c6a802956...3f2254532a)
 <!-- GITHUB:END -->
 
 ## Top Followers
