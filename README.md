@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/dd4ca0f9a8...289da35d80)
+- [SidharthArya pushed to master in SidharthArya/scripts](https://github.com/SidharthArya/scripts/compare/1940e70142...bc34bfcdf3)
 - [SidharthArya starred GoogleCloudPlatform/gcsfuse](https://github.com/GoogleCloudPlatform/gcsfuse)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/edb59fa332...dd4ca0f9a8)
 - [SidharthArya pushed to master in SidharthArya/scripts](https://github.com/SidharthArya/scripts/compare/2f73873816...1940e70142)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred gaogaotiantian/viztracer](https://github.com/gaogaotiantian/viztracer)
 - [SidharthArya starred KuroLabs/Airshare](https://github.com/KuroLabs/Airshare)
 - [SidharthArya starred leopd/timebudget](https://github.com/leopd/timebudget)
-- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/8784028ecd...edb59fa332)
-- [SidharthArya pushed to master in SidharthArya/scripts](https://github.com/SidharthArya/scripts/compare/be75d52d7e...2f73873816)
 <!-- GITHUB:END -->
 
 ## Top Followers
