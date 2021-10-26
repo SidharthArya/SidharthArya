@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred quantumlib/Cirq](https://github.com/quantumlib/Cirq)
 - [SidharthArya starred karma-runner/karma](https://github.com/karma-runner/karma)
 - [SidharthArya starred ngbp/ngbp](https://github.com/ngbp/ngbp)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/dd4ca0f9a8...289da35d80)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/scripts](https://github.com/SidharthArya/scripts/compare/2f73873816...1940e70142)
 - [SidharthArya starred ionelmc/python-hunter](https://github.com/ionelmc/python-hunter)
 - [SidharthArya starred nedbat/coveragepy](https://github.com/nedbat/coveragepy)
-- [SidharthArya starred gaogaotiantian/viztracer](https://github.com/gaogaotiantian/viztracer)
 <!-- GITHUB:END -->
 
 ## Top Followers
