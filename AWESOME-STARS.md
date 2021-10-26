@@ -608,6 +608,8 @@
 
 ## JavaScript 
 
+- [karma-runner/karma](https://github.com/karma-runner/karma) - Spectacular Test Runner for JavaScript
+- [ngbp/ngbp](https://github.com/ngbp/ngbp) - A sophisticated build management system for web apps (formerly ng-boilerplate). Created by @joshdmiller
 - [baidu/NoahV](https://github.com/baidu/NoahV) - An efficient front-end application framework based on vue.js
 - [naptha/tesseract.js](https://github.com/naptha/tesseract.js) - Pure Javascript OCR for more than 100 Languages 📖🎉🖥
 - [nuxt/nuxt.js](https://github.com/nuxt/nuxt.js) - The Intuitive Vue Framework
@@ -680,7 +682,7 @@
 - [nwjs/nw.js](https://github.com/nwjs/nw.js) - Call all Node.js modules directly from DOM/WebWorker and enable a new way of writing applications with all Web technologies.
 - [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every developer should know.
 - [expressjs/express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (September 2021)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (October 2021)
 - [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 - [jondot/awesome-react-native](https://github.com/jondot/awesome-react-native) - Awesome React Native components, news, tools, and learning material!
@@ -690,7 +692,7 @@
 - [azl397985856/leetcode](https://github.com/azl397985856/leetcode) - LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)
 - [resume/resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations
 - [koajs/logger](https://github.com/koajs/logger) - Development style logging middleware
-- [typicode/husky](https://github.com/typicode/husky) - Modern native Git hooks made easy 🐶 woof!
+- [typicode/husky](https://github.com/typicode/husky) - Git hooks made easy 🐶 woof!
 - [ellisonleao/sharer.js](https://github.com/ellisonleao/sharer.js) - :on: :bookmark: Create your own social share buttons. No jquery.
 - [gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) - Show your latest blog posts from any sources or StackOverflow activity or Youtube Videos on your GitHub profile/project readme automatically using the RSS feed
 - [iterative/cml](https://github.com/iterative/cml) - ♾️ CML - Continuous Machine Learning | CI/CD for ML
@@ -1013,6 +1015,7 @@
 
 ## Python 
 
+- [quantumlib/Cirq](https://github.com/quantumlib/Cirq) - A python framework for creating, editing, and invoking Noisy Intermediate Scale Quantum (NISQ) circuits.
 - [ionelmc/python-hunter](https://github.com/ionelmc/python-hunter) - Hunter is a flexible code tracing toolkit.
 - [nedbat/coveragepy](https://github.com/nedbat/coveragepy) - Code coverage measurement for Python
 - [gaogaotiantian/viztracer](https://github.com/gaogaotiantian/viztracer) - VizTracer is a low-overhead logging/debugging/profiling tool that can trace and visualize your python code execution.
