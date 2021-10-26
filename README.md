@@ -111,6 +111,13 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       <a href="https://github.com/LendisFabri">Kuro Neko (黒猫)</a>
     </td>
     <td align="center">
+      <a href="https://github.com/edglaz">
+        <img src="https://avatars2.githubusercontent.com/u/48146403" width="100px;" alt="edglaz"/>
+      </a>
+      <br />
+      <a href="https://github.com/edglaz">edglaz</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/jelsonjay">
         <img src="https://avatars2.githubusercontent.com/u/50907905" width="100px;" alt="jelsonjay"/>
       </a>
@@ -130,13 +137,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       </a>
       <br />
       <a href="https://github.com/conao3">Naoya Yamashita</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/React-expert-web-developer-1">
-        <img src="https://avatars2.githubusercontent.com/u/87107784" width="100px;" alt="React-expert-web-developer-1"/>
-      </a>
-      <br />
-      <a href="https://github.com/React-expert-web-developer-1">Expert JavaScript Frameworks developer</a>
     </td>
     <td align="center">
       <a href="https://github.com/maskegger">
