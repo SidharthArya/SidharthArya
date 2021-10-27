@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred quantumlib/OpenFermion](https://github.com/quantumlib/OpenFermion)
+- [SidharthArya starred quantumlib/qsim](https://github.com/quantumlib/qsim)
 - [SidharthArya starred XanaduAI/strawberryfields](https://github.com/XanaduAI/strawberryfields)
 - [SidharthArya starred PennyLaneAI/pennylane](https://github.com/PennyLaneAI/pennylane)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/46fc183361...dae9d85e1f)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred typescript-language-server/typescript-language-server](https://github.com/typescript-language-server/typescript-language-server)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/289da35d80...46fc183361)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/3f2254532a...64f92bd796)
-- [SidharthArya starred quantumlib/Cirq](https://github.com/quantumlib/Cirq)
-- [SidharthArya starred karma-runner/karma](https://github.com/karma-runner/karma)
 <!-- GITHUB:END -->
 
 ## Top Followers
