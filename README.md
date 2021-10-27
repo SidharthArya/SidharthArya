@@ -87,6 +87,9 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred typescript-language-server/typescript-language-server](https://github.com/typescript-language-server/typescript-language-server)
+- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/289da35d80...46fc183361)
+- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/3f2254532a...64f92bd796)
 - [SidharthArya starred quantumlib/Cirq](https://github.com/quantumlib/Cirq)
 - [SidharthArya starred karma-runner/karma](https://github.com/karma-runner/karma)
 - [SidharthArya starred ngbp/ngbp](https://github.com/ngbp/ngbp)
@@ -94,9 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/scripts](https://github.com/SidharthArya/scripts/compare/1940e70142...bc34bfcdf3)
 - [SidharthArya starred GoogleCloudPlatform/gcsfuse](https://github.com/GoogleCloudPlatform/gcsfuse)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/edb59fa332...dd4ca0f9a8)
-- [SidharthArya pushed to master in SidharthArya/scripts](https://github.com/SidharthArya/scripts/compare/2f73873816...1940e70142)
-- [SidharthArya starred ionelmc/python-hunter](https://github.com/ionelmc/python-hunter)
-- [SidharthArya starred nedbat/coveragepy](https://github.com/nedbat/coveragepy)
 <!-- GITHUB:END -->
 
 ## Top Followers
