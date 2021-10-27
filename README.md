@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred XanaduAI/strawberryfields](https://github.com/XanaduAI/strawberryfields)
+- [SidharthArya starred PennyLaneAI/pennylane](https://github.com/PennyLaneAI/pennylane)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/46fc183361...dae9d85e1f)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/64f92bd796...dae4377ae7)
 - [SidharthArya starred purcell/exec-path-from-shell](https://github.com/purcell/exec-path-from-shell)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/3f2254532a...64f92bd796)
 - [SidharthArya starred quantumlib/Cirq](https://github.com/quantumlib/Cirq)
 - [SidharthArya starred karma-runner/karma](https://github.com/karma-runner/karma)
-- [SidharthArya starred ngbp/ngbp](https://github.com/ngbp/ngbp)
-- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/dd4ca0f9a8...289da35d80)
 <!-- GITHUB:END -->
 
 ## Top Followers
