@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred quantumlib/Stim](https://github.com/quantumlib/Stim)
 - [SidharthArya starred quantumlib/OpenFermion](https://github.com/quantumlib/OpenFermion)
 - [SidharthArya starred quantumlib/qsim](https://github.com/quantumlib/qsim)
 - [SidharthArya starred XanaduAI/strawberryfields](https://github.com/XanaduAI/strawberryfields)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred purcell/exec-path-from-shell](https://github.com/purcell/exec-path-from-shell)
 - [SidharthArya starred typescript-language-server/typescript-language-server](https://github.com/typescript-language-server/typescript-language-server)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/289da35d80...46fc183361)
-- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/3f2254532a...64f92bd796)
 <!-- GITHUB:END -->
 
 ## Top Followers
