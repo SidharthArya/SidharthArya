@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/46fc183361...dae9d85e1f)
+- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/64f92bd796...dae4377ae7)
 - [SidharthArya starred purcell/exec-path-from-shell](https://github.com/purcell/exec-path-from-shell)
 - [SidharthArya starred typescript-language-server/typescript-language-server](https://github.com/typescript-language-server/typescript-language-server)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/289da35d80...46fc183361)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred karma-runner/karma](https://github.com/karma-runner/karma)
 - [SidharthArya starred ngbp/ngbp](https://github.com/ngbp/ngbp)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/dd4ca0f9a8...289da35d80)
-- [SidharthArya pushed to master in SidharthArya/scripts](https://github.com/SidharthArya/scripts/compare/1940e70142...bc34bfcdf3)
-- [SidharthArya starred GoogleCloudPlatform/gcsfuse](https://github.com/GoogleCloudPlatform/gcsfuse)
 <!-- GITHUB:END -->
 
 ## Top Followers
