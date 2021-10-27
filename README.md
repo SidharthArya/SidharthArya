@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred purcell/exec-path-from-shell](https://github.com/purcell/exec-path-from-shell)
 - [SidharthArya starred typescript-language-server/typescript-language-server](https://github.com/typescript-language-server/typescript-language-server)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/289da35d80...46fc183361)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/3f2254532a...64f92bd796)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/dd4ca0f9a8...289da35d80)
 - [SidharthArya pushed to master in SidharthArya/scripts](https://github.com/SidharthArya/scripts/compare/1940e70142...bc34bfcdf3)
 - [SidharthArya starred GoogleCloudPlatform/gcsfuse](https://github.com/GoogleCloudPlatform/gcsfuse)
-- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/edb59fa332...dd4ca0f9a8)
 <!-- GITHUB:END -->
 
 ## Top Followers
