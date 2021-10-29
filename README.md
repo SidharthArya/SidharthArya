@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/dae9d85e1f...a171605754)
+- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/dae4377ae7...b400de3a95)
 - [SidharthArya starred chieffancypants/angular-loading-bar](https://github.com/chieffancypants/angular-loading-bar)
 - [SidharthArya starred ReactiveX/rxjs](https://github.com/ReactiveX/rxjs)
 - [SidharthArya starred gothinkster/angular-realworld-example-app](https://github.com/gothinkster/angular-realworld-example-app)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred angular/protractor](https://github.com/angular/protractor)
 - [SidharthArya starred angular/angular-seed](https://github.com/angular/angular-seed)
 - [SidharthArya starred tastejs/todomvc](https://github.com/tastejs/todomvc)
-- [SidharthArya starred gothinkster/realworld](https://github.com/gothinkster/realworld)
-- [SidharthArya starred tensorflow/quantum](https://github.com/tensorflow/quantum)
 <!-- GITHUB:END -->
 
 ## Top Followers
