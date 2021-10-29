@@ -87,16 +87,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred chieffancypants/angular-loading-bar](https://github.com/chieffancypants/angular-loading-bar)
+- [SidharthArya starred ReactiveX/rxjs](https://github.com/ReactiveX/rxjs)
+- [SidharthArya starred gothinkster/angular-realworld-example-app](https://github.com/gothinkster/angular-realworld-example-app)
+- [SidharthArya starred Soundnode/soundnode-app](https://github.com/Soundnode/soundnode-app)
+- [SidharthArya starred angular-fullstack/generator-angular-fullstack](https://github.com/angular-fullstack/generator-angular-fullstack)
+- [SidharthArya starred angular/protractor](https://github.com/angular/protractor)
+- [SidharthArya starred angular/angular-seed](https://github.com/angular/angular-seed)
+- [SidharthArya starred tastejs/todomvc](https://github.com/tastejs/todomvc)
+- [SidharthArya starred gothinkster/realworld](https://github.com/gothinkster/realworld)
 - [SidharthArya starred tensorflow/quantum](https://github.com/tensorflow/quantum)
-- [SidharthArya starred quantumlib/Stim](https://github.com/quantumlib/Stim)
-- [SidharthArya starred quantumlib/OpenFermion](https://github.com/quantumlib/OpenFermion)
-- [SidharthArya starred quantumlib/qsim](https://github.com/quantumlib/qsim)
-- [SidharthArya starred XanaduAI/strawberryfields](https://github.com/XanaduAI/strawberryfields)
-- [SidharthArya starred PennyLaneAI/pennylane](https://github.com/PennyLaneAI/pennylane)
-- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/46fc183361...dae9d85e1f)
-- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/64f92bd796...dae4377ae7)
-- [SidharthArya starred purcell/exec-path-from-shell](https://github.com/purcell/exec-path-from-shell)
-- [SidharthArya starred typescript-language-server/typescript-language-server](https://github.com/typescript-language-server/typescript-language-server)
 <!-- GITHUB:END -->
 
 ## Top Followers
