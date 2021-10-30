@@ -111,13 +111,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       <a href="https://github.com/LendisFabri">Kuro Neko (黒猫)</a>
     </td>
     <td align="center">
-      <a href="https://github.com/edglaz">
-        <img src="https://avatars2.githubusercontent.com/u/48146403" width="100px;" alt="edglaz"/>
-      </a>
-      <br />
-      <a href="https://github.com/edglaz">edglaz</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/jelsonjay">
         <img src="https://avatars2.githubusercontent.com/u/50907905" width="100px;" alt="jelsonjay"/>
       </a>
@@ -152,8 +145,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       <br />
       <a href="https://github.com/Tiancheng-Luo">Tiancheng-Luo</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/portgasray">
         <img src="https://avatars2.githubusercontent.com/u/17681580" width="100px;" alt="portgasray"/>
@@ -161,6 +152,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       <br />
       <a href="https://github.com/portgasray">Lei Zhang</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/relativelyrehan">
         <img src="https://avatars2.githubusercontent.com/u/48210765" width="100px;" alt="relativelyrehan"/>
@@ -203,8 +196,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       <br />
       <a href="https://github.com/Shailenderyedugani">Shailender Yedugani</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/Kushpad">
         <img src="https://avatars2.githubusercontent.com/u/89928620" width="100px;" alt="Kushpad"/>
@@ -212,6 +203,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       <br />
       <a href="https://github.com/Kushpad">Kushpad</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/souvikg123">
         <img src="https://avatars2.githubusercontent.com/u/63902209" width="100px;" alt="souvikg123"/>
@@ -253,6 +246,13 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       </a>
       <br />
       <a href="https://github.com/Abhishekkashyap07">Abhishekkashyap07</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/APARNAGADHIYA">
+        <img src="https://avatars2.githubusercontent.com/u/66026499" width="100px;" alt="APARNAGADHIYA"/>
+      </a>
+      <br />
+      <a href="https://github.com/APARNAGADHIYA">APARNA RAJESH GADHIYA</a>
     </td>
   </tr>
 </table>
