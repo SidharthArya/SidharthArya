@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to main in SidharthArya/lsp-ng](https://github.com/SidharthArya/lsp-ng/compare/8593f6cca4...8e23eb6db5)
 - [SidharthArya created a branch main in SidharthArya/lsp-ng](https://github.com/SidharthArya/lsp-ng/compare/main)
 - [SidharthArya created a repository SidharthArya/lsp-ng](https://github.com/SidharthArya/lsp-ng//)
 - [SidharthArya starred hammerjs/hammer.js](https://github.com/hammerjs/hammer.js)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred ReactiveX/rxjs](https://github.com/ReactiveX/rxjs)
 - [SidharthArya starred gothinkster/angular-realworld-example-app](https://github.com/gothinkster/angular-realworld-example-app)
 - [SidharthArya starred Soundnode/soundnode-app](https://github.com/Soundnode/soundnode-app)
-- [SidharthArya starred angular-fullstack/generator-angular-fullstack](https://github.com/angular-fullstack/generator-angular-fullstack)
 <!-- GITHUB:END -->
 
 ## Top Followers
