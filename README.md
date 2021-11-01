@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya created a branch main in SidharthArya/lsp-ng](https://github.com/SidharthArya/lsp-ng/compare/main)
+- [SidharthArya created a repository SidharthArya/lsp-ng](https://github.com/SidharthArya/lsp-ng//)
 - [SidharthArya starred hammerjs/hammer.js](https://github.com/hammerjs/hammer.js)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/dae9d85e1f...a171605754)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/dae4377ae7...b400de3a95)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred gothinkster/angular-realworld-example-app](https://github.com/gothinkster/angular-realworld-example-app)
 - [SidharthArya starred Soundnode/soundnode-app](https://github.com/Soundnode/soundnode-app)
 - [SidharthArya starred angular-fullstack/generator-angular-fullstack](https://github.com/angular-fullstack/generator-angular-fullstack)
-- [SidharthArya starred angular/protractor](https://github.com/angular/protractor)
-- [SidharthArya starred angular/angular-seed](https://github.com/angular/angular-seed)
 <!-- GITHUB:END -->
 
 ## Top Followers
