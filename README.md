@@ -87,6 +87,9 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/6b00511c7c...7f8d074159)
+- [SidharthArya pushed to master in SidharthArya/scripts](https://github.com/SidharthArya/scripts/compare/bc34bfcdf3...5712294eb4)
+- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/571f5cb9bb...4a4a9a979c)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/a171605754...6b00511c7c)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/b400de3a95...571f5cb9bb)
 - [SidharthArya pushed to main in SidharthArya/lsp-ng](https://github.com/SidharthArya/lsp-ng/compare/8593f6cca4...8e23eb6db5)
@@ -94,9 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya created a repository SidharthArya/lsp-ng](https://github.com/SidharthArya/lsp-ng//)
 - [SidharthArya starred hammerjs/hammer.js](https://github.com/hammerjs/hammer.js)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/dae9d85e1f...a171605754)
-- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/dae4377ae7...b400de3a95)
-- [SidharthArya starred chieffancypants/angular-loading-bar](https://github.com/chieffancypants/angular-loading-bar)
-- [SidharthArya starred ReactiveX/rxjs](https://github.com/ReactiveX/rxjs)
 <!-- GITHUB:END -->
 
 ## Top Followers
