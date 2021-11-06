@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred luxonis/depthai](https://github.com/luxonis/depthai)
 - [SidharthArya starred quantumlib/ReCirq](https://github.com/quantumlib/ReCirq)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/6b00511c7c...7f8d074159)
 - [SidharthArya pushed to master in SidharthArya/scripts](https://github.com/SidharthArya/scripts/compare/bc34bfcdf3...5712294eb4)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to main in SidharthArya/lsp-ng](https://github.com/SidharthArya/lsp-ng/compare/8593f6cca4...8e23eb6db5)
 - [SidharthArya created a branch main in SidharthArya/lsp-ng](https://github.com/SidharthArya/lsp-ng/compare/main)
 - [SidharthArya created a repository SidharthArya/lsp-ng](https://github.com/SidharthArya/lsp-ng//)
-- [SidharthArya starred hammerjs/hammer.js](https://github.com/hammerjs/hammer.js)
 <!-- GITHUB:END -->
 
 ## Top Followers
