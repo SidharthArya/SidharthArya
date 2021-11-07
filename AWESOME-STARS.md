@@ -1030,6 +1030,7 @@
 
 ## Python 
 
+- [luxonis/depthai](https://github.com/luxonis/depthai) - DepthAI Python API utilities, examples, and tutorials.
 - [tensorflow/quantum](https://github.com/tensorflow/quantum) - Hybrid Quantum-Classical Machine Learning in TensorFlow
 - [quantumlib/OpenFermion](https://github.com/quantumlib/OpenFermion) - The electronic structure package for quantum computers.
 - [XanaduAI/strawberryfields](https://github.com/XanaduAI/strawberryfields) - Strawberry Fields is a full-stack Python library for designing, simulating, and optimizing continuous variable (CV) quantum optical circuits.
