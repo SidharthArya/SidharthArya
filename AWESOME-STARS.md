@@ -1049,7 +1049,7 @@
 - [luxonis/depthai-experiments](https://github.com/luxonis/depthai-experiments) - Experimental projects we've done with DepthAI.
 - [PaddlePaddle/PaddleDetection](https://github.com/PaddlePaddle/PaddleDetection) - Object detection and instance segmentation toolkit based on PaddlePaddle.
 - [PaddlePaddle/Paddle2ONNX](https://github.com/PaddlePaddle/Paddle2ONNX) - ONNX Model Exporter for PaddlePaddle
-- [PaddlePaddle/PaddleSeg](https://github.com/PaddlePaddle/PaddleSeg) - End-to-end image segmentation kit based on PaddlePaddle.
+- [PaddlePaddle/PaddleSeg](https://github.com/PaddlePaddle/PaddleSeg) - Easy-to-use segmentation library with awesome pre-trained model zoo, supporting wide-range of practical tasks from research to industrial applications.
 - [google/python-fire](https://github.com/google/python-fire) - Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
 - [matterport/Mask_RCNN](https://github.com/matterport/Mask_RCNN) - Mask R-CNN for object detection and instance segmentation on Keras and TensorFlow
 - [chineseocr/chineseocr](https://github.com/chineseocr/chineseocr) - yolo3+ocr
@@ -1080,7 +1080,7 @@
 - [Theano/Theano](https://github.com/Theano/Theano) - Theano was a Python library that allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently. It is being continued as aesara: www.github.com/pymc-devs/aesara
 - [KevinMusgrave/pytorch-metric-learning](https://github.com/KevinMusgrave/pytorch-metric-learning) - The easiest way to use deep metric learning in your application. Modular, flexible, and extensible. Written in PyTorch.
 - [netbox-community/netbox](https://github.com/netbox-community/netbox) - Infrastructure resource modeling for network automation. Open source under Apache 2. Public demo: https://demo.netbox.dev
-- [facebookresearch/demucs](https://github.com/facebookresearch/demucs) - Code for the paper Music Source Separation in the Waveform Domain
+- [facebookresearch/demucs](https://github.com/facebookresearch/demucs) - Code for the paper Hybrid Spectrogram and Waveform Source Separation
 - [facebookresearch/denoiser](https://github.com/facebookresearch/denoiser) - Real Time Speech Enhancement in the Waveform Domain (Interspeech 2020)We provide a PyTorch implementation of the paper Real Time Speech Enhancement in the Waveform Domain. In which, we present a causal speech enhancement model working on the raw waveform that runs in real-time on a laptop CPU. The proposed model is based on an encoder-decoder architecture with skip-connections. It is optimized on both time and frequency domains, using multiple loss functions. Empirical evidence shows that it is capable of removing various kinds of background noise including stationary and non-stationary noises, as well as room reverb. Additionally, we suggest a set of data augmentation techniques applied directly on the raw waveform which further improve model performance and its generalization abilities.
 - [getsentry/sentry](https://github.com/getsentry/sentry) - Sentry is cross-platform application monitoring, with a focus on error reporting.
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
