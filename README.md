@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/7f8d074159...ee1d9c73e9)
+- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/4a4a9a979c...fc6ca1a196)
 - [SidharthArya starred RediSearch/RediSearch](https://github.com/RediSearch/RediSearch)
 - [SidharthArya starred luxonis/depthai](https://github.com/luxonis/depthai)
 - [SidharthArya starred quantumlib/ReCirq](https://github.com/quantumlib/ReCirq)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/571f5cb9bb...4a4a9a979c)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/a171605754...6b00511c7c)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/b400de3a95...571f5cb9bb)
-- [SidharthArya pushed to main in SidharthArya/lsp-ng](https://github.com/SidharthArya/lsp-ng/compare/8593f6cca4...8e23eb6db5)
-- [SidharthArya created a branch main in SidharthArya/lsp-ng](https://github.com/SidharthArya/lsp-ng/compare/main)
 <!-- GITHUB:END -->
 
 ## Top Followers
