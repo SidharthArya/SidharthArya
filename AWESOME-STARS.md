@@ -751,7 +751,7 @@
 - [borisyankov/react-sparklines](https://github.com/borisyankov/react-sparklines) - Beautiful and expressive Sparklines React component
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [wesbos/awesome-uses](https://github.com/wesbos/awesome-uses) - A list of /uses pages detailing developer setups, gear, software and configs.
-- [snowpackjs/snowpack](https://github.com/snowpackjs/snowpack) - ESM-powered frontend build tool. Instant, lightweight, unbundled development. ✌️
+- [withastro/snowpack](https://github.com/withastro/snowpack) - ESM-powered frontend build tool. Instant, lightweight, unbundled development. ✌️
 - [outline/outline](https://github.com/outline/outline) - The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, and markdown compatible.
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [anvaka/atree](https://github.com/anvaka/atree) - Just a simple Christmas tree, based on reddit story
