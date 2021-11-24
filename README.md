@@ -206,6 +206,13 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
   </tr>
   <tr>
     <td align="center">
+      <a href="https://github.com/vinay-singh27">
+        <img src="https://avatars2.githubusercontent.com/u/40866557" width="100px;" alt="vinay-singh27"/>
+      </a>
+      <br />
+      <a href="https://github.com/vinay-singh27">Vinay Singh</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/souvikg123">
         <img src="https://avatars2.githubusercontent.com/u/63902209" width="100px;" alt="souvikg123"/>
       </a>
@@ -246,13 +253,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       </a>
       <br />
       <a href="https://github.com/Abhishekkashyap07">Abhishekkashyap07</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/APARNAGADHIYA">
-        <img src="https://avatars2.githubusercontent.com/u/66026499" width="100px;" alt="APARNAGADHIYA"/>
-      </a>
-      <br />
-      <a href="https://github.com/APARNAGADHIYA">APARNA RAJESH GADHIYA</a>
     </td>
   </tr>
 </table>
