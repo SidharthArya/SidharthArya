@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/ee1d9c73e9...2af2a679e1)
+- [SidharthArya pushed to master in SidharthArya/scripts](https://github.com/SidharthArya/scripts/compare/5712294eb4...c8daf30845)
 - [SidharthArya starred probot/probot](https://github.com/probot/probot)
 - [SidharthArya starred kubeflow/examples](https://github.com/kubeflow/examples)
 - [SidharthArya starred kiegroup/optaplanner](https://github.com/kiegroup/optaplanner)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred RediSearch/RediSearch](https://github.com/RediSearch/RediSearch)
 - [SidharthArya starred luxonis/depthai](https://github.com/luxonis/depthai)
 - [SidharthArya starred quantumlib/ReCirq](https://github.com/quantumlib/ReCirq)
-- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/6b00511c7c...7f8d074159)
-- [SidharthArya pushed to master in SidharthArya/scripts](https://github.com/SidharthArya/scripts/compare/bc34bfcdf3...5712294eb4)
 <!-- GITHUB:END -->
 
 ## Top Followers
