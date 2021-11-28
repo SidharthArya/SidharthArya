@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/2af2a679e1...6e04fce6ac)
+- [SidharthArya pushed to master in SidharthArya/.nnn](https://github.com/SidharthArya/.nnn/compare/09bbe52e75...eeb58d0cee)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/ee1d9c73e9...2af2a679e1)
 - [SidharthArya pushed to master in SidharthArya/scripts](https://github.com/SidharthArya/scripts/compare/5712294eb4...c8daf30845)
 - [SidharthArya starred probot/probot](https://github.com/probot/probot)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/7f8d074159...ee1d9c73e9)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/4a4a9a979c...fc6ca1a196)
 - [SidharthArya starred RediSearch/RediSearch](https://github.com/RediSearch/RediSearch)
-- [SidharthArya starred luxonis/depthai](https://github.com/luxonis/depthai)
-- [SidharthArya starred quantumlib/ReCirq](https://github.com/quantumlib/ReCirq)
 <!-- GITHUB:END -->
 
 ## Top Followers
