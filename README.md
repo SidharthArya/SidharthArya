@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred google/or-tools](https://github.com/google/or-tools)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/6e04fce6ac...24c4c4782e)
 - [SidharthArya pushed to master in SidharthArya/scripts](https://github.com/SidharthArya/scripts/compare/c8daf30845...f2c74c7c10)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/fc6ca1a196...1f9f355fd8)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/scripts](https://github.com/SidharthArya/scripts/compare/5712294eb4...c8daf30845)
 - [SidharthArya starred probot/probot](https://github.com/probot/probot)
 - [SidharthArya starred kubeflow/examples](https://github.com/kubeflow/examples)
-- [SidharthArya starred kiegroup/optaplanner](https://github.com/kiegroup/optaplanner)
 <!-- GITHUB:END -->
 
 ## Top Followers
