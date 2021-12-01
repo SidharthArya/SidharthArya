@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred googleapis/google-api-python-client](https://github.com/googleapis/google-api-python-client)
 - [SidharthArya starred srid/neuron](https://github.com/srid/neuron)
 - [SidharthArya starred NaoTu/DesktopNaotu](https://github.com/NaoTu/DesktopNaotu)
 - [SidharthArya starred google/or-tools](https://github.com/google/or-tools)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/2af2a679e1...6e04fce6ac)
 - [SidharthArya pushed to master in SidharthArya/.nnn](https://github.com/SidharthArya/.nnn/compare/09bbe52e75...eeb58d0cee)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/ee1d9c73e9...2af2a679e1)
-- [SidharthArya pushed to master in SidharthArya/scripts](https://github.com/SidharthArya/scripts/compare/5712294eb4...c8daf30845)
 <!-- GITHUB:END -->
 
 ## Top Followers
