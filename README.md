@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred srid/neuron](https://github.com/srid/neuron)
+- [SidharthArya starred NaoTu/DesktopNaotu](https://github.com/NaoTu/DesktopNaotu)
 - [SidharthArya starred google/or-tools](https://github.com/google/or-tools)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/6e04fce6ac...24c4c4782e)
 - [SidharthArya pushed to master in SidharthArya/scripts](https://github.com/SidharthArya/scripts/compare/c8daf30845...f2c74c7c10)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/.nnn](https://github.com/SidharthArya/.nnn/compare/09bbe52e75...eeb58d0cee)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/ee1d9c73e9...2af2a679e1)
 - [SidharthArya pushed to master in SidharthArya/scripts](https://github.com/SidharthArya/scripts/compare/5712294eb4...c8daf30845)
-- [SidharthArya starred probot/probot](https://github.com/probot/probot)
-- [SidharthArya starred kubeflow/examples](https://github.com/kubeflow/examples)
 <!-- GITHUB:END -->
 
 ## Top Followers
