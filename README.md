@@ -162,18 +162,18 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       <a href="https://github.com/relativelyrehan">rreel </a>
     </td>
     <td align="center">
-      <a href="https://github.com/HakunanMatatat">
-        <img src="https://avatars2.githubusercontent.com/u/56817048" width="100px;" alt="HakunanMatatat"/>
-      </a>
-      <br />
-      <a href="https://github.com/HakunanMatatat">HakunanMatatat</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/G0rav">
         <img src="https://avatars2.githubusercontent.com/u/62126889" width="100px;" alt="G0rav"/>
       </a>
       <br />
       <a href="https://github.com/G0rav">Gaurav</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/HakunanMatatat">
+        <img src="https://avatars2.githubusercontent.com/u/56817048" width="100px;" alt="HakunanMatatat"/>
+      </a>
+      <br />
+      <a href="https://github.com/HakunanMatatat">HakunanMatatat</a>
     </td>
     <td align="center">
       <a href="https://github.com/samdyuti">
@@ -190,27 +190,27 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       <a href="https://github.com/ChandanCharchit">Chandan Charchit Sahoo</a>
     </td>
     <td align="center">
+      <a href="https://github.com/vinay-singh27">
+        <img src="https://avatars2.githubusercontent.com/u/40866557" width="100px;" alt="vinay-singh27"/>
+      </a>
+      <br />
+      <a href="https://github.com/vinay-singh27">Vinay Singh</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/Shailenderyedugani">
         <img src="https://avatars2.githubusercontent.com/u/71877234" width="100px;" alt="Shailenderyedugani"/>
       </a>
       <br />
       <a href="https://github.com/Shailenderyedugani">Shailender Yedugani</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/Kushpad">
         <img src="https://avatars2.githubusercontent.com/u/89928620" width="100px;" alt="Kushpad"/>
       </a>
       <br />
       <a href="https://github.com/Kushpad">Kushpad</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/vinay-singh27">
-        <img src="https://avatars2.githubusercontent.com/u/40866557" width="100px;" alt="vinay-singh27"/>
-      </a>
-      <br />
-      <a href="https://github.com/vinay-singh27">Vinay Singh</a>
     </td>
     <td align="center">
       <a href="https://github.com/souvikg123">
