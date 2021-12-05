@@ -87,6 +87,9 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/24631cb707...c7d915d6ee)
+- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/73c5dfa826...da41359ebd)
+- [SidharthArya pushed to master in SidharthArya/.nnn](https://github.com/SidharthArya/.nnn/compare/eeb58d0cee...6133792e94)
 - [SidharthArya starred skulpt/skulpt](https://github.com/skulpt/skulpt)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/24c4c4782e...24631cb707)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/1f9f355fd8...73c5dfa826)
@@ -94,9 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred srid/neuron](https://github.com/srid/neuron)
 - [SidharthArya starred NaoTu/DesktopNaotu](https://github.com/NaoTu/DesktopNaotu)
 - [SidharthArya starred google/or-tools](https://github.com/google/or-tools)
-- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/6e04fce6ac...24c4c4782e)
-- [SidharthArya pushed to master in SidharthArya/scripts](https://github.com/SidharthArya/scripts/compare/c8daf30845...f2c74c7c10)
-- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/fc6ca1a196...1f9f355fd8)
 <!-- GITHUB:END -->
 
 ## Top Followers
