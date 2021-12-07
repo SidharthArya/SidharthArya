@@ -1565,7 +1565,7 @@
 
 ## TeX 
 
-- [devonfw-forge/devonfw4flutter](https://github.com/devonfw-forge/devonfw4flutter) - A guide aiming to bridge the gap between the absolute Flutter basics and clean, structured Flutter Development
+- [devonfw-forge/devon4flutter-non-bloc-arch](https://github.com/devonfw-forge/devon4flutter-non-bloc-arch) - A guide aiming to bridge the gap between the absolute Flutter basics and clean, structured Flutter Development
 - [tuhdo/os01](https://github.com/tuhdo/os01) - Bootstrap yourself to write an OS from scratch. A book for self-learner.
 - [ybayle/awesome-deep-learning-music](https://github.com/ybayle/awesome-deep-learning-music) - List of articles related to deep learning applied to music
 - [posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV) - :page_facing_up: Awesome CV is LaTeX template for your outstanding job application
