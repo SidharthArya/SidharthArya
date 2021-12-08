@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred googleapis/google-api-go-client](https://github.com/googleapis/google-api-go-client)
 - [SidharthArya starred apache/libcloud](https://github.com/apache/libcloud)
 - [SidharthArya starred LibreELEC/LibreELEC.tv](https://github.com/LibreELEC/LibreELEC.tv)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/24631cb707...c7d915d6ee)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/24c4c4782e...24631cb707)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/1f9f355fd8...73c5dfa826)
 - [SidharthArya starred googleapis/google-api-python-client](https://github.com/googleapis/google-api-python-client)
-- [SidharthArya starred srid/neuron](https://github.com/srid/neuron)
 <!-- GITHUB:END -->
 
 ## Top Followers
