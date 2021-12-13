@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/c7d915d6ee...7bb2945ee0)
+- [SidharthArya pushed to master in SidharthArya/.nnn](https://github.com/SidharthArya/.nnn/compare/6133792e94...d128ce5472)
 - [SidharthArya starred unicorn-engine/unicorn](https://github.com/unicorn-engine/unicorn)
 - [SidharthArya starred googleapis/google-api-go-client](https://github.com/googleapis/google-api-go-client)
 - [SidharthArya starred apache/libcloud](https://github.com/apache/libcloud)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/73c5dfa826...da41359ebd)
 - [SidharthArya pushed to master in SidharthArya/.nnn](https://github.com/SidharthArya/.nnn/compare/eeb58d0cee...6133792e94)
 - [SidharthArya starred skulpt/skulpt](https://github.com/skulpt/skulpt)
-- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/24c4c4782e...24631cb707)
-- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/1f9f355fd8...73c5dfa826)
 <!-- GITHUB:END -->
 
 ## Top Followers
