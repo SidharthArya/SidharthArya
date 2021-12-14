@@ -146,14 +146,21 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       <a href="https://github.com/Tiancheng-Luo">Tiancheng-Luo</a>
     </td>
     <td align="center">
+      <a href="https://github.com/yanboyang713">
+        <img src="https://avatars2.githubusercontent.com/u/7603628" width="100px;" alt="yanboyang713"/>
+      </a>
+      <br />
+      <a href="https://github.com/yanboyang713">Boyang Yan</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
       <a href="https://github.com/portgasray">
         <img src="https://avatars2.githubusercontent.com/u/17681580" width="100px;" alt="portgasray"/>
       </a>
       <br />
       <a href="https://github.com/portgasray">Lei Zhang</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/relativelyrehan">
         <img src="https://avatars2.githubusercontent.com/u/48210765" width="100px;" alt="relativelyrehan"/>
@@ -196,6 +203,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       <br />
       <a href="https://github.com/vinay-singh27">Vinay Singh</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/Shailenderyedugani">
         <img src="https://avatars2.githubusercontent.com/u/71877234" width="100px;" alt="Shailenderyedugani"/>
@@ -203,8 +212,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       <br />
       <a href="https://github.com/Shailenderyedugani">Shailender Yedugani</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/Kushpad">
         <img src="https://avatars2.githubusercontent.com/u/89928620" width="100px;" alt="Kushpad"/>
@@ -246,13 +253,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       </a>
       <br />
       <a href="https://github.com/AmanGupta273">AmanGupta273</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Abhishekkashyap07">
-        <img src="https://avatars2.githubusercontent.com/u/84564038" width="100px;" alt="Abhishekkashyap07"/>
-      </a>
-      <br />
-      <a href="https://github.com/Abhishekkashyap07">Abhishekkashyap07</a>
     </td>
   </tr>
 </table>
