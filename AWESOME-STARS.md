@@ -222,7 +222,7 @@
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [flutter/engine](https://github.com/flutter/engine) - The Flutter engine
 - [lava/matplotlib-cpp](https://github.com/lava/matplotlib-cpp) - Extremely simple yet powerful header-only C++ plotting library built on the popular matplotlib
-- [fastmachinelearning/hls4ml](https://github.com/fastmachinelearning/hls4ml) - Machine learning in FPGAs using HLS
+- [fastmachinelearning/hls4ml](https://github.com/fastmachinelearning/hls4ml) - Machine learning on FPGAs using HLS
 - [managarm/managarm](https://github.com/managarm/managarm) - Pragmatic microkernel-based OS with fully asynchronous I/O
 - [s9xie/hed](https://github.com/s9xie/hed) - code for Holistically-Nested Edge Detection
 - [biometrics/openbr](https://github.com/biometrics/openbr) - Open Source Biometrics, Face Recognition
@@ -1045,6 +1045,7 @@
 
 ## Python 
 
+- [dropbox/PyHive](https://github.com/dropbox/PyHive) - Python interface to Hive and Presto. 🐝
 - [apache/libcloud](https://github.com/apache/libcloud) - Apache Libcloud is a Python library which hides differences between different cloud provider APIs and allows you to manage different cloud resources through a unified and easy to use API
 - [skulpt/skulpt](https://github.com/skulpt/skulpt) - Skulpt is a Javascript implementation of the Python programming language
 - [googleapis/google-api-python-client](https://github.com/googleapis/google-api-python-client) - 🐍 The official Python client library for Google's discovery based APIs.
