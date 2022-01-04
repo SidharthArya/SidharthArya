@@ -87,16 +87,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/7bb2945ee0...f679c1488a)
+- [SidharthArya pushed to master in SidharthArya/scripts](https://github.com/SidharthArya/scripts/compare/f2c74c7c10...96f4150f5c)
+- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/da41359ebd...325dfda5b5)
+- [SidharthArya starred mkrl/misbrands](https://github.com/mkrl/misbrands)
+- [SidharthArya starred RPCS3/rpcs3](https://github.com/RPCS3/rpcs3)
+- [SidharthArya starred mchakravarty/HaskellSpriteKit](https://github.com/mchakravarty/HaskellSpriteKit)
+- [SidharthArya starred keera-studios/enpuzzled](https://github.com/keera-studios/enpuzzled)
 - [SidharthArya starred dropbox/PyHive](https://github.com/dropbox/PyHive)
 - [SidharthArya starred GoogleCloudPlatform/functions-framework-nodejs](https://github.com/GoogleCloudPlatform/functions-framework-nodejs)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/c7d915d6ee...7bb2945ee0)
-- [SidharthArya pushed to master in SidharthArya/.nnn](https://github.com/SidharthArya/.nnn/compare/6133792e94...d128ce5472)
-- [SidharthArya starred unicorn-engine/unicorn](https://github.com/unicorn-engine/unicorn)
-- [SidharthArya starred googleapis/google-api-go-client](https://github.com/googleapis/google-api-go-client)
-- [SidharthArya starred apache/libcloud](https://github.com/apache/libcloud)
-- [SidharthArya starred LibreELEC/LibreELEC.tv](https://github.com/LibreELEC/LibreELEC.tv)
-- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/24631cb707...c7d915d6ee)
-- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/73c5dfa826...da41359ebd)
 <!-- GITHUB:END -->
 
 ## Top Followers
