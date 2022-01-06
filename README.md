@@ -87,16 +87,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred bytebase/bytebase](https://github.com/bytebase/bytebase)
+- [SidharthArya starred plasma-umass/coz](https://github.com/plasma-umass/coz)
+- [SidharthArya starred tc39/proposal-Number.range](https://github.com/tc39/proposal-Number.range)
+- [SidharthArya starred luyug/GradCache](https://github.com/luyug/GradCache)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/7bb2945ee0...f679c1488a)
 - [SidharthArya pushed to master in SidharthArya/scripts](https://github.com/SidharthArya/scripts/compare/f2c74c7c10...96f4150f5c)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/da41359ebd...325dfda5b5)
 - [SidharthArya starred mkrl/misbrands](https://github.com/mkrl/misbrands)
 - [SidharthArya starred RPCS3/rpcs3](https://github.com/RPCS3/rpcs3)
 - [SidharthArya starred mchakravarty/HaskellSpriteKit](https://github.com/mchakravarty/HaskellSpriteKit)
-- [SidharthArya starred keera-studios/enpuzzled](https://github.com/keera-studios/enpuzzled)
-- [SidharthArya starred dropbox/PyHive](https://github.com/dropbox/PyHive)
-- [SidharthArya starred GoogleCloudPlatform/functions-framework-nodejs](https://github.com/GoogleCloudPlatform/functions-framework-nodejs)
-- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/c7d915d6ee...7bb2945ee0)
 <!-- GITHUB:END -->
 
 ## Top Followers
