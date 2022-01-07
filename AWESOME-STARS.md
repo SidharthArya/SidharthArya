@@ -375,7 +375,7 @@
 - [noctuid/general.el](https://github.com/noctuid/general.el) - More convenient key definitions in emacs
 - [the-ted/org-mind-map](https://github.com/the-ted/org-mind-map) - This is an emacs package that creates graphviz directed graphs.
 - [legalnonsense/elgantt](https://github.com/legalnonsense/elgantt) - A Gantt Chart (Calendar) for Org Mode
-- [org-roam/org-roam-bibtex](https://github.com/org-roam/org-roam-bibtex) - Connector between Org-roam, BibTeX-completion, and Org-ref
+- [org-roam/org-roam-bibtex](https://github.com/org-roam/org-roam-bibtex) - Org Roam integration with bibliography management software
 - [weirdNox/org-noter](https://github.com/weirdNox/org-noter) - Emacs document annotator, using Org-mode
 - [bastibe/org-journal](https://github.com/bastibe/org-journal) - A simple org-mode based journaling mode
 - [alphapapa/org-rifle](https://github.com/alphapapa/org-rifle) - Rifle through your Org-mode buffers and acquire your target
@@ -588,6 +588,7 @@
 
 ## Java 
 
+- [kiegroup/drools](https://github.com/kiegroup/drools) - Drools is a rule engine, DMN engine and complex event processing (CEP) engine for Java.
 - [kiegroup/optaplanner](https://github.com/kiegroup/optaplanner) - AI constraint solver in Java to optimize the vehicle routing problem, employee rostering, task assignment, maintenance scheduling, conference scheduling and other planning problems.
 - [google/gson](https://github.com/google/gson) - A Java serialization/deserialization library to convert Java Objects into JSON and back
 - [Michaelvilleneuve/react-native-document-scanner](https://github.com/Michaelvilleneuve/react-native-document-scanner) - Document scanner, features live border detection, perspective correction, image filters and more ! 📲📸
