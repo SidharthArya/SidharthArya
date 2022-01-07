@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred kiegroup/drools](https://github.com/kiegroup/drools)
 - [SidharthArya starred bytebase/bytebase](https://github.com/bytebase/bytebase)
 - [SidharthArya starred plasma-umass/coz](https://github.com/plasma-umass/coz)
 - [SidharthArya starred tc39/proposal-Number.range](https://github.com/tc39/proposal-Number.range)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/da41359ebd...325dfda5b5)
 - [SidharthArya starred mkrl/misbrands](https://github.com/mkrl/misbrands)
 - [SidharthArya starred RPCS3/rpcs3](https://github.com/RPCS3/rpcs3)
-- [SidharthArya starred mchakravarty/HaskellSpriteKit](https://github.com/mchakravarty/HaskellSpriteKit)
 <!-- GITHUB:END -->
 
 ## Top Followers
