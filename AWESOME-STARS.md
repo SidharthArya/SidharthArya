@@ -172,6 +172,7 @@
 
 ## C++ 
 
+- [olive-editor/olive](https://github.com/olive-editor/olive) - Free open-source non-linear video editor
 - [RPCS3/rpcs3](https://github.com/RPCS3/rpcs3) - PS3 emulator/debugger
 - [google/or-tools](https://github.com/google/or-tools) - Google's Operations Research tools:
 - [quantumlib/Stim](https://github.com/quantumlib/Stim) - A fast stabilizer circuit simulator
@@ -1051,6 +1052,7 @@
 
 ## Python 
 
+- [facebookresearch/mae](https://github.com/facebookresearch/mae) - PyTorch implementation of MAE https//arxiv.org/abs/2111.06377
 - [luyug/GradCache](https://github.com/luyug/GradCache) - Run Effective Large Batch Contrastive Learning Beyond GPU/TPU Memory Constraint
 - [dropbox/PyHive](https://github.com/dropbox/PyHive) - Python interface to Hive and Presto. 🐝
 - [apache/libcloud](https://github.com/apache/libcloud) - Apache Libcloud is a Python library which hides differences between different cloud provider APIs and allows you to manage different cloud resources through a unified and easy to use API
@@ -1165,7 +1167,7 @@
 - [Jack-Cherish/Machine-Learning](https://github.com/Jack-Cherish/Machine-Learning) - :zap:机器学习实战（Python3）：kNN、决策树、贝叶斯、逻辑回归、SVM、线性回归、树回归
 - [asteroid-team/asteroid](https://github.com/asteroid-team/asteroid) - The PyTorch-based audio source separation toolkit for researchers
 - [activeloopai/Hub](https://github.com/activeloopai/Hub) - Dataset format for AI. Build, manage, & visualize datasets for deep learning. Stream data real-time to PyTorch/TensorFlow & version-control it. https://activeloop.ai
-- [quantumblacklabs/kedro](https://github.com/quantumblacklabs/kedro) - A Python framework for creating reproducible, maintainable and modular data science code.
+- [kedro-org/kedro](https://github.com/kedro-org/kedro) - A Python framework for creating reproducible, maintainable and modular data science code.
 - [great-expectations/great_expectations](https://github.com/great-expectations/great_expectations) - Always know what to expect from your data.
 - [Netflix/metaflow](https://github.com/Netflix/metaflow) - :rocket: Build and manage real-life data science projects with ease!
 - [microsoft/MMdnn](https://github.com/microsoft/MMdnn) - MMdnn is a set of tools to help users inter-operate among different deep learning frameworks. E.g. model conversion and visualization. Convert models between Caffe, Keras, MXNet, Tensorflow, CNTK, PyTorch Onnx and CoreML.
@@ -1187,7 +1189,7 @@
 - [librosa/librosa](https://github.com/librosa/librosa) - Python library for audio and music analysis
 - [KinWaiCheuk/nnAudio](https://github.com/KinWaiCheuk/nnAudio) - Audio processing by using pytorch 1D convolution network
 - [allenai/x-lxmert](https://github.com/allenai/x-lxmert) - PyTorch code for EMNLP 2020 paper "X-LXMERT: Paint, Caption and Answer Questions with Multi-Modal Transformers"
-- [woven-planet/l5kit](https://github.com/woven-planet/l5kit) - L5Kit - level5.lyft.com
+- [woven-planet/l5kit](https://github.com/woven-planet/l5kit) - L5Kit - https://level-5.global/
 - [hanxiao/bert-as-service](https://github.com/hanxiao/bert-as-service) - Mapping a variable-length sentence to a fixed-length vector using BERT model
 - [allenai/allennlp](https://github.com/allenai/allennlp) - An open-source NLP research library, built on PyTorch.
 - [demotomohiro/remocolab](https://github.com/demotomohiro/remocolab) - remocolab is a Python module to allow remote access to Google Colaboratory using SSH or TurboVNC.
