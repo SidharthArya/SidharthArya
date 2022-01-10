@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred facebookresearch/mae](https://github.com/facebookresearch/mae)
+- [SidharthArya starred olive-editor/olive](https://github.com/olive-editor/olive)
 - [SidharthArya starred kiegroup/drools](https://github.com/kiegroup/drools)
 - [SidharthArya starred bytebase/bytebase](https://github.com/bytebase/bytebase)
 - [SidharthArya starred plasma-umass/coz](https://github.com/plasma-umass/coz)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/7bb2945ee0...f679c1488a)
 - [SidharthArya pushed to master in SidharthArya/scripts](https://github.com/SidharthArya/scripts/compare/f2c74c7c10...96f4150f5c)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/da41359ebd...325dfda5b5)
-- [SidharthArya starred mkrl/misbrands](https://github.com/mkrl/misbrands)
-- [SidharthArya starred RPCS3/rpcs3](https://github.com/RPCS3/rpcs3)
 <!-- GITHUB:END -->
 
 ## Top Followers
