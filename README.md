@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/f679c1488a...6c51d79e81)
+- [SidharthArya pushed to master in SidharthArya/.bspwm](https://github.com/SidharthArya/.bspwm/compare/0e378f22a0...c6133261a1)
 - [SidharthArya starred facebookresearch/mae](https://github.com/facebookresearch/mae)
 - [SidharthArya starred olive-editor/olive](https://github.com/olive-editor/olive)
 - [SidharthArya starred kiegroup/drools](https://github.com/kiegroup/drools)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred tc39/proposal-Number.range](https://github.com/tc39/proposal-Number.range)
 - [SidharthArya starred luyug/GradCache](https://github.com/luyug/GradCache)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/7bb2945ee0...f679c1488a)
-- [SidharthArya pushed to master in SidharthArya/scripts](https://github.com/SidharthArya/scripts/compare/f2c74c7c10...96f4150f5c)
-- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/da41359ebd...325dfda5b5)
 <!-- GITHUB:END -->
 
 ## Top Followers
