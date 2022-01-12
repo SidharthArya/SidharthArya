@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred agamm/awesome-developer-first](https://github.com/agamm/awesome-developer-first)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/6c51d79e81...4dc731c6f7)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/325dfda5b5...4fc952e400)
 - [SidharthArya starred greasemonkey/greasemonkey](https://github.com/greasemonkey/greasemonkey)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred facebookresearch/mae](https://github.com/facebookresearch/mae)
 - [SidharthArya starred olive-editor/olive](https://github.com/olive-editor/olive)
 - [SidharthArya starred kiegroup/drools](https://github.com/kiegroup/drools)
-- [SidharthArya starred bytebase/bytebase](https://github.com/bytebase/bytebase)
 <!-- GITHUB:END -->
 
 ## Top Followers
