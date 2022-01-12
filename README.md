@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred greasemonkey/greasemonkey](https://github.com/greasemonkey/greasemonkey)
+- [SidharthArya starred tomer8007/whatsapp-web-incognito](https://github.com/tomer8007/whatsapp-web-incognito)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/f679c1488a...6c51d79e81)
 - [SidharthArya pushed to master in SidharthArya/.bspwm](https://github.com/SidharthArya/.bspwm/compare/0e378f22a0...c6133261a1)
 - [SidharthArya starred facebookresearch/mae](https://github.com/facebookresearch/mae)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred bytebase/bytebase](https://github.com/bytebase/bytebase)
 - [SidharthArya starred plasma-umass/coz](https://github.com/plasma-umass/coz)
 - [SidharthArya starred tc39/proposal-Number.range](https://github.com/tc39/proposal-Number.range)
-- [SidharthArya starred luyug/GradCache](https://github.com/luyug/GradCache)
-- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/7bb2945ee0...f679c1488a)
 <!-- GITHUB:END -->
 
 ## Top Followers
