@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/4dc731c6f7...b19a27cb8a)
+- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/4fc952e400...43802aed04)
 - [SidharthArya starred dvf/blockchain](https://github.com/dvf/blockchain)
 - [SidharthArya starred redis/redis-py](https://github.com/redis/redis-py)
 - [SidharthArya starred infer-actively/pymdp](https://github.com/infer-actively/pymdp)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/6c51d79e81...4dc731c6f7)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/325dfda5b5...4fc952e400)
 - [SidharthArya starred greasemonkey/greasemonkey](https://github.com/greasemonkey/greasemonkey)
-- [SidharthArya starred tomer8007/whatsapp-web-incognito](https://github.com/tomer8007/whatsapp-web-incognito)
-- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/f679c1488a...6c51d79e81)
 <!-- GITHUB:END -->
 
 ## Top Followers
