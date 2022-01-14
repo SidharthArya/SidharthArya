@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred dvf/blockchain](https://github.com/dvf/blockchain)
 - [SidharthArya starred redis/redis-py](https://github.com/redis/redis-py)
 - [SidharthArya starred infer-actively/pymdp](https://github.com/infer-actively/pymdp)
 - [SidharthArya starred facebookresearch/ConvNeXt](https://github.com/facebookresearch/ConvNeXt)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred greasemonkey/greasemonkey](https://github.com/greasemonkey/greasemonkey)
 - [SidharthArya starred tomer8007/whatsapp-web-incognito](https://github.com/tomer8007/whatsapp-web-incognito)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/f679c1488a...6c51d79e81)
-- [SidharthArya pushed to master in SidharthArya/.bspwm](https://github.com/SidharthArya/.bspwm/compare/0e378f22a0...c6133261a1)
 <!-- GITHUB:END -->
 
 ## Top Followers
