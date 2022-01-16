@@ -87,16 +87,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya commented on pull request melpa/melpa#7682](https://github.com/melpa/melpa/pull/7682#issuecomment-1013912439)
+- [SidharthArya pushed to master in SidharthArya/comp-ide.el](https://github.com/SidharthArya/comp-ide.el/compare/a87e19cdbb...5ec283997c)
+- [SidharthArya starred soimort/translate-shell](https://github.com/soimort/translate-shell)
+- [SidharthArya starred NVlabs/instant-ngp](https://github.com/NVlabs/instant-ngp)
 - [SidharthArya pushed to main in SidharthArya/sidhartharya.github.io](https://github.com/SidharthArya/sidhartharya.github.io/compare/fa618bb58d...4dc3691537)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/4dc731c6f7...b19a27cb8a)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/4fc952e400...43802aed04)
 - [SidharthArya starred dvf/blockchain](https://github.com/dvf/blockchain)
 - [SidharthArya starred redis/redis-py](https://github.com/redis/redis-py)
 - [SidharthArya starred infer-actively/pymdp](https://github.com/infer-actively/pymdp)
-- [SidharthArya starred facebookresearch/ConvNeXt](https://github.com/facebookresearch/ConvNeXt)
-- [SidharthArya starred agamm/awesome-developer-first](https://github.com/agamm/awesome-developer-first)
-- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/6c51d79e81...4dc731c6f7)
-- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/325dfda5b5...4fc952e400)
 <!-- GITHUB:END -->
 
 ## Top Followers
