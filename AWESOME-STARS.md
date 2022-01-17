@@ -595,6 +595,8 @@
 
 ## Java 
 
+- [quarkusio/quarkus](https://github.com/quarkusio/quarkus) - Quarkus: Supersonic Subatomic Java.
+- [GoogleContainerTools/jib](https://github.com/GoogleContainerTools/jib) - 🏗 Build container images for your Java applications.
 - [kiegroup/drools](https://github.com/kiegroup/drools) - Drools is a rule engine, DMN engine and complex event processing (CEP) engine for Java.
 - [kiegroup/optaplanner](https://github.com/kiegroup/optaplanner) - AI constraint solver in Java to optimize the vehicle routing problem, employee rostering, task assignment, maintenance scheduling, conference scheduling and other planning problems.
 - [google/gson](https://github.com/google/gson) - A Java serialization/deserialization library to convert Java Objects into JSON and back
@@ -814,6 +816,7 @@
 
 ## Jupyter Notebook 
 
+- [broadinstitute/pyro-cov](https://github.com/broadinstitute/pyro-cov) - Pyro models of SARS-CoV-2 variants
 - [spmallick/learnopencv](https://github.com/spmallick/learnopencv) - Learn OpenCV  : C++ and Python Examples
 - [zzh8829/yolov3-tf2](https://github.com/zzh8829/yolov3-tf2) - YoloV3 Implemented in Tensorflow 2.0
 - [balancap/SSD-Tensorflow](https://github.com/balancap/SSD-Tensorflow) - Single Shot MultiBox Detector in TensorFlow
@@ -938,6 +941,7 @@
 
 ## Others 
 
+- [termstandard/colors](https://github.com/termstandard/colors) - Color standards for terminal emulators
 - [agamm/awesome-developer-first](https://github.com/agamm/awesome-developer-first) - A curated list of awesome developer-first tools products.
 - [keera-studios/enpuzzled](https://github.com/keera-studios/enpuzzled) - The new iOS & Android brain game - How clever are you?
 - [BNN-UPC/GNNPapersCommNets](https://github.com/BNN-UPC/GNNPapersCommNets) - 
@@ -1509,6 +1513,7 @@
 
 ## Scala 
 
+- [scala-js/scala-js](https://github.com/scala-js/scala-js) - Scala.js, the Scala to JavaScript compiler
 - [tensorflow/ecosystem](https://github.com/tensorflow/ecosystem) - Integration of TensorFlow with other open-source frameworks
 - [apache/spark](https://github.com/apache/spark) - Apache Spark - A unified analytics engine for large-scale data processing
 
@@ -1518,6 +1523,7 @@
 
 ## Shell 
 
+- [nginx-proxy/acme-companion](https://github.com/nginx-proxy/acme-companion) - Automated ACME SSL certificate generation for nginx-proxy
 - [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
 - [opencv/opencv-python](https://github.com/opencv/opencv-python) - Automated CI toolchain to produce precompiled opencv-python, opencv-python-headless, opencv-contrib-python and opencv-contrib-python-headless packages.
 - [tmux-plugins/tmux-sensible](https://github.com/tmux-plugins/tmux-sensible) - basic tmux settings everyone can agree on
@@ -1637,7 +1643,7 @@
 - [thenewboston-developers/Account-Manager](https://github.com/thenewboston-developers/Account-Manager) - Account manager desktop application for thenewboston digital currency.
 - [bytedance/bytemd](https://github.com/bytedance/bytemd) - A hackable Markdown editor component built with Svelte
 - [phiresky/sql.js-httpvfs](https://github.com/phiresky/sql.js-httpvfs) - 
-- [vuejs/vue-next](https://github.com/vuejs/vue-next) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
+- [vuejs/core](https://github.com/vuejs/core) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 - [purcell/setup-emacs](https://github.com/purcell/setup-emacs) - Github action which installs a given Emacs version
 - [aws-amplify/amplify-js](https://github.com/aws-amplify/amplify-js) - A declarative JavaScript library for application development using cloud services.
 - [JMPerez/linkedin-to-json-resume](https://github.com/JMPerez/linkedin-to-json-resume) - An exporter from a LinkedIn profile to JSON Résumé
