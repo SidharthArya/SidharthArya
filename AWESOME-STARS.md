@@ -81,6 +81,7 @@
 
 ## C 
 
+- [dyu/ffi-overhead](https://github.com/dyu/ffi-overhead) - comparing the c ffi (foreign function interface) overhead on various programming languages
 - [plasma-umass/coz](https://github.com/plasma-umass/coz) - Coz: Causal Profiling
 - [unicorn-engine/unicorn](https://github.com/unicorn-engine/unicorn) - Unicorn CPU emulator framework (ARM, AArch64, M68K, Mips, Sparc, PowerPC, RiscV, S390x, X86)
 - [RediSearch/RediSearch](https://github.com/RediSearch/RediSearch) - A query and indexing engine for Redis, providing secondary indexing, full-text search, and aggregations.
@@ -493,7 +494,7 @@
 - [authzed/spicedb](https://github.com/authzed/spicedb) - Inspired by Google's Zanzibar paper, SpiceDB is a database system for managing security-critical application permissions.
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
 - [adonovan/gopl.io](https://github.com/adonovan/gopl.io) - Example programs from "The Go Programming Language"
-- [varbhat/exatorrent](https://github.com/varbhat/exatorrent) - Self-hostable , easy-to-use , lightweight and feature-rich torrent client written in Go . It comes with beautiful Web UI and Optional Multi-User Support . Run Locally or Host in Server . Open/Download/Stream Torrents in Browser Right Away!
+- [varbhat/exatorrent](https://github.com/varbhat/exatorrent) - Easy to Use Torrent Client
 - [kellegous/go](https://github.com/kellegous/go) - Another Google-like Go short link service
 - [cosmtrek/air](https://github.com/cosmtrek/air) - ☁️ Live reload for Go apps
 - [anatol/booster](https://github.com/anatol/booster) - Fast and secure initramfs generator
@@ -638,6 +639,7 @@
 
 ## JavaScript 
 
+- [motdotla/dotenv](https://github.com/motdotla/dotenv) - Loads environment variables from .env for nodejs projects.
 - [greasemonkey/greasemonkey](https://github.com/greasemonkey/greasemonkey) - Greasemonkey is a user script manager for Firefox.
 - [tomer8007/whatsapp-web-incognito](https://github.com/tomer8007/whatsapp-web-incognito) - A Chrome extension that disables read receipts and presence updates on WhatsApp Web
 - [hammerjs/hammer.js](https://github.com/hammerjs/hammer.js) - A javascript library for multi-touch gestures :// You can touch this
@@ -1066,6 +1068,7 @@
 
 ## Python 
 
+- [yuexy/PS-ViT](https://github.com/yuexy/PS-ViT) - Official implementation of the paper Vision Transformer with Progressive Sampling, ICCV 2021.
 - [redis/redis-py](https://github.com/redis/redis-py) - Redis Python Client
 - [infer-actively/pymdp](https://github.com/infer-actively/pymdp) - A Python implementation of active inference for Markov Decision Processes
 - [facebookresearch/ConvNeXt](https://github.com/facebookresearch/ConvNeXt) - Code release for ConvNeXt model
