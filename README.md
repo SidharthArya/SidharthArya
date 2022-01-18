@@ -87,6 +87,9 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred yuexy/PS-ViT](https://github.com/yuexy/PS-ViT)
+- [SidharthArya starred motdotla/dotenv](https://github.com/motdotla/dotenv)
+- [SidharthArya starred dyu/ffi-overhead](https://github.com/dyu/ffi-overhead)
 - [SidharthArya starred quarkusio/quarkus](https://github.com/quarkusio/quarkus)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/b19a27cb8a...942cfea15e)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/43802aed04...5d2e3418ed)
@@ -94,9 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred broadinstitute/pyro-cov](https://github.com/broadinstitute/pyro-cov)
 - [SidharthArya starred termstandard/colors](https://github.com/termstandard/colors)
 - [SidharthArya starred GoogleContainerTools/jib](https://github.com/GoogleContainerTools/jib)
-- [SidharthArya starred nginx-proxy/acme-companion](https://github.com/nginx-proxy/acme-companion)
-- [SidharthArya commented on pull request melpa/melpa#7682](https://github.com/melpa/melpa/pull/7682#issuecomment-1013912439)
-- [SidharthArya pushed to master in SidharthArya/comp-ide.el](https://github.com/SidharthArya/comp-ide.el/compare/a87e19cdbb...5ec283997c)
 <!-- GITHUB:END -->
 
 ## Top Followers
