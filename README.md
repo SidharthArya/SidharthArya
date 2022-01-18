@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/942cfea15e...6710717471)
+- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/5d2e3418ed...4122ec65f7)
 - [SidharthArya starred yuexy/PS-ViT](https://github.com/yuexy/PS-ViT)
 - [SidharthArya starred motdotla/dotenv](https://github.com/motdotla/dotenv)
 - [SidharthArya starred dyu/ffi-overhead](https://github.com/dyu/ffi-overhead)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/43802aed04...5d2e3418ed)
 - [SidharthArya starred scala-js/scala-js](https://github.com/scala-js/scala-js)
 - [SidharthArya starred broadinstitute/pyro-cov](https://github.com/broadinstitute/pyro-cov)
-- [SidharthArya starred termstandard/colors](https://github.com/termstandard/colors)
-- [SidharthArya starred GoogleContainerTools/jib](https://github.com/GoogleContainerTools/jib)
 <!-- GITHUB:END -->
 
 ## Top Followers
