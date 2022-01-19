@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred pengzhiliang/MAE-pytorch](https://github.com/pengzhiliang/MAE-pytorch)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/942cfea15e...6710717471)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/5d2e3418ed...4122ec65f7)
 - [SidharthArya starred yuexy/PS-ViT](https://github.com/yuexy/PS-ViT)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/b19a27cb8a...942cfea15e)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/43802aed04...5d2e3418ed)
 - [SidharthArya starred scala-js/scala-js](https://github.com/scala-js/scala-js)
-- [SidharthArya starred broadinstitute/pyro-cov](https://github.com/broadinstitute/pyro-cov)
 <!-- GITHUB:END -->
 
 ## Top Followers
