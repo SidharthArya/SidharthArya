@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred tburch/jsonblob](https://github.com/tburch/jsonblob)
 - [SidharthArya starred tensorflow/cloud](https://github.com/tensorflow/cloud)
 - [SidharthArya starred casesandberg/react-reactions](https://github.com/casesandberg/react-reactions)
 - [SidharthArya starred SidharthArya/comp-ide.el](https://github.com/SidharthArya/comp-ide.el)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred yuexy/PS-ViT](https://github.com/yuexy/PS-ViT)
 - [SidharthArya starred motdotla/dotenv](https://github.com/motdotla/dotenv)
 - [SidharthArya starred dyu/ffi-overhead](https://github.com/dyu/ffi-overhead)
-- [SidharthArya starred quarkusio/quarkus](https://github.com/quarkusio/quarkus)
 <!-- GITHUB:END -->
 
 ## Top Followers
