@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred casesandberg/react-reactions](https://github.com/casesandberg/react-reactions)
+- [SidharthArya starred SidharthArya/comp-ide.el](https://github.com/SidharthArya/comp-ide.el)
 - [SidharthArya starred pengzhiliang/MAE-pytorch](https://github.com/pengzhiliang/MAE-pytorch)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/942cfea15e...6710717471)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/5d2e3418ed...4122ec65f7)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred dyu/ffi-overhead](https://github.com/dyu/ffi-overhead)
 - [SidharthArya starred quarkusio/quarkus](https://github.com/quarkusio/quarkus)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/b19a27cb8a...942cfea15e)
-- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/43802aed04...5d2e3418ed)
-- [SidharthArya starred scala-js/scala-js](https://github.com/scala-js/scala-js)
 <!-- GITHUB:END -->
 
 ## Top Followers
