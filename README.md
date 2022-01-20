@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred tensorflow/cloud](https://github.com/tensorflow/cloud)
 - [SidharthArya starred casesandberg/react-reactions](https://github.com/casesandberg/react-reactions)
 - [SidharthArya starred SidharthArya/comp-ide.el](https://github.com/SidharthArya/comp-ide.el)
 - [SidharthArya starred pengzhiliang/MAE-pytorch](https://github.com/pengzhiliang/MAE-pytorch)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred motdotla/dotenv](https://github.com/motdotla/dotenv)
 - [SidharthArya starred dyu/ffi-overhead](https://github.com/dyu/ffi-overhead)
 - [SidharthArya starred quarkusio/quarkus](https://github.com/quarkusio/quarkus)
-- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/b19a27cb8a...942cfea15e)
 <!-- GITHUB:END -->
 
 ## Top Followers
