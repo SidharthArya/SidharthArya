@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/4122ec65f7...6d1fa1a32d)
+- [SidharthArya pushed to master in SidharthArya/.nnn](https://github.com/SidharthArya/.nnn/compare/d128ce5472...cefe1306ba)
 - [SidharthArya starred tburch/jsonblob](https://github.com/tburch/jsonblob)
 - [SidharthArya starred tensorflow/cloud](https://github.com/tensorflow/cloud)
 - [SidharthArya starred casesandberg/react-reactions](https://github.com/casesandberg/react-reactions)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/942cfea15e...6710717471)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/5d2e3418ed...4122ec65f7)
 - [SidharthArya starred yuexy/PS-ViT](https://github.com/yuexy/PS-ViT)
-- [SidharthArya starred motdotla/dotenv](https://github.com/motdotla/dotenv)
-- [SidharthArya starred dyu/ffi-overhead](https://github.com/dyu/ffi-overhead)
 <!-- GITHUB:END -->
 
 ## Top Followers
