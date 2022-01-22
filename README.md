@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred AzureAD/microsoft-authentication-library-for-js](https://github.com/AzureAD/microsoft-authentication-library-for-js)
+- [SidharthArya starred PyMySQL/PyMySQL](https://github.com/PyMySQL/PyMySQL)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/6710717471...1218c6797a)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/4122ec65f7...6d1fa1a32d)
 - [SidharthArya pushed to master in SidharthArya/.nnn](https://github.com/SidharthArya/.nnn/compare/d128ce5472...cefe1306ba)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred casesandberg/react-reactions](https://github.com/casesandberg/react-reactions)
 - [SidharthArya starred SidharthArya/comp-ide.el](https://github.com/SidharthArya/comp-ide.el)
 - [SidharthArya starred pengzhiliang/MAE-pytorch](https://github.com/pengzhiliang/MAE-pytorch)
-- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/942cfea15e...6710717471)
-- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/5d2e3418ed...4122ec65f7)
 <!-- GITHUB:END -->
 
 ## Top Followers
