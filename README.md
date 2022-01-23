@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred org-roam/org-roam-ui](https://github.com/org-roam/org-roam-ui)
 - [SidharthArya starred ariga/atlas](https://github.com/ariga/atlas)
 - [SidharthArya commented on pull request melpa/melpa#7682](https://github.com/melpa/melpa/pull/7682#issuecomment-1019448807)
 - [SidharthArya starred AzureAD/microsoft-authentication-library-for-js](https://github.com/AzureAD/microsoft-authentication-library-for-js)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/.nnn](https://github.com/SidharthArya/.nnn/compare/d128ce5472...cefe1306ba)
 - [SidharthArya starred tburch/jsonblob](https://github.com/tburch/jsonblob)
 - [SidharthArya starred tensorflow/cloud](https://github.com/tensorflow/cloud)
-- [SidharthArya starred casesandberg/react-reactions](https://github.com/casesandberg/react-reactions)
 <!-- GITHUB:END -->
 
 ## Top Followers
