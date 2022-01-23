@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred ariga/atlas](https://github.com/ariga/atlas)
+- [SidharthArya commented on pull request melpa/melpa#7682](https://github.com/melpa/melpa/pull/7682#issuecomment-1019448807)
 - [SidharthArya starred AzureAD/microsoft-authentication-library-for-js](https://github.com/AzureAD/microsoft-authentication-library-for-js)
 - [SidharthArya starred PyMySQL/PyMySQL](https://github.com/PyMySQL/PyMySQL)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/6710717471...1218c6797a)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred tburch/jsonblob](https://github.com/tburch/jsonblob)
 - [SidharthArya starred tensorflow/cloud](https://github.com/tensorflow/cloud)
 - [SidharthArya starred casesandberg/react-reactions](https://github.com/casesandberg/react-reactions)
-- [SidharthArya starred SidharthArya/comp-ide.el](https://github.com/SidharthArya/comp-ide.el)
-- [SidharthArya starred pengzhiliang/MAE-pytorch](https://github.com/pengzhiliang/MAE-pytorch)
 <!-- GITHUB:END -->
 
 ## Top Followers
