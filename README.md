@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred jgraph/drawio](https://github.com/jgraph/drawio)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/1218c6797a...1824f467f2)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/6d1fa1a32d...8a1d749254)
 - [SidharthArya starred h2oai/h2o-3](https://github.com/h2oai/h2o-3)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya commented on pull request melpa/melpa#7682](https://github.com/melpa/melpa/pull/7682#issuecomment-1019448807)
 - [SidharthArya starred AzureAD/microsoft-authentication-library-for-js](https://github.com/AzureAD/microsoft-authentication-library-for-js)
 - [SidharthArya starred PyMySQL/PyMySQL](https://github.com/PyMySQL/PyMySQL)
-- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/6710717471...1218c6797a)
 <!-- GITHUB:END -->
 
 ## Top Followers
