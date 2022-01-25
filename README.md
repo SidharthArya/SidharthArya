@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/1218c6797a...1824f467f2)
+- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/6d1fa1a32d...8a1d749254)
 - [SidharthArya starred h2oai/h2o-3](https://github.com/h2oai/h2o-3)
 - [SidharthArya starred eclipse/deeplearning4j](https://github.com/eclipse/deeplearning4j)
 - [SidharthArya starred org-roam/org-roam-ui](https://github.com/org-roam/org-roam-ui)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred AzureAD/microsoft-authentication-library-for-js](https://github.com/AzureAD/microsoft-authentication-library-for-js)
 - [SidharthArya starred PyMySQL/PyMySQL](https://github.com/PyMySQL/PyMySQL)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/6710717471...1218c6797a)
-- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/4122ec65f7...6d1fa1a32d)
-- [SidharthArya pushed to master in SidharthArya/.nnn](https://github.com/SidharthArya/.nnn/compare/d128ce5472...cefe1306ba)
 <!-- GITHUB:END -->
 
 ## Top Followers
