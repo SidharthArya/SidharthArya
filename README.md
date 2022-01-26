@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred bulletmark/libinput-gestures](https://github.com/bulletmark/libinput-gestures)
 - [SidharthArya starred open-mmlab/mmcv](https://github.com/open-mmlab/mmcv)
 - [SidharthArya starred max-sixty/prql](https://github.com/max-sixty/prql)
 - [SidharthArya starred afuh/rick-and-morty-api](https://github.com/afuh/rick-and-morty-api)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/1824f467f2...1a48624522)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/8a1d749254...61bee1c973)
 - [SidharthArya starred jgraph/drawio](https://github.com/jgraph/drawio)
-- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/1218c6797a...1824f467f2)
 <!-- GITHUB:END -->
 
 ## Top Followers
