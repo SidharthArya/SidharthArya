@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/1a48624522...2766b666a3)
+- [SidharthArya pushed to master in SidharthArya/.nnn](https://github.com/SidharthArya/.nnn/compare/cefe1306ba...7fedcf3e98)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/1824f467f2...1a48624522)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/8a1d749254...61bee1c973)
 - [SidharthArya starred jgraph/drawio](https://github.com/jgraph/drawio)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred h2oai/h2o-3](https://github.com/h2oai/h2o-3)
 - [SidharthArya starred eclipse/deeplearning4j](https://github.com/eclipse/deeplearning4j)
 - [SidharthArya starred org-roam/org-roam-ui](https://github.com/org-roam/org-roam-ui)
-- [SidharthArya starred ariga/atlas](https://github.com/ariga/atlas)
-- [SidharthArya commented on pull request melpa/melpa#7682](https://github.com/melpa/melpa/pull/7682#issuecomment-1019448807)
 <!-- GITHUB:END -->
 
 ## Top Followers
