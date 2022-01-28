@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya opened an issue in kaushalmodi/ox-hugo](https://github.com/kaushalmodi/ox-hugo/issues/542)
 - [SidharthArya starred bulletmark/libinput-gestures](https://github.com/bulletmark/libinput-gestures)
 - [SidharthArya starred open-mmlab/mmcv](https://github.com/open-mmlab/mmcv)
 - [SidharthArya starred max-sixty/prql](https://github.com/max-sixty/prql)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/.nnn](https://github.com/SidharthArya/.nnn/compare/cefe1306ba...7fedcf3e98)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/1824f467f2...1a48624522)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/8a1d749254...61bee1c973)
-- [SidharthArya starred jgraph/drawio](https://github.com/jgraph/drawio)
 <!-- GITHUB:END -->
 
 ## Top Followers
