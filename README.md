@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/2766b666a3...feb78cfa95)
+- [SidharthArya pushed to master in SidharthArya/.nnn](https://github.com/SidharthArya/.nnn/compare/7fedcf3e98...58f9c9ac82)
 - [SidharthArya opened an issue in kaushalmodi/ox-hugo](https://github.com/kaushalmodi/ox-hugo/issues/542)
 - [SidharthArya starred bulletmark/libinput-gestures](https://github.com/bulletmark/libinput-gestures)
 - [SidharthArya starred open-mmlab/mmcv](https://github.com/open-mmlab/mmcv)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred signalapp/libsignal-protocol-java](https://github.com/signalapp/libsignal-protocol-java)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/1a48624522...2766b666a3)
 - [SidharthArya pushed to master in SidharthArya/.nnn](https://github.com/SidharthArya/.nnn/compare/cefe1306ba...7fedcf3e98)
-- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/1824f467f2...1a48624522)
-- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/8a1d749254...61bee1c973)
 <!-- GITHUB:END -->
 
 ## Top Followers
