@@ -183,7 +183,7 @@
 - [olive-editor/olive](https://github.com/olive-editor/olive) - Free open-source non-linear video editor
 - [RPCS3/rpcs3](https://github.com/RPCS3/rpcs3) - PS3 emulator/debugger
 - [google/or-tools](https://github.com/google/or-tools) - Google's Operations Research tools:
-- [quantumlib/Stim](https://github.com/quantumlib/Stim) - A fast stabilizer circuit simulator
+- [quantumlib/Stim](https://github.com/quantumlib/Stim) - Fast simulation and analysis of stabilizer circuits
 - [quantumlib/qsim](https://github.com/quantumlib/qsim) - Schrödinger and Schrödinger-Feynman simulators for quantum circuits.
 - [apache/incubator-mxnet](https://github.com/apache/incubator-mxnet) - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more
 - [argman/EAST](https://github.com/argman/EAST) - A tensorflow implementation of EAST text detector
