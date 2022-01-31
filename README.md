@@ -87,16 +87,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred ory/dockertest](https://github.com/ory/dockertest)
+- [SidharthArya starred benbjohnson/litestream](https://github.com/benbjohnson/litestream)
+- [SidharthArya starred graphile/starter](https://github.com/graphile/starter)
+- [SidharthArya starred haampie/libtree](https://github.com/haampie/libtree)
+- [SidharthArya starred ktr0731/evans](https://github.com/ktr0731/evans)
+- [SidharthArya starred muety/wakapi](https://github.com/muety/wakapi)
+- [SidharthArya starred google/grr](https://github.com/google/grr)
+- [SidharthArya starred beancount/beancount](https://github.com/beancount/beancount)
+- [SidharthArya starred beancount/fava](https://github.com/beancount/fava)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/2766b666a3...feb78cfa95)
-- [SidharthArya pushed to master in SidharthArya/.nnn](https://github.com/SidharthArya/.nnn/compare/7fedcf3e98...58f9c9ac82)
-- [SidharthArya opened an issue in kaushalmodi/ox-hugo](https://github.com/kaushalmodi/ox-hugo/issues/542)
-- [SidharthArya starred bulletmark/libinput-gestures](https://github.com/bulletmark/libinput-gestures)
-- [SidharthArya starred open-mmlab/mmcv](https://github.com/open-mmlab/mmcv)
-- [SidharthArya starred max-sixty/prql](https://github.com/max-sixty/prql)
-- [SidharthArya starred afuh/rick-and-morty-api](https://github.com/afuh/rick-and-morty-api)
-- [SidharthArya starred signalapp/libsignal-protocol-java](https://github.com/signalapp/libsignal-protocol-java)
-- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/1a48624522...2766b666a3)
-- [SidharthArya pushed to master in SidharthArya/.nnn](https://github.com/SidharthArya/.nnn/compare/cefe1306ba...7fedcf3e98)
 <!-- GITHUB:END -->
 
 ## Top Followers
