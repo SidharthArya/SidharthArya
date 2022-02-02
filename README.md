@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred Homebrew/homebrew-command-not-found](https://github.com/Homebrew/homebrew-command-not-found)
 - [SidharthArya starred ory/dockertest](https://github.com/ory/dockertest)
 - [SidharthArya starred benbjohnson/litestream](https://github.com/benbjohnson/litestream)
 - [SidharthArya starred graphile/starter](https://github.com/graphile/starter)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred google/grr](https://github.com/google/grr)
 - [SidharthArya starred beancount/beancount](https://github.com/beancount/beancount)
 - [SidharthArya starred beancount/fava](https://github.com/beancount/fava)
-- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/2766b666a3...feb78cfa95)
 <!-- GITHUB:END -->
 
 ## Top Followers
