@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred django/asgiref](https://github.com/django/asgiref)
 - [SidharthArya starred Homebrew/homebrew-command-not-found](https://github.com/Homebrew/homebrew-command-not-found)
 - [SidharthArya starred ory/dockertest](https://github.com/ory/dockertest)
 - [SidharthArya starred benbjohnson/litestream](https://github.com/benbjohnson/litestream)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred muety/wakapi](https://github.com/muety/wakapi)
 - [SidharthArya starred google/grr](https://github.com/google/grr)
 - [SidharthArya starred beancount/beancount](https://github.com/beancount/beancount)
-- [SidharthArya starred beancount/fava](https://github.com/beancount/fava)
 <!-- GITHUB:END -->
 
 ## Top Followers
