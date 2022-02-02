@@ -1081,6 +1081,7 @@
 
 ## Python 
 
+- [django/asgiref](https://github.com/django/asgiref) - ASGI specification and utilities
 - [google/grr](https://github.com/google/grr) - GRR Rapid Response: remote live forensics for incident response
 - [beancount/beancount](https://github.com/beancount/beancount) - Beancount: Double-Entry Accounting from Text Files.
 - [beancount/fava](https://github.com/beancount/fava) - Fava - web interface for Beancount
@@ -1473,6 +1474,7 @@
 
 ## Ruby 
 
+- [Homebrew/homebrew-command-not-found](https://github.com/Homebrew/homebrew-command-not-found) - 🔍 Ubuntu’s command-not-found equivalent for Homebrew on macOS
 - [CocoaPods/CocoaPods](https://github.com/CocoaPods/CocoaPods) - The Cocoa Dependency Manager.
 - [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
 - [fastlane/fastlane](https://github.com/fastlane/fastlane) - 🚀 The easiest way to automate building and releasing your iOS and Android apps
