@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred GoogleCloudPlatform/nodejs-docs-samples](https://github.com/GoogleCloudPlatform/nodejs-docs-samples)
 - [SidharthArya starred Chris911/iStats](https://github.com/Chris911/iStats)
 - [SidharthArya starred guarinogabriel/Mac-CLI](https://github.com/guarinogabriel/Mac-CLI)
 - [SidharthArya starred JadenGeller/Helium](https://github.com/JadenGeller/Helium)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred benbjohnson/litestream](https://github.com/benbjohnson/litestream)
 - [SidharthArya starred graphile/starter](https://github.com/graphile/starter)
 - [SidharthArya starred haampie/libtree](https://github.com/haampie/libtree)
-- [SidharthArya starred ktr0731/evans](https://github.com/ktr0731/evans)
 <!-- GITHUB:END -->
 
 ## Top Followers
