@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/feb78cfa95...0263c3b089)
+- [SidharthArya pushed to master in SidharthArya/.nnn](https://github.com/SidharthArya/.nnn/compare/58f9c9ac82...b69b9ca35e)
 - [SidharthArya starred GoogleCloudPlatform/nodejs-docs-samples](https://github.com/GoogleCloudPlatform/nodejs-docs-samples)
 - [SidharthArya starred Chris911/iStats](https://github.com/Chris911/iStats)
 - [SidharthArya starred guarinogabriel/Mac-CLI](https://github.com/guarinogabriel/Mac-CLI)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred Homebrew/homebrew-command-not-found](https://github.com/Homebrew/homebrew-command-not-found)
 - [SidharthArya starred ory/dockertest](https://github.com/ory/dockertest)
 - [SidharthArya starred benbjohnson/litestream](https://github.com/benbjohnson/litestream)
-- [SidharthArya starred graphile/starter](https://github.com/graphile/starter)
-- [SidharthArya starred haampie/libtree](https://github.com/haampie/libtree)
 <!-- GITHUB:END -->
 
 ## Top Followers
