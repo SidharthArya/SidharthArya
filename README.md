@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred useful-forks/useful-forks.github.io](https://github.com/useful-forks/useful-forks.github.io)
+- [SidharthArya starred google/cadvisor](https://github.com/google/cadvisor)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/feb78cfa95...0263c3b089)
 - [SidharthArya pushed to master in SidharthArya/.nnn](https://github.com/SidharthArya/.nnn/compare/58f9c9ac82...b69b9ca35e)
 - [SidharthArya starred GoogleCloudPlatform/nodejs-docs-samples](https://github.com/GoogleCloudPlatform/nodejs-docs-samples)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred JadenGeller/Helium](https://github.com/JadenGeller/Helium)
 - [SidharthArya starred django/asgiref](https://github.com/django/asgiref)
 - [SidharthArya starred Homebrew/homebrew-command-not-found](https://github.com/Homebrew/homebrew-command-not-found)
-- [SidharthArya starred ory/dockertest](https://github.com/ory/dockertest)
-- [SidharthArya starred benbjohnson/litestream](https://github.com/benbjohnson/litestream)
 <!-- GITHUB:END -->
 
 ## Top Followers
