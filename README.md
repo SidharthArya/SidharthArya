@@ -87,6 +87,9 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred open-mmlab/mmdeploy](https://github.com/open-mmlab/mmdeploy)
+- [SidharthArya starred tidwall/uhaha](https://github.com/tidwall/uhaha)
+- [SidharthArya starred xujiajun/nutsdb](https://github.com/xujiajun/nutsdb)
 - [SidharthArya starred PipeWire/pipewire](https://github.com/PipeWire/pipewire)
 - [SidharthArya starred iver56/audiomentations](https://github.com/iver56/audiomentations)
 - [SidharthArya starred useful-forks/useful-forks.github.io](https://github.com/useful-forks/useful-forks.github.io)
@@ -94,9 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/feb78cfa95...0263c3b089)
 - [SidharthArya pushed to master in SidharthArya/.nnn](https://github.com/SidharthArya/.nnn/compare/58f9c9ac82...b69b9ca35e)
 - [SidharthArya starred GoogleCloudPlatform/nodejs-docs-samples](https://github.com/GoogleCloudPlatform/nodejs-docs-samples)
-- [SidharthArya starred Chris911/iStats](https://github.com/Chris911/iStats)
-- [SidharthArya starred guarinogabriel/Mac-CLI](https://github.com/guarinogabriel/Mac-CLI)
-- [SidharthArya starred JadenGeller/Helium](https://github.com/JadenGeller/Helium)
 <!-- GITHUB:END -->
 
 ## Top Followers
