@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred nferraz/st](https://github.com/nferraz/st)
 - [SidharthArya starred open-mmlab/mmdeploy](https://github.com/open-mmlab/mmdeploy)
 - [SidharthArya starred tidwall/uhaha](https://github.com/tidwall/uhaha)
 - [SidharthArya starred xujiajun/nutsdb](https://github.com/xujiajun/nutsdb)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred google/cadvisor](https://github.com/google/cadvisor)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/feb78cfa95...0263c3b089)
 - [SidharthArya pushed to master in SidharthArya/.nnn](https://github.com/SidharthArya/.nnn/compare/58f9c9ac82...b69b9ca35e)
-- [SidharthArya starred GoogleCloudPlatform/nodejs-docs-samples](https://github.com/GoogleCloudPlatform/nodejs-docs-samples)
 <!-- GITHUB:END -->
 
 ## Top Followers
