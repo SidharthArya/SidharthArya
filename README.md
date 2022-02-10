@@ -87,16 +87,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred kailashahirwar/cheatsheets-ai](https://github.com/kailashahirwar/cheatsheets-ai)
+- [SidharthArya starred pytorch/fairseq](https://github.com/pytorch/fairseq)
+- [SidharthArya starred amark/gun](https://github.com/amark/gun)
+- [SidharthArya starred louisfb01/best_AI_papers_2021](https://github.com/louisfb01/best_AI_papers_2021)
 - [SidharthArya starred FydeOS/chromium_os-raspberry_pi](https://github.com/FydeOS/chromium_os-raspberry_pi)
 - [SidharthArya starred nferraz/st](https://github.com/nferraz/st)
 - [SidharthArya starred open-mmlab/mmdeploy](https://github.com/open-mmlab/mmdeploy)
 - [SidharthArya starred tidwall/uhaha](https://github.com/tidwall/uhaha)
 - [SidharthArya starred xujiajun/nutsdb](https://github.com/xujiajun/nutsdb)
 - [SidharthArya starred PipeWire/pipewire](https://github.com/PipeWire/pipewire)
-- [SidharthArya starred iver56/audiomentations](https://github.com/iver56/audiomentations)
-- [SidharthArya starred useful-forks/useful-forks.github.io](https://github.com/useful-forks/useful-forks.github.io)
-- [SidharthArya starred google/cadvisor](https://github.com/google/cadvisor)
-- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/feb78cfa95...0263c3b089)
 <!-- GITHUB:END -->
 
 ## Top Followers
