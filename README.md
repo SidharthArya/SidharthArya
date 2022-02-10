@@ -87,16 +87,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
-- [SidharthArya starred kailashahirwar/cheatsheets-ai](https://github.com/kailashahirwar/cheatsheets-ai)
-- [SidharthArya starred pytorch/fairseq](https://github.com/pytorch/fairseq)
-- [SidharthArya starred amark/gun](https://github.com/amark/gun)
-- [SidharthArya starred louisfb01/best_AI_papers_2021](https://github.com/louisfb01/best_AI_papers_2021)
-- [SidharthArya starred FydeOS/chromium_os-raspberry_pi](https://github.com/FydeOS/chromium_os-raspberry_pi)
-- [SidharthArya starred nferraz/st](https://github.com/nferraz/st)
-- [SidharthArya starred open-mmlab/mmdeploy](https://github.com/open-mmlab/mmdeploy)
-- [SidharthArya starred tidwall/uhaha](https://github.com/tidwall/uhaha)
-- [SidharthArya starred xujiajun/nutsdb](https://github.com/xujiajun/nutsdb)
-- [SidharthArya starred PipeWire/pipewire](https://github.com/PipeWire/pipewire)
+- [SidharthArya starred lucidrains/vit-pytorch](https://github.com/lucidrains/vit-pytorch)
+- [SidharthArya starred olistic/warriorjs](https://github.com/olistic/warriorjs)
+- [SidharthArya starred GamestonkTerminal/GamestonkTerminal](https://github.com/GamestonkTerminal/GamestonkTerminal)
+- [SidharthArya starred codota/tabnine-vscode](https://github.com/codota/tabnine-vscode)
+- [SidharthArya starred codota/TabNine](https://github.com/codota/TabNine)
+- [SidharthArya starred TommyX12/company-tabnine](https://github.com/TommyX12/company-tabnine)
+- [SidharthArya starred lexfridman/mit-deep-learning](https://github.com/lexfridman/mit-deep-learning)
+- [SidharthArya starred Ciphey/Ciphey](https://github.com/Ciphey/Ciphey)
+- [SidharthArya starred microsoft/AirSim](https://github.com/microsoft/AirSim)
+- [SidharthArya starred Tencent/ncnn](https://github.com/Tencent/ncnn)
 <!-- GITHUB:END -->
 
 ## Top Followers
