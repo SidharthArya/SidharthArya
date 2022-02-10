@@ -87,16 +87,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred learning-at-home/hivemind](https://github.com/learning-at-home/hivemind)
+- [SidharthArya starred seemoo-lab/opendrop](https://github.com/seemoo-lab/opendrop)
+- [SidharthArya pushed to master in SidharthArya/.qutebrowser](https://github.com/SidharthArya/.qutebrowser/compare/3a75fc4f1c...6cfc90cc30)
+- [SidharthArya commented on issue kaushalmodi/ox-hugo#542](https://github.com/kaushalmodi/ox-hugo/issues/542#issuecomment-1035592781)
 - [SidharthArya commented on issue kaushalmodi/ox-hugo#542](https://github.com/kaushalmodi/ox-hugo/issues/542#issuecomment-1035549812)
 - [SidharthArya commented on issue kaushalmodi/ox-hugo#542](https://github.com/kaushalmodi/ox-hugo/issues/542#issuecomment-1035513631)
 - [SidharthArya commented on issue kaushalmodi/ox-hugo#542](https://github.com/kaushalmodi/ox-hugo/issues/542#issuecomment-1035503393)
 - [SidharthArya commented on issue kaushalmodi/ox-hugo#542](https://github.com/kaushalmodi/ox-hugo/issues/542#issuecomment-1035485291)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/1acaae051f...33e7c23e7f)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/61bee1c973...1acaae051f)
-- [SidharthArya starred d12frosted/homebrew-emacs-plus](https://github.com/d12frosted/homebrew-emacs-plus)
-- [SidharthArya starred lucidrains/vit-pytorch](https://github.com/lucidrains/vit-pytorch)
-- [SidharthArya starred olistic/warriorjs](https://github.com/olistic/warriorjs)
-- [SidharthArya starred GamestonkTerminal/GamestonkTerminal](https://github.com/GamestonkTerminal/GamestonkTerminal)
 <!-- GITHUB:END -->
 
 ## Top Followers
