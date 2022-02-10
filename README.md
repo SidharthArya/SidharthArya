@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/1acaae051f...33e7c23e7f)
+- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/61bee1c973...1acaae051f)
 - [SidharthArya starred d12frosted/homebrew-emacs-plus](https://github.com/d12frosted/homebrew-emacs-plus)
 - [SidharthArya starred lucidrains/vit-pytorch](https://github.com/lucidrains/vit-pytorch)
 - [SidharthArya starred olistic/warriorjs](https://github.com/olistic/warriorjs)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred codota/TabNine](https://github.com/codota/TabNine)
 - [SidharthArya starred TommyX12/company-tabnine](https://github.com/TommyX12/company-tabnine)
 - [SidharthArya starred lexfridman/mit-deep-learning](https://github.com/lexfridman/mit-deep-learning)
-- [SidharthArya starred Ciphey/Ciphey](https://github.com/Ciphey/Ciphey)
-- [SidharthArya starred microsoft/AirSim](https://github.com/microsoft/AirSim)
 <!-- GITHUB:END -->
 
 ## Top Followers
