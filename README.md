@@ -87,6 +87,9 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya commented on issue kaushalmodi/ox-hugo#542](https://github.com/kaushalmodi/ox-hugo/issues/542#issuecomment-1035513631)
+- [SidharthArya commented on issue kaushalmodi/ox-hugo#542](https://github.com/kaushalmodi/ox-hugo/issues/542#issuecomment-1035503393)
+- [SidharthArya commented on issue kaushalmodi/ox-hugo#542](https://github.com/kaushalmodi/ox-hugo/issues/542#issuecomment-1035485291)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/1acaae051f...33e7c23e7f)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/61bee1c973...1acaae051f)
 - [SidharthArya starred d12frosted/homebrew-emacs-plus](https://github.com/d12frosted/homebrew-emacs-plus)
@@ -94,9 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred olistic/warriorjs](https://github.com/olistic/warriorjs)
 - [SidharthArya starred GamestonkTerminal/GamestonkTerminal](https://github.com/GamestonkTerminal/GamestonkTerminal)
 - [SidharthArya starred codota/tabnine-vscode](https://github.com/codota/tabnine-vscode)
-- [SidharthArya starred codota/TabNine](https://github.com/codota/TabNine)
-- [SidharthArya starred TommyX12/company-tabnine](https://github.com/TommyX12/company-tabnine)
-- [SidharthArya starred lexfridman/mit-deep-learning](https://github.com/lexfridman/mit-deep-learning)
 <!-- GITHUB:END -->
 
 ## Top Followers
