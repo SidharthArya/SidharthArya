@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya commented on issue kaushalmodi/ox-hugo#542](https://github.com/kaushalmodi/ox-hugo/issues/542#issuecomment-1035549812)
 - [SidharthArya commented on issue kaushalmodi/ox-hugo#542](https://github.com/kaushalmodi/ox-hugo/issues/542#issuecomment-1035513631)
 - [SidharthArya commented on issue kaushalmodi/ox-hugo#542](https://github.com/kaushalmodi/ox-hugo/issues/542#issuecomment-1035503393)
 - [SidharthArya commented on issue kaushalmodi/ox-hugo#542](https://github.com/kaushalmodi/ox-hugo/issues/542#issuecomment-1035485291)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred lucidrains/vit-pytorch](https://github.com/lucidrains/vit-pytorch)
 - [SidharthArya starred olistic/warriorjs](https://github.com/olistic/warriorjs)
 - [SidharthArya starred GamestonkTerminal/GamestonkTerminal](https://github.com/GamestonkTerminal/GamestonkTerminal)
-- [SidharthArya starred codota/tabnine-vscode](https://github.com/codota/tabnine-vscode)
 <!-- GITHUB:END -->
 
 ## Top Followers
