@@ -206,13 +206,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/samdyuti">
-        <img src="https://avatars2.githubusercontent.com/u/69840173" width="100px;" alt="samdyuti"/>
-      </a>
-      <br />
-      <a href="https://github.com/samdyuti">samdyuti</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/ChandanCharchit">
         <img src="https://avatars2.githubusercontent.com/u/74564556" width="100px;" alt="ChandanCharchit"/>
       </a>
@@ -253,6 +246,13 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       </a>
       <br />
       <a href="https://github.com/rjachuthan">Rituraj Achuthan</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/newmentos">
+        <img src="https://avatars2.githubusercontent.com/u/2989858" width="100px;" alt="newmentos"/>
+      </a>
+      <br />
+      <a href="https://github.com/newmentos">Eugene</a>
     </td>
   </tr>
 </table>
