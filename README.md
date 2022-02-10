@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred d12frosted/homebrew-emacs-plus](https://github.com/d12frosted/homebrew-emacs-plus)
 - [SidharthArya starred lucidrains/vit-pytorch](https://github.com/lucidrains/vit-pytorch)
 - [SidharthArya starred olistic/warriorjs](https://github.com/olistic/warriorjs)
 - [SidharthArya starred GamestonkTerminal/GamestonkTerminal](https://github.com/GamestonkTerminal/GamestonkTerminal)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred lexfridman/mit-deep-learning](https://github.com/lexfridman/mit-deep-learning)
 - [SidharthArya starred Ciphey/Ciphey](https://github.com/Ciphey/Ciphey)
 - [SidharthArya starred microsoft/AirSim](https://github.com/microsoft/AirSim)
-- [SidharthArya starred Tencent/ncnn](https://github.com/Tencent/ncnn)
 <!-- GITHUB:END -->
 
 ## Top Followers
