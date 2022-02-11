@@ -87,6 +87,9 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/0263c3b089...0a480eac97)
+- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/33e7c23e7f...dc4373a8a9)
+- [SidharthArya pushed to master in SidharthArya/.nnn](https://github.com/SidharthArya/.nnn/compare/b69b9ca35e...cd45fb44c5)
 - [SidharthArya starred learning-at-home/hivemind](https://github.com/learning-at-home/hivemind)
 - [SidharthArya starred seemoo-lab/opendrop](https://github.com/seemoo-lab/opendrop)
 - [SidharthArya pushed to master in SidharthArya/.qutebrowser](https://github.com/SidharthArya/.qutebrowser/compare/3a75fc4f1c...6cfc90cc30)
@@ -94,9 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya commented on issue kaushalmodi/ox-hugo#542](https://github.com/kaushalmodi/ox-hugo/issues/542#issuecomment-1035549812)
 - [SidharthArya commented on issue kaushalmodi/ox-hugo#542](https://github.com/kaushalmodi/ox-hugo/issues/542#issuecomment-1035513631)
 - [SidharthArya commented on issue kaushalmodi/ox-hugo#542](https://github.com/kaushalmodi/ox-hugo/issues/542#issuecomment-1035503393)
-- [SidharthArya commented on issue kaushalmodi/ox-hugo#542](https://github.com/kaushalmodi/ox-hugo/issues/542#issuecomment-1035485291)
-- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/1acaae051f...33e7c23e7f)
-- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/61bee1c973...1acaae051f)
 <!-- GITHUB:END -->
 
 ## Top Followers
