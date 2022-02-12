@@ -610,7 +610,7 @@
 
 ## Java 
 
-- [signalapp/libsignal-protocol-java](https://github.com/signalapp/libsignal-protocol-java) - Signal Protocol library for Java/Android
+- [signalapp/libsignal-protocol-java](https://github.com/signalapp/libsignal-protocol-java) - 
 - [eclipse/deeplearning4j](https://github.com/eclipse/deeplearning4j) - Suite of tools for deploying and training deep learning models using the JVM. Highlights include model import for keras, tensorflow, and onnx/pytorch, a modular and tiny c++ library for running math code and a java based math library on top of the core c++ library. Also includes samediff: a pytorch/tensorflow like library for running deep learning using automatic differentiation.
 - [quarkusio/quarkus](https://github.com/quarkusio/quarkus) - Quarkus: Supersonic Subatomic Java.
 - [GoogleContainerTools/jib](https://github.com/GoogleContainerTools/jib) - 🏗 Build container images for your Java applications.
