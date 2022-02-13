@@ -1097,6 +1097,8 @@
 
 ## Python 
 
+- [EleutherAI/gpt-neox](https://github.com/EleutherAI/gpt-neox) - An implementation of model parallel autoregressive transformers on GPUs, based on the DeepSpeed library.
+- [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training easy, efficient, and effective.
 - [learning-at-home/hivemind](https://github.com/learning-at-home/hivemind) - Decentralized deep learning in PyTorch. Built to train models on thousands of volunteers across the world.
 - [seemoo-lab/opendrop](https://github.com/seemoo-lab/opendrop) - An open Apple AirDrop implementation written in Python
 - [lucidrains/vit-pytorch](https://github.com/lucidrains/vit-pytorch) - Implementation of Vision Transformer, a simple way to achieve SOTA in vision classification with only a single transformer encoder, in Pytorch
@@ -1513,6 +1515,7 @@
 
 ## Rust 
 
+- [PaulJuliusMartinez/jless](https://github.com/PaulJuliusMartinez/jless) - A command-line pager for JSON data.
 - [max-sixty/prql](https://github.com/max-sixty/prql) - PRQL is a modern language for transforming data — a simpler and more powerful SQL
 - [rslint/rslint](https://github.com/rslint/rslint) - A  (WIP) Extremely fast JavaScript and TypeScript linter and Rust crate
 - [conao3/rust-risp](https://github.com/conao3/rust-risp) - 
@@ -1572,6 +1575,7 @@
 
 ## Shell 
 
+- [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [codota/TabNine](https://github.com/codota/TabNine) - AI Code Completions
 - [FydeOS/chromium_os-raspberry_pi](https://github.com/FydeOS/chromium_os-raspberry_pi) - Build your Chromium OS for Raspberry Pi 3B/3B+/4B and Pi400
 - [guarinogabriel/Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) -  OS X command line tools for developers – The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your OS X system.
