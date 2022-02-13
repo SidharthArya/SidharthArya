@@ -87,16 +87,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred EleutherAI/gpt-neox](https://github.com/EleutherAI/gpt-neox)
+- [SidharthArya starred microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed)
+- [SidharthArya starred PaulJuliusMartinez/jless](https://github.com/PaulJuliusMartinez/jless)
+- [SidharthArya starred asdf-vm/asdf](https://github.com/asdf-vm/asdf)
 - [SidharthArya starred cofi/evil-leader](https://github.com/cofi/evil-leader)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/0263c3b089...0a480eac97)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/33e7c23e7f...dc4373a8a9)
 - [SidharthArya pushed to master in SidharthArya/.nnn](https://github.com/SidharthArya/.nnn/compare/b69b9ca35e...cd45fb44c5)
 - [SidharthArya starred learning-at-home/hivemind](https://github.com/learning-at-home/hivemind)
 - [SidharthArya starred seemoo-lab/opendrop](https://github.com/seemoo-lab/opendrop)
-- [SidharthArya pushed to master in SidharthArya/.qutebrowser](https://github.com/SidharthArya/.qutebrowser/compare/3a75fc4f1c...6cfc90cc30)
-- [SidharthArya commented on issue kaushalmodi/ox-hugo#542](https://github.com/kaushalmodi/ox-hugo/issues/542#issuecomment-1035592781)
-- [SidharthArya commented on issue kaushalmodi/ox-hugo#542](https://github.com/kaushalmodi/ox-hugo/issues/542#issuecomment-1035549812)
-- [SidharthArya commented on issue kaushalmodi/ox-hugo#542](https://github.com/kaushalmodi/ox-hugo/issues/542#issuecomment-1035513631)
 <!-- GITHUB:END -->
 
 ## Top Followers
