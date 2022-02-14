@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred coollabsio/coolify](https://github.com/coollabsio/coolify)
 - [SidharthArya starred EleutherAI/gpt-neox](https://github.com/EleutherAI/gpt-neox)
 - [SidharthArya starred microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed)
 - [SidharthArya starred PaulJuliusMartinez/jless](https://github.com/PaulJuliusMartinez/jless)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/33e7c23e7f...dc4373a8a9)
 - [SidharthArya pushed to master in SidharthArya/.nnn](https://github.com/SidharthArya/.nnn/compare/b69b9ca35e...cd45fb44c5)
 - [SidharthArya starred learning-at-home/hivemind](https://github.com/learning-at-home/hivemind)
-- [SidharthArya starred seemoo-lab/opendrop](https://github.com/seemoo-lab/opendrop)
 <!-- GITHUB:END -->
 
 ## Top Followers
