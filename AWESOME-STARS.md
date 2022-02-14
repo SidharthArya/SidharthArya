@@ -55,6 +55,7 @@
   - [Scheme](#scheme)
   - [Shell](#shell)
   - [Smalltalk](#smalltalk)
+  - [Svelte](#svelte)
   - [Swift](#swift)
   - [TeX](#tex)
   - [TypeScript](#typescript)
@@ -1637,6 +1638,10 @@
 ## Smalltalk 
 
 - [feenkcom/gtoolkit](https://github.com/feenkcom/gtoolkit) - Glamorous Toolkit is a multilanguage notebook. A fancy code editor. A software analysis platform. A data visualization engine. A knowledge management system. All in one.
+
+## Svelte 
+
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify alternative.
 
 ## Swift 
 
