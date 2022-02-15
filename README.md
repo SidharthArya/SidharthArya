@@ -206,6 +206,13 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
   </tr>
   <tr>
     <td align="center">
+      <a href="https://github.com/Kushpad">
+        <img src="https://avatars2.githubusercontent.com/u/89928620" width="100px;" alt="Kushpad"/>
+      </a>
+      <br />
+      <a href="https://github.com/Kushpad">Kushpad</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/ChandanCharchit">
         <img src="https://avatars2.githubusercontent.com/u/74564556" width="100px;" alt="ChandanCharchit"/>
       </a>
@@ -218,13 +225,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       </a>
       <br />
       <a href="https://github.com/Shailenderyedugani">Shailender Yedugani</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Kushpad">
-        <img src="https://avatars2.githubusercontent.com/u/89928620" width="100px;" alt="Kushpad"/>
-      </a>
-      <br />
-      <a href="https://github.com/Kushpad">Kushpad</a>
     </td>
     <td align="center">
       <a href="https://github.com/souvikg123">
