@@ -198,6 +198,7 @@
 - [google/oboe](https://github.com/google/oboe) - Oboe is a C++ library that makes it easy to build high-performance audio apps on Android.
 - [dogecoin/dogecoin](https://github.com/dogecoin/dogecoin) - very currency
 - [keyboardio/Kaleidoscope](https://github.com/keyboardio/Kaleidoscope) - Firmware for the Keyboardio Model 01 and other keyboards with AVR or ARM MCUs.
+- [NVIDIA/Torch-TensorRT](https://github.com/NVIDIA/Torch-TensorRT) - PyTorch/TorchScript compiler for NVIDIA GPUs using TensorRT
 - [apple/swift](https://github.com/apple/swift) - The Swift Programming Language
 - [pytorch/FBGEMM](https://github.com/pytorch/FBGEMM) - FB (Facebook) + GEMM (General Matrix-Matrix Multiplication) - https://code.fb.com/ml-applications/fbgemm/
 - [onnx/onnx-tensorrt](https://github.com/onnx/onnx-tensorrt) - ONNX-TensorRT: TensorRT backend for ONNX
@@ -849,7 +850,6 @@
 - [zzh8829/yolov3-tf2](https://github.com/zzh8829/yolov3-tf2) - YoloV3 Implemented in Tensorflow 2.0
 - [balancap/SSD-Tensorflow](https://github.com/balancap/SSD-Tensorflow) - Single Shot MultiBox Detector in TensorFlow
 - [clovaai/deep-text-recognition-benchmark](https://github.com/clovaai/deep-text-recognition-benchmark) - Text recognition (optical character recognition) with deep learning methods.
-- [NVIDIA/Torch-TensorRT](https://github.com/NVIDIA/Torch-TensorRT) - PyTorch/TorchScript compiler for NVIDIA GPUs using TensorRT
 - [onnx/tensorflow-onnx](https://github.com/onnx/tensorflow-onnx) - Convert TensorFlow, Keras, Tensorflow.js and Tflite models to ONNX
 - [SidharthArya/Computer_Vision_Class_Manit](https://github.com/SidharthArya/Computer_Vision_Class_Manit) - For all the class work.
 - [SidharthArya/Deep_Learning_Class_Manit](https://github.com/SidharthArya/Deep_Learning_Class_Manit) - For all the class work in Deep Learning Class By Prof. Vijay Bhaskar Semwal
@@ -1500,6 +1500,7 @@
 
 ## Ruby 
 
+- [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux)
 - [Chris911/iStats](https://github.com/Chris911/iStats) - Ruby gem for your mac stats
 - [Homebrew/homebrew-command-not-found](https://github.com/Homebrew/homebrew-command-not-found) - 🔍 Ubuntu’s command-not-found equivalent for Homebrew on macOS
 - [CocoaPods/CocoaPods](https://github.com/CocoaPods/CocoaPods) - The Cocoa Dependency Manager.
