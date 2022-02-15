@@ -87,6 +87,9 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/0a480eac97...69a497ce1f)
+- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/dc4373a8a9...f6a2a0ee57)
+- [SidharthArya pushed to master in SidharthArya/.nnn](https://github.com/SidharthArya/.nnn/compare/cd45fb44c5...3bb18ca268)
 - [SidharthArya starred Homebrew/brew](https://github.com/Homebrew/brew)
 - [SidharthArya starred coollabsio/coolify](https://github.com/coollabsio/coolify)
 - [SidharthArya starred EleutherAI/gpt-neox](https://github.com/EleutherAI/gpt-neox)
@@ -94,9 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred PaulJuliusMartinez/jless](https://github.com/PaulJuliusMartinez/jless)
 - [SidharthArya starred asdf-vm/asdf](https://github.com/asdf-vm/asdf)
 - [SidharthArya starred cofi/evil-leader](https://github.com/cofi/evil-leader)
-- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/0263c3b089...0a480eac97)
-- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/33e7c23e7f...dc4373a8a9)
-- [SidharthArya pushed to master in SidharthArya/.nnn](https://github.com/SidharthArya/.nnn/compare/b69b9ca35e...cd45fb44c5)
 <!-- GITHUB:END -->
 
 ## Top Followers
