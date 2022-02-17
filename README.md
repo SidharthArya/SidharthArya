@@ -87,6 +87,9 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/69a497ce1f...79491ef95a)
+- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/f6a2a0ee57...1c7b213297)
+- [SidharthArya pushed to master in SidharthArya/.nnn](https://github.com/SidharthArya/.nnn/compare/3bb18ca268...244d648b03)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/0a480eac97...69a497ce1f)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/dc4373a8a9...f6a2a0ee57)
 - [SidharthArya pushed to master in SidharthArya/.nnn](https://github.com/SidharthArya/.nnn/compare/cd45fb44c5...3bb18ca268)
@@ -94,9 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred coollabsio/coolify](https://github.com/coollabsio/coolify)
 - [SidharthArya starred EleutherAI/gpt-neox](https://github.com/EleutherAI/gpt-neox)
 - [SidharthArya starred microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed)
-- [SidharthArya starred PaulJuliusMartinez/jless](https://github.com/PaulJuliusMartinez/jless)
-- [SidharthArya starred asdf-vm/asdf](https://github.com/asdf-vm/asdf)
-- [SidharthArya starred cofi/evil-leader](https://github.com/cofi/evil-leader)
 <!-- GITHUB:END -->
 
 ## Top Followers
