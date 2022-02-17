@@ -104,11 +104,11 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/LendisFabri">
-        <img src="https://avatars2.githubusercontent.com/u/16249870" width="100px;" alt="LendisFabri"/>
+      <a href="https://github.com/lendisfabri">
+        <img src="https://avatars2.githubusercontent.com/u/16249870" width="100px;" alt="lendisfabri"/>
       </a>
       <br />
-      <a href="https://github.com/LendisFabri">Kuro Neko (黒猫)</a>
+      <a href="https://github.com/lendisfabri">Ren</a>
     </td>
     <td align="center">
       <a href="https://github.com/jelsonjay">
