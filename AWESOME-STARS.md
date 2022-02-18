@@ -148,7 +148,7 @@
 - [tmux/tmux](https://github.com/tmux/tmux) - tmux source code
 - [LemonBoy/bar](https://github.com/LemonBoy/bar) - A featherweight, lemon-scented, bar based on xcb
 - [skeeto/purgeable](https://github.com/skeeto/purgeable) - Purgeable memory allocations for Linux
-- [nullgemm/ly](https://github.com/nullgemm/ly) - display manager with console UI
+- [fairyglade/ly](https://github.com/fairyglade/ly) - display manager with console UI
 - [stedolan/jq](https://github.com/stedolan/jq) - Command-line JSON processor
 - [radareorg/radare2](https://github.com/radareorg/radare2) - UNIX-like reverse engineering framework and command-line toolset
 - [klange/toaruos](https://github.com/klange/toaruos) - A completely-from-scratch hobby operating system: bootloader, kernel, drivers, C library, and userspace including a composited graphical UI, dynamic linker, syntax-highlighting text editor, network stack, etc.
@@ -496,6 +496,7 @@
 
 ## Go 
 
+- [go-kratos/kratos](https://github.com/go-kratos/kratos) - Your ultimate Go microservices framework for the cloud-native era.
 - [tidwall/uhaha](https://github.com/tidwall/uhaha) - High Availability Raft Framework for Go
 - [xujiajun/nutsdb](https://github.com/xujiajun/nutsdb) - A simple, fast, embeddable, persistent key/value store written in pure Go. It supports fully serializable transactions and many data structures such as  list, set, sorted set.
 - [google/cadvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers.
@@ -612,6 +613,7 @@
 
 ## Java 
 
+- [prestodb/presto](https://github.com/prestodb/presto) - The official home of the Presto distributed SQL query engine for big data
 - [signalapp/libsignal-protocol-java](https://github.com/signalapp/libsignal-protocol-java) - 
 - [eclipse/deeplearning4j](https://github.com/eclipse/deeplearning4j) - Suite of tools for deploying and training deep learning models using the JVM. Highlights include model import for keras, tensorflow, and onnx/pytorch, a modular and tiny c++ library for running math code and a java based math library on top of the core c++ library. Also includes samediff: a pytorch/tensorflow like library for running deep learning using automatic differentiation.
 - [quarkusio/quarkus](https://github.com/quarkusio/quarkus) - Quarkus: Supersonic Subatomic Java.
@@ -1577,6 +1579,7 @@
 
 ## Shell 
 
+- [big-data-europe/docker-hive](https://github.com/big-data-europe/docker-hive) - 
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [codota/TabNine](https://github.com/codota/TabNine) - AI Code Completions
 - [FydeOS/chromium_os-raspberry_pi](https://github.com/FydeOS/chromium_os-raspberry_pi) - Build your Chromium OS for Raspberry Pi 3B/3B+/4B and Pi400
