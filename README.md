@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/0ba0abceee...0f6633211a)
+- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/d3a09c5b62...0c0363ed1f)
 - [SidharthArya starred go-kratos/kratos](https://github.com/go-kratos/kratos)
 - [SidharthArya starred prestodb/presto](https://github.com/prestodb/presto)
 - [SidharthArya starred big-data-europe/docker-hive](https://github.com/big-data-europe/docker-hive)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/69a497ce1f...79491ef95a)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/f6a2a0ee57...1c7b213297)
 - [SidharthArya pushed to master in SidharthArya/.nnn](https://github.com/SidharthArya/.nnn/compare/3bb18ca268...244d648b03)
-- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/0a480eac97...69a497ce1f)
-- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/dc4373a8a9...f6a2a0ee57)
 <!-- GITHUB:END -->
 
 ## Top Followers
