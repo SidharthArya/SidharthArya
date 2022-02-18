@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred prestodb/presto](https://github.com/prestodb/presto)
+- [SidharthArya starred big-data-europe/docker-hive](https://github.com/big-data-europe/docker-hive)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/79491ef95a...0ba0abceee)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/1c7b213297...d3a09c5b62)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/69a497ce1f...79491ef95a)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/0a480eac97...69a497ce1f)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/dc4373a8a9...f6a2a0ee57)
 - [SidharthArya pushed to master in SidharthArya/.nnn](https://github.com/SidharthArya/.nnn/compare/cd45fb44c5...3bb18ca268)
-- [SidharthArya starred Homebrew/brew](https://github.com/Homebrew/brew)
-- [SidharthArya starred coollabsio/coolify](https://github.com/coollabsio/coolify)
 <!-- GITHUB:END -->
 
 ## Top Followers
