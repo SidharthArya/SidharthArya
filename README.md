@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/0f6633211a...cfaa49ca6a)
+- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/0c0363ed1f...dd4517dce6)
 - [SidharthArya starred GoogleCloudPlatform/community](https://github.com/GoogleCloudPlatform/community)
 - [SidharthArya commented on issue kaushalmodi/ox-hugo#542](https://github.com/kaushalmodi/ox-hugo/issues/542#issuecomment-1046337656)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/0ba0abceee...0f6633211a)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred prestodb/presto](https://github.com/prestodb/presto)
 - [SidharthArya starred big-data-europe/docker-hive](https://github.com/big-data-europe/docker-hive)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/79491ef95a...0ba0abceee)
-- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/1c7b213297...d3a09c5b62)
-- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/69a497ce1f...79491ef95a)
 <!-- GITHUB:END -->
 
 ## Top Followers
