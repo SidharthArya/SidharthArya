@@ -857,7 +857,7 @@
 - [SidharthArya/Computer_Vision_Class_Manit](https://github.com/SidharthArya/Computer_Vision_Class_Manit) - For all the class work.
 - [SidharthArya/Deep_Learning_Class_Manit](https://github.com/SidharthArya/Deep_Learning_Class_Manit) - For all the class work in Deep Learning Class By Prof. Vijay Bhaskar Semwal
 - [deepklarity/jupyter-text2code](https://github.com/deepklarity/jupyter-text2code) - A proof-of-concept jupyter extension which converts english queries into relevant python code
-- [pandas-profiling/pandas-profiling](https://github.com/pandas-profiling/pandas-profiling) - Create HTML profiling reports from pandas DataFrame objects
+- [ydataai/pandas-profiling](https://github.com/ydataai/pandas-profiling) - Create HTML profiling reports from pandas DataFrame objects
 - [slundberg/shap](https://github.com/slundberg/shap) - A game theoretic approach to explain the output of any machine learning model.
 - [scikit-learn-contrib/hdbscan](https://github.com/scikit-learn-contrib/hdbscan) - A high performance implementation of HDBSCAN clustering.
 - [dask/dask-tutorial](https://github.com/dask/dask-tutorial) - Dask tutorial
@@ -972,6 +972,7 @@
 
 ## Others 
 
+- [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
 - [kailashahirwar/cheatsheets-ai](https://github.com/kailashahirwar/cheatsheets-ai) - Essential Cheat Sheets for deep learning and machine learning researchers https://medium.com/@kailashahirwar/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5
 - [louisfb01/best_AI_papers_2021](https://github.com/louisfb01/best_AI_papers_2021) - A  curated list of the latest breakthroughs in AI (in 2021) by release date with a clear video explanation, link to a more in-depth article, and code.
 - [termstandard/colors](https://github.com/termstandard/colors) - Color standards for terminal emulators
@@ -1520,7 +1521,7 @@
 
 ## Rust 
 
-- [PaulJuliusMartinez/jless](https://github.com/PaulJuliusMartinez/jless) - A command-line pager for JSON data.
+- [PaulJuliusMartinez/jless](https://github.com/PaulJuliusMartinez/jless) - jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data.
 - [max-sixty/prql](https://github.com/max-sixty/prql) - PRQL is a modern language for transforming data — a simpler and more powerful SQL
 - [rslint/rslint](https://github.com/rslint/rslint) - A  (WIP) Extremely fast JavaScript and TypeScript linter and Rust crate
 - [conao3/rust-risp](https://github.com/conao3/rust-risp) - 
