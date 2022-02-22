@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/0f6633211a...cfaa49ca6a)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/0c0363ed1f...dd4517dce6)
 - [SidharthArya starred GoogleCloudPlatform/community](https://github.com/GoogleCloudPlatform/community)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred go-kratos/kratos](https://github.com/go-kratos/kratos)
 - [SidharthArya starred prestodb/presto](https://github.com/prestodb/presto)
 - [SidharthArya starred big-data-europe/docker-hive](https://github.com/big-data-europe/docker-hive)
-- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/79491ef95a...0ba0abceee)
 <!-- GITHUB:END -->
 
 ## Top Followers
