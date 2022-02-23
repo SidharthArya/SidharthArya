@@ -659,6 +659,7 @@
 
 ## JavaScript 
 
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀
 - [olistic/warriorjs](https://github.com/olistic/warriorjs) - 🏰 An exciting game of programming and Artificial Intelligence
 - [amark/gun](https://github.com/amark/gun) - An open source cybersecurity protocol for syncing decentralized graph data.
 - [useful-forks/useful-forks.github.io](https://github.com/useful-forks/useful-forks.github.io) - Improving GitHub's Forks list discoverability through automatic filtering. The project offers an online tool and a Chrome extension.
@@ -1102,6 +1103,7 @@
 
 ## Python 
 
+- [postmanlabs/httpbin](https://github.com/postmanlabs/httpbin) - HTTP Request & Response Service, written in Python + Flask.
 - [EleutherAI/gpt-neox](https://github.com/EleutherAI/gpt-neox) - An implementation of model parallel autoregressive transformers on GPUs, based on the DeepSpeed library.
 - [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training easy, efficient, and effective.
 - [learning-at-home/hivemind](https://github.com/learning-at-home/hivemind) - Decentralized deep learning in PyTorch. Built to train models on thousands of volunteers across the world.
