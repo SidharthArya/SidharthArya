@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya created a branch main in SidharthArya/Roaming](https://github.com/SidharthArya/Roaming/compare/main)
+- [SidharthArya created a repository SidharthArya/Roaming](https://github.com/SidharthArya/Roaming//)
 - [SidharthArya starred postmanlabs/httpbin](https://github.com/postmanlabs/httpbin)
 - [SidharthArya starred ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)
 - [SidharthArya starred rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred GoogleCloudPlatform/community](https://github.com/GoogleCloudPlatform/community)
 - [SidharthArya commented on issue kaushalmodi/ox-hugo#542](https://github.com/kaushalmodi/ox-hugo/issues/542#issuecomment-1046337656)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/0ba0abceee...0f6633211a)
-- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/d3a09c5b62...0c0363ed1f)
-- [SidharthArya starred go-kratos/kratos](https://github.com/go-kratos/kratos)
 <!-- GITHUB:END -->
 
 ## Top Followers
