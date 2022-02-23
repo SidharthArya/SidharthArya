@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred postmanlabs/httpbin](https://github.com/postmanlabs/httpbin)
 - [SidharthArya starred ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)
 - [SidharthArya starred rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/0f6633211a...cfaa49ca6a)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/0ba0abceee...0f6633211a)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/d3a09c5b62...0c0363ed1f)
 - [SidharthArya starred go-kratos/kratos](https://github.com/go-kratos/kratos)
-- [SidharthArya starred prestodb/presto](https://github.com/prestodb/presto)
 <!-- GITHUB:END -->
 
 ## Top Followers
