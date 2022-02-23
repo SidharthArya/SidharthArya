@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to main in SidharthArya/Roaming](https://github.com/SidharthArya/Roaming/compare/c1e760f055...b38c94c76e)
+- [SidharthArya starred google-github-actions/deploy-appengine](https://github.com/google-github-actions/deploy-appengine)
 - [SidharthArya created a branch main in SidharthArya/Roaming](https://github.com/SidharthArya/Roaming/compare/main)
 - [SidharthArya created a repository SidharthArya/Roaming](https://github.com/SidharthArya/Roaming//)
 - [SidharthArya starred postmanlabs/httpbin](https://github.com/postmanlabs/httpbin)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/0f6633211a...cfaa49ca6a)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/0c0363ed1f...dd4517dce6)
 - [SidharthArya starred GoogleCloudPlatform/community](https://github.com/GoogleCloudPlatform/community)
-- [SidharthArya commented on issue kaushalmodi/ox-hugo#542](https://github.com/kaushalmodi/ox-hugo/issues/542#issuecomment-1046337656)
-- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/0ba0abceee...0f6633211a)
 <!-- GITHUB:END -->
 
 ## Top Followers
