@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred s3fs-fuse/s3fs-fuse](https://github.com/s3fs-fuse/s3fs-fuse)
 - [SidharthArya pushed to main in SidharthArya/Roaming](https://github.com/SidharthArya/Roaming/compare/c1e760f055...b38c94c76e)
 - [SidharthArya starred google-github-actions/deploy-appengine](https://github.com/google-github-actions/deploy-appengine)
 - [SidharthArya created a branch main in SidharthArya/Roaming](https://github.com/SidharthArya/Roaming/compare/main)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/0f6633211a...cfaa49ca6a)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/0c0363ed1f...dd4517dce6)
-- [SidharthArya starred GoogleCloudPlatform/community](https://github.com/GoogleCloudPlatform/community)
 <!-- GITHUB:END -->
 
 ## Top Followers
