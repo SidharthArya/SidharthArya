@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/9fa64777fd...3a3569bfda)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/dd4517dce6...9fa64777fd)
 - [SidharthArya starred s3fs-fuse/s3fs-fuse](https://github.com/s3fs-fuse/s3fs-fuse)
 - [SidharthArya pushed to main in SidharthArya/Roaming](https://github.com/SidharthArya/Roaming/compare/c1e760f055...b38c94c76e)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred postmanlabs/httpbin](https://github.com/postmanlabs/httpbin)
 - [SidharthArya starred ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)
 - [SidharthArya starred rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim)
-- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/0f6633211a...cfaa49ca6a)
 <!-- GITHUB:END -->
 
 ## Top Followers
