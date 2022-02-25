@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/cfaa49ca6a...59bb27fd92)
+- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/3a3569bfda...1e0f6d0b8d)
 - [SidharthArya starred ozbillwang/terraform-best-practices](https://github.com/ozbillwang/terraform-best-practices)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/9fa64777fd...3a3569bfda)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/dd4517dce6...9fa64777fd)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred google-github-actions/deploy-appengine](https://github.com/google-github-actions/deploy-appengine)
 - [SidharthArya created a branch main in SidharthArya/Roaming](https://github.com/SidharthArya/Roaming/compare/main)
 - [SidharthArya created a repository SidharthArya/Roaming](https://github.com/SidharthArya/Roaming//)
-- [SidharthArya starred postmanlabs/httpbin](https://github.com/postmanlabs/httpbin)
-- [SidharthArya starred ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)
 <!-- GITHUB:END -->
 
 ## Top Followers
