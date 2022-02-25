@@ -87,16 +87,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
-- [SidharthArya pushed to main in SidharthArya/Roaming](https://github.com/SidharthArya/Roaming/compare/81222d495d...43b38dd3a3)
-- [SidharthArya pushed to main in SidharthArya/Roaming](https://github.com/SidharthArya/Roaming/compare/41991e00e9...81222d495d)
-- [SidharthArya pushed to main in SidharthArya/Roaming](https://github.com/SidharthArya/Roaming/compare/b38c94c76e...41991e00e9)
-- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/cfaa49ca6a...59bb27fd92)
-- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/3a3569bfda...1e0f6d0b8d)
-- [SidharthArya starred ozbillwang/terraform-best-practices](https://github.com/ozbillwang/terraform-best-practices)
-- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/9fa64777fd...3a3569bfda)
-- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/dd4517dce6...9fa64777fd)
-- [SidharthArya starred s3fs-fuse/s3fs-fuse](https://github.com/s3fs-fuse/s3fs-fuse)
-- [SidharthArya pushed to main in SidharthArya/Roaming](https://github.com/SidharthArya/Roaming/compare/c1e760f055...b38c94c76e)
+- [SidharthArya pushed to main in SidharthArya/Roaming](https://github.com/SidharthArya/Roaming/compare/9dcddd9650...f45e8988b4)
+- [SidharthArya pushed to main in SidharthArya/Roaming](https://github.com/SidharthArya/Roaming/compare/c7fe284d89...9dcddd9650)
+- [SidharthArya pushed to main in SidharthArya/Roaming](https://github.com/SidharthArya/Roaming/compare/5d87faff29...c7fe284d89)
+- [SidharthArya pushed to main in SidharthArya/Roaming](https://github.com/SidharthArya/Roaming/compare/648989db21...5d87faff29)
+- [SidharthArya pushed to main in SidharthArya/Roaming](https://github.com/SidharthArya/Roaming/compare/2d1c2bb40e...648989db21)
+- [SidharthArya pushed to main in SidharthArya/Roaming](https://github.com/SidharthArya/Roaming/compare/3ddaa10f86...2d1c2bb40e)
+- [SidharthArya pushed to main in SidharthArya/Roaming](https://github.com/SidharthArya/Roaming/compare/43b38dd3a3...3ddaa10f86)
+- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/59bb27fd92...1690ca8660)
+- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/1e0f6d0b8d...990efddd25)
+- [SidharthArya pushed to master in SidharthArya/.nnn](https://github.com/SidharthArya/.nnn/compare/244d648b03...38a671a2db)
 <!-- GITHUB:END -->
 
 ## Top Followers
