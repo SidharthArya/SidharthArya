@@ -87,6 +87,9 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to main in SidharthArya/Roaming](https://github.com/SidharthArya/Roaming/compare/81222d495d...43b38dd3a3)
+- [SidharthArya pushed to main in SidharthArya/Roaming](https://github.com/SidharthArya/Roaming/compare/41991e00e9...81222d495d)
+- [SidharthArya pushed to main in SidharthArya/Roaming](https://github.com/SidharthArya/Roaming/compare/b38c94c76e...41991e00e9)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/cfaa49ca6a...59bb27fd92)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/3a3569bfda...1e0f6d0b8d)
 - [SidharthArya starred ozbillwang/terraform-best-practices](https://github.com/ozbillwang/terraform-best-practices)
@@ -94,9 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/dd4517dce6...9fa64777fd)
 - [SidharthArya starred s3fs-fuse/s3fs-fuse](https://github.com/s3fs-fuse/s3fs-fuse)
 - [SidharthArya pushed to main in SidharthArya/Roaming](https://github.com/SidharthArya/Roaming/compare/c1e760f055...b38c94c76e)
-- [SidharthArya starred google-github-actions/deploy-appengine](https://github.com/google-github-actions/deploy-appengine)
-- [SidharthArya created a branch main in SidharthArya/Roaming](https://github.com/SidharthArya/Roaming/compare/main)
-- [SidharthArya created a repository SidharthArya/Roaming](https://github.com/SidharthArya/Roaming//)
 <!-- GITHUB:END -->
 
 ## Top Followers
