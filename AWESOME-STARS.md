@@ -952,7 +952,7 @@
 - [nix-community/poetry2nix](https://github.com/nix-community/poetry2nix) - Convert poetry projects to nix automagically [maintainer=@adisbladis]
 - [hlissner/dotfiles](https://github.com/hlissner/dotfiles) - And I say hey, what's going on?
 - [numtide/devshell](https://github.com/numtide/devshell) - Per project developer environments
-- [divnix/devos](https://github.com/divnix/devos) - NixOS Template
+- [divnix/digga](https://github.com/divnix/digga) - A a flake utility library to craft shell-, home-, and hosts- environments.
 - [t184256/nix-on-droid](https://github.com/t184256/nix-on-droid) - Nix-enabled environment for your Android device.
 - [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@rycee]
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection
