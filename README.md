@@ -87,16 +87,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to main in SidharthArya/.nvim](https://github.com/SidharthArya/.nvim/compare/2c77731c62...f649eb8c86)
+- [SidharthArya pushed to main in SidharthArya/.nvim](https://github.com/SidharthArya/.nvim/compare/d7ac3f47c5...2c77731c62)
+- [SidharthArya starred voldikss/vim-floaterm](https://github.com/voldikss/vim-floaterm)
+- [SidharthArya pushed to main in SidharthArya/.nvim](https://github.com/SidharthArya/.nvim/compare/fc4f0b7902...d7ac3f47c5)
 - [SidharthArya pushed to main in SidharthArya/.nvim](https://github.com/SidharthArya/.nvim/compare/65c856b18a...fc4f0b7902)
 - [SidharthArya created a branch main in SidharthArya/.nvim](https://github.com/SidharthArya/.nvim/compare/main)
 - [SidharthArya created a repository SidharthArya/.nvim](https://github.com/SidharthArya/.nvim//)
 - [SidharthArya starred morhetz/gruvbox](https://github.com/morhetz/gruvbox)
 - [SidharthArya starred google/styleguide](https://github.com/google/styleguide)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/1690ca8660...c8f8706362)
-- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/d1d27bfba1...dffdc6ebd5)
-- [SidharthArya pushed to main in SidharthArya/Roaming](https://github.com/SidharthArya/Roaming/compare/02eadec752...e8ad6042d4)
-- [SidharthArya pushed to main in SidharthArya/Roaming](https://github.com/SidharthArya/Roaming/compare/edebf27fb3...02eadec752)
-- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/990efddd25...d1d27bfba1)
 <!-- GITHUB:END -->
 
 ## Top Followers
