@@ -186,7 +186,6 @@
 - [s3fs-fuse/s3fs-fuse](https://github.com/s3fs-fuse/s3fs-fuse) - FUSE-based file system backed by Amazon S3
 - [microsoft/AirSim](https://github.com/microsoft/AirSim) - Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research
 - [Tencent/ncnn](https://github.com/Tencent/ncnn) - ncnn is a high-performance neural network inference framework optimized for the mobile platform
-- [open-mmlab/mmdeploy](https://github.com/open-mmlab/mmdeploy) - OpenMMLab Model Deployment Framework
 - [olive-editor/olive](https://github.com/olive-editor/olive) - Free open-source non-linear video editor
 - [RPCS3/rpcs3](https://github.com/RPCS3/rpcs3) - PS3 emulator/debugger
 - [google/or-tools](https://github.com/google/or-tools) - Google's Operations Research tools:
@@ -568,6 +567,7 @@
 
 ## HTML 
 
+- [google/styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
 - [tc39/proposal-Number.range](https://github.com/tc39/proposal-Number.range) - A proposal for ECMAScript to add a built-in Number.range()
 - [KuroLabs/Airshare](https://github.com/KuroLabs/Airshare) - Cross-platform content sharing in a local network
 - [tesseract-ocr/tessdoc](https://github.com/tesseract-ocr/tessdoc) - Tesseract documentation
@@ -952,7 +952,7 @@
 - [nix-community/poetry2nix](https://github.com/nix-community/poetry2nix) - Convert poetry projects to nix automagically [maintainer=@adisbladis]
 - [hlissner/dotfiles](https://github.com/hlissner/dotfiles) - And I say hey, what's going on?
 - [numtide/devshell](https://github.com/numtide/devshell) - Per project developer environments
-- [divnix/digga](https://github.com/divnix/digga) - A a flake utility library to craft shell-, home-, and hosts- environments.
+- [divnix/digga](https://github.com/divnix/digga) - A flake utility library to craft shell-, home-, and hosts- environments.
 - [t184256/nix-on-droid](https://github.com/t184256/nix-on-droid) - Nix-enabled environment for your Android device.
 - [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@rycee]
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection
@@ -1118,6 +1118,7 @@
 - [GamestonkTerminal/GamestonkTerminal](https://github.com/GamestonkTerminal/GamestonkTerminal) - Investment Research for Everyone.
 - [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [pytorch/fairseq](https://github.com/pytorch/fairseq) - Facebook AI Research Sequence-to-Sequence Toolkit written in Python.
+- [open-mmlab/mmdeploy](https://github.com/open-mmlab/mmdeploy) - OpenMMLab Model Deployment Framework
 - [iver56/audiomentations](https://github.com/iver56/audiomentations) - A Python library for audio data augmentation. Inspired by albumentations. Useful for machine learning.
 - [django/asgiref](https://github.com/django/asgiref) - ASGI specification and utilities
 - [google/grr](https://github.com/google/grr) - GRR Rapid Response: remote live forensics for incident response
@@ -1773,6 +1774,8 @@
 
 ## Vim script 
 
+- [voldikss/vim-floaterm](https://github.com/voldikss/vim-floaterm) - :star2: Terminal manager for (neo)vim
+- [morhetz/gruvbox](https://github.com/morhetz/gruvbox) - Retro groove color scheme for Vim
 - [macvim-dev/macvim](https://github.com/macvim-dev/macvim) - Vim - the text editor - for macOS
 - [junegunn/fzf.vim](https://github.com/junegunn/fzf.vim) - fzf :heart: vim
 - [dense-analysis/ale](https://github.com/dense-analysis/ale) - Check syntax in Vim asynchronously and fix files, with Language Server Protocol (LSP) support
