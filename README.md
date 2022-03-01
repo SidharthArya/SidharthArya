@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to main in SidharthArya/Roaming](https://github.com/SidharthArya/Roaming/compare/927a88dc3f...0fae0b3cff)
 - [SidharthArya starred NirantK/awesome-project-ideas](https://github.com/NirantK/awesome-project-ideas)
 - [SidharthArya starred samsquire/ideas2](https://github.com/samsquire/ideas2)
 - [SidharthArya starred samsquire/ideas](https://github.com/samsquire/ideas)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/dffdc6ebd5...fea9d44fff)
 - [SidharthArya pushed to main in SidharthArya/Roaming](https://github.com/SidharthArya/Roaming/compare/d8ccc56160...927a88dc3f)
 - [SidharthArya pushed to main in SidharthArya/Roaming](https://github.com/SidharthArya/Roaming/compare/e8ad6042d4...d8ccc56160)
-- [SidharthArya starred emacsorphanage/terraform-mode](https://github.com/emacsorphanage/terraform-mode)
 <!-- GITHUB:END -->
 
 ## Top Followers
