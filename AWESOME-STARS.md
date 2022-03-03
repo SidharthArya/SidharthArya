@@ -511,7 +511,7 @@
 - [googleapis/google-api-go-client](https://github.com/googleapis/google-api-go-client) - Auto-generated Google APIs for Go.
 - [GoogleCloudPlatform/gcsfuse](https://github.com/GoogleCloudPlatform/gcsfuse) - A user-space file system for interacting with Google Cloud Storage
 - [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
-- [authzed/spicedb](https://github.com/authzed/spicedb) - Inspired by Google's Zanzibar paper, SpiceDB is a database system for managing security-critical application permissions.
+- [authzed/spicedb](https://github.com/authzed/spicedb) - Inspired by Google's Zanzibar paper, SpiceDB is an open source database system for managing security-critical application permissions.
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
 - [adonovan/gopl.io](https://github.com/adonovan/gopl.io) - Example programs from "The Go Programming Language"
 - [varbhat/exatorrent](https://github.com/varbhat/exatorrent) - Easy to Use Torrent Client. Can be hosted in Cloud. Files can be streamed in Browser/Media Player.
@@ -1659,7 +1659,7 @@
 
 ## Smalltalk 
 
-- [feenkcom/gtoolkit](https://github.com/feenkcom/gtoolkit) - Glamorous Toolkit is a multilanguage notebook. A fancy code editor. A software analysis platform. A data visualization engine. A knowledge management system. All in one.
+- [feenkcom/gtoolkit](https://github.com/feenkcom/gtoolkit) - Glamorous Toolkit is a multilanguage notebook. A fancy code editor. A software analysis platform. A visualization engine. A knowledge management system. All programmable. All in one.
 
 ## Svelte 
 
