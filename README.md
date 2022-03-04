@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/3649ecd2ab...0d648da6cc)
+- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/950ab3e609...d01cab5514)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/66db3db9fc...3649ecd2ab)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/fea9d44fff...950ab3e609)
 - [SidharthArya pushed to main in SidharthArya/Roaming](https://github.com/SidharthArya/Roaming/compare/9abfa01ed2...54806aef35)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred NirantK/awesome-project-ideas](https://github.com/NirantK/awesome-project-ideas)
 - [SidharthArya starred samsquire/ideas2](https://github.com/samsquire/ideas2)
 - [SidharthArya starred samsquire/ideas](https://github.com/samsquire/ideas)
-- [SidharthArya starred microsoft/qlib](https://github.com/microsoft/qlib)
-- [SidharthArya starred mlflow/mlflow](https://github.com/mlflow/mlflow)
 <!-- GITHUB:END -->
 
 ## Top Followers
