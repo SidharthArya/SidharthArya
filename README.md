@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred vosen/ZLUDA](https://github.com/vosen/ZLUDA)
 - [SidharthArya starred DIGITALCRIMINAL/OnlyFans](https://github.com/DIGITALCRIMINAL/OnlyFans)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/3649ecd2ab...0d648da6cc)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/950ab3e609...d01cab5514)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to main in SidharthArya/Roaming](https://github.com/SidharthArya/Roaming/compare/0fae0b3cff...9abfa01ed2)
 - [SidharthArya pushed to main in SidharthArya/Roaming](https://github.com/SidharthArya/Roaming/compare/927a88dc3f...0fae0b3cff)
 - [SidharthArya starred NirantK/awesome-project-ideas](https://github.com/NirantK/awesome-project-ideas)
-- [SidharthArya starred samsquire/ideas2](https://github.com/samsquire/ideas2)
 <!-- GITHUB:END -->
 
 ## Top Followers
