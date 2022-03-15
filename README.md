@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/0d648da6cc...430d6f48a7)
+- [SidharthArya pushed to master in SidharthArya/.nnn](https://github.com/SidharthArya/.nnn/compare/38a671a2db...bca267ec36)
 - [SidharthArya starred vosen/ZLUDA](https://github.com/vosen/ZLUDA)
 - [SidharthArya starred DIGITALCRIMINAL/OnlyFans](https://github.com/DIGITALCRIMINAL/OnlyFans)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/3649ecd2ab...0d648da6cc)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/fea9d44fff...950ab3e609)
 - [SidharthArya pushed to main in SidharthArya/Roaming](https://github.com/SidharthArya/Roaming/compare/9abfa01ed2...54806aef35)
 - [SidharthArya pushed to main in SidharthArya/Roaming](https://github.com/SidharthArya/Roaming/compare/0fae0b3cff...9abfa01ed2)
-- [SidharthArya pushed to main in SidharthArya/Roaming](https://github.com/SidharthArya/Roaming/compare/927a88dc3f...0fae0b3cff)
-- [SidharthArya starred NirantK/awesome-project-ideas](https://github.com/NirantK/awesome-project-ideas)
 <!-- GITHUB:END -->
 
 ## Top Followers
