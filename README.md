@@ -87,16 +87,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to main in SidharthArya/sidhartharya.github.io](https://github.com/SidharthArya/sidhartharya.github.io/compare/b9b5cbbb2f...0d60fa00c7)
+- [SidharthArya pushed to main in SidharthArya/sidhartharya.github.io](https://github.com/SidharthArya/sidhartharya.github.io/compare/1a2460378c...b9b5cbbb2f)
+- [SidharthArya pushed to main in SidharthArya/sidhartharya.github.io](https://github.com/SidharthArya/sidhartharya.github.io/compare/e61253b236...1a2460378c)
+- [SidharthArya pushed to main in SidharthArya/sidhartharya.github.io](https://github.com/SidharthArya/sidhartharya.github.io/compare/df58c108ab...e61253b236)
 - [SidharthArya pushed to main in SidharthArya/sidhartharya.github.io](https://github.com/SidharthArya/sidhartharya.github.io/compare/4dc3691537...df58c108ab)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/430d6f48a7...99e02e2258)
 - [SidharthArya pushed to master in SidharthArya/scripts](https://github.com/SidharthArya/scripts/compare/96f4150f5c...0aaa8a3ea6)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/0d648da6cc...430d6f48a7)
 - [SidharthArya pushed to master in SidharthArya/.nnn](https://github.com/SidharthArya/.nnn/compare/38a671a2db...bca267ec36)
 - [SidharthArya starred vosen/ZLUDA](https://github.com/vosen/ZLUDA)
-- [SidharthArya starred DIGITALCRIMINAL/OnlyFans](https://github.com/DIGITALCRIMINAL/OnlyFans)
-- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/3649ecd2ab...0d648da6cc)
-- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/950ab3e609...d01cab5514)
-- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/66db3db9fc...3649ecd2ab)
 <!-- GITHUB:END -->
 
 ## Top Followers
