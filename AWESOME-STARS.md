@@ -36,6 +36,7 @@
   - [Makefile](#makefile)
   - [Markdown](#markdown)
   - [Matlab](#matlab)
+  - [Mustache](#mustache)
   - [Nix](#nix)
   - [OCaml](#ocaml)
   - [Objective-C](#objective-c)
@@ -274,6 +275,7 @@
 
 ## CSS 
 
+- [aws-samples/eks-workshop](https://github.com/aws-samples/eks-workshop) - AWS Workshop for Learning EKS
 - [necolas/normalize.css](https://github.com/necolas/normalize.css) - A modern alternative to CSS resets
 - [5t3ph/stylestage](https://github.com/5t3ph/stylestage) - A modern CSS showcase styled by community contributions. Add your stylesheet!
 - [IBM/css-gridish](https://github.com/IBM/css-gridish) - Automatically build your grid design’s CSS Grid code, CSS Flexbox fallback code, Sketch artboards, and Chrome extension.
@@ -949,6 +951,10 @@
 
 - [AvaisP/machine-learning-programming-assignments-coursera-andrew-ng](https://github.com/AvaisP/machine-learning-programming-assignments-coursera-andrew-ng) - Solutions to Andrew NG's machine learning course on Coursera
 - [luanfujun/deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer) - Code and data for paper "Deep Photo Style Transfer": https://arxiv.org/abs/1703.07511
+
+## Mustache 
+
+- [aws/eks-charts](https://github.com/aws/eks-charts) - Amazon EKS Helm chart repository
 
 ## Nix 
 
