@@ -1738,7 +1738,7 @@
 - [dicebear/dicebear](https://github.com/dicebear/dicebear) - DiceBear is an avatar library for designers and developers. 🌍
 - [searleser97/cpbooster](https://github.com/searleser97/cpbooster) - Competitive Programming Booster
 - [thenewboston-developers/Account-Manager](https://github.com/thenewboston-developers/Account-Manager) - Account manager desktop application for thenewboston digital currency.
-- [bytedance/bytemd](https://github.com/bytedance/bytemd) - A hackable Markdown editor component built with Svelte
+- [bytedance/bytemd](https://github.com/bytedance/bytemd) - A hackable Markdown editor component
 - [phiresky/sql.js-httpvfs](https://github.com/phiresky/sql.js-httpvfs) - 
 - [vuejs/core](https://github.com/vuejs/core) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 - [purcell/setup-emacs](https://github.com/purcell/setup-emacs) - Github action which installs a given Emacs version
