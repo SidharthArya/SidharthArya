@@ -323,7 +323,7 @@
 - [mhmdanas/quantities](https://github.com/mhmdanas/quantities) - Work with physical quantities and units seamlessly! (moved to https://codeberg.org/triallax/quantities)
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
-- [leoafarias/fvm](https://github.com/leoafarias/fvm) - Flutter Version Management: A simple CLI to manage Flutter SDK versions.
+- [fluttertools/fvm](https://github.com/fluttertools/fvm) - Flutter Version Management: A simple CLI to manage Flutter SDK versions.
 - [bradyt/dart-mode](https://github.com/bradyt/dart-mode) - An Emacs mode for the Dart language
 
 ## Dockerfile 
