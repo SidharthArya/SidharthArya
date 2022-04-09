@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to main in SidharthArya/5paisa-trader](https://github.com/SidharthArya/5paisa-trader/compare/5badccf2af...1590bd2557)
 - [SidharthArya created a branch main in SidharthArya/5paisa-trader](https://github.com/SidharthArya/5paisa-trader/compare/main)
 - [SidharthArya created a repository SidharthArya/5paisa-trader](https://github.com/SidharthArya/5paisa-trader//)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/5ae3241455...710f22404a)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to main in SidharthArya/sidhartharya.github.io](https://github.com/SidharthArya/sidhartharya.github.io/compare/5ea244b091...fa92c7dac6)
 - [SidharthArya pushed to main in SidharthArya/sidhartharya.github.io](https://github.com/SidharthArya/sidhartharya.github.io/compare/1d6745391d...5ea244b091)
 - [SidharthArya pushed to main in SidharthArya/sidhartharya.github.io](https://github.com/SidharthArya/sidhartharya.github.io/compare/0d60fa00c7...1d6745391d)
-- [SidharthArya starred aws/eks-charts](https://github.com/aws/eks-charts)
 <!-- GITHUB:END -->
 
 ## Top Followers
