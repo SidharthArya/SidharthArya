@@ -72,8 +72,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
- - 03-04-2022 [A Circus of attachments](https://sidhartharya.github.io/a-circus-of-attachments/)
  - 23-03-2022 [A Sinful Smile](https://sidhartharya.github.io/a-sinful-smile/)
+ - 03-07-2021 [Installing a custom emacs package in nix](https://sidhartharya.github.io/installing-a-custom-emacs-package-in-nix/)
  - 30-06-2021 [Automatically fetching newly added feeds in elfeed org file](https://sidhartharya.github.io/automatically-fetching-newly-added-feeds-in-elfeed-org-file/)
  - 13-06-2021 [Cycling through Windows in SwayWM](https://sidhartharya.github.io/cycling-through-windows-in-swaywm/)
  - 13-06-2021 [Integrating Org Protocol with Qutebrowser](https://sidhartharya.github.io/integrating-org-protocol-with-qutebrowser/)
