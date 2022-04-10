@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to main in SidharthArya/sidhartharya.github.io](https://github.com/SidharthArya/sidhartharya.github.io/compare/dde26eaac6...fe06eb8fc9)
+- [SidharthArya pushed to main in SidharthArya/sidhartharya.github.io](https://github.com/SidharthArya/sidhartharya.github.io/compare/98cca55854...dde26eaac6)
 - [SidharthArya pushed to main in SidharthArya/5paisa-trader](https://github.com/SidharthArya/5paisa-trader/compare/5badccf2af...1590bd2557)
 - [SidharthArya created a branch main in SidharthArya/5paisa-trader](https://github.com/SidharthArya/5paisa-trader/compare/main)
 - [SidharthArya created a repository SidharthArya/5paisa-trader](https://github.com/SidharthArya/5paisa-trader//)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/.nnn](https://github.com/SidharthArya/.nnn/compare/bca267ec36...587ab6d700)
 - [SidharthArya pushed to main in SidharthArya/sidhartharya.github.io](https://github.com/SidharthArya/sidhartharya.github.io/compare/fa92c7dac6...98cca55854)
 - [SidharthArya pushed to main in SidharthArya/sidhartharya.github.io](https://github.com/SidharthArya/sidhartharya.github.io/compare/5ea244b091...fa92c7dac6)
-- [SidharthArya pushed to main in SidharthArya/sidhartharya.github.io](https://github.com/SidharthArya/sidhartharya.github.io/compare/1d6745391d...5ea244b091)
-- [SidharthArya pushed to main in SidharthArya/sidhartharya.github.io](https://github.com/SidharthArya/sidhartharya.github.io/compare/0d60fa00c7...1d6745391d)
 <!-- GITHUB:END -->
 
 ## Top Followers
