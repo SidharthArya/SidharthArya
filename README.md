@@ -111,6 +111,13 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       <a href="https://github.com/lendisfabri">Ren</a>
     </td>
     <td align="center">
+      <a href="https://github.com/frankfanslc">
+        <img src="https://avatars2.githubusercontent.com/u/55561087" width="100px;" alt="frankfanslc"/>
+      </a>
+      <br />
+      <a href="https://github.com/frankfanslc">frankfanslc</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/jelsonjay">
         <img src="https://avatars2.githubusercontent.com/u/50907905" width="100px;" alt="jelsonjay"/>
       </a>
@@ -145,6 +152,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       <br />
       <a href="https://github.com/maskegger">AM</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/Tiancheng-Luo">
         <img src="https://avatars2.githubusercontent.com/u/6097951" width="100px;" alt="Tiancheng-Luo"/>
@@ -152,8 +161,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       <br />
       <a href="https://github.com/Tiancheng-Luo">Tiancheng-Luo</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/stormwatch">
         <img src="https://avatars2.githubusercontent.com/u/824211" width="100px;" alt="stormwatch"/>
@@ -196,6 +203,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       <br />
       <a href="https://github.com/G0rav">Gaurav</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/vinay-singh27">
         <img src="https://avatars2.githubusercontent.com/u/40866557" width="100px;" alt="vinay-singh27"/>
@@ -203,8 +212,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       <br />
       <a href="https://github.com/vinay-singh27">Vinay Singh</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/Kushpad">
         <img src="https://avatars2.githubusercontent.com/u/89928620" width="100px;" alt="Kushpad"/>
@@ -246,13 +253,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       </a>
       <br />
       <a href="https://github.com/rjachuthan">Rituraj Achuthan</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/newmentos">
-        <img src="https://avatars2.githubusercontent.com/u/2989858" width="100px;" alt="newmentos"/>
-      </a>
-      <br />
-      <a href="https://github.com/newmentos">Eugene</a>
     </td>
   </tr>
 </table>
