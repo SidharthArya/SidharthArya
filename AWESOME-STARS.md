@@ -460,7 +460,7 @@
 - [bbatsov/prelude](https://github.com/bbatsov/prelude) - Prelude is an enhanced Emacs 25.1+ distribution that should make your experience with Emacs both more pleasant and more powerful.
 - [plexus/chemacs](https://github.com/plexus/chemacs) - Emacs profile switcher
 - [skeeto/elfeed](https://github.com/skeeto/elfeed) - An Emacs web feeds client
-- [hlissner/doom-emacs](https://github.com/hlissner/doom-emacs) - An Emacs framework for the stubborn martian hacker
+- [doomemacs/doomemacs](https://github.com/doomemacs/doomemacs) - An Emacs framework for the stubborn martian hacker
 - [Malabarba/smart-mode-line](https://github.com/Malabarba/smart-mode-line) - A powerful and beautiful mode-line for Emacs.
 - [magit/forge](https://github.com/magit/forge) - Work with Git forges from the comfort of Magit
 - [melpa/melpa](https://github.com/melpa/melpa) - Recipes and build machinery for the biggest Emacs package repo
