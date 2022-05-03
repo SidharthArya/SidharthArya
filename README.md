@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred rr-debugger/rr](https://github.com/rr-debugger/rr)
 - [SidharthArya starred google/flatbuffers](https://github.com/google/flatbuffers)
 - [SidharthArya starred pola-rs/polars](https://github.com/pola-rs/polars)
 - [SidharthArya commented on issue syl20bnr/spacemacs#8729](https://github.com/syl20bnr/spacemacs/issues/8729#issuecomment-1113989860)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred weihua916/powerful-gnns](https://github.com/weihua916/powerful-gnns)
 - [SidharthArya starred graphdeeplearning/benchmarking-gnns](https://github.com/graphdeeplearning/benchmarking-gnns)
 - [SidharthArya starred dmlc/dgl](https://github.com/dmlc/dgl)
-- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/7a9db4e382...65ce61136e)
 <!-- GITHUB:END -->
 
 ## Top Followers
