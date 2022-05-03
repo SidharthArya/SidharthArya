@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred google/flatbuffers](https://github.com/google/flatbuffers)
+- [SidharthArya starred pola-rs/polars](https://github.com/pola-rs/polars)
 - [SidharthArya commented on issue syl20bnr/spacemacs#8729](https://github.com/syl20bnr/spacemacs/issues/8729#issuecomment-1113989860)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/65ce61136e...3193a4dcce)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/d61ffd4379...c8d57d20d1)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred graphdeeplearning/benchmarking-gnns](https://github.com/graphdeeplearning/benchmarking-gnns)
 - [SidharthArya starred dmlc/dgl](https://github.com/dmlc/dgl)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/7a9db4e382...65ce61136e)
-- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/43e6d266f3...d61ffd4379)
-- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/64e0c8112b...7a9db4e382)
 <!-- GITHUB:END -->
 
 ## Top Followers
