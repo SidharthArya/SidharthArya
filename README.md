@@ -87,6 +87,9 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/3193a4dcce...c3eacae6c9)
+- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/c8d57d20d1...59f39ec32a)
+- [SidharthArya pushed to master in SidharthArya/.nnn](https://github.com/SidharthArya/.nnn/compare/c2774f7f52...9b1e011105)
 - [SidharthArya starred rr-debugger/rr](https://github.com/rr-debugger/rr)
 - [SidharthArya starred google/flatbuffers](https://github.com/google/flatbuffers)
 - [SidharthArya starred pola-rs/polars](https://github.com/pola-rs/polars)
@@ -94,9 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/65ce61136e...3193a4dcce)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/d61ffd4379...c8d57d20d1)
 - [SidharthArya pushed to master in SidharthArya/.nnn](https://github.com/SidharthArya/.nnn/compare/587ab6d700...c2774f7f52)
-- [SidharthArya starred weihua916/powerful-gnns](https://github.com/weihua916/powerful-gnns)
-- [SidharthArya starred graphdeeplearning/benchmarking-gnns](https://github.com/graphdeeplearning/benchmarking-gnns)
-- [SidharthArya starred dmlc/dgl](https://github.com/dmlc/dgl)
 <!-- GITHUB:END -->
 
 ## Top Followers
