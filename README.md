@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to main in SidharthArya/sidhartharya.github.io](https://github.com/SidharthArya/sidhartharya.github.io/compare/71e96451ff...79240da29d)
 - [SidharthArya starred thunil/Physics-Based-Deep-Learning](https://github.com/thunil/Physics-Based-Deep-Learning)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/3193a4dcce...c3eacae6c9)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/c8d57d20d1...59f39ec32a)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred pola-rs/polars](https://github.com/pola-rs/polars)
 - [SidharthArya commented on issue syl20bnr/spacemacs#8729](https://github.com/syl20bnr/spacemacs/issues/8729#issuecomment-1113989860)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/65ce61136e...3193a4dcce)
-- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/d61ffd4379...c8d57d20d1)
 <!-- GITHUB:END -->
 
 ## Top Followers
