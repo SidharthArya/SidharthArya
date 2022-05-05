@@ -87,16 +87,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred zhiwehu/Python-programming-exercises](https://github.com/zhiwehu/Python-programming-exercises)
+- [SidharthArya starred leachim6/hello-world](https://github.com/leachim6/hello-world)
+- [SidharthArya starred rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer)
+- [SidharthArya starred go-gitea/gitea](https://github.com/go-gitea/gitea)
 - [SidharthArya pushed to master in SidharthArya/comp-ide.el](https://github.com/SidharthArya/comp-ide.el/compare/5ec283997c...1cb7381a01)
 - [SidharthArya merged a pull request in SidharthArya/comp-ide.el](https://github.com/SidharthArya/comp-ide.el/pull/2)
 - [SidharthArya commented on pull request SidharthArya/comp-ide.el#2](https://github.com/SidharthArya/comp-ide.el/pull/2#issuecomment-1118429274)
 - [SidharthArya pushed to main in SidharthArya/sidhartharya.github.io](https://github.com/SidharthArya/sidhartharya.github.io/compare/71e96451ff...79240da29d)
 - [SidharthArya starred thunil/Physics-Based-Deep-Learning](https://github.com/thunil/Physics-Based-Deep-Learning)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/3193a4dcce...c3eacae6c9)
-- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/c8d57d20d1...59f39ec32a)
-- [SidharthArya pushed to master in SidharthArya/.nnn](https://github.com/SidharthArya/.nnn/compare/c2774f7f52...9b1e011105)
-- [SidharthArya starred rr-debugger/rr](https://github.com/rr-debugger/rr)
-- [SidharthArya starred google/flatbuffers](https://github.com/google/flatbuffers)
 <!-- GITHUB:END -->
 
 ## Top Followers
