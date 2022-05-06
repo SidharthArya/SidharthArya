@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to master in SidharthArya/SidharthArya](https://github.com/SidharthArya/SidharthArya/compare/aba63eed79...958e3cac3a)
 - [SidharthArya pushed to main in SidharthArya/sidhartharya.github.io](https://github.com/SidharthArya/sidhartharya.github.io/compare/3835a05fff...e23fd3729b)
 - [SidharthArya pushed to main in SidharthArya/sidhartharya.github.io](https://github.com/SidharthArya/sidhartharya.com/compare/a400b99962...3835a05fff)
 - [SidharthArya pushed to main in SidharthArya/sidhartharya.github.io](https://github.com/SidharthArya/sidhartharya.com/compare/79240da29d...a400b99962)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred matrix-org/synapse](https://github.com/matrix-org/synapse)
 - [SidharthArya starred matrix-org/dendrite](https://github.com/matrix-org/dendrite)
 - [SidharthArya starred zhiwehu/Python-programming-exercises](https://github.com/zhiwehu/Python-programming-exercises)
-- [SidharthArya starred leachim6/hello-world](https://github.com/leachim6/hello-world)
 <!-- GITHUB:END -->
 
 ## Top Followers
