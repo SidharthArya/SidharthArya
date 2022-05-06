@@ -87,6 +87,9 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to main in SidharthArya/sidhartharya.github.io](https://github.com/SidharthArya/sidhartharya.github.io/compare/3835a05fff...e23fd3729b)
+- [SidharthArya pushed to main in SidharthArya/sidhartharya.github.io](https://github.com/SidharthArya/sidhartharya.com/compare/a400b99962...3835a05fff)
+- [SidharthArya pushed to main in SidharthArya/sidhartharya.github.io](https://github.com/SidharthArya/sidhartharya.com/compare/79240da29d...a400b99962)
 - [SidharthArya starred MaxLeiter/Drift](https://github.com/MaxLeiter/Drift)
 - [SidharthArya starred acaudwell/Gource](https://github.com/acaudwell/Gource)
 - [SidharthArya starred vector-im/element-web](https://github.com/vector-im/element-web)
@@ -94,9 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred matrix-org/dendrite](https://github.com/matrix-org/dendrite)
 - [SidharthArya starred zhiwehu/Python-programming-exercises](https://github.com/zhiwehu/Python-programming-exercises)
 - [SidharthArya starred leachim6/hello-world](https://github.com/leachim6/hello-world)
-- [SidharthArya starred rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer)
-- [SidharthArya starred go-gitea/gitea](https://github.com/go-gitea/gitea)
-- [SidharthArya pushed to master in SidharthArya/comp-ide.el](https://github.com/SidharthArya/comp-ide.el/compare/5ec283997c...1cb7381a01)
 <!-- GITHUB:END -->
 
 ## Top Followers
