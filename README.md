@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred Rob--W/cors-anywhere](https://github.com/Rob--W/cors-anywhere)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/c3eacae6c9...6c305d78e7)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/59f39ec32a...5f902ab882)
 - [SidharthArya pushed to main in SidharthArya/sidhartharya.github.io](https://github.com/SidharthArya/sidhartharya.github.io/compare/2e3e8352b2...557a378626)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to main in SidharthArya/sidhartharya.github.io](https://github.com/SidharthArya/sidhartharya.github.io/compare/e23fd3729b...1b3d1dbda7)
 - [SidharthArya pushed to master in SidharthArya/SidharthArya](https://github.com/SidharthArya/SidharthArya/compare/aba63eed79...958e3cac3a)
 - [SidharthArya pushed to main in SidharthArya/sidhartharya.github.io](https://github.com/SidharthArya/sidhartharya.github.io/compare/3835a05fff...e23fd3729b)
-- [SidharthArya pushed to main in SidharthArya/sidhartharya.github.io](https://github.com/SidharthArya/sidhartharya.com/compare/a400b99962...3835a05fff)
 <!-- GITHUB:END -->
 
 ## Top Followers
