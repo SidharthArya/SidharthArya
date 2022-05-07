@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/c3eacae6c9...6c305d78e7)
+- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/59f39ec32a...5f902ab882)
 - [SidharthArya pushed to main in SidharthArya/sidhartharya.github.io](https://github.com/SidharthArya/sidhartharya.github.io/compare/2e3e8352b2...557a378626)
 - [SidharthArya pushed to main in SidharthArya/sidhartharya.github.io](https://github.com/SidharthArya/sidhartharya.github.io/compare/8117a4341e...2e3e8352b2)
 - [SidharthArya commented on issue SidharthArya/sidhartharya.github.io#2](https://github.com/SidharthArya/sidhartharya.github.io/issues/2#issuecomment-1120050622)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/SidharthArya](https://github.com/SidharthArya/SidharthArya/compare/aba63eed79...958e3cac3a)
 - [SidharthArya pushed to main in SidharthArya/sidhartharya.github.io](https://github.com/SidharthArya/sidhartharya.github.io/compare/3835a05fff...e23fd3729b)
 - [SidharthArya pushed to main in SidharthArya/sidhartharya.github.io](https://github.com/SidharthArya/sidhartharya.com/compare/a400b99962...3835a05fff)
-- [SidharthArya pushed to main in SidharthArya/sidhartharya.github.io](https://github.com/SidharthArya/sidhartharya.com/compare/79240da29d...a400b99962)
-- [SidharthArya starred MaxLeiter/Drift](https://github.com/MaxLeiter/Drift)
 <!-- GITHUB:END -->
 
 ## Top Followers
