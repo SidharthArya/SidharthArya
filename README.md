@@ -31,7 +31,7 @@ Wish you a good-looking profile README!
 [![Twitter Badge](https://img.shields.io/badge/-@SidharthArya__-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/SidharthArya_)](https://twitter.com/SidharthArya_)
 [![Instagram Badge](https://img.shields.io/badge/-@sidhartharya66-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/sidhartharya66/)](https://instagram.com/sidhartharya66)
 [![Gmail Badge](https://img.shields.io/badge/-sidhartharya-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:sidhartharya10@gmail.com)](mailto:sidhartharya10@gmail.com)
-[![Website Badge](https://img.shields.io/badge/-sidhartharya.me-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://sidhartharya.com)](https://sidhartharya.me)
+[![Website Badge](https://img.shields.io/badge/-sidhartharya.com-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://sidhartharya.com)](https://sidhartharya.com)
 
 -   Programming: Python, C++, GitHub Actions, JavaScript, Haskell, Nodejs
 -   Operating System: [Nix OS](https://nixos.org/) / [Arch Linux](https://archlinux.org/)
