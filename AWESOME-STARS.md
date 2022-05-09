@@ -199,6 +199,7 @@
 - [argman/EAST](https://github.com/argman/EAST) - A tensorflow implementation of EAST text detector
 - [peterbraden/node-opencv](https://github.com/peterbraden/node-opencv) - OpenCV Bindings for node.js
 - [openvinotoolkit/openvino](https://github.com/openvinotoolkit/openvino) - OpenVINO™ Toolkit repository
+- [lottie-react-native/lottie-react-native](https://github.com/lottie-react-native/lottie-react-native) - Lottie wrapper for React Native.
 - [juce-framework/JUCE](https://github.com/juce-framework/JUCE) - JUCE is an open-source cross-platform C++ application framework for desktop and mobile applications, including VST, VST3, AU, AUv3, RTAS and AAX audio plug-ins.
 - [google/oboe](https://github.com/google/oboe) - Oboe is a C++ library that makes it easy to build high-performance audio apps on Android.
 - [dogecoin/dogecoin](https://github.com/dogecoin/dogecoin) - very currency
@@ -638,7 +639,6 @@
 - [zo0r/react-native-push-notification](https://github.com/zo0r/react-native-push-notification) - React Native Local and Remote Notifications
 - [react-native-image-picker/react-native-image-picker](https://github.com/react-native-image-picker/react-native-image-picker) - :sunrise_over_mountains: A React Native module that allows you to use native UI to select media from the device library or directly from the camera.
 - [react-native-video/react-native-video](https://github.com/react-native-video/react-native-video) - A &lt;Video /&gt; component for react-native
-- [lottie-react-native/lottie-react-native](https://github.com/lottie-react-native/lottie-react-native) - Lottie wrapper for React Native.
 - [crazycodeboy/react-native-splash-screen](https://github.com/crazycodeboy/react-native-splash-screen) - A splash screen for react-native, hide when application loaded ,it works on iOS and Android.
 - [react-native-camera/react-native-camera](https://github.com/react-native-camera/react-native-camera) - A Camera component for React Native. Also supports barcode scanning!
 - [google/ringdroid](https://github.com/google/ringdroid) - 
@@ -863,6 +863,7 @@
 - [lexfridman/mit-deep-learning](https://github.com/lexfridman/mit-deep-learning) - Tutorials, assignments, and competitions for MIT Deep Learning related courses.
 - [h2oai/h2o-3](https://github.com/h2oai/h2o-3) - H2O is an Open Source, Distributed, Fast & Scalable Machine Learning Platform: Deep Learning, Gradient Boosting (GBM) & XGBoost, Random Forest, Generalized Linear Modeling (GLM with Elastic Net), K-Me
 - [broadinstitute/pyro-cov](https://github.com/broadinstitute/pyro-cov) - Pyro models of SARS-CoV-2 variants
+- [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and de
 - [spmallick/learnopencv](https://github.com/spmallick/learnopencv) - Learn OpenCV  : C++ and Python Examples
 - [zzh8829/yolov3-tf2](https://github.com/zzh8829/yolov3-tf2) - YoloV3 Implemented in Tensorflow 2.0
 - [balancap/SSD-Tensorflow](https://github.com/balancap/SSD-Tensorflow) - Single Shot MultiBox Detector in TensorFlow
@@ -1186,7 +1187,6 @@
 - [PaddlePaddle/PaddleHub](https://github.com/PaddlePaddle/PaddleHub) - Awesome pre-trained models toolkit based on PaddlePaddle.(300+ models including Image, Text, Audio and Video with Easy Inference & Serving deployment)
 - [shapely/shapely](https://github.com/shapely/shapely) - Manipulation and analysis of geometric objects
 - [masyagin1998/robin](https://github.com/masyagin1998/robin) - RObust document image BINarization
-- [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and de
 - [PyTorchLightning/pytorch-lightning](https://github.com/PyTorchLightning/pytorch-lightning) - The lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate.
 - [murtazahassan/OpenCV-Python-Tutorials-and-Projects](https://github.com/murtazahassan/OpenCV-Python-Tutorials-and-Projects) - An easy to follow course of OpenCV using Python for beginners.
 - [microsoft/tf-gnn-samples](https://github.com/microsoft/tf-gnn-samples) - TensorFlow implementations of Graph Neural Networks
