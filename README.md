@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to main in SidharthArya/sidhartharya.github.io](https://github.com/SidharthArya/sidhartharya.github.io/compare/947a1edf83...002c138250)
+- [SidharthArya pushed to main in SidharthArya/sidhartharya.github.io](https://github.com/SidharthArya/sidhartharya.github.io/compare/b4a6a637c5...947a1edf83)
 - [SidharthArya starred tj/git-extras](https://github.com/tj/git-extras)
 - [SidharthArya starred zeromicro/go-zero](https://github.com/zeromicro/go-zero)
 - [SidharthArya starred RasaHQ/rasa-demo](https://github.com/RasaHQ/rasa-demo)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/SidharthArya](https://github.com/SidharthArya/SidharthArya/compare/ab85adffba...82b6d53c87)
 - [SidharthArya pushed to main in SidharthArya/sidhartharya.github.io](https://github.com/SidharthArya/sidhartharya.github.io/compare/82e11a0d94...b4a6a637c5)
 - [SidharthArya pushed to main in SidharthArya/sidhartharya.github.io](https://github.com/SidharthArya/sidhartharya.github.io/compare/a65bf8f2db...82e11a0d94)
-- [SidharthArya pushed to main in SidharthArya/sidhartharya.github.io](https://github.com/SidharthArya/sidhartharya.github.io/compare/20417fd8f9...a65bf8f2db)
-- [SidharthArya pushed to master in SidharthArya/portfolio](https://github.com/SidharthArya/portfolio/compare/443178719c...7837d6170a)
 <!-- GITHUB:END -->
 
 ## Top Followers
