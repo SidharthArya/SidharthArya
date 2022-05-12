@@ -1120,6 +1120,7 @@
 
 ## Python 
 
+- [networkx/networkx](https://github.com/networkx/networkx) - Network Analysis in Python
 - [RasaHQ/rasa-demo](https://github.com/RasaHQ/rasa-demo) - :tiger: Sara - the Rasa Demo Bot: An example of a contextual AI assistant built with the open source Rasa Stack
 - [matrix-org/synapse](https://github.com/matrix-org/synapse) - Synapse: Matrix homeserver written in Python 3/Twisted.
 - [weihua916/powerful-gnns](https://github.com/weihua916/powerful-gnns) - How Powerful are Graph Neural Networks?
@@ -1752,7 +1753,7 @@
 - [dicebear/dicebear](https://github.com/dicebear/dicebear) - DiceBear is an avatar library for designers and developers. 🌍
 - [searleser97/cpbooster](https://github.com/searleser97/cpbooster) - Competitive Programming Booster
 - [thenewboston-developers/Account-Manager](https://github.com/thenewboston-developers/Account-Manager) - Account manager desktop application for thenewboston digital currency.
-- [bytedance/bytemd](https://github.com/bytedance/bytemd) - A hackable Markdown editor component
+- [bytedance/bytemd](https://github.com/bytedance/bytemd) - Hackable Markdown editor and viewer
 - [phiresky/sql.js-httpvfs](https://github.com/phiresky/sql.js-httpvfs) - 
 - [vuejs/core](https://github.com/vuejs/core) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 - [purcell/setup-emacs](https://github.com/purcell/setup-emacs) - Github action which installs a given Emacs version
