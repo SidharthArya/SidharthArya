@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
+- [SidharthArya starred microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 - [SidharthArya pushed to master in SidharthArya/portfolio](https://github.com/SidharthArya/portfolio/compare/7837d6170a...eb17151dd9)
 - [SidharthArya pushed to main in SidharthArya/portfolio.dev](https://github.com/SidharthArya/portfolio.dev/compare/e4a784f99c...58443c5185)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/6c305d78e7...0f12c1d64b)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/.nnn](https://github.com/SidharthArya/.nnn/compare/9b1e011105...835f7c8665)
 - [SidharthArya starred networkx/networkx](https://github.com/networkx/networkx)
 - [SidharthArya pushed to main in SidharthArya/sidhartharya.github.io](https://github.com/SidharthArya/sidhartharya.github.io/compare/947a1edf83...002c138250)
-- [SidharthArya pushed to main in SidharthArya/sidhartharya.github.io](https://github.com/SidharthArya/sidhartharya.github.io/compare/b4a6a637c5...947a1edf83)
-- [SidharthArya starred tj/git-extras](https://github.com/tj/git-extras)
 <!-- GITHUB:END -->
 
 ## Top Followers
