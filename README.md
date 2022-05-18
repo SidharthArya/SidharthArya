@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred dwyl/learn-to-send-email-via-google-script-html-no-server](https://github.com/dwyl/learn-to-send-email-via-google-script-html-no-server)
 - [SidharthArya starred Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
 - [SidharthArya starred microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 - [SidharthArya pushed to master in SidharthArya/portfolio](https://github.com/SidharthArya/portfolio/compare/7837d6170a...eb17151dd9)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/5f902ab882...af0e6a8117)
 - [SidharthArya pushed to master in SidharthArya/.nnn](https://github.com/SidharthArya/.nnn/compare/9b1e011105...835f7c8665)
 - [SidharthArya starred networkx/networkx](https://github.com/networkx/networkx)
-- [SidharthArya pushed to main in SidharthArya/sidhartharya.github.io](https://github.com/SidharthArya/sidhartharya.github.io/compare/947a1edf83...002c138250)
 <!-- GITHUB:END -->
 
 ## Top Followers
