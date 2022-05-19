@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to main in rahularya26/dada](https://github.com/rahularya26/dada/compare/7686dccb0d...dc3bfb996e)
 - [SidharthArya pushed to main in rahularya26/dada](https://github.com/SidharthArya/dada/compare/1184391787...b662ffd88f)
 - [SidharthArya added rahularya26 to rahularya26/dada](https://github.com/SidharthArya/dada)
 - [SidharthArya made rahularya26/dada public](https://github.com/SidharthArya/dada)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred dwyl/learn-to-send-email-via-google-script-html-no-server](https://github.com/dwyl/learn-to-send-email-via-google-script-html-no-server)
 - [SidharthArya starred Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
 - [SidharthArya starred microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
-- [SidharthArya pushed to master in SidharthArya/portfolio](https://github.com/SidharthArya/portfolio/compare/7837d6170a...eb17151dd9)
 <!-- GITHUB:END -->
 
 ## Top Followers
