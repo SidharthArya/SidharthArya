@@ -87,16 +87,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya added rahularya26 to SidharthArya/dada](https://github.com/SidharthArya/dada)
+- [SidharthArya made SidharthArya/dada public](https://github.com/SidharthArya/dada)
+- [SidharthArya pushed to main in SidharthArya/dada](https://github.com/SidharthArya/dada/compare/36cbed5bdd...deac2368ae)
+- [SidharthArya pushed to main in SidharthArya/dada](https://github.com/SidharthArya/dada/compare/e725ae5f2f...36cbed5bdd)
 - [SidharthArya pushed to main in SidharthArya/dada](https://github.com/SidharthArya/dada/compare/4bf3e53e74...e725ae5f2f)
 - [SidharthArya starred dwyl/learn-to-send-email-via-google-script-html-no-server](https://github.com/dwyl/learn-to-send-email-via-google-script-html-no-server)
 - [SidharthArya starred Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
 - [SidharthArya starred microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 - [SidharthArya pushed to master in SidharthArya/portfolio](https://github.com/SidharthArya/portfolio/compare/7837d6170a...eb17151dd9)
 - [SidharthArya pushed to main in SidharthArya/portfolio.dev](https://github.com/SidharthArya/portfolio.dev/compare/e4a784f99c...58443c5185)
-- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/6c305d78e7...0f12c1d64b)
-- [SidharthArya pushed to master in SidharthArya/.bspwm](https://github.com/SidharthArya/.bspwm/compare/cc7a90b945...fa7757b932)
-- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/5f902ab882...af0e6a8117)
-- [SidharthArya pushed to master in SidharthArya/.nnn](https://github.com/SidharthArya/.nnn/compare/9b1e011105...835f7c8665)
 <!-- GITHUB:END -->
 
 ## Top Followers
