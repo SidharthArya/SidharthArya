@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to main in rahularya26/dada](https://github.com/rahularya26/dada/compare/151ec733b7...e9470035bd)
+- [SidharthArya pushed to main in rahularya26/dada](https://github.com/rahularya26/dada/compare/c02b60b0d3...12a8ae7b09)
 - [SidharthArya pushed to main in rahularya26/dada](https://github.com/rahularya26/dada/compare/7686dccb0d...dc3bfb996e)
 - [SidharthArya pushed to main in rahularya26/dada](https://github.com/SidharthArya/dada/compare/1184391787...b662ffd88f)
 - [SidharthArya added rahularya26 to rahularya26/dada](https://github.com/SidharthArya/dada)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to main in rahularya26/dada](https://github.com/SidharthArya/dada/compare/e725ae5f2f...36cbed5bdd)
 - [SidharthArya pushed to main in rahularya26/dada](https://github.com/SidharthArya/dada/compare/4bf3e53e74...e725ae5f2f)
 - [SidharthArya starred dwyl/learn-to-send-email-via-google-script-html-no-server](https://github.com/dwyl/learn-to-send-email-via-google-script-html-no-server)
-- [SidharthArya starred Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
-- [SidharthArya starred microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 <!-- GITHUB:END -->
 
 ## Top Followers
