@@ -87,16 +87,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to main in SidharthArya/Roaming](https://github.com/SidharthArya/Roaming/compare/1ee43289bb...3200daeca0)
+- [SidharthArya pushed to main in SidharthArya/Roaming](https://github.com/SidharthArya/Roaming/compare/13bfc16d7d...1ee43289bb)
+- [SidharthArya pushed to main in SidharthArya/Roaming](https://github.com/SidharthArya/Roaming/compare/1df30db2e2...13bfc16d7d)
+- [SidharthArya starred uNetworking/uSockets](https://github.com/uNetworking/uSockets)
+- [SidharthArya pushed to main in SidharthArya/Roaming](https://github.com/SidharthArya/Roaming/compare/486ce946b7...1df30db2e2)
+- [SidharthArya pushed to main in SidharthArya/Roaming](https://github.com/SidharthArya/Roaming/compare/3e09e8a33c...486ce946b7)
+- [SidharthArya pushed to main in SidharthArya/Roaming](https://github.com/SidharthArya/Roaming/compare/98e4e41ddb...3e09e8a33c)
+- [SidharthArya pushed to main in SidharthArya/Roaming](https://github.com/SidharthArya/Roaming/compare/c2845fcd40...98e4e41ddb)
 - [SidharthArya pushed to main in SidharthArya/Roaming](https://github.com/SidharthArya/Roaming/compare/bcecfda908...c2845fcd40)
 - [SidharthArya pushed to main in SidharthArya/Roaming](https://github.com/SidharthArya/Roaming/compare/02f3296c97...bcecfda908)
-- [SidharthArya pushed to main in SidharthArya/Roaming](https://github.com/SidharthArya/Roaming/compare/8587b4ec66...02f3296c97)
-- [SidharthArya pushed to main in SidharthArya/Bots](https://github.com/SidharthArya/Bots/compare/3cb61c8eca...bfcf891d6f)
-- [SidharthArya pushed to main in SidharthArya/Crypto-trading-bot](https://github.com/SidharthArya/Crypto-trading-bot/compare/7c5e870e13...640a3ac82f)
-- [SidharthArya pushed to main in SidharthArya/Roaming](https://github.com/SidharthArya/Roaming/compare/0c880c0157...8587b4ec66)
-- [SidharthArya pushed to main in SidharthArya/Roaming](https://github.com/SidharthArya/Roaming/compare/1026dc980c...0c880c0157)
-- [SidharthArya pushed to main in SidharthArya/Roaming](https://github.com/SidharthArya/Roaming/compare/0ecf3db32b...1026dc980c)
-- [SidharthArya pushed to main in SidharthArya/Roaming](https://github.com/SidharthArya/Roaming/compare/4de469549e...0ecf3db32b)
-- [SidharthArya pushed to main in SidharthArya/Roaming](https://github.com/SidharthArya/Roaming/compare/cea60dfd11...4de469549e)
 <!-- GITHUB:END -->
 
 ## Top Followers
