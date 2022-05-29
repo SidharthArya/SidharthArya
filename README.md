@@ -87,16 +87,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred rejeep/f.el](https://github.com/rejeep/f.el)
+- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/de986fdd4d...a333e14f9f)
+- [SidharthArya pushed to master in SidharthArya/scripts](https://github.com/SidharthArya/scripts/compare/659c93f480...8e1fb1b84b)
+- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/f940e61924...b48657a3c4)
 - [SidharthArya starred deepmind/mujoco](https://github.com/deepmind/mujoco)
 - [SidharthArya pushed to main in SidharthArya/Roaming](https://github.com/SidharthArya/Roaming/compare/1ee43289bb...3200daeca0)
 - [SidharthArya pushed to main in SidharthArya/Roaming](https://github.com/SidharthArya/Roaming/compare/13bfc16d7d...1ee43289bb)
 - [SidharthArya pushed to main in SidharthArya/Roaming](https://github.com/SidharthArya/Roaming/compare/1df30db2e2...13bfc16d7d)
 - [SidharthArya starred uNetworking/uSockets](https://github.com/uNetworking/uSockets)
 - [SidharthArya pushed to main in SidharthArya/Roaming](https://github.com/SidharthArya/Roaming/compare/486ce946b7...1df30db2e2)
-- [SidharthArya pushed to main in SidharthArya/Roaming](https://github.com/SidharthArya/Roaming/compare/3e09e8a33c...486ce946b7)
-- [SidharthArya pushed to main in SidharthArya/Roaming](https://github.com/SidharthArya/Roaming/compare/98e4e41ddb...3e09e8a33c)
-- [SidharthArya pushed to main in SidharthArya/Roaming](https://github.com/SidharthArya/Roaming/compare/c2845fcd40...98e4e41ddb)
-- [SidharthArya pushed to main in SidharthArya/Roaming](https://github.com/SidharthArya/Roaming/compare/bcecfda908...c2845fcd40)
 <!-- GITHUB:END -->
 
 ## Top Followers
