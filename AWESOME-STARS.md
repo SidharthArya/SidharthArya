@@ -337,6 +337,7 @@
 
 ## Emacs Lisp 
 
+- [rejeep/f.el](https://github.com/rejeep/f.el) - Modern API for working with files and directories in Emacs
 - [emacsorphanage/terraform-mode](https://github.com/emacsorphanage/terraform-mode) - Major mode of Terraform configuration file
 - [cofi/evil-leader](https://github.com/cofi/evil-leader) - &lt;leader&gt; key for evil
 - [TommyX12/company-tabnine](https://github.com/TommyX12/company-tabnine) - A company-mode backend for TabNine, the all-language autocompleter: https://tabnine.com/
