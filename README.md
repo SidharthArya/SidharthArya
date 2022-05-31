@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred faif/python-patterns](https://github.com/faif/python-patterns)
 - [SidharthArya pushed to main in SidharthArya/Roaming](https://github.com/SidharthArya/Roaming/compare/c92650f4da...3951893687)
 - [SidharthArya pushed to main in SidharthArya/Roaming](https://github.com/SidharthArya/Roaming/compare/3200daeca0...c92650f4da)
 - [SidharthArya starred rejeep/f.el](https://github.com/rejeep/f.el)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred deepmind/mujoco](https://github.com/deepmind/mujoco)
 - [SidharthArya pushed to main in SidharthArya/Roaming](https://github.com/SidharthArya/Roaming/compare/1ee43289bb...3200daeca0)
 - [SidharthArya pushed to main in SidharthArya/Roaming](https://github.com/SidharthArya/Roaming/compare/13bfc16d7d...1ee43289bb)
-- [SidharthArya pushed to main in SidharthArya/Roaming](https://github.com/SidharthArya/Roaming/compare/1df30db2e2...13bfc16d7d)
 <!-- GITHUB:END -->
 
 ## Top Followers
