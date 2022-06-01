@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred IJHack/QtPass](https://github.com/IJHack/QtPass)
 - [SidharthArya pushed to main in SidharthArya/Roaming](https://github.com/SidharthArya/Roaming/compare/3951893687...10141b2162)
 - [SidharthArya starred faif/python-patterns](https://github.com/faif/python-patterns)
 - [SidharthArya pushed to main in SidharthArya/Roaming](https://github.com/SidharthArya/Roaming/compare/c92650f4da...3951893687)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/scripts](https://github.com/SidharthArya/scripts/compare/659c93f480...8e1fb1b84b)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/f940e61924...b48657a3c4)
 - [SidharthArya starred deepmind/mujoco](https://github.com/deepmind/mujoco)
-- [SidharthArya pushed to main in SidharthArya/Roaming](https://github.com/SidharthArya/Roaming/compare/1ee43289bb...3200daeca0)
 <!-- GITHUB:END -->
 
 ## Top Followers
