@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/a333e14f9f...8418959e4d)
+- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/b48657a3c4...da10a96219)
 - [SidharthArya starred IJHack/QtPass](https://github.com/IJHack/QtPass)
 - [SidharthArya pushed to main in SidharthArya/Roaming](https://github.com/SidharthArya/Roaming/compare/3951893687...10141b2162)
 - [SidharthArya starred faif/python-patterns](https://github.com/faif/python-patterns)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred rejeep/f.el](https://github.com/rejeep/f.el)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/de986fdd4d...a333e14f9f)
 - [SidharthArya pushed to master in SidharthArya/scripts](https://github.com/SidharthArya/scripts/compare/659c93f480...8e1fb1b84b)
-- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/f940e61924...b48657a3c4)
-- [SidharthArya starred deepmind/mujoco](https://github.com/deepmind/mujoco)
 <!-- GITHUB:END -->
 
 ## Top Followers
