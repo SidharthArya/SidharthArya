@@ -186,6 +186,7 @@
 
 ## C++ 
 
+- [IJHack/QtPass](https://github.com/IJHack/QtPass) - QtPass is a multi-platform GUI for pass, the standard unix password manager.
 - [acaudwell/Gource](https://github.com/acaudwell/Gource) - software version control visualization
 - [google/flatbuffers](https://github.com/google/flatbuffers) - FlatBuffers: Memory Efficient Serialization Library
 - [vosen/ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on Intel GPUs
