@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/8418959e4d...7c7c0da886)
+- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/da10a96219...7f5c1dd419)
 - [SidharthArya starred grafana/k6](https://github.com/grafana/k6)
 - [SidharthArya starred yeasy/docker_practice](https://github.com/yeasy/docker_practice)
 - [SidharthArya starred Tikam02/DevOps-Guide](https://github.com/Tikam02/DevOps-Guide)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred IJHack/QtPass](https://github.com/IJHack/QtPass)
 - [SidharthArya pushed to main in SidharthArya/Roaming](https://github.com/SidharthArya/Roaming/compare/3951893687...10141b2162)
 - [SidharthArya starred faif/python-patterns](https://github.com/faif/python-patterns)
-- [SidharthArya pushed to main in SidharthArya/Roaming](https://github.com/SidharthArya/Roaming/compare/c92650f4da...3951893687)
-- [SidharthArya pushed to main in SidharthArya/Roaming](https://github.com/SidharthArya/Roaming/compare/3200daeca0...c92650f4da)
 <!-- GITHUB:END -->
 
 ## Top Followers
