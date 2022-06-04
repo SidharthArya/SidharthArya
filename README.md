@@ -206,18 +206,18 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/HakunanMatatat">
-        <img src="https://avatars2.githubusercontent.com/u/56817048" width="100px;" alt="HakunanMatatat"/>
-      </a>
-      <br />
-      <a href="https://github.com/HakunanMatatat">HakunanMatatat</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/vinay-singh27">
         <img src="https://avatars2.githubusercontent.com/u/40866557" width="100px;" alt="vinay-singh27"/>
       </a>
       <br />
       <a href="https://github.com/vinay-singh27">Vinay Singh</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/HakunanMatatat">
+        <img src="https://avatars2.githubusercontent.com/u/56817048" width="100px;" alt="HakunanMatatat"/>
+      </a>
+      <br />
+      <a href="https://github.com/HakunanMatatat">HakunanMatatat</a>
     </td>
     <td align="center">
       <a href="https://github.com/ChandanCharchit">
