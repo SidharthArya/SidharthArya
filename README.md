@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)
 - [SidharthArya starred magento/magento2](https://github.com/magento/magento2)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/8418959e4d...7c7c0da886)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/da10a96219...7f5c1dd419)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/a333e14f9f...8418959e4d)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/b48657a3c4...da10a96219)
 - [SidharthArya starred IJHack/QtPass](https://github.com/IJHack/QtPass)
-- [SidharthArya pushed to main in SidharthArya/Roaming](https://github.com/SidharthArya/Roaming/compare/3951893687...10141b2162)
 <!-- GITHUB:END -->
 
 ## Top Followers
