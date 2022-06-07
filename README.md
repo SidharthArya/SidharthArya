@@ -87,16 +87,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred minio/sha256-simd](https://github.com/minio/sha256-simd)
+- [SidharthArya starred dortania/OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher)
+- [SidharthArya pushed to main in SidharthArya/Roaming](https://github.com/SidharthArya/Roaming/compare/10141b2162...4256456e7d)
+- [SidharthArya starred chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry)
 - [SidharthArya starred ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)
 - [SidharthArya starred magento/magento2](https://github.com/magento/magento2)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/8418959e4d...7c7c0da886)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/da10a96219...7f5c1dd419)
 - [SidharthArya starred grafana/k6](https://github.com/grafana/k6)
 - [SidharthArya starred yeasy/docker_practice](https://github.com/yeasy/docker_practice)
-- [SidharthArya starred Tikam02/DevOps-Guide](https://github.com/Tikam02/DevOps-Guide)
-- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/a333e14f9f...8418959e4d)
-- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/b48657a3c4...da10a96219)
-- [SidharthArya starred IJHack/QtPass](https://github.com/IJHack/QtPass)
 <!-- GITHUB:END -->
 
 ## Top Followers
