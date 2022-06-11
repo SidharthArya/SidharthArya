@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred borisdayma/dalle-mini](https://github.com/borisdayma/dalle-mini)
 - [SidharthArya starred kubernetes/examples](https://github.com/kubernetes/examples)
 - [SidharthArya starred kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx)
 - [SidharthArya starred statsd/statsd](https://github.com/statsd/statsd)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry)
 - [SidharthArya starred ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)
 - [SidharthArya starred magento/magento2](https://github.com/magento/magento2)
-- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/8418959e4d...7c7c0da886)
 <!-- GITHUB:END -->
 
 ## Top Followers
