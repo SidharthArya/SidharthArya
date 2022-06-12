@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred antonbabenko/terraform-best-practices](https://github.com/antonbabenko/terraform-best-practices)
 - [SidharthArya starred kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
 - [SidharthArya starred borisdayma/dalle-mini](https://github.com/borisdayma/dalle-mini)
 - [SidharthArya starred kubernetes/examples](https://github.com/kubernetes/examples)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred dortania/OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher)
 - [SidharthArya pushed to main in SidharthArya/Roaming](https://github.com/SidharthArya/Roaming/compare/10141b2162...4256456e7d)
 - [SidharthArya starred chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry)
-- [SidharthArya starred ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)
 <!-- GITHUB:END -->
 
 ## Top Followers
