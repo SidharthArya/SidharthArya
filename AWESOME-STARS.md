@@ -186,6 +186,7 @@
 
 ## C++ 
 
+- [percona/percona-server](https://github.com/percona/percona-server) - Percona Server
 - [IJHack/QtPass](https://github.com/IJHack/QtPass) - QtPass is a multi-platform GUI for pass, the standard unix password manager.
 - [acaudwell/Gource](https://github.com/acaudwell/Gource) - software version control visualization
 - [google/flatbuffers](https://github.com/google/flatbuffers) - FlatBuffers: Memory Efficient Serialization Library
@@ -581,6 +582,7 @@
 
 ## HCL 
 
+- [antonbabenko/terraform-best-practices](https://github.com/antonbabenko/terraform-best-practices) - Terraform best practices (available in en, fr, es, id, and other languages)
 - [ozbillwang/terraform-best-practices](https://github.com/ozbillwang/terraform-best-practices) - Terraform Best Practices for AWS users
 
 ## HTML 
@@ -677,7 +679,7 @@
 - [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) - Jenkins automation server
 - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 - [clojure/clojure](https://github.com/clojure/clojure) - The Clojure programming language
-- [k9mail/k-9](https://github.com/k9mail/k-9) - K-9 Mail – Open Source Email App for Android
+- [thundernest/k-9](https://github.com/thundernest/k-9) - K-9 Mail – Open Source Email App for Android
 - [MisterBooo/LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) - Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）
 - [Murgio/Genetic-Algorithm-Montage](https://github.com/Murgio/Genetic-Algorithm-Montage) - genetic algorithm for self-referential image approximation.
 - [ribot/android-boilerplate](https://github.com/ribot/android-boilerplate) - Android boilerplate app that showcases architecture and libraries used at ribot
@@ -944,6 +946,7 @@
 
 ## Lua 
 
+- [rxi/lite](https://github.com/rxi/lite) - A lightweight text editor written in Lua
 - [jcjohnson/fast-neural-style](https://github.com/jcjohnson/fast-neural-style) - Feedforward style transfer
 - [gennaro-tedesco/nvim-jqx](https://github.com/gennaro-tedesco/nvim-jqx) - Populate the quickfix with json entries
 - [luakit/luakit](https://github.com/luakit/luakit) - Fast, small, webkit based browser framework extensible by Lua.
