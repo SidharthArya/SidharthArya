@@ -808,7 +808,7 @@
 - [maanavshah/stock-market-india](https://github.com/maanavshah/stock-market-india) - API for Indian Stock Market's NSE and BSE.
 - [minbrowser/min](https://github.com/minbrowser/min) - A fast, minimal browser that protects your privacy
 - [visjs/vis-network](https://github.com/visjs/vis-network) - :dizzy: Display dynamic, automatically organised, customizable network views.
-- [lerna/lerna](https://github.com/lerna/lerna) - :dragon: A tool for managing JavaScript projects with multiple packages.
+- [lerna/lerna](https://github.com/lerna/lerna) - :dragon: Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository.
 - [bichenkk/coinmon](https://github.com/bichenkk/coinmon) - 💰  The cryptocurrency price tool on CLI. 🖥
 - [mozilla/pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
 - [danielfsousa/express-rest-boilerplate](https://github.com/danielfsousa/express-rest-boilerplate) - ⌛️ Express starter for building RESTful APIs
@@ -885,7 +885,7 @@
 - [zzh8829/yolov3-tf2](https://github.com/zzh8829/yolov3-tf2) - YoloV3 Implemented in Tensorflow 2.0
 - [balancap/SSD-Tensorflow](https://github.com/balancap/SSD-Tensorflow) - Single Shot MultiBox Detector in TensorFlow
 - [clovaai/deep-text-recognition-benchmark](https://github.com/clovaai/deep-text-recognition-benchmark) - Text recognition (optical character recognition) with deep learning methods.
-- [pytorch/TensorRT](https://github.com/pytorch/TensorRT) - PyTorch/TorchScript compiler for NVIDIA GPUs using TensorRT
+- [pytorch/TensorRT](https://github.com/pytorch/TensorRT) - PyTorch/TorchScript/FX compiler for NVIDIA GPUs using TensorRT
 - [onnx/tensorflow-onnx](https://github.com/onnx/tensorflow-onnx) - Convert TensorFlow, Keras, Tensorflow.js and Tflite models to ONNX
 - [SidharthArya/Computer_Vision_Class_Manit](https://github.com/SidharthArya/Computer_Vision_Class_Manit) - For all the class work.
 - [SidharthArya/Deep_Learning_Class_Manit](https://github.com/SidharthArya/Deep_Learning_Class_Manit) - For all the class work in Deep Learning Class By Prof. Vijay Bhaskar Semwal
@@ -1143,6 +1143,7 @@
 
 ## Python 
 
+- [kivy/python-for-android](https://github.com/kivy/python-for-android) - Turn your Python application into an Android APK
 - [borisdayma/dalle-mini](https://github.com/borisdayma/dalle-mini) - DALL·E Mini - Generate images from a text prompt
 - [dortania/OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher) - Experience macOS just like before
 - [faif/python-patterns](https://github.com/faif/python-patterns) - A collection of design patterns/idioms in Python
@@ -1216,7 +1217,7 @@
 - [shapely/shapely](https://github.com/shapely/shapely) - Manipulation and analysis of geometric objects
 - [masyagin1998/robin](https://github.com/masyagin1998/robin) - RObust document image BINarization
 - [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and de
-- [PyTorchLightning/pytorch-lightning](https://github.com/PyTorchLightning/pytorch-lightning) - The lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate.
+- [Lightning-AI/lightning](https://github.com/Lightning-AI/lightning) - The lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate.
 - [murtazahassan/OpenCV-Python-Tutorials-and-Projects](https://github.com/murtazahassan/OpenCV-Python-Tutorials-and-Projects) - An easy to follow course of OpenCV using Python for beginners.
 - [microsoft/tf-gnn-samples](https://github.com/microsoft/tf-gnn-samples) - TensorFlow implementations of Graph Neural Networks
 - [madmaze/pytesseract](https://github.com/madmaze/pytesseract) - A Python wrapper for Google Tesseract
