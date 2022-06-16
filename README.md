@@ -87,6 +87,9 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to main in SidharthArya/Roaming](https://github.com/SidharthArya/Roaming/compare/02ee7c020f...d9f2d3b4f1)
+- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/7c7c0da886...c2535376f8)
+- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/7f5c1dd419...5508baaf85)
 - [SidharthArya starred neo4j/neo4j](https://github.com/neo4j/neo4j)
 - [SidharthArya starred kivy/python-for-android](https://github.com/kivy/python-for-android)
 - [SidharthArya pushed to main in SidharthArya/Roaming](https://github.com/SidharthArya/Roaming/compare/4256456e7d...02ee7c020f)
@@ -94,9 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred rxi/lite](https://github.com/rxi/lite)
 - [SidharthArya starred antonbabenko/terraform-best-practices](https://github.com/antonbabenko/terraform-best-practices)
 - [SidharthArya starred kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
-- [SidharthArya starred borisdayma/dalle-mini](https://github.com/borisdayma/dalle-mini)
-- [SidharthArya starred kubernetes/examples](https://github.com/kubernetes/examples)
-- [SidharthArya starred kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx)
 <!-- GITHUB:END -->
 
 ## Top Followers
