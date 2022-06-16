@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred neo4j/neo4j](https://github.com/neo4j/neo4j)
 - [SidharthArya starred kivy/python-for-android](https://github.com/kivy/python-for-android)
 - [SidharthArya pushed to main in SidharthArya/Roaming](https://github.com/SidharthArya/Roaming/compare/4256456e7d...02ee7c020f)
 - [SidharthArya starred percona/percona-server](https://github.com/percona/percona-server)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred borisdayma/dalle-mini](https://github.com/borisdayma/dalle-mini)
 - [SidharthArya starred kubernetes/examples](https://github.com/kubernetes/examples)
 - [SidharthArya starred kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx)
-- [SidharthArya starred statsd/statsd](https://github.com/statsd/statsd)
 <!-- GITHUB:END -->
 
 ## Top Followers
