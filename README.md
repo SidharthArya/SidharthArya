@@ -132,6 +132,13 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       <a href="https://github.com/MdRashid62">Muhammad Rashid</a>
     </td>
     <td align="center">
+      <a href="https://github.com/carlosal1015">
+        <img src="https://avatars2.githubusercontent.com/u/21283014" width="100px;" alt="carlosal1015"/>
+      </a>
+      <br />
+      <a href="https://github.com/carlosal1015">Oromion</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/conao3">
         <img src="https://avatars2.githubusercontent.com/u/4703128" width="100px;" alt="conao3"/>
       </a>
@@ -145,6 +152,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       <br />
       <a href="https://github.com/M3nin0">Felipe</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/maskegger">
         <img src="https://avatars2.githubusercontent.com/u/3811321" width="100px;" alt="maskegger"/>
@@ -152,8 +161,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       <br />
       <a href="https://github.com/maskegger">AM</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/Tiancheng-Luo">
         <img src="https://avatars2.githubusercontent.com/u/6097951" width="100px;" alt="Tiancheng-Luo"/>
@@ -196,6 +203,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       <br />
       <a href="https://github.com/G0rav">Gaurav</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/vinay-singh27">
         <img src="https://avatars2.githubusercontent.com/u/40866557" width="100px;" alt="vinay-singh27"/>
@@ -203,8 +212,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       <br />
       <a href="https://github.com/vinay-singh27">Vinay Singh</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/Kushpad">
         <img src="https://avatars2.githubusercontent.com/u/89928620" width="100px;" alt="Kushpad"/>
@@ -246,13 +253,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       </a>
       <br />
       <a href="https://github.com/snuffop">Marty Buchaus</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/rjachuthan">
-        <img src="https://avatars2.githubusercontent.com/u/7797813" width="100px;" alt="rjachuthan"/>
-      </a>
-      <br />
-      <a href="https://github.com/rjachuthan">Rituraj Achuthan</a>
     </td>
   </tr>
 </table>
