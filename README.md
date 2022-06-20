@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred netz98/n98-magerun](https://github.com/netz98/n98-magerun)
 - [SidharthArya starred kubernetes-el/kubernetes-el](https://github.com/kubernetes-el/kubernetes-el)
 - [SidharthArya pushed to main in SidharthArya/Roaming](https://github.com/SidharthArya/Roaming/compare/02ee7c020f...d9f2d3b4f1)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/7c7c0da886...c2535376f8)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to main in SidharthArya/Roaming](https://github.com/SidharthArya/Roaming/compare/4256456e7d...02ee7c020f)
 - [SidharthArya starred percona/percona-server](https://github.com/percona/percona-server)
 - [SidharthArya starred rxi/lite](https://github.com/rxi/lite)
-- [SidharthArya starred antonbabenko/terraform-best-practices](https://github.com/antonbabenko/terraform-best-practices)
 <!-- GITHUB:END -->
 
 ## Top Followers
