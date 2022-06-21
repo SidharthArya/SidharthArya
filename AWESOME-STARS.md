@@ -917,7 +917,6 @@
 - [fastai/fastpages](https://github.com/fastai/fastpages) - An easy to use blogging platform, with enhanced support for Jupyter Notebooks.
 - [deepmind/deepmind-research](https://github.com/deepmind/deepmind-research) - This repository contains implementations and illustrative code to accompany DeepMind publications
 - [bukosabino/ta](https://github.com/bukosabino/ta) - Technical Analysis Library using Pandas and Numpy
-- [jantic/DeOldify](https://github.com/jantic/DeOldify) - A Deep Learning based project for colorizing and restoring old images (and video!)
 - [tejaswiniS98/python_basics-deep-learning](https://github.com/tejaswiniS98/python_basics-deep-learning) - 
 - [magenta/magenta-demos](https://github.com/magenta/magenta-demos) - Demonstrations of Magenta Models
 - [tensorflow/examples](https://github.com/tensorflow/examples) - TensorFlow examples
@@ -1424,6 +1423,7 @@
 - [google-research/bert](https://github.com/google-research/bert) - TensorFlow code and pre-trained models for BERT
 - [kurtmckee/feedparser](https://github.com/kurtmckee/feedparser) - Parse feeds in Python
 - [dylanaraps/pywal](https://github.com/dylanaraps/pywal) - 🎨 Generate and change color-schemes on the fly.
+- [jantic/DeOldify](https://github.com/jantic/DeOldify) - A Deep Learning based project for colorizing and restoring old images (and video!)
 - [mandarjoshi90/triviaqa](https://github.com/mandarjoshi90/triviaqa) - Code for the TriviaQA reading comprehension dataset
 - [tensorflow/tensor2tensor](https://github.com/tensorflow/tensor2tensor) - Library of deep learning models and datasets designed to make deep learning more accessible and accelerate ML research.
 - [facebookresearch/Detectron](https://github.com/facebookresearch/Detectron) - FAIR's research platform for object detection research, implementing popular algorithms like Mask R-CNN and RetinaNet.
@@ -1477,7 +1477,7 @@
 - [dabasajay/Image-Caption-Generator](https://github.com/dabasajay/Image-Caption-Generator) - A neural network to generate captions for an image using CNN and RNN with BEAM Search.
 - [TachibanaYoshino/AnimeGAN](https://github.com/TachibanaYoshino/AnimeGAN) - A Tensorflow implementation of AnimeGAN for fast photo animation  ! This is the Open source of the paper 「AnimeGAN: a novel lightweight GAN for photo animation」, which uses the GAN framwork to transfo
 - [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Big Sur + Monterey support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.
-- [emacs-eaf/emacs-application-framework](https://github.com/emacs-eaf/emacs-application-framework) - A free/libre and open-source extensible framework that revolutionizes the graphical capabilities of Emacs, the key to ultimately Live in Emacs
+- [emacs-eaf/emacs-application-framework](https://github.com/emacs-eaf/emacs-application-framework) - EAF, an extensible framework that revolutionizes the graphical capabilities of Emacs
 - [kornia/kornia](https://github.com/kornia/kornia) - Open Source Differentiable Computer Vision Library
 - [spotify/chartify](https://github.com/spotify/chartify) - Python library that makes it easy for data scientists to create charts.
 - [qtile/qtile](https://github.com/qtile/qtile) - :cookie: A full-featured, hackable tiling window manager written and configured in Python
