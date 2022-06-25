@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/c2535376f8...4d96a9a96e)
+- [SidharthArya pushed to master in SidharthArya/.nnn](https://github.com/SidharthArya/.nnn/compare/835f7c8665...e15311c59c)
 - [SidharthArya starred netz98/n98-magerun](https://github.com/netz98/n98-magerun)
 - [SidharthArya starred kubernetes-el/kubernetes-el](https://github.com/kubernetes-el/kubernetes-el)
 - [SidharthArya pushed to main in SidharthArya/Roaming](https://github.com/SidharthArya/Roaming/compare/02ee7c020f...d9f2d3b4f1)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred neo4j/neo4j](https://github.com/neo4j/neo4j)
 - [SidharthArya starred kivy/python-for-android](https://github.com/kivy/python-for-android)
 - [SidharthArya pushed to main in SidharthArya/Roaming](https://github.com/SidharthArya/Roaming/compare/4256456e7d...02ee7c020f)
-- [SidharthArya starred percona/percona-server](https://github.com/percona/percona-server)
-- [SidharthArya starred rxi/lite](https://github.com/rxi/lite)
 <!-- GITHUB:END -->
 
 ## Top Followers
