@@ -186,6 +186,7 @@
 
 ## C++ 
 
+- [apache/arrow](https://github.com/apache/arrow) - Apache Arrow is a multi-language toolbox for accelerated data interchange and in-memory processing
 - [percona/percona-server](https://github.com/percona/percona-server) - Percona Server
 - [IJHack/QtPass](https://github.com/IJHack/QtPass) - QtPass is a multi-platform GUI for pass, the standard unix password manager.
 - [acaudwell/Gource](https://github.com/acaudwell/Gource) - software version control visualization
