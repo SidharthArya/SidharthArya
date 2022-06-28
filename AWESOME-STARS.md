@@ -40,7 +40,6 @@
 - [OCaml](#ocaml)
 - [Objective-C](#objective-c)
 - [Objective-C++](#objective-c++)
-- [OpenQASM](#openqasm)
 - [Others](#others)
 - [PHP](#php)
 - [Perl](#perl)
@@ -1004,10 +1003,6 @@
 
 - [textmate/textmate](https://github.com/textmate/textmate) - TextMate is a graphical text editor for macOS 10.12 or later
 
-## OpenQASM 
-
-- [quantumlib/ReCirq](https://github.com/quantumlib/ReCirq) - Research using Cirq!
-
 ## Others 
 
 - [zhiwehu/Python-programming-exercises](https://github.com/zhiwehu/Python-programming-exercises) - 100+ Python challenging programming exercises
@@ -1192,6 +1187,7 @@
 - [skulpt/skulpt](https://github.com/skulpt/skulpt) - Skulpt is a Javascript implementation of the Python programming language
 - [googleapis/google-api-python-client](https://github.com/googleapis/google-api-python-client) - 🐍 The official Python client library for Google's discovery based APIs.
 - [luxonis/depthai](https://github.com/luxonis/depthai) - DepthAI Python API utilities, examples, and tutorials.
+- [quantumlib/ReCirq](https://github.com/quantumlib/ReCirq) - Research using Cirq!
 - [tensorflow/quantum](https://github.com/tensorflow/quantum) - Hybrid Quantum-Classical Machine Learning in TensorFlow
 - [quantumlib/OpenFermion](https://github.com/quantumlib/OpenFermion) - The electronic structure package for quantum computers.
 - [XanaduAI/strawberryfields](https://github.com/XanaduAI/strawberryfields) - Strawberry Fields is a full-stack Python library for designing, simulating, and optimizing continuous variable (CV) quantum optical circuits.
