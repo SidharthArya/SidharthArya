@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred hashicorp/vagrant](https://github.com/hashicorp/vagrant)
 - [SidharthArya starred qvacua/vimr](https://github.com/qvacua/vimr)
 - [SidharthArya starred secretflow/secretflow](https://github.com/secretflow/secretflow)
 - [SidharthArya starred sherlock-project/sherlock](https://github.com/sherlock-project/sherlock)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred instructure/canvas-lms](https://github.com/instructure/canvas-lms)
 - [SidharthArya pushed to main in SidharthArya/Roaming](https://github.com/SidharthArya/Roaming/compare/a1c1c894f7...1cebbd2d2a)
 - [SidharthArya starred anvaka/ngraph.path](https://github.com/anvaka/ngraph.path)
-- [SidharthArya pushed to main in SidharthArya/Roaming](https://github.com/SidharthArya/Roaming/compare/533ef7640a...a1c1c894f7)
 <!-- GITHUB:END -->
 
 ## Top Followers
