@@ -87,6 +87,9 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred alexbieber/Bug_Bounty_writeups](https://github.com/alexbieber/Bug_Bounty_writeups)
+- [SidharthArya starred akiyosi/goneovim](https://github.com/akiyosi/goneovim)
+- [SidharthArya starred lambdalisue/suda.vim](https://github.com/lambdalisue/suda.vim)
 - [SidharthArya starred hashicorp/vagrant](https://github.com/hashicorp/vagrant)
 - [SidharthArya starred qvacua/vimr](https://github.com/qvacua/vimr)
 - [SidharthArya starred secretflow/secretflow](https://github.com/secretflow/secretflow)
@@ -94,9 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred Jarred-Sumner/bun](https://github.com/Jarred-Sumner/bun)
 - [SidharthArya starred fastify/fastify](https://github.com/fastify/fastify)
 - [SidharthArya pushed to main in SidharthArya/.nvim](https://github.com/SidharthArya/.nvim/compare/f649eb8c86...8900f49ff0)
-- [SidharthArya starred instructure/canvas-lms](https://github.com/instructure/canvas-lms)
-- [SidharthArya pushed to main in SidharthArya/Roaming](https://github.com/SidharthArya/Roaming/compare/a1c1c894f7...1cebbd2d2a)
-- [SidharthArya starred anvaka/ngraph.path](https://github.com/anvaka/ngraph.path)
 <!-- GITHUB:END -->
 
 ## Top Followers
