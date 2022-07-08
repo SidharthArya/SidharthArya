@@ -87,16 +87,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/4d96a9a96e...22070faf78)
+- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/5508baaf85...a1f7dd9b8c)
+- [SidharthArya starred nomi-sec/PoC-in-GitHub](https://github.com/nomi-sec/PoC-in-GitHub)
+- [SidharthArya starred facebook/flipper](https://github.com/facebook/flipper)
+- [SidharthArya starred ReactiveX/RxSwift](https://github.com/ReactiveX/RxSwift)
 - [SidharthArya starred alexbieber/Bug_Bounty_writeups](https://github.com/alexbieber/Bug_Bounty_writeups)
 - [SidharthArya starred akiyosi/goneovim](https://github.com/akiyosi/goneovim)
 - [SidharthArya starred lambdalisue/suda.vim](https://github.com/lambdalisue/suda.vim)
 - [SidharthArya starred hashicorp/vagrant](https://github.com/hashicorp/vagrant)
 - [SidharthArya starred qvacua/vimr](https://github.com/qvacua/vimr)
-- [SidharthArya starred secretflow/secretflow](https://github.com/secretflow/secretflow)
-- [SidharthArya starred sherlock-project/sherlock](https://github.com/sherlock-project/sherlock)
-- [SidharthArya starred Jarred-Sumner/bun](https://github.com/Jarred-Sumner/bun)
-- [SidharthArya starred fastify/fastify](https://github.com/fastify/fastify)
-- [SidharthArya pushed to main in SidharthArya/.nvim](https://github.com/SidharthArya/.nvim/compare/f649eb8c86...8900f49ff0)
 <!-- GITHUB:END -->
 
 ## Top Followers
