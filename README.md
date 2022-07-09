@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred greensock/GSAP](https://github.com/greensock/GSAP)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/4d96a9a96e...22070faf78)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/5508baaf85...a1f7dd9b8c)
 - [SidharthArya starred nomi-sec/PoC-in-GitHub](https://github.com/nomi-sec/PoC-in-GitHub)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred akiyosi/goneovim](https://github.com/akiyosi/goneovim)
 - [SidharthArya starred lambdalisue/suda.vim](https://github.com/lambdalisue/suda.vim)
 - [SidharthArya starred hashicorp/vagrant](https://github.com/hashicorp/vagrant)
-- [SidharthArya starred qvacua/vimr](https://github.com/qvacua/vimr)
 <!-- GITHUB:END -->
 
 ## Top Followers
