@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred databricks/learning-spark](https://github.com/databricks/learning-spark)
+- [SidharthArya starred h5bp/Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
 - [SidharthArya starred greensock/GSAP](https://github.com/greensock/GSAP)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/4d96a9a96e...22070faf78)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/5508baaf85...a1f7dd9b8c)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred ReactiveX/RxSwift](https://github.com/ReactiveX/RxSwift)
 - [SidharthArya starred alexbieber/Bug_Bounty_writeups](https://github.com/alexbieber/Bug_Bounty_writeups)
 - [SidharthArya starred akiyosi/goneovim](https://github.com/akiyosi/goneovim)
-- [SidharthArya starred lambdalisue/suda.vim](https://github.com/lambdalisue/suda.vim)
-- [SidharthArya starred hashicorp/vagrant](https://github.com/hashicorp/vagrant)
 <!-- GITHUB:END -->
 
 ## Top Followers
