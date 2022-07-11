@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred databricks/Spark-The-Definitive-Guide](https://github.com/databricks/Spark-The-Definitive-Guide)
 - [SidharthArya starred databricks/learning-spark](https://github.com/databricks/learning-spark)
 - [SidharthArya starred h5bp/Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
 - [SidharthArya starred greensock/GSAP](https://github.com/greensock/GSAP)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred facebook/flipper](https://github.com/facebook/flipper)
 - [SidharthArya starred ReactiveX/RxSwift](https://github.com/ReactiveX/RxSwift)
 - [SidharthArya starred alexbieber/Bug_Bounty_writeups](https://github.com/alexbieber/Bug_Bounty_writeups)
-- [SidharthArya starred akiyosi/goneovim](https://github.com/akiyosi/goneovim)
 <!-- GITHUB:END -->
 
 ## Top Followers
