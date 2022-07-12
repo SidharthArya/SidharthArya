@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to main in SidharthArya/Roaming](https://github.com/SidharthArya/Roaming/compare/41cb12f7c7...ed3d9f5b24)
 - [SidharthArya pushed to main in SidharthArya/Roaming](https://github.com/SidharthArya/Roaming/compare/1cebbd2d2a...41cb12f7c7)
 - [SidharthArya starred databricks/Spark-The-Definitive-Guide](https://github.com/databricks/Spark-The-Definitive-Guide)
 - [SidharthArya starred databricks/learning-spark](https://github.com/databricks/learning-spark)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/5508baaf85...a1f7dd9b8c)
 - [SidharthArya starred nomi-sec/PoC-in-GitHub](https://github.com/nomi-sec/PoC-in-GitHub)
 - [SidharthArya starred facebook/flipper](https://github.com/facebook/flipper)
-- [SidharthArya starred ReactiveX/RxSwift](https://github.com/ReactiveX/RxSwift)
 <!-- GITHUB:END -->
 
 ## Top Followers
