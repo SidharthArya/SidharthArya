@@ -87,6 +87,9 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred tpope/vim-commentary](https://github.com/tpope/vim-commentary)
+- [SidharthArya pushed to main in SidharthArya/.nvim](https://github.com/SidharthArya/.nvim/compare/1d24516734...4426d6f3d7)
+- [SidharthArya pushed to main in SidharthArya/.nvim](https://github.com/SidharthArya/.nvim/compare/8900f49ff0...1d24516734)
 - [SidharthArya pushed to main in SidharthArya/Roaming](https://github.com/SidharthArya/Roaming/compare/ed3d9f5b24...e41d1b3fbe)
 - [SidharthArya pushed to main in SidharthArya/Roaming](https://github.com/SidharthArya/Roaming/compare/41cb12f7c7...ed3d9f5b24)
 - [SidharthArya pushed to main in SidharthArya/Roaming](https://github.com/SidharthArya/Roaming/compare/1cebbd2d2a...41cb12f7c7)
@@ -94,9 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred databricks/learning-spark](https://github.com/databricks/learning-spark)
 - [SidharthArya starred h5bp/Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
 - [SidharthArya starred greensock/GSAP](https://github.com/greensock/GSAP)
-- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/4d96a9a96e...22070faf78)
-- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/5508baaf85...a1f7dd9b8c)
-- [SidharthArya starred nomi-sec/PoC-in-GitHub](https://github.com/nomi-sec/PoC-in-GitHub)
 <!-- GITHUB:END -->
 
 ## Top Followers
