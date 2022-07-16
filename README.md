@@ -87,6 +87,9 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/22070faf78...5c7c016d5e)
+- [SidharthArya pushed to master in SidharthArya/.bspwm](https://github.com/SidharthArya/.bspwm/compare/fa7757b932...108dd9f6f5)
+- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/a1f7dd9b8c...6439443e52)
 - [SidharthArya starred tpope/vim-commentary](https://github.com/tpope/vim-commentary)
 - [SidharthArya pushed to main in SidharthArya/.nvim](https://github.com/SidharthArya/.nvim/compare/1d24516734...4426d6f3d7)
 - [SidharthArya pushed to main in SidharthArya/.nvim](https://github.com/SidharthArya/.nvim/compare/8900f49ff0...1d24516734)
@@ -94,9 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to main in SidharthArya/Roaming](https://github.com/SidharthArya/Roaming/compare/41cb12f7c7...ed3d9f5b24)
 - [SidharthArya pushed to main in SidharthArya/Roaming](https://github.com/SidharthArya/Roaming/compare/1cebbd2d2a...41cb12f7c7)
 - [SidharthArya starred databricks/Spark-The-Definitive-Guide](https://github.com/databricks/Spark-The-Definitive-Guide)
-- [SidharthArya starred databricks/learning-spark](https://github.com/databricks/learning-spark)
-- [SidharthArya starred h5bp/Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
-- [SidharthArya starred greensock/GSAP](https://github.com/greensock/GSAP)
 <!-- GITHUB:END -->
 
 ## Top Followers
