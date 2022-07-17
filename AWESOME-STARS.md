@@ -1392,7 +1392,7 @@
 - [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - [iterative/dvc](https://github.com/iterative/dvc) - 🦉Data Version Control | Git for Data & Models | ML Experiments Management
 - [Delgan/loguru](https://github.com/Delgan/loguru) - Python logging made (stupidly) simple
-- [jina-ai/jina](https://github.com/jina-ai/jina) - Build cross-modal and multi-modal applications on the cloud
+- [jina-ai/jina](https://github.com/jina-ai/jina) - Build cross-modal and multimodal applications on the cloud
 - [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter) - A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.
 - [audreyfeldroy/cookiecutter-pypackage](https://github.com/audreyfeldroy/cookiecutter-pypackage) - Cookiecutter template for a Python package.
 - [vnpy/vnpy](https://github.com/vnpy/vnpy) - 基于Python的开源量化交易平台开发框架
@@ -1538,7 +1538,7 @@
 - [tensorflow/models](https://github.com/tensorflow/models) - Models and examples built with TensorFlow
 - [aaron-xichen/pytorch-playground](https://github.com/aaron-xichen/pytorch-playground) - Base pretrained models and datasets in pytorch (MNIST, SVHN, CIFAR10, CIFAR100, STL10, AlexNet, VGG16, VGG19, ResNet, Inception, SqueezeNet)
 - [Cadene/pretrained-models.pytorch](https://github.com/Cadene/pretrained-models.pytorch) - Pretrained ConvNets for pytorch: NASNet, ResNeXt, ResNet, InceptionV4, InceptionResnetV2, Xception, DPN, etc.
-- [tzutalin/labelImg](https://github.com/tzutalin/labelImg) - 🖍️ LabelImg is a graphical image annotation tool and label object bounding boxes in images
+- [heartexlabs/labelImg](https://github.com/heartexlabs/labelImg) - 🖍️ LabelImg is a graphical image annotation tool and label object bounding boxes in images
 - [alexjc/neural-doodle](https://github.com/alexjc/neural-doodle) - Turn your two-bit doodles into fine artworks with deep neural networks, generate seamless textures from photos, transfer style from one image to another, perform example-based upscaling, but wait... t
 - [lengstrom/fast-style-transfer](https://github.com/lengstrom/fast-style-transfer) - TensorFlow CNN for fast style transfer ⚡🖥🎨🖼
 - [keras-team/keras](https://github.com/keras-team/keras) - Deep Learning for humans
