@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred kuprel/min-dalle](https://github.com/kuprel/min-dalle)
 - [SidharthArya starred eriklindernoren/PyTorch-GAN](https://github.com/eriklindernoren/PyTorch-GAN)
 - [SidharthArya starred facebook/proxygen](https://github.com/facebook/proxygen)
 - [SidharthArya starred facebook/hhvm](https://github.com/facebook/hhvm)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred tpope/vim-commentary](https://github.com/tpope/vim-commentary)
 - [SidharthArya pushed to main in SidharthArya/.nvim](https://github.com/SidharthArya/.nvim/compare/1d24516734...4426d6f3d7)
 - [SidharthArya pushed to main in SidharthArya/.nvim](https://github.com/SidharthArya/.nvim/compare/8900f49ff0...1d24516734)
-- [SidharthArya pushed to main in SidharthArya/Roaming](https://github.com/SidharthArya/Roaming/compare/ed3d9f5b24...e41d1b3fbe)
 <!-- GITHUB:END -->
 
 ## Top Followers
