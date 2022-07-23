@@ -87,16 +87,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred sindresorhus/awesome](https://github.com/sindresorhus/awesome)
+- [SidharthArya starred AllThingsSmitty/css-protips](https://github.com/AllThingsSmitty/css-protips)
+- [SidharthArya starred bradtraversy/50projects50days](https://github.com/bradtraversy/50projects50days)
+- [SidharthArya starred android/nowinandroid](https://github.com/android/nowinandroid)
+- [SidharthArya starred eryajf/HowToStartOpenSource](https://github.com/eryajf/HowToStartOpenSource)
+- [SidharthArya starred Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript)
+- [SidharthArya starred carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang)
+- [SidharthArya starred coder/code-server](https://github.com/coder/code-server)
 - [SidharthArya starred kuprel/min-dalle](https://github.com/kuprel/min-dalle)
 - [SidharthArya starred eriklindernoren/PyTorch-GAN](https://github.com/eriklindernoren/PyTorch-GAN)
-- [SidharthArya starred facebook/proxygen](https://github.com/facebook/proxygen)
-- [SidharthArya starred facebook/hhvm](https://github.com/facebook/hhvm)
-- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/22070faf78...5c7c016d5e)
-- [SidharthArya pushed to master in SidharthArya/.bspwm](https://github.com/SidharthArya/.bspwm/compare/fa7757b932...108dd9f6f5)
-- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/a1f7dd9b8c...6439443e52)
-- [SidharthArya starred tpope/vim-commentary](https://github.com/tpope/vim-commentary)
-- [SidharthArya pushed to main in SidharthArya/.nvim](https://github.com/SidharthArya/.nvim/compare/1d24516734...4426d6f3d7)
-- [SidharthArya pushed to main in SidharthArya/.nvim](https://github.com/SidharthArya/.nvim/compare/8900f49ff0...1d24516734)
 <!-- GITHUB:END -->
 
 ## Top Followers
