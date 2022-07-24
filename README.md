@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred alan2207/bulletproof-react](https://github.com/alan2207/bulletproof-react)
+- [SidharthArya starred prowler-cloud/prowler](https://github.com/prowler-cloud/prowler)
 - [SidharthArya starred sindresorhus/awesome](https://github.com/sindresorhus/awesome)
 - [SidharthArya starred AllThingsSmitty/css-protips](https://github.com/AllThingsSmitty/css-protips)
 - [SidharthArya starred bradtraversy/50projects50days](https://github.com/bradtraversy/50projects50days)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript)
 - [SidharthArya starred carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang)
 - [SidharthArya starred coder/code-server](https://github.com/coder/code-server)
-- [SidharthArya starred kuprel/min-dalle](https://github.com/kuprel/min-dalle)
-- [SidharthArya starred eriklindernoren/PyTorch-GAN](https://github.com/eriklindernoren/PyTorch-GAN)
 <!-- GITHUB:END -->
 
 ## Top Followers
