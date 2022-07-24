@@ -87,16 +87,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred ascoders/weekly](https://github.com/ascoders/weekly)
+- [SidharthArya starred faker-ruby/faker](https://github.com/faker-ruby/faker)
+- [SidharthArya starred OAI/OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification)
+- [SidharthArya starred microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
 - [SidharthArya starred alan2207/bulletproof-react](https://github.com/alan2207/bulletproof-react)
 - [SidharthArya starred prowler-cloud/prowler](https://github.com/prowler-cloud/prowler)
 - [SidharthArya starred sindresorhus/awesome](https://github.com/sindresorhus/awesome)
 - [SidharthArya starred AllThingsSmitty/css-protips](https://github.com/AllThingsSmitty/css-protips)
 - [SidharthArya starred bradtraversy/50projects50days](https://github.com/bradtraversy/50projects50days)
 - [SidharthArya starred android/nowinandroid](https://github.com/android/nowinandroid)
-- [SidharthArya starred eryajf/HowToStartOpenSource](https://github.com/eryajf/HowToStartOpenSource)
-- [SidharthArya starred Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript)
-- [SidharthArya starred carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang)
-- [SidharthArya starred coder/code-server](https://github.com/coder/code-server)
 <!-- GITHUB:END -->
 
 ## Top Followers
