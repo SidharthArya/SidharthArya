@@ -1785,6 +1785,7 @@
 
 ## TypeScript 
 
+- [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [alan2207/bulletproof-react](https://github.com/alan2207/bulletproof-react) - 🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [facebook/flipper](https://github.com/facebook/flipper) - A desktop debugging platform for mobile developers.
