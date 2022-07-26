@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred microsoft/TypeScript](https://github.com/microsoft/TypeScript)
 - [SidharthArya starred ascoders/weekly](https://github.com/ascoders/weekly)
 - [SidharthArya starred faker-ruby/faker](https://github.com/faker-ruby/faker)
 - [SidharthArya starred OAI/OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred sindresorhus/awesome](https://github.com/sindresorhus/awesome)
 - [SidharthArya starred AllThingsSmitty/css-protips](https://github.com/AllThingsSmitty/css-protips)
 - [SidharthArya starred bradtraversy/50projects50days](https://github.com/bradtraversy/50projects50days)
-- [SidharthArya starred android/nowinandroid](https://github.com/android/nowinandroid)
 <!-- GITHUB:END -->
 
 ## Top Followers
