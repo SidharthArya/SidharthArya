@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya made SidharthArya/sms_redirect public](https://github.com/SidharthArya/sms_redirect)
+- [SidharthArya pushed to main in SidharthArya/sms_redirect](https://github.com/SidharthArya/sms_redirect/compare/9097fdf97f...f856b93cc0)
 - [SidharthArya starred clauderic/react-tiny-virtual-list](https://github.com/clauderic/react-tiny-virtual-list)
 - [SidharthArya starred microsoft/TypeScript](https://github.com/microsoft/TypeScript)
 - [SidharthArya starred ascoders/weekly](https://github.com/ascoders/weekly)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
 - [SidharthArya starred alan2207/bulletproof-react](https://github.com/alan2207/bulletproof-react)
 - [SidharthArya starred prowler-cloud/prowler](https://github.com/prowler-cloud/prowler)
-- [SidharthArya starred sindresorhus/awesome](https://github.com/sindresorhus/awesome)
-- [SidharthArya starred AllThingsSmitty/css-protips](https://github.com/AllThingsSmitty/css-protips)
 <!-- GITHUB:END -->
 
 ## Top Followers
