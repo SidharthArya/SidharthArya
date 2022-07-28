@@ -87,6 +87,9 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/5c7c016d5e...a887bd0777)
+- [SidharthArya pushed to master in SidharthArya/.bspwm](https://github.com/SidharthArya/.bspwm/compare/108dd9f6f5...3a5a4743dd)
+- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/6439443e52...301a130f95)
 - [SidharthArya made SidharthArya/sms_redirect public](https://github.com/SidharthArya/sms_redirect)
 - [SidharthArya pushed to main in SidharthArya/sms_redirect](https://github.com/SidharthArya/sms_redirect/compare/9097fdf97f...f856b93cc0)
 - [SidharthArya starred clauderic/react-tiny-virtual-list](https://github.com/clauderic/react-tiny-virtual-list)
@@ -94,9 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred ascoders/weekly](https://github.com/ascoders/weekly)
 - [SidharthArya starred faker-ruby/faker](https://github.com/faker-ruby/faker)
 - [SidharthArya starred OAI/OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification)
-- [SidharthArya starred microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
-- [SidharthArya starred alan2207/bulletproof-react](https://github.com/alan2207/bulletproof-react)
-- [SidharthArya starred prowler-cloud/prowler](https://github.com/prowler-cloud/prowler)
 <!-- GITHUB:END -->
 
 ## Top Followers
