@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred gin-gonic/gin](https://github.com/gin-gonic/gin)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/5c7c016d5e...a887bd0777)
 - [SidharthArya pushed to master in SidharthArya/.bspwm](https://github.com/SidharthArya/.bspwm/compare/108dd9f6f5...3a5a4743dd)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/6439443e52...301a130f95)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred microsoft/TypeScript](https://github.com/microsoft/TypeScript)
 - [SidharthArya starred ascoders/weekly](https://github.com/ascoders/weekly)
 - [SidharthArya starred faker-ruby/faker](https://github.com/faker-ruby/faker)
-- [SidharthArya starred OAI/OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification)
 <!-- GITHUB:END -->
 
 ## Top Followers
