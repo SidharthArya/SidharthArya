@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred geekcompany/ResumeSample](https://github.com/geekcompany/ResumeSample)
 - [SidharthArya starred google/automl](https://github.com/google/automl)
 - [SidharthArya starred gin-gonic/gin](https://github.com/gin-gonic/gin)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/5c7c016d5e...a887bd0777)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to main in SidharthArya/sms_redirect](https://github.com/SidharthArya/sms_redirect/compare/9097fdf97f...f856b93cc0)
 - [SidharthArya starred clauderic/react-tiny-virtual-list](https://github.com/clauderic/react-tiny-virtual-list)
 - [SidharthArya starred microsoft/TypeScript](https://github.com/microsoft/TypeScript)
-- [SidharthArya starred ascoders/weekly](https://github.com/ascoders/weekly)
 <!-- GITHUB:END -->
 
 ## Top Followers
