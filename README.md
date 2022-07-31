@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred onivim/oni2](https://github.com/onivim/oni2)
 - [SidharthArya starred GothenburgBitFactory/taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior)
 - [SidharthArya starred geekcompany/ResumeSample](https://github.com/geekcompany/ResumeSample)
 - [SidharthArya starred google/automl](https://github.com/google/automl)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/6439443e52...301a130f95)
 - [SidharthArya made SidharthArya/sms_redirect public](https://github.com/SidharthArya/sms_redirect)
 - [SidharthArya pushed to main in SidharthArya/sms_redirect](https://github.com/SidharthArya/sms_redirect/compare/9097fdf97f...f856b93cc0)
-- [SidharthArya starred clauderic/react-tiny-virtual-list](https://github.com/clauderic/react-tiny-virtual-list)
 <!-- GITHUB:END -->
 
 ## Top Followers
