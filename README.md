@@ -87,6 +87,9 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/a887bd0777...ffb8cb43bb)
+- [SidharthArya pushed to master in SidharthArya/.bspwm](https://github.com/SidharthArya/.bspwm/compare/3a5a4743dd...d9d2500433)
+- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/301a130f95...9939ebc170)
 - [SidharthArya pushed to main in SidharthArya/.nvim](https://github.com/SidharthArya/.nvim/compare/4426d6f3d7...d1d0e65793)
 - [SidharthArya starred blindFS/vim-taskwarrior](https://github.com/blindFS/vim-taskwarrior)
 - [SidharthArya starred nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim)
@@ -94,9 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred ralphbean/bugwarrior](https://github.com/ralphbean/bugwarrior)
 - [SidharthArya starred hackerkid/Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books)
 - [SidharthArya starred mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
-- [SidharthArya starred dformoso/deeplearning-mindmap](https://github.com/dformoso/deeplearning-mindmap)
-- [SidharthArya starred dformoso/machine-learning-mindmap](https://github.com/dformoso/machine-learning-mindmap)
-- [SidharthArya starred onivim/oni2](https://github.com/onivim/oni2)
 <!-- GITHUB:END -->
 
 ## Top Followers
