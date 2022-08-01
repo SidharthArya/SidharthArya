@@ -87,16 +87,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to main in SidharthArya/.nvim](https://github.com/SidharthArya/.nvim/compare/4426d6f3d7...d1d0e65793)
+- [SidharthArya starred blindFS/vim-taskwarrior](https://github.com/blindFS/vim-taskwarrior)
+- [SidharthArya starred nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim)
+- [SidharthArya starred vysheng/tg](https://github.com/vysheng/tg)
+- [SidharthArya starred ralphbean/bugwarrior](https://github.com/ralphbean/bugwarrior)
+- [SidharthArya starred hackerkid/Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books)
+- [SidharthArya starred mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
+- [SidharthArya starred dformoso/deeplearning-mindmap](https://github.com/dformoso/deeplearning-mindmap)
+- [SidharthArya starred dformoso/machine-learning-mindmap](https://github.com/dformoso/machine-learning-mindmap)
 - [SidharthArya starred onivim/oni2](https://github.com/onivim/oni2)
-- [SidharthArya starred GothenburgBitFactory/taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior)
-- [SidharthArya starred geekcompany/ResumeSample](https://github.com/geekcompany/ResumeSample)
-- [SidharthArya starred google/automl](https://github.com/google/automl)
-- [SidharthArya starred gin-gonic/gin](https://github.com/gin-gonic/gin)
-- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/5c7c016d5e...a887bd0777)
-- [SidharthArya pushed to master in SidharthArya/.bspwm](https://github.com/SidharthArya/.bspwm/compare/108dd9f6f5...3a5a4743dd)
-- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/6439443e52...301a130f95)
-- [SidharthArya made SidharthArya/sms_redirect public](https://github.com/SidharthArya/sms_redirect)
-- [SidharthArya pushed to main in SidharthArya/sms_redirect](https://github.com/SidharthArya/sms_redirect/compare/9097fdf97f...f856b93cc0)
 <!-- GITHUB:END -->
 
 ## Top Followers
