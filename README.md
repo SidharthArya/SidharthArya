@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred neomutt/neomutt](https://github.com/neomutt/neomutt)
 - [SidharthArya starred pavlobu/deskreen](https://github.com/pavlobu/deskreen)
 - [SidharthArya starred Tonejs/Tone.js](https://github.com/Tonejs/Tone.js)
 - [SidharthArya starred transloadit/uppy](https://github.com/transloadit/uppy)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/.bspwm](https://github.com/SidharthArya/.bspwm/compare/3a5a4743dd...d9d2500433)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/301a130f95...9939ebc170)
 - [SidharthArya pushed to main in SidharthArya/.nvim](https://github.com/SidharthArya/.nvim/compare/4426d6f3d7...d1d0e65793)
-- [SidharthArya starred blindFS/vim-taskwarrior](https://github.com/blindFS/vim-taskwarrior)
 <!-- GITHUB:END -->
 
 ## Top Followers
