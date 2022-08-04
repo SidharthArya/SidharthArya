@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/f6cd34df4b...2eef7790e3)
+- [SidharthArya pushed to main in SidharthArya/.nvim](https://github.com/SidharthArya/.nvim/compare/2f3acec825...54c8f50d45)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/ffb8cb43bb...f6cd34df4b)
 - [SidharthArya pushed to master in SidharthArya/.bspwm](https://github.com/SidharthArya/.bspwm/compare/d9d2500433...40ce4774a8)
 - [SidharthArya pushed to main in SidharthArya/.nvim](https://github.com/SidharthArya/.nvim/compare/d1d0e65793...2f3acec825)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred Tonejs/Tone.js](https://github.com/Tonejs/Tone.js)
 - [SidharthArya starred transloadit/uppy](https://github.com/transloadit/uppy)
 - [SidharthArya starred webdriverio/webdriverio](https://github.com/webdriverio/webdriverio)
-- [SidharthArya starred filebrowser/filebrowser](https://github.com/filebrowser/filebrowser)
-- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/a887bd0777...ffb8cb43bb)
 <!-- GITHUB:END -->
 
 ## Top Followers
