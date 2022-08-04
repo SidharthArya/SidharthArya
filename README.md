@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred ryanoasis/vim-devicons](https://github.com/ryanoasis/vim-devicons)
+- [SidharthArya starred neoclide/coc.nvim](https://github.com/neoclide/coc.nvim)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/f6cd34df4b...2eef7790e3)
 - [SidharthArya pushed to main in SidharthArya/.nvim](https://github.com/SidharthArya/.nvim/compare/2f3acec825...54c8f50d45)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/ffb8cb43bb...f6cd34df4b)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred neomutt/neomutt](https://github.com/neomutt/neomutt)
 - [SidharthArya starred pavlobu/deskreen](https://github.com/pavlobu/deskreen)
 - [SidharthArya starred Tonejs/Tone.js](https://github.com/Tonejs/Tone.js)
-- [SidharthArya starred transloadit/uppy](https://github.com/transloadit/uppy)
-- [SidharthArya starred webdriverio/webdriverio](https://github.com/webdriverio/webdriverio)
 <!-- GITHUB:END -->
 
 ## Top Followers
