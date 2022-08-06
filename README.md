@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/d42dfd87fb...9c08ad4956)
+- [SidharthArya pushed to main in SidharthArya/.nvim](https://github.com/SidharthArya/.nvim/compare/1394983cf5...dda7454130)
 - [SidharthArya starred wbthomason/packer.nvim](https://github.com/wbthomason/packer.nvim)
 - [SidharthArya pushed to main in SidharthArya/.nvim](https://github.com/SidharthArya/.nvim/compare/54c8f50d45...1394983cf5)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/46708e1b30...d42dfd87fb)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred Xuyuanp/nerdtree-git-plugin](https://github.com/Xuyuanp/nerdtree-git-plugin)
 - [SidharthArya starred joshdick/onedark.vim](https://github.com/joshdick/onedark.vim)
 - [SidharthArya starred ryanoasis/vim-devicons](https://github.com/ryanoasis/vim-devicons)
-- [SidharthArya starred neoclide/coc.nvim](https://github.com/neoclide/coc.nvim)
-- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/f6cd34df4b...2eef7790e3)
 <!-- GITHUB:END -->
 
 ## Top Followers
