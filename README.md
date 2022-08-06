@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/9c08ad4956...39e6ac02c8)
+- [SidharthArya pushed to main in SidharthArya/.nvim](https://github.com/SidharthArya/.nvim/compare/dda7454130...0894337c99)
 - [SidharthArya starred nvim-telescope/telescope-z.nvim](https://github.com/nvim-telescope/telescope-z.nvim)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/d42dfd87fb...9c08ad4956)
 - [SidharthArya pushed to main in SidharthArya/.nvim](https://github.com/SidharthArya/.nvim/compare/1394983cf5...dda7454130)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/46708e1b30...d42dfd87fb)
 - [SidharthArya starred nvim-neorg/neorg](https://github.com/nvim-neorg/neorg)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/2eef7790e3...46708e1b30)
-- [SidharthArya starred Xuyuanp/nerdtree-git-plugin](https://github.com/Xuyuanp/nerdtree-git-plugin)
-- [SidharthArya starred joshdick/onedark.vim](https://github.com/joshdick/onedark.vim)
 <!-- GITHUB:END -->
 
 ## Top Followers
