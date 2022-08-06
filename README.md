@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred nvim-telescope/telescope-z.nvim](https://github.com/nvim-telescope/telescope-z.nvim)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/d42dfd87fb...9c08ad4956)
 - [SidharthArya pushed to main in SidharthArya/.nvim](https://github.com/SidharthArya/.nvim/compare/1394983cf5...dda7454130)
 - [SidharthArya starred wbthomason/packer.nvim](https://github.com/wbthomason/packer.nvim)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/2eef7790e3...46708e1b30)
 - [SidharthArya starred Xuyuanp/nerdtree-git-plugin](https://github.com/Xuyuanp/nerdtree-git-plugin)
 - [SidharthArya starred joshdick/onedark.vim](https://github.com/joshdick/onedark.vim)
-- [SidharthArya starred ryanoasis/vim-devicons](https://github.com/ryanoasis/vim-devicons)
 <!-- GITHUB:END -->
 
 ## Top Followers
