@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred wbthomason/packer.nvim](https://github.com/wbthomason/packer.nvim)
 - [SidharthArya pushed to main in SidharthArya/.nvim](https://github.com/SidharthArya/.nvim/compare/54c8f50d45...1394983cf5)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/46708e1b30...d42dfd87fb)
 - [SidharthArya starred nvim-neorg/neorg](https://github.com/nvim-neorg/neorg)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred ryanoasis/vim-devicons](https://github.com/ryanoasis/vim-devicons)
 - [SidharthArya starred neoclide/coc.nvim](https://github.com/neoclide/coc.nvim)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/f6cd34df4b...2eef7790e3)
-- [SidharthArya pushed to main in SidharthArya/.nvim](https://github.com/SidharthArya/.nvim/compare/2f3acec825...54c8f50d45)
 <!-- GITHUB:END -->
 
 ## Top Followers
