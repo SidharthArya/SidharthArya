@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred NvChad/NvChad](https://github.com/NvChad/NvChad)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/9c08ad4956...39e6ac02c8)
 - [SidharthArya pushed to main in SidharthArya/.nvim](https://github.com/SidharthArya/.nvim/compare/dda7454130...0894337c99)
 - [SidharthArya starred nvim-telescope/telescope-z.nvim](https://github.com/nvim-telescope/telescope-z.nvim)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to main in SidharthArya/.nvim](https://github.com/SidharthArya/.nvim/compare/54c8f50d45...1394983cf5)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/46708e1b30...d42dfd87fb)
 - [SidharthArya starred nvim-neorg/neorg](https://github.com/nvim-neorg/neorg)
-- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/2eef7790e3...46708e1b30)
 <!-- GITHUB:END -->
 
 ## Top Followers
