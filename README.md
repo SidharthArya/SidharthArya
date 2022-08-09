@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/39e6ac02c8...ed3f1abd8a)
+- [SidharthArya pushed to main in SidharthArya/.nvim](https://github.com/SidharthArya/.nvim/compare/0894337c99...a27e793e45)
 - [SidharthArya starred NvChad/NvChad](https://github.com/NvChad/NvChad)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/9c08ad4956...39e6ac02c8)
 - [SidharthArya pushed to main in SidharthArya/.nvim](https://github.com/SidharthArya/.nvim/compare/dda7454130...0894337c99)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to main in SidharthArya/.nvim](https://github.com/SidharthArya/.nvim/compare/1394983cf5...dda7454130)
 - [SidharthArya starred wbthomason/packer.nvim](https://github.com/wbthomason/packer.nvim)
 - [SidharthArya pushed to main in SidharthArya/.nvim](https://github.com/SidharthArya/.nvim/compare/54c8f50d45...1394983cf5)
-- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/46708e1b30...d42dfd87fb)
-- [SidharthArya starred nvim-neorg/neorg](https://github.com/nvim-neorg/neorg)
 <!-- GITHUB:END -->
 
 ## Top Followers
