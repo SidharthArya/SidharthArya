@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/ed3f1abd8a...3ba0adf69e)
+- [SidharthArya pushed to main in SidharthArya/.nvim](https://github.com/SidharthArya/.nvim/compare/a27e793e45...62795144d3)
 - [SidharthArya starred VSCodium/vscodium](https://github.com/VSCodium/vscodium)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/39e6ac02c8...ed3f1abd8a)
 - [SidharthArya pushed to main in SidharthArya/.nvim](https://github.com/SidharthArya/.nvim/compare/0894337c99...a27e793e45)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to main in SidharthArya/.nvim](https://github.com/SidharthArya/.nvim/compare/dda7454130...0894337c99)
 - [SidharthArya starred nvim-telescope/telescope-z.nvim](https://github.com/nvim-telescope/telescope-z.nvim)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/d42dfd87fb...9c08ad4956)
-- [SidharthArya pushed to main in SidharthArya/.nvim](https://github.com/SidharthArya/.nvim/compare/1394983cf5...dda7454130)
-- [SidharthArya starred wbthomason/packer.nvim](https://github.com/wbthomason/packer.nvim)
 <!-- GITHUB:END -->
 
 ## Top Followers
