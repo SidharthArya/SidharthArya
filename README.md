@@ -87,6 +87,9 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations)
+- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/3ba0adf69e...e5e9b8c5f2)
+- [SidharthArya pushed to main in SidharthArya/.nvim](https://github.com/SidharthArya/.nvim/compare/62795144d3...38c5b0f660)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/ed3f1abd8a...3ba0adf69e)
 - [SidharthArya pushed to main in SidharthArya/.nvim](https://github.com/SidharthArya/.nvim/compare/a27e793e45...62795144d3)
 - [SidharthArya starred VSCodium/vscodium](https://github.com/VSCodium/vscodium)
@@ -94,9 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to main in SidharthArya/.nvim](https://github.com/SidharthArya/.nvim/compare/0894337c99...a27e793e45)
 - [SidharthArya starred NvChad/NvChad](https://github.com/NvChad/NvChad)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/9c08ad4956...39e6ac02c8)
-- [SidharthArya pushed to main in SidharthArya/.nvim](https://github.com/SidharthArya/.nvim/compare/dda7454130...0894337c99)
-- [SidharthArya starred nvim-telescope/telescope-z.nvim](https://github.com/nvim-telescope/telescope-z.nvim)
-- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/d42dfd87fb...9c08ad4956)
 <!-- GITHUB:END -->
 
 ## Top Followers
