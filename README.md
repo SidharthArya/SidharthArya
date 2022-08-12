@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred novuhq/novu](https://github.com/novuhq/novu)
+- [SidharthArya starred withastro/astro](https://github.com/withastro/astro)
 - [SidharthArya starred labmlai/labml](https://github.com/labmlai/labml)
 - [SidharthArya created a branch main in SidharthArya/ai_notes](https://github.com/SidharthArya/ai_notes/compare/main)
 - [SidharthArya created a repository SidharthArya/ai_notes](https://github.com/SidharthArya/ai_notes//)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred safing/portmaster](https://github.com/safing/portmaster)
 - [SidharthArya starred dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly)
 - [SidharthArya starred juicedata/juicefs](https://github.com/juicedata/juicefs)
-- [SidharthArya starred josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
-- [SidharthArya starred microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners)
 <!-- GITHUB:END -->
 
 ## Top Followers
