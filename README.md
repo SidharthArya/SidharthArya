@@ -87,6 +87,9 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/e5e9b8c5f2...52209bd03b)
+- [SidharthArya pushed to main in SidharthArya/.nvim](https://github.com/SidharthArya/.nvim/compare/38c5b0f660...810c5ef2ee)
+- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/9939ebc170...d63b1f915f)
 - [SidharthArya starred novuhq/novu](https://github.com/novuhq/novu)
 - [SidharthArya starred withastro/astro](https://github.com/withastro/astro)
 - [SidharthArya starred labmlai/labml](https://github.com/labmlai/labml)
@@ -94,9 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya created a repository SidharthArya/ai_notes](https://github.com/SidharthArya/ai_notes//)
 - [SidharthArya created a branch main in SidharthArya/public_notes](https://github.com/SidharthArya/public_notes/compare/main)
 - [SidharthArya created a repository SidharthArya/public_notes](https://github.com/SidharthArya/public_notes//)
-- [SidharthArya starred safing/portmaster](https://github.com/safing/portmaster)
-- [SidharthArya starred dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly)
-- [SidharthArya starred juicedata/juicefs](https://github.com/juicedata/juicefs)
 <!-- GITHUB:END -->
 
 ## Top Followers
