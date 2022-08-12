@@ -87,16 +87,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
-- [SidharthArya starred labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations)
-- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/3ba0adf69e...e5e9b8c5f2)
-- [SidharthArya pushed to main in SidharthArya/.nvim](https://github.com/SidharthArya/.nvim/compare/62795144d3...38c5b0f660)
-- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/ed3f1abd8a...3ba0adf69e)
-- [SidharthArya pushed to main in SidharthArya/.nvim](https://github.com/SidharthArya/.nvim/compare/a27e793e45...62795144d3)
-- [SidharthArya starred VSCodium/vscodium](https://github.com/VSCodium/vscodium)
-- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/39e6ac02c8...ed3f1abd8a)
-- [SidharthArya pushed to main in SidharthArya/.nvim](https://github.com/SidharthArya/.nvim/compare/0894337c99...a27e793e45)
-- [SidharthArya starred NvChad/NvChad](https://github.com/NvChad/NvChad)
-- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/9c08ad4956...39e6ac02c8)
+- [SidharthArya created a branch main in SidharthArya/ai_notes](https://github.com/SidharthArya/ai_notes/compare/main)
+- [SidharthArya created a repository SidharthArya/ai_notes](https://github.com/SidharthArya/ai_notes//)
+- [SidharthArya created a branch main in SidharthArya/public_notes](https://github.com/SidharthArya/public_notes/compare/main)
+- [SidharthArya created a repository SidharthArya/public_notes](https://github.com/SidharthArya/public_notes//)
+- [SidharthArya starred safing/portmaster](https://github.com/safing/portmaster)
+- [SidharthArya starred dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly)
+- [SidharthArya starred juicedata/juicefs](https://github.com/juicedata/juicefs)
+- [SidharthArya starred josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
+- [SidharthArya starred microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners)
+- [SidharthArya starred eugeneyan/applied-ml](https://github.com/eugeneyan/applied-ml)
 <!-- GITHUB:END -->
 
 ## Top Followers
