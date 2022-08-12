@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred labmlai/labml](https://github.com/labmlai/labml)
 - [SidharthArya created a branch main in SidharthArya/ai_notes](https://github.com/SidharthArya/ai_notes/compare/main)
 - [SidharthArya created a repository SidharthArya/ai_notes](https://github.com/SidharthArya/ai_notes//)
 - [SidharthArya created a branch main in SidharthArya/public_notes](https://github.com/SidharthArya/public_notes/compare/main)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred juicedata/juicefs](https://github.com/juicedata/juicefs)
 - [SidharthArya starred josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
 - [SidharthArya starred microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners)
-- [SidharthArya starred eugeneyan/applied-ml](https://github.com/eugeneyan/applied-ml)
 <!-- GITHUB:END -->
 
 ## Top Followers
