@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred oasislinux/oasis](https://github.com/oasislinux/oasis)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/e5e9b8c5f2...52209bd03b)
 - [SidharthArya pushed to main in SidharthArya/.nvim](https://github.com/SidharthArya/.nvim/compare/38c5b0f660...810c5ef2ee)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/9939ebc170...d63b1f915f)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya created a branch main in SidharthArya/ai_notes](https://github.com/SidharthArya/ai_notes/compare/main)
 - [SidharthArya created a repository SidharthArya/ai_notes](https://github.com/SidharthArya/ai_notes//)
 - [SidharthArya created a branch main in SidharthArya/public_notes](https://github.com/SidharthArya/public_notes/compare/main)
-- [SidharthArya created a repository SidharthArya/public_notes](https://github.com/SidharthArya/public_notes//)
 <!-- GITHUB:END -->
 
 ## Top Followers
