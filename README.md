@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred labstack/echo](https://github.com/labstack/echo)
+- [SidharthArya starred CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion)
 - [SidharthArya starred TanStack/query](https://github.com/TanStack/query)
 - [SidharthArya starred oasislinux/oasis](https://github.com/oasislinux/oasis)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/e5e9b8c5f2...52209bd03b)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred novuhq/novu](https://github.com/novuhq/novu)
 - [SidharthArya starred withastro/astro](https://github.com/withastro/astro)
 - [SidharthArya starred labmlai/labml](https://github.com/labmlai/labml)
-- [SidharthArya created a branch main in SidharthArya/ai_notes](https://github.com/SidharthArya/ai_notes/compare/main)
-- [SidharthArya created a repository SidharthArya/ai_notes](https://github.com/SidharthArya/ai_notes//)
 <!-- GITHUB:END -->
 
 ## Top Followers
