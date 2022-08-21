@@ -87,6 +87,9 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred nobiot/md-roam](https://github.com/nobiot/md-roam)
+- [SidharthArya starred gravitational/teleport](https://github.com/gravitational/teleport)
+- [SidharthArya starred pomerium/pomerium](https://github.com/pomerium/pomerium)
 - [SidharthArya starred labstack/echo](https://github.com/labstack/echo)
 - [SidharthArya starred CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion)
 - [SidharthArya starred TanStack/query](https://github.com/TanStack/query)
@@ -94,9 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/e5e9b8c5f2...52209bd03b)
 - [SidharthArya pushed to main in SidharthArya/.nvim](https://github.com/SidharthArya/.nvim/compare/38c5b0f660...810c5ef2ee)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/9939ebc170...d63b1f915f)
-- [SidharthArya starred novuhq/novu](https://github.com/novuhq/novu)
-- [SidharthArya starred withastro/astro](https://github.com/withastro/astro)
-- [SidharthArya starred labmlai/labml](https://github.com/labmlai/labml)
 <!-- GITHUB:END -->
 
 ## Top Followers
