@@ -369,7 +369,7 @@
 - [abo-abo/lispy](https://github.com/abo-abo/lispy) - Short and sweet LISP editing
 - [alphapapa/prism.el](https://github.com/alphapapa/prism.el) - Disperse Lisp forms (and other languages) into a spectrum of colors by depth
 - [Somelauw/evil-org-mode](https://github.com/Somelauw/evil-org-mode) - Supplemental evil-mode keybindings to emacs org-mode
-- [galaunay/poetry.el](https://github.com/galaunay/poetry.el) - Python dependency management and packaging in Emacs
+- [cybniv/poetry.el](https://github.com/cybniv/poetry.el) - Python dependency management and packaging in Emacs
 - [emacs-evil/evil](https://github.com/emacs-evil/evil) - The extensible vi layer for Emacs.
 - [company-mode/company-mode](https://github.com/company-mode/company-mode) - Modular in-buffer completion framework for Emacs
 - [Malabarba/aggressive-indent-mode](https://github.com/Malabarba/aggressive-indent-mode) - Emacs minor mode that keeps your code always indented. More reliable than electric-indent-mode.
@@ -518,7 +518,7 @@
 ## Go 
 
 - [gravitational/teleport](https://github.com/gravitational/teleport) - The easiest, most secure way to access infrastructure.
-- [pomerium/pomerium](https://github.com/pomerium/pomerium) - Pomerium is an identity-aware access proxy.
+- [pomerium/pomerium](https://github.com/pomerium/pomerium) - Pomerium is an identity and context-aware access proxy.
 - [labstack/echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework
 - [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
 - [juicedata/juicefs](https://github.com/juicedata/juicefs) - JuiceFS is a distributed POSIX file system built on top of Redis and S3.
