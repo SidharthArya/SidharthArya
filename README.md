@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/c72c758d2f...226d4f0e4d)
+- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/d63b1f915f...c72c758d2f)
 - [SidharthArya starred element-plus/element-plus](https://github.com/element-plus/element-plus)
 - [SidharthArya starred nobiot/md-roam](https://github.com/nobiot/md-roam)
 - [SidharthArya starred gravitational/teleport](https://github.com/gravitational/teleport)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion)
 - [SidharthArya starred TanStack/query](https://github.com/TanStack/query)
 - [SidharthArya starred oasislinux/oasis](https://github.com/oasislinux/oasis)
-- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/e5e9b8c5f2...52209bd03b)
-- [SidharthArya pushed to main in SidharthArya/.nvim](https://github.com/SidharthArya/.nvim/compare/38c5b0f660...810c5ef2ee)
 <!-- GITHUB:END -->
 
 ## Top Followers
