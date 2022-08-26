@@ -941,7 +941,7 @@
 - [mosheman5/DNP](https://github.com/mosheman5/DNP) - Audio Denoising with Deep Network Priors
 - [sthalles/deeplab_v3](https://github.com/sthalles/deeplab_v3) - Tensorflow Implementation of the Semantic Segmentation DeepLab_V3 CNN
 - [virgili0/Virgilio](https://github.com/virgili0/Virgilio) - Your new Mentor for Data Science E-Learning.
-- [AI4Finance-Foundation/FinRL-Live-Trading](https://github.com/AI4Finance-Foundation/FinRL-Live-Trading) - Deep Reinforcement Learning for Automated Stock Trading: An Ensemble Strategy. ICAIF 2020. Please star.
+- [AI4Finance-Foundation/FinRL-Live-Trading](https://github.com/AI4Finance-Foundation/FinRL-Live-Trading) - Live Trading. Please star.
 - [google-research/google-research](https://github.com/google-research/google-research) - Google Research
 - [fastai/fastai](https://github.com/fastai/fastai) - The fastai deep learning library
 - [aymericdamien/TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples) - TensorFlow Tutorial and Examples for Beginners (support TF v1 & v2)
