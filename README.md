@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/e844ff0a31...097a432813)
+- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/226d4f0e4d...e844ff0a31)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/c72c758d2f...226d4f0e4d)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/d63b1f915f...c72c758d2f)
 - [SidharthArya starred element-plus/element-plus](https://github.com/element-plus/element-plus)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred pomerium/pomerium](https://github.com/pomerium/pomerium)
 - [SidharthArya starred labstack/echo](https://github.com/labstack/echo)
 - [SidharthArya starred CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion)
-- [SidharthArya starred TanStack/query](https://github.com/TanStack/query)
-- [SidharthArya starred oasislinux/oasis](https://github.com/oasislinux/oasis)
 <!-- GITHUB:END -->
 
 ## Top Followers
