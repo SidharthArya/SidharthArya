@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya created a branch main in SidharthArya/helm-jq](https://github.com/SidharthArya/helm-jq/compare/main)
+- [SidharthArya created a repository SidharthArya/helm-jq](https://github.com/SidharthArya/helm-jq//)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/5eb81eb7ba...d8f4bb3246)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/097a432813...5eb81eb7ba)
 - [SidharthArya starred NicolasPetton/Indium](https://github.com/NicolasPetton/Indium)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/c72c758d2f...226d4f0e4d)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/d63b1f915f...c72c758d2f)
 - [SidharthArya starred element-plus/element-plus](https://github.com/element-plus/element-plus)
-- [SidharthArya starred nobiot/md-roam](https://github.com/nobiot/md-roam)
-- [SidharthArya starred gravitational/teleport](https://github.com/gravitational/teleport)
 <!-- GITHUB:END -->
 
 ## Top Followers
