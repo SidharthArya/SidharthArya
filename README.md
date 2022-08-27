@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred NicolasPetton/Indium](https://github.com/NicolasPetton/Indium)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/e844ff0a31...097a432813)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/226d4f0e4d...e844ff0a31)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/c72c758d2f...226d4f0e4d)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred gravitational/teleport](https://github.com/gravitational/teleport)
 - [SidharthArya starred pomerium/pomerium](https://github.com/pomerium/pomerium)
 - [SidharthArya starred labstack/echo](https://github.com/labstack/echo)
-- [SidharthArya starred CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion)
 <!-- GITHUB:END -->
 
 ## Top Followers
