@@ -149,7 +149,7 @@
 - [dynup/kpatch](https://github.com/dynup/kpatch) - kpatch - live kernel patching
 - [skeeto/endlessh](https://github.com/skeeto/endlessh) - SSH tarpit that slowly sends an endless banner
 - [reactos/reactos](https://github.com/reactos/reactos) - A free Windows-compatible Operating System
-- [johanmalm/jgmenu](https://github.com/johanmalm/jgmenu) - An X11 menu
+- [jgmenu/jgmenu](https://github.com/jgmenu/jgmenu) - An X11 menu
 - [DoctorWkt/acwj](https://github.com/DoctorWkt/acwj) - A Compiler Writing Journey
 - [tmux/tmux](https://github.com/tmux/tmux) - tmux source code
 - [LemonBoy/bar](https://github.com/LemonBoy/bar) - A featherweight, lemon-scented, bar based on xcb
@@ -347,6 +347,7 @@
 
 ## Emacs Lisp 
 
+- [NicolasPetton/Indium](https://github.com/NicolasPetton/Indium) - A JavaScript development environment for Emacs
 - [nobiot/md-roam](https://github.com/nobiot/md-roam) - Use Org-roam with markdown files by adding Md-roam as a plug-in. Mix org and markdown files in a single Org-roam database.
 - [kubernetes-el/kubernetes-el](https://github.com/kubernetes-el/kubernetes-el) - Manage Kubernetes clusters with Emacs.
 - [rejeep/f.el](https://github.com/rejeep/f.el) - Modern API for working with files and directories in Emacs
