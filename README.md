@@ -87,7 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
-- [SidharthArya created a branch main in SidharthArya/helm-jq](https://github.com/SidharthArya/helm-jq/compare/main)
+- [SidharthArya pushed to main in SidharthArya/helm-jq.el](https://github.com/SidharthArya/helm-jq.el/compare/08c6137a5d...47f2bba75e)
+- [SidharthArya created a branch main in SidharthArya/helm-jq.el](https://github.com/SidharthArya/helm-jq/compare/main)
 - [SidharthArya created a repository SidharthArya/helm-jq](https://github.com/SidharthArya/helm-jq//)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/5eb81eb7ba...d8f4bb3246)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/097a432813...5eb81eb7ba)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/226d4f0e4d...e844ff0a31)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/c72c758d2f...226d4f0e4d)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/d63b1f915f...c72c758d2f)
-- [SidharthArya starred element-plus/element-plus](https://github.com/element-plus/element-plus)
 <!-- GITHUB:END -->
 
 ## Top Followers
