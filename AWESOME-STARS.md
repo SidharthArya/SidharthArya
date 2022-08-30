@@ -1273,11 +1273,11 @@
 - [PyImageSearch/imutils](https://github.com/PyImageSearch/imutils) - A series of convenience functions to make basic image processing operations such as translation, rotation, resizing, skeletonization, and displaying Matplotlib images easier with OpenCV and Python.
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is a unified framework for scaling AI and Python applications. Ray consists of a core distributed runtime and a toolkit of libraries (Ray AIR) for accelerating ML workloads.
 - [JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.
-- [PaddlePaddle/PaddleHub](https://github.com/PaddlePaddle/PaddleHub) - Awesome pre-trained models toolkit based on PaddlePaddle.(300+ models including Image, Text, Audio and Video with Easy Inference & Serving deployment)
+- [PaddlePaddle/PaddleHub](https://github.com/PaddlePaddle/PaddleHub) - Awesome pre-trained models toolkit based on PaddlePaddle. (400+ models including Image, Text, Audio, Video and Cross-Modal with Easy Inference & Serving)
 - [shapely/shapely](https://github.com/shapely/shapely) - Manipulation and analysis of geometric objects
 - [masyagin1998/robin](https://github.com/masyagin1998/robin) - RObust document image BINarization
 - [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and de
-- [Lightning-AI/lightning](https://github.com/Lightning-AI/lightning) - The most intuitive, flexible, way to build PyTorch models and lightning apps that glue together everything around the models, without the pain of infrastructure, cost management, scaling and everythin
+- [Lightning-AI/lightning](https://github.com/Lightning-AI/lightning) - Build and train PyTorch models and connect them to the ML lifecycle using Lightning App templates, without handling DIY infrastructure, cost management, scaling, and other headaches.
 - [murtazahassan/OpenCV-Python-Tutorials-and-Projects](https://github.com/murtazahassan/OpenCV-Python-Tutorials-and-Projects) - An easy to follow course of OpenCV using Python for beginners.
 - [microsoft/tf-gnn-samples](https://github.com/microsoft/tf-gnn-samples) - TensorFlow implementations of Graph Neural Networks
 - [madmaze/pytesseract](https://github.com/madmaze/pytesseract) - A Python wrapper for Google Tesseract
@@ -1382,7 +1382,7 @@
 - [KinWaiCheuk/nnAudio](https://github.com/KinWaiCheuk/nnAudio) - Audio processing by using pytorch 1D convolution network
 - [allenai/x-lxmert](https://github.com/allenai/x-lxmert) - PyTorch code for EMNLP 2020 paper "X-LXMERT: Paint, Caption and Answer Questions with Multi-Modal Transformers"
 - [woven-planet/l5kit](https://github.com/woven-planet/l5kit) - L5Kit - https://level-5.global/
-- [jina-ai/clip-as-service](https://github.com/jina-ai/clip-as-service) - Embed images and sentences into fixed-length vectors with CLIP
+- [jina-ai/clip-as-service](https://github.com/jina-ai/clip-as-service) - 🏄 Embed/reason/rank images and sentences with CLIP models
 - [allenai/allennlp](https://github.com/allenai/allennlp) - An open-source NLP research library, built on PyTorch.
 - [demotomohiro/remocolab](https://github.com/demotomohiro/remocolab) - remocolab is a Python module to allow remote access to Google Colaboratory using SSH or TurboVNC.
 - [yoshitomo-matsubara/torchdistill](https://github.com/yoshitomo-matsubara/torchdistill) - A coding-free framework built on PyTorch for reproducible deep learning studies. 🏆20 knowledge distillation methods presented at CVPR, ICLR, ECCV, NeurIPS, ICCV, etc are implemented so far. 🎁 Trained 
@@ -1439,7 +1439,7 @@
 - [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - [iterative/dvc](https://github.com/iterative/dvc) - 🦉Data Version Control | Git for Data & Models | ML Experiments Management
 - [Delgan/loguru](https://github.com/Delgan/loguru) - Python logging made (stupidly) simple
-- [jina-ai/jina](https://github.com/jina-ai/jina) - Build cross-modal and multimodal applications on the cloud · Neural Search · Creative AI · Cloud Native · MLOps
+- [jina-ai/jina](https://github.com/jina-ai/jina) - 🔮 Build cross-modal and multimodal applications on the cloud · Neural Search · Creative AI · Cloud Native · MLOps
 - [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter) - A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.
 - [audreyfeldroy/cookiecutter-pypackage](https://github.com/audreyfeldroy/cookiecutter-pypackage) - Cookiecutter template for a Python package.
 - [vnpy/vnpy](https://github.com/vnpy/vnpy) - 基于Python的开源量化交易平台开发框架
