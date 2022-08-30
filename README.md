@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya commented on issue SidharthArya/sidhartharya.github.io#2](https://github.com/SidharthArya/sidhartharya.github.io/issues/2#issuecomment-1231318173)
 - [SidharthArya starred pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements)
 - [SidharthArya starred Hammerspoon/hammerspoon](https://github.com/Hammerspoon/hammerspoon)
 - [SidharthArya pushed to main in SidharthArya/helm-jq.el](https://github.com/SidharthArya/helm-jq.el/compare/08c6137a5d...47f2bba75e)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/097a432813...5eb81eb7ba)
 - [SidharthArya starred NicolasPetton/Indium](https://github.com/NicolasPetton/Indium)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/e844ff0a31...097a432813)
-- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/226d4f0e4d...e844ff0a31)
 <!-- GITHUB:END -->
 
 ## Top Followers
