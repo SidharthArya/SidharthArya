@@ -87,6 +87,9 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials)
+- [SidharthArya starred bztsrc/raspi3-tutorial](https://github.com/bztsrc/raspi3-tutorial)
+- [SidharthArya starred microsoft/ailab](https://github.com/microsoft/ailab)
 - [SidharthArya commented on issue SidharthArya/sidhartharya.github.io#2](https://github.com/SidharthArya/sidhartharya.github.io/issues/2#issuecomment-1231318173)
 - [SidharthArya starred pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements)
 - [SidharthArya starred Hammerspoon/hammerspoon](https://github.com/Hammerspoon/hammerspoon)
@@ -94,9 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya created a branch main in SidharthArya/helm-jq.el](https://github.com/SidharthArya/helm-jq/compare/main)
 - [SidharthArya created a repository SidharthArya/helm-jq](https://github.com/SidharthArya/helm-jq//)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/5eb81eb7ba...d8f4bb3246)
-- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/097a432813...5eb81eb7ba)
-- [SidharthArya starred NicolasPetton/Indium](https://github.com/NicolasPetton/Indium)
-- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/e844ff0a31...097a432813)
 <!-- GITHUB:END -->
 
 ## Top Followers
