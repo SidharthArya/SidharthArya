@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya created a branch main in SidharthArya/.tmux](https://github.com/SidharthArya/.tmux/compare/main)
+- [SidharthArya created a repository SidharthArya/.tmux](https://github.com/SidharthArya/.tmux//)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/d8f4bb3246...abd84cc8ed)
 - [SidharthArya starred rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials)
 - [SidharthArya starred bztsrc/raspi3-tutorial](https://github.com/bztsrc/raspi3-tutorial)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements)
 - [SidharthArya starred Hammerspoon/hammerspoon](https://github.com/Hammerspoon/hammerspoon)
 - [SidharthArya pushed to main in SidharthArya/helm-jq.el](https://github.com/SidharthArya/helm-jq.el/compare/08c6137a5d...47f2bba75e)
-- [SidharthArya created a branch main in SidharthArya/helm-jq.el](https://github.com/SidharthArya/helm-jq/compare/main)
-- [SidharthArya created a repository SidharthArya/helm-jq](https://github.com/SidharthArya/helm-jq//)
 <!-- GITHUB:END -->
 
 ## Top Followers
