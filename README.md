@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred brndnmtthws/conky](https://github.com/brndnmtthws/conky)
 - [SidharthArya starred vitejs/vite](https://github.com/vitejs/vite)
 - [SidharthArya starred vuejs/vitepress](https://github.com/vuejs/vitepress)
 - [SidharthArya starred vuejs/vuepress](https://github.com/vuejs/vuepress)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials)
 - [SidharthArya starred bztsrc/raspi3-tutorial](https://github.com/bztsrc/raspi3-tutorial)
 - [SidharthArya starred microsoft/ailab](https://github.com/microsoft/ailab)
-- [SidharthArya commented on issue SidharthArya/sidhartharya.github.io#2](https://github.com/SidharthArya/sidhartharya.github.io/issues/2#issuecomment-1231318173)
 <!-- GITHUB:END -->
 
 ## Top Followers
