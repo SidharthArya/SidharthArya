@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred vitejs/vite](https://github.com/vitejs/vite)
+- [SidharthArya starred vuejs/vitepress](https://github.com/vuejs/vitepress)
 - [SidharthArya starred vuejs/vuepress](https://github.com/vuejs/vuepress)
 - [SidharthArya created a branch main in SidharthArya/.tmux](https://github.com/SidharthArya/.tmux/compare/main)
 - [SidharthArya created a repository SidharthArya/.tmux](https://github.com/SidharthArya/.tmux//)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred bztsrc/raspi3-tutorial](https://github.com/bztsrc/raspi3-tutorial)
 - [SidharthArya starred microsoft/ailab](https://github.com/microsoft/ailab)
 - [SidharthArya commented on issue SidharthArya/sidhartharya.github.io#2](https://github.com/SidharthArya/sidhartharya.github.io/issues/2#issuecomment-1231318173)
-- [SidharthArya starred pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements)
-- [SidharthArya starred Hammerspoon/hammerspoon](https://github.com/Hammerspoon/hammerspoon)
 <!-- GITHUB:END -->
 
 ## Top Followers
