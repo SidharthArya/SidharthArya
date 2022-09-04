@@ -87,6 +87,9 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred akiraux/Akira](https://github.com/akiraux/Akira)
+- [SidharthArya starred xvw/qian](https://github.com/xvw/qian)
+- [SidharthArya starred foxlet/macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM)
 - [SidharthArya starred brndnmtthws/conky](https://github.com/brndnmtthws/conky)
 - [SidharthArya starred vitejs/vite](https://github.com/vitejs/vite)
 - [SidharthArya starred vuejs/vitepress](https://github.com/vuejs/vitepress)
@@ -94,9 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya created a branch main in SidharthArya/.tmux](https://github.com/SidharthArya/.tmux/compare/main)
 - [SidharthArya created a repository SidharthArya/.tmux](https://github.com/SidharthArya/.tmux//)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/d8f4bb3246...abd84cc8ed)
-- [SidharthArya starred rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials)
-- [SidharthArya starred bztsrc/raspi3-tutorial](https://github.com/bztsrc/raspi3-tutorial)
-- [SidharthArya starred microsoft/ailab](https://github.com/microsoft/ailab)
 <!-- GITHUB:END -->
 
 ## Top Followers
