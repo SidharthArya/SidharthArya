@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred chrisbra/NrrwRgn](https://github.com/chrisbra/NrrwRgn)
 - [SidharthArya starred akiraux/Akira](https://github.com/akiraux/Akira)
 - [SidharthArya starred xvw/qian](https://github.com/xvw/qian)
 - [SidharthArya starred foxlet/macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred vuejs/vuepress](https://github.com/vuejs/vuepress)
 - [SidharthArya created a branch main in SidharthArya/.tmux](https://github.com/SidharthArya/.tmux/compare/main)
 - [SidharthArya created a repository SidharthArya/.tmux](https://github.com/SidharthArya/.tmux//)
-- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/d8f4bb3246...abd84cc8ed)
 <!-- GITHUB:END -->
 
 ## Top Followers
