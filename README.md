@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to main in SidharthArya/.nvim](https://github.com/SidharthArya/.nvim/compare/810c5ef2ee...00b4980440)
 - [SidharthArya starred chrisbra/NrrwRgn](https://github.com/chrisbra/NrrwRgn)
 - [SidharthArya starred akiraux/Akira](https://github.com/akiraux/Akira)
 - [SidharthArya starred xvw/qian](https://github.com/xvw/qian)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred vuejs/vitepress](https://github.com/vuejs/vitepress)
 - [SidharthArya starred vuejs/vuepress](https://github.com/vuejs/vuepress)
 - [SidharthArya created a branch main in SidharthArya/.tmux](https://github.com/SidharthArya/.tmux/compare/main)
-- [SidharthArya created a repository SidharthArya/.tmux](https://github.com/SidharthArya/.tmux//)
 <!-- GITHUB:END -->
 
 ## Top Followers
