@@ -190,18 +190,18 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       <a href="https://github.com/portgasray">Lei Zhang</a>
     </td>
     <td align="center">
-      <a href="https://github.com/relativelyrehan">
-        <img src="https://avatars2.githubusercontent.com/u/48210765" width="100px;" alt="relativelyrehan"/>
-      </a>
-      <br />
-      <a href="https://github.com/relativelyrehan">rreel </a>
-    </td>
-    <td align="center">
       <a href="https://github.com/G0rav">
         <img src="https://avatars2.githubusercontent.com/u/62126889" width="100px;" alt="G0rav"/>
       </a>
       <br />
       <a href="https://github.com/G0rav">Gaurav</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/relativelyrehan">
+        <img src="https://avatars2.githubusercontent.com/u/48210765" width="100px;" alt="relativelyrehan"/>
+      </a>
+      <br />
+      <a href="https://github.com/relativelyrehan">rreel </a>
     </td>
   </tr>
   <tr>
