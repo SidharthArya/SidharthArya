@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred nuxt-community/awesome-nuxt](https://github.com/nuxt-community/awesome-nuxt)
+- [SidharthArya created a repository SidharthArya/org-protocol.nvim](https://github.com/SidharthArya/org-protocol.nvim//)
 - [SidharthArya starred getify/CAF](https://github.com/getify/CAF)
 - [SidharthArya starred tpope/vim-surround](https://github.com/tpope/vim-surround)
 - [SidharthArya pushed to main in SidharthArya/.nvim](https://github.com/SidharthArya/.nvim/compare/810c5ef2ee...00b4980440)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred xvw/qian](https://github.com/xvw/qian)
 - [SidharthArya starred foxlet/macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM)
 - [SidharthArya starred brndnmtthws/conky](https://github.com/brndnmtthws/conky)
-- [SidharthArya starred vitejs/vite](https://github.com/vitejs/vite)
-- [SidharthArya starred vuejs/vitepress](https://github.com/vuejs/vitepress)
 <!-- GITHUB:END -->
 
 ## Top Followers
