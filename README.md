@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred iamkun/dayjs](https://github.com/iamkun/dayjs)
 - [SidharthArya starred nuxt-community/awesome-nuxt](https://github.com/nuxt-community/awesome-nuxt)
 - [SidharthArya created a repository SidharthArya/org-protocol.nvim](https://github.com/SidharthArya/org-protocol.nvim//)
 - [SidharthArya starred getify/CAF](https://github.com/getify/CAF)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred akiraux/Akira](https://github.com/akiraux/Akira)
 - [SidharthArya starred xvw/qian](https://github.com/xvw/qian)
 - [SidharthArya starred foxlet/macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM)
-- [SidharthArya starred brndnmtthws/conky](https://github.com/brndnmtthws/conky)
 <!-- GITHUB:END -->
 
 ## Top Followers
