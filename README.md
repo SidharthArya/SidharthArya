@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to main in SidharthArya/.nvim](https://github.com/SidharthArya/.nvim/compare/00b4980440...cd577ed644)
 - [SidharthArya starred nightwatchjs/nightwatch](https://github.com/nightwatchjs/nightwatch)
 - [SidharthArya starred iamkun/dayjs](https://github.com/iamkun/dayjs)
 - [SidharthArya starred nuxt-community/awesome-nuxt](https://github.com/nuxt-community/awesome-nuxt)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to main in SidharthArya/.nvim](https://github.com/SidharthArya/.nvim/compare/810c5ef2ee...00b4980440)
 - [SidharthArya starred chrisbra/NrrwRgn](https://github.com/chrisbra/NrrwRgn)
 - [SidharthArya starred akiraux/Akira](https://github.com/akiraux/Akira)
-- [SidharthArya starred xvw/qian](https://github.com/xvw/qian)
 <!-- GITHUB:END -->
 
 ## Top Followers
