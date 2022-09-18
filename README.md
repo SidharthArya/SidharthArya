@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred agkozak/zsh-z](https://github.com/agkozak/zsh-z)
+- [SidharthArya starred mozilla/sccache](https://github.com/mozilla/sccache)
 - [SidharthArya pushed to main in SidharthArya/.nvim](https://github.com/SidharthArya/.nvim/compare/00b4980440...cd577ed644)
 - [SidharthArya starred nightwatchjs/nightwatch](https://github.com/nightwatchjs/nightwatch)
 - [SidharthArya starred iamkun/dayjs](https://github.com/iamkun/dayjs)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred getify/CAF](https://github.com/getify/CAF)
 - [SidharthArya starred tpope/vim-surround](https://github.com/tpope/vim-surround)
 - [SidharthArya pushed to main in SidharthArya/.nvim](https://github.com/SidharthArya/.nvim/compare/810c5ef2ee...00b4980440)
-- [SidharthArya starred chrisbra/NrrwRgn](https://github.com/chrisbra/NrrwRgn)
-- [SidharthArya starred akiraux/Akira](https://github.com/akiraux/Akira)
 <!-- GITHUB:END -->
 
 ## Top Followers
