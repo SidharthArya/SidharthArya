@@ -87,6 +87,9 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises)
+- [SidharthArya starred unifyai/ivy](https://github.com/unifyai/ivy)
+- [SidharthArya starred extrawurst/gitui](https://github.com/extrawurst/gitui)
 - [SidharthArya starred nuttyartist/notes](https://github.com/nuttyartist/notes)
 - [SidharthArya starred OpenEthan/SMSBoom](https://github.com/OpenEthan/SMSBoom)
 - [SidharthArya starred karpathy/nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero)
@@ -94,9 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred agkozak/zsh-z](https://github.com/agkozak/zsh-z)
 - [SidharthArya starred mozilla/sccache](https://github.com/mozilla/sccache)
 - [SidharthArya pushed to main in SidharthArya/.nvim](https://github.com/SidharthArya/.nvim/compare/00b4980440...cd577ed644)
-- [SidharthArya starred nightwatchjs/nightwatch](https://github.com/nightwatchjs/nightwatch)
-- [SidharthArya starred iamkun/dayjs](https://github.com/iamkun/dayjs)
-- [SidharthArya starred nuxt-community/awesome-nuxt](https://github.com/nuxt-community/awesome-nuxt)
 <!-- GITHUB:END -->
 
 ## Top Followers
