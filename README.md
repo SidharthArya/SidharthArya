@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred mrdbourke/pytorch-deep-learning](https://github.com/mrdbourke/pytorch-deep-learning)
 - [SidharthArya starred agkozak/zsh-z](https://github.com/agkozak/zsh-z)
 - [SidharthArya starred mozilla/sccache](https://github.com/mozilla/sccache)
 - [SidharthArya pushed to main in SidharthArya/.nvim](https://github.com/SidharthArya/.nvim/compare/00b4980440...cd577ed644)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya created a repository SidharthArya/org-protocol.nvim](https://github.com/SidharthArya/org-protocol.nvim//)
 - [SidharthArya starred getify/CAF](https://github.com/getify/CAF)
 - [SidharthArya starred tpope/vim-surround](https://github.com/tpope/vim-surround)
-- [SidharthArya pushed to main in SidharthArya/.nvim](https://github.com/SidharthArya/.nvim/compare/810c5ef2ee...00b4980440)
 <!-- GITHUB:END -->
 
 ## Top Followers
