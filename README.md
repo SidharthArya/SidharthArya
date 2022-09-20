@@ -87,6 +87,9 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred nuttyartist/notes](https://github.com/nuttyartist/notes)
+- [SidharthArya starred OpenEthan/SMSBoom](https://github.com/OpenEthan/SMSBoom)
+- [SidharthArya starred karpathy/nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero)
 - [SidharthArya starred mrdbourke/pytorch-deep-learning](https://github.com/mrdbourke/pytorch-deep-learning)
 - [SidharthArya starred agkozak/zsh-z](https://github.com/agkozak/zsh-z)
 - [SidharthArya starred mozilla/sccache](https://github.com/mozilla/sccache)
@@ -94,9 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred nightwatchjs/nightwatch](https://github.com/nightwatchjs/nightwatch)
 - [SidharthArya starred iamkun/dayjs](https://github.com/iamkun/dayjs)
 - [SidharthArya starred nuxt-community/awesome-nuxt](https://github.com/nuxt-community/awesome-nuxt)
-- [SidharthArya created a repository SidharthArya/org-protocol.nvim](https://github.com/SidharthArya/org-protocol.nvim//)
-- [SidharthArya starred getify/CAF](https://github.com/getify/CAF)
-- [SidharthArya starred tpope/vim-surround](https://github.com/tpope/vim-surround)
 <!-- GITHUB:END -->
 
 ## Top Followers
