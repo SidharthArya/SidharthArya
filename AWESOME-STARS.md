@@ -528,6 +528,7 @@
 
 ## Go 
 
+- [inancgumus/learngo](https://github.com/inancgumus/learngo) - 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes
 - [gravitational/teleport](https://github.com/gravitational/teleport) - The easiest, most secure way to access infrastructure.
 - [pomerium/pomerium](https://github.com/pomerium/pomerium) - Pomerium is an identity and context-aware access proxy.
 - [labstack/echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework
@@ -717,6 +718,8 @@
 
 ## JavaScript 
 
+- [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated coding interview preparation materials for busy software engineers
+- [sudheerj/reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions) - List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!
 - [nightwatchjs/nightwatch](https://github.com/nightwatchjs/nightwatch) - End-to-end testing framework written in Node.js and using the W3C Webdriver API
 - [iamkun/dayjs](https://github.com/iamkun/dayjs) - ⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API
 - [getify/CAF](https://github.com/getify/CAF) - Cancelable Async Flows (CAF)
@@ -920,6 +923,7 @@
 
 ## Jupyter Notebook 
 
+- [epfml/ML_course](https://github.com/epfml/ML_course) - EPFL Machine Learning Course, Fall 2021
 - [karpathy/nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero) - Neural Networks: Zero to Hero
 - [mrdbourke/pytorch-deep-learning](https://github.com/mrdbourke/pytorch-deep-learning) - Materials for the Learn PyTorch for Deep Learning: Zero to Mastery course.
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
@@ -1064,6 +1068,9 @@
 
 ## Others 
 
+- [lydiahallie/javascript-questions](https://github.com/lydiahallie/javascript-questions) - A long list of (advanced) JavaScript questions, and their explanations :sparkles:
+- [vasanthk/how-web-works](https://github.com/vasanthk/how-web-works) - What happens behind the scenes when we type www.google.com in a browser?
+- [MahdiMashrur/Awesome-Application-Security-Checklist](https://github.com/MahdiMashrur/Awesome-Application-Security-Checklist) - Checklist of the most important security countermeasures when designing, creating, testing  your web/mobile application
 - [nuxt-community/awesome-nuxt](https://github.com/nuxt-community/awesome-nuxt) - A curated list of awesome things related to Nuxt.js
 - [eugeneyan/applied-ml](https://github.com/eugeneyan/applied-ml) - 📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.
 - [dformoso/deeplearning-mindmap](https://github.com/dformoso/deeplearning-mindmap) - A mindmap summarising Deep Learning concepts.
@@ -1208,6 +1215,7 @@
 
 ## Python 
 
+- [Azure/azure-sdk-for-python](https://github.com/Azure/azure-sdk-for-python) - This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/python/azure/ or our versi
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [unifyai/ivy](https://github.com/unifyai/ivy) - The Unified Machine Learning Framework
 - [OpenEthan/SMSBoom](https://github.com/OpenEthan/SMSBoom) - 短信轰炸/短信测压/ | 一个健壮免费的python短信轰炸程序，专门炸坏蛋蛋，百万接口，多线程全自动添加有效接口，支持异步协程百万并发，全免费的短信轰炸工具！！hongkonger开发全网首发！！
@@ -1376,7 +1384,7 @@
 - [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools
 - [Jack-Cherish/Machine-Learning](https://github.com/Jack-Cherish/Machine-Learning) - :zap:机器学习实战（Python3）：kNN、决策树、贝叶斯、逻辑回归、SVM、线性回归、树回归
 - [asteroid-team/asteroid](https://github.com/asteroid-team/asteroid) - The PyTorch-based audio source separation toolkit for researchers
-- [activeloopai/Hub](https://github.com/activeloopai/Hub) - Dataset format for AI. Build, manage, query & visualize datasets for deep learning. Stream data real-time to PyTorch/TensorFlow & version-control it. https://activeloop.ai
+- [activeloopai/deeplake](https://github.com/activeloopai/deeplake) - Data Lake for Deep Learning. Build, manage, query & visualize datasets for deep learning. Stream data real-time to PyTorch/TensorFlow & version-control it. https://activeloop.ai
 - [kedro-org/kedro](https://github.com/kedro-org/kedro) - A Python framework for creating reproducible, maintainable and modular data science code.
 - [great-expectations/great_expectations](https://github.com/great-expectations/great_expectations) - Always know what to expect from your data.
 - [Netflix/metaflow](https://github.com/Netflix/metaflow) - :rocket: Build and manage real-life data science projects with ease!
@@ -1602,7 +1610,7 @@
 - [tensorflow/models](https://github.com/tensorflow/models) - Models and examples built with TensorFlow
 - [aaron-xichen/pytorch-playground](https://github.com/aaron-xichen/pytorch-playground) - Base pretrained models and datasets in pytorch (MNIST, SVHN, CIFAR10, CIFAR100, STL10, AlexNet, VGG16, VGG19, ResNet, Inception, SqueezeNet)
 - [Cadene/pretrained-models.pytorch](https://github.com/Cadene/pretrained-models.pytorch) - Pretrained ConvNets for pytorch: NASNet, ResNeXt, ResNet, InceptionV4, InceptionResnetV2, Xception, DPN, etc.
-- [heartexlabs/labelImg](https://github.com/heartexlabs/labelImg) - 🖍️ LabelImg is a graphical image annotation tool and label object bounding boxes in images
+- [heartexlabs/labelImg](https://github.com/heartexlabs/labelImg) - LabelImg is now part of the Label Studio community. The popular image annotation tool created by Tzutalin is no longer actively being developed, but you can check out Label Studio, the open source dat
 - [alexjc/neural-doodle](https://github.com/alexjc/neural-doodle) - Turn your two-bit doodles into fine artworks with deep neural networks, generate seamless textures from photos, transfer style from one image to another, perform example-based upscaling, but wait... t
 - [lengstrom/fast-style-transfer](https://github.com/lengstrom/fast-style-transfer) - TensorFlow CNN for fast style transfer ⚡🖥🎨🖼
 - [keras-team/keras](https://github.com/keras-team/keras) - Deep Learning for humans
@@ -1844,6 +1852,8 @@
 
 ## TypeScript 
 
+- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - 🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch!
+- [desktop/desktop](https://github.com/desktop/desktop) - Simple collaboration from your desktop
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 - [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
 - [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for TS/JS, React, Solid, Svelte and Vue.
