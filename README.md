@@ -87,16 +87,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
-- [SidharthArya starred bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises)
-- [SidharthArya starred unifyai/ivy](https://github.com/unifyai/ivy)
-- [SidharthArya starred extrawurst/gitui](https://github.com/extrawurst/gitui)
-- [SidharthArya starred nuttyartist/notes](https://github.com/nuttyartist/notes)
-- [SidharthArya starred OpenEthan/SMSBoom](https://github.com/OpenEthan/SMSBoom)
-- [SidharthArya starred karpathy/nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero)
-- [SidharthArya starred mrdbourke/pytorch-deep-learning](https://github.com/mrdbourke/pytorch-deep-learning)
-- [SidharthArya starred agkozak/zsh-z](https://github.com/agkozak/zsh-z)
-- [SidharthArya starred mozilla/sccache](https://github.com/mozilla/sccache)
-- [SidharthArya pushed to main in SidharthArya/.nvim](https://github.com/SidharthArya/.nvim/compare/00b4980440...cd577ed644)
+- [SidharthArya starred inancgumus/learngo](https://github.com/inancgumus/learngo)
+- [SidharthArya starred yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
+- [SidharthArya starred epfml/ML_course](https://github.com/epfml/ML_course)
+- [SidharthArya starred AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com)
+- [SidharthArya starred lydiahallie/javascript-questions](https://github.com/lydiahallie/javascript-questions)
+- [SidharthArya starred sudheerj/reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions)
+- [SidharthArya starred desktop/desktop](https://github.com/desktop/desktop)
+- [SidharthArya starred vasanthk/how-web-works](https://github.com/vasanthk/how-web-works)
+- [SidharthArya starred MahdiMashrur/Awesome-Application-Security-Checklist](https://github.com/MahdiMashrur/Awesome-Application-Security-Checklist)
+- [SidharthArya starred Azure/azure-sdk-for-python](https://github.com/Azure/azure-sdk-for-python)
 <!-- GITHUB:END -->
 
 ## Top Followers
