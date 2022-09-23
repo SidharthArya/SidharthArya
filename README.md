@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to master in SidharthArya/scripts](https://github.com/SidharthArya/scripts/compare/8e1fb1b84b...a3cea1636a)
 - [SidharthArya starred inancgumus/learngo](https://github.com/inancgumus/learngo)
 - [SidharthArya starred yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
 - [SidharthArya starred epfml/ML_course](https://github.com/epfml/ML_course)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred desktop/desktop](https://github.com/desktop/desktop)
 - [SidharthArya starred vasanthk/how-web-works](https://github.com/vasanthk/how-web-works)
 - [SidharthArya starred MahdiMashrur/Awesome-Application-Security-Checklist](https://github.com/MahdiMashrur/Awesome-Application-Security-Checklist)
-- [SidharthArya starred Azure/azure-sdk-for-python](https://github.com/Azure/azure-sdk-for-python)
 <!-- GITHUB:END -->
 
 ## Top Followers
