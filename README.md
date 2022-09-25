@@ -87,16 +87,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
-- [SidharthArya starred exelban/stats](https://github.com/exelban/stats)
-- [SidharthArya starred ReactNativeNews/React-Native-Apps](https://github.com/ReactNativeNews/React-Native-Apps)
-- [SidharthArya starred slint-ui/slint](https://github.com/slint-ui/slint)
-- [SidharthArya starred vector-im/element-android](https://github.com/vector-im/element-android)
-- [SidharthArya starred felixge/fgtrace](https://github.com/felixge/fgtrace)
-- [SidharthArya starred albfan/miraclecast](https://github.com/albfan/miraclecast)
-- [SidharthArya starred nestjs/typescript-starter](https://github.com/nestjs/typescript-starter)
-- [SidharthArya created a branch master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/master)
-- [SidharthArya created a repository SidharthArya/braindump](https://github.com/SidharthArya/braindump//)
-- [SidharthArya starred inloop/sqlite-viewer](https://github.com/inloop/sqlite-viewer)
+- [SidharthArya starred steven-tey/dub](https://github.com/steven-tey/dub)
+- [SidharthArya starred openai/whisper](https://github.com/openai/whisper)
+- [SidharthArya starred doocs/advanced-java](https://github.com/doocs/advanced-java)
+- [SidharthArya starred MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps)
+- [SidharthArya starred catchorg/Catch2](https://github.com/catchorg/Catch2)
+- [SidharthArya starred salesforce/LAVIS](https://github.com/salesforce/LAVIS)
+- [SidharthArya starred xkcoding/spring-boot-demo](https://github.com/xkcoding/spring-boot-demo)
+- [SidharthArya starred InterviewReady/system-design-resources](https://github.com/InterviewReady/system-design-resources)
+- [SidharthArya starred wailsapp/wails](https://github.com/wailsapp/wails)
+- [SidharthArya starred zinclabs/zinc](https://github.com/zinclabs/zinc)
 <!-- GITHUB:END -->
 
 ## Top Followers
