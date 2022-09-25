@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred tmux-plugins/tmux-yank](https://github.com/tmux-plugins/tmux-yank)
 - [SidharthArya starred steven-tey/dub](https://github.com/steven-tey/dub)
 - [SidharthArya starred openai/whisper](https://github.com/openai/whisper)
 - [SidharthArya starred doocs/advanced-java](https://github.com/doocs/advanced-java)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred xkcoding/spring-boot-demo](https://github.com/xkcoding/spring-boot-demo)
 - [SidharthArya starred InterviewReady/system-design-resources](https://github.com/InterviewReady/system-design-resources)
 - [SidharthArya starred wailsapp/wails](https://github.com/wailsapp/wails)
-- [SidharthArya starred zinclabs/zinc](https://github.com/zinclabs/zinc)
 <!-- GITHUB:END -->
 
 ## Top Followers
