@@ -323,7 +323,6 @@
 
 ## Cython 
 
-- [pyutils/line_profiler](https://github.com/pyutils/line_profiler) - Line-by-line profiling for Python
 - [mrjbq7/ta-lib](https://github.com/mrjbq7/ta-lib) - Python wrapper for TA-Lib (http://ta-lib.org/).
 - [openai/mujoco-py](https://github.com/openai/mujoco-py) - MuJoCo is a physics engine for detailed, efficient rigid body simulations with contacts. mujoco-py allows using MuJoCo from Python 3.
 
@@ -1384,12 +1383,13 @@
 - [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools
 - [Jack-Cherish/Machine-Learning](https://github.com/Jack-Cherish/Machine-Learning) - :zap:机器学习实战（Python3）：kNN、决策树、贝叶斯、逻辑回归、SVM、线性回归、树回归
 - [asteroid-team/asteroid](https://github.com/asteroid-team/asteroid) - The PyTorch-based audio source separation toolkit for researchers
-- [activeloopai/deeplake](https://github.com/activeloopai/deeplake) - Data Lake for Deep Learning. Build, manage, query & visualize datasets for deep learning. Stream data real-time to PyTorch/TensorFlow & version-control it. https://activeloop.ai
+- [activeloopai/deeplake](https://github.com/activeloopai/deeplake) - Data Lake for Deep Learning. Build, manage, query, version, & visualize datasets. Stream data real-time to PyTorch/TensorFlow. https://activeloop.ai
 - [kedro-org/kedro](https://github.com/kedro-org/kedro) - A Python framework for creating reproducible, maintainable and modular data science code.
 - [great-expectations/great_expectations](https://github.com/great-expectations/great_expectations) - Always know what to expect from your data.
 - [Netflix/metaflow](https://github.com/Netflix/metaflow) - :rocket: Build and manage real-life data science projects with ease!
 - [microsoft/MMdnn](https://github.com/microsoft/MMdnn) - MMdnn is a set of tools to help users inter-operate among different deep learning frameworks. E.g. model conversion and visualization. Convert models between Caffe, Keras, MXNet, Tensorflow, CNTK, PyT
 - [pseeth/torch-stft](https://github.com/pseeth/torch-stft) - An STFT/iSTFT for PyTorch.
+- [pyutils/line_profiler](https://github.com/pyutils/line_profiler) - Line-by-line profiling for Python
 - [sumerc/yappi](https://github.com/sumerc/yappi) - Yet Another Python Profiler, but this time multithreading, asyncio and gevent aware.
 - [python/cpython](https://github.com/python/cpython) - The Python programming language
 - [joerick/pyinstrument](https://github.com/joerick/pyinstrument) - 🚴 Call stack profiler for Python. Shows you why your code is slow!
