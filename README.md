@@ -87,16 +87,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
-- [SidharthArya pushed to master in SidharthArya/scripts](https://github.com/SidharthArya/scripts/compare/8e1fb1b84b...a3cea1636a)
-- [SidharthArya starred inancgumus/learngo](https://github.com/inancgumus/learngo)
-- [SidharthArya starred yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
-- [SidharthArya starred epfml/ML_course](https://github.com/epfml/ML_course)
-- [SidharthArya starred AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com)
-- [SidharthArya starred lydiahallie/javascript-questions](https://github.com/lydiahallie/javascript-questions)
-- [SidharthArya starred sudheerj/reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions)
-- [SidharthArya starred desktop/desktop](https://github.com/desktop/desktop)
-- [SidharthArya starred vasanthk/how-web-works](https://github.com/vasanthk/how-web-works)
-- [SidharthArya starred MahdiMashrur/Awesome-Application-Security-Checklist](https://github.com/MahdiMashrur/Awesome-Application-Security-Checklist)
+- [SidharthArya starred exelban/stats](https://github.com/exelban/stats)
+- [SidharthArya starred ReactNativeNews/React-Native-Apps](https://github.com/ReactNativeNews/React-Native-Apps)
+- [SidharthArya starred slint-ui/slint](https://github.com/slint-ui/slint)
+- [SidharthArya starred vector-im/element-android](https://github.com/vector-im/element-android)
+- [SidharthArya starred felixge/fgtrace](https://github.com/felixge/fgtrace)
+- [SidharthArya starred albfan/miraclecast](https://github.com/albfan/miraclecast)
+- [SidharthArya starred nestjs/typescript-starter](https://github.com/nestjs/typescript-starter)
+- [SidharthArya created a branch master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/master)
+- [SidharthArya created a repository SidharthArya/braindump](https://github.com/SidharthArya/braindump//)
+- [SidharthArya starred inloop/sqlite-viewer](https://github.com/inloop/sqlite-viewer)
 <!-- GITHUB:END -->
 
 ## Top Followers
