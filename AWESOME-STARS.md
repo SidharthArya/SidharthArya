@@ -86,6 +86,8 @@
 
 ## C 
 
+- [coolsnowwolf/lede](https://github.com/coolsnowwolf/lede) - Lean's OpenWrt source
+- [albfan/miraclecast](https://github.com/albfan/miraclecast) - Connect external monitors to your system via Wifi-Display specification also known as Miracast
 - [bztsrc/raspi3-tutorial](https://github.com/bztsrc/raspi3-tutorial) - Bare metal Raspberry Pi 3 tutorials
 - [neomutt/neomutt](https://github.com/neomutt/neomutt) - ✉️ Teaching an Old Dog New Tricks -- IRC: #neomutt on irc.libera.chat
 - [vysheng/tg](https://github.com/vysheng/tg) - telegram-cli
@@ -191,6 +193,10 @@
 
 ## C++ 
 
+- [catchorg/Catch2](https://github.com/catchorg/Catch2) - A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)
+- [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
+- [google/tensorstore](https://github.com/google/tensorstore) - Library for reading and writing large multi-dimensional arrays.
+- [jzimmerman/langcc](https://github.com/jzimmerman/langcc) - langcc: A Next-Generation Compiler Compiler
 - [nuttyartist/notes](https://github.com/nuttyartist/notes) - Note-taking application, write down your thoughts.
 - [brndnmtthws/conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X (and other things, too)
 - [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) - Karabiner-Elements is a powerful utility for keyboard customization on macOS Sierra (10.12) or later.
@@ -296,6 +302,7 @@
 
 ## CSS 
 
+- [inloop/sqlite-viewer](https://github.com/inloop/sqlite-viewer) - View SQLite file online
 - [bradtraversy/50projects50days](https://github.com/bradtraversy/50projects50days) - 50+ mini web projects using HTML, CSS & JS
 - [aws-samples/eks-workshop](https://github.com/aws-samples/eks-workshop) - AWS Workshop for Learning EKS
 - [necolas/normalize.css](https://github.com/necolas/normalize.css) - A modern alternative to CSS resets
@@ -328,6 +335,7 @@
 
 ## Dart 
 
+- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [dart-lang/dart_style](https://github.com/dart-lang/dart_style) - An opinionated formatter/linter for Dart code
 - [jonbhanson/flutter_native_splash](https://github.com/jonbhanson/flutter_native_splash) - Automatically generates native code for adding splash screens in Android and iOS. Customize with specific platform, background color and splash image.
 - [angulardart/angular](https://github.com/angulardart/angular) - Fast and productive web framework provided by Dart
@@ -348,6 +356,7 @@
 
 ## Dockerfile 
 
+- [vulhub/vulhub](https://github.com/vulhub/vulhub) - Pre-Built Vulnerable Environments Based on Docker-Compose
 - [skeeto/w64devkit](https://github.com/skeeto/w64devkit) - Portable C and C++ Development Kit for x64 (and x86) Windows
 
 ## Elm 
@@ -527,6 +536,9 @@
 
 ## Go 
 
+- [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
+- [zinclabs/zinc](https://github.com/zinclabs/zinc) - ZincSearch. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
+- [felixge/fgtrace](https://github.com/felixge/fgtrace) - fgtrace is an experimental profiler/tracer that is capturing wallclock timelines for each goroutine. It's very similar to the Chrome profiler.
 - [inancgumus/learngo](https://github.com/inancgumus/learngo) - 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes
 - [gravitational/teleport](https://github.com/gravitational/teleport) - The easiest, most secure way to access infrastructure.
 - [pomerium/pomerium](https://github.com/pomerium/pomerium) - Pomerium is an identity and context-aware access proxy.
@@ -671,6 +683,8 @@
 
 ## Java 
 
+- [doocs/advanced-java](https://github.com/doocs/advanced-java) - 😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识
+- [xkcoding/spring-boot-demo](https://github.com/xkcoding/spring-boot-demo) - 该项目已成功集成 actuator(监控)、admin(可视化监控)、logback(日志)、aopLog(通过AOP记录web请求日志)、统一异常处理(json级别和页面级别)、freemarker(模板引擎)、thymeleaf(模板引擎)、Beetl(模板引擎)、Enjoy(模板引擎)、JdbcTemplate(通用JDBC操作数据库)、JPA(强大的ORM框架)、mybatis(强大的OR
 - [databricks/learning-spark](https://github.com/databricks/learning-spark) - Example code from Learning Spark book
 - [neo4j/neo4j](https://github.com/neo4j/neo4j) - Graphs for Everyone
 - [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open, Distributed, RESTful Search Engine
@@ -922,6 +936,8 @@
 
 ## Jupyter Notebook 
 
+- [openai/whisper](https://github.com/openai/whisper) - 
+- [XavierXiao/Dreambooth-Stable-Diffusion](https://github.com/XavierXiao/Dreambooth-Stable-Diffusion) - Implementation of Dreambooth (https://arxiv.org/abs/2208.12242) with Stable Diffusion
 - [epfml/ML_course](https://github.com/epfml/ML_course) - EPFL Machine Learning Course, Fall 2021
 - [karpathy/nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero) - Neural Networks: Zero to Hero
 - [mrdbourke/pytorch-deep-learning](https://github.com/mrdbourke/pytorch-deep-learning) - Materials for the Learn PyTorch for Deep Learning: Zero to Mastery course.
@@ -981,12 +997,13 @@
 - [huseinzol05/Stock-Prediction-Models](https://github.com/huseinzol05/Stock-Prediction-Models) - Gathers machine learning and deep learning models for Stock forecasting including trading bots and simulations
 - [rasbt/deeplearning-models](https://github.com/rasbt/deeplearning-models) - A collection of various deep learning architectures, models, and tips
 - [zslucky/awesome-AI-books](https://github.com/zslucky/awesome-AI-books) - Some awesome AI related books and pdfs for learning and downloading, also apply some playground models for learning
-- [ageron/handson-ml](https://github.com/ageron/handson-ml) - A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in python using Scikit-Learn and TensorFlow.
+- [ageron/handson-ml](https://github.com/ageron/handson-ml) - ⛔️ DEPRECATED See ageron/handson-ml3 instead. This project contains a series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in python using Scikit-Le
 - [jakevdp/PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook) - Python Data Science Handbook: full text in Jupyter Notebooks
 - [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to responsibly deliver value with machine learning.
 
 ## Kotlin 
 
+- [vector-im/element-android](https://github.com/vector-im/element-android) - A glossy Matrix collaboration client for Android.
 - [android/nowinandroid](https://github.com/android/nowinandroid) - A fully functional Android app built entirely with Kotlin and Jetpack Compose
 - [android/compose-samples](https://github.com/android/compose-samples) - Official Jetpack Compose samples.
 - [android/sunflower](https://github.com/android/sunflower) - A gardening app illustrating Android development best practices with Android Jetpack.
@@ -1067,6 +1084,8 @@
 
 ## Others 
 
+- [InterviewReady/system-design-resources](https://github.com/InterviewReady/system-design-resources) - These are the best resources for System Design on the Internet
+- [ReactNativeNews/React-Native-Apps](https://github.com/ReactNativeNews/React-Native-Apps) - Curated List of Open Source React Native Apps.  Curation curtesy of
 - [lydiahallie/javascript-questions](https://github.com/lydiahallie/javascript-questions) - A long list of (advanced) JavaScript questions, and their explanations :sparkles:
 - [vasanthk/how-web-works](https://github.com/vasanthk/how-web-works) - What happens behind the scenes when we type www.google.com in a browser?
 - [MahdiMashrur/Awesome-Application-Security-Checklist](https://github.com/MahdiMashrur/Awesome-Application-Security-Checklist) - Checklist of the most important security countermeasures when designing, creating, testing  your web/mobile application
@@ -1214,6 +1233,7 @@
 
 ## Python 
 
+- [salesforce/LAVIS](https://github.com/salesforce/LAVIS) - LAVIS - A One-stop Library for Language-Vision Intelligence
 - [Azure/azure-sdk-for-python](https://github.com/Azure/azure-sdk-for-python) - This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/python/azure/ or our versi
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [unifyai/ivy](https://github.com/unifyai/ivy) - The Unified Machine Learning Framework
@@ -1675,6 +1695,8 @@
 
 ## Rust 
 
+- [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
+- [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a toolkit to efficiently develop fluid graphical user interfaces for any display: embedded devices and desktop applications. We support multiple programming languages, such as Rust, C++ or Ja
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [mozilla/sccache](https://github.com/mozilla/sccache) - sccache is ccache with cloud storage
 - [rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials) - :books: Learn to write an embedded OS in Rust :crab:
@@ -1741,6 +1763,10 @@
 
 ## Shell 
 
+- [tmux-plugins/tmux-continuum](https://github.com/tmux-plugins/tmux-continuum) - Continuous saving of tmux environment. Automatic restore when tmux is started. Automatic tmux start when computer is turned on.
+- [tmux-plugins/tmux-yank](https://github.com/tmux-plugins/tmux-yank) - Tmux plugin for copying to system clipboard. Works on OSX, Linux and Cygwin.
+- [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an 
+- [pi-hole/docker-pi-hole](https://github.com/pi-hole/docker-pi-hole) - Pi-hole in a docker container
 - [agkozak/zsh-z](https://github.com/agkozak/zsh-z) - Jump quickly to directories that you have visited "frecently." A native Zsh port of z.sh with added features.
 - [foxlet/macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM) - Tools to set up a quick macOS VM in QEMU, accelerated by KVM.
 - [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
@@ -1818,6 +1844,7 @@
 
 ## Swift 
 
+- [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar
 - [ReactiveX/RxSwift](https://github.com/ReactiveX/RxSwift) - Reactive Programming in Swift
 - [qvacua/vimr](https://github.com/qvacua/vimr) - VimR — Neovim GUI for macOS in Swift
 - [JadenGeller/Helium](https://github.com/JadenGeller/Helium) - A floating browser window for OS X
@@ -1852,6 +1879,8 @@
 
 ## TypeScript 
 
+- [steven-tey/dub](https://github.com/steven-tey/dub) - An open-source link shortener with built-in analytics + free custom domains.
+- [nestjs/typescript-starter](https://github.com/nestjs/typescript-starter) - Nest framework TypeScript starter :coffee:
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - 🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch!
 - [desktop/desktop](https://github.com/desktop/desktop) - Simple collaboration from your desktop
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
