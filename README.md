@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days)
+- [SidharthArya starred microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners)
 - [SidharthArya starred tmux-plugins/tmux-continuum](https://github.com/tmux-plugins/tmux-continuum)
 - [SidharthArya starred tmux-plugins/tmux-yank](https://github.com/tmux-plugins/tmux-yank)
 - [SidharthArya starred steven-tey/dub](https://github.com/steven-tey/dub)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps)
 - [SidharthArya starred catchorg/Catch2](https://github.com/catchorg/Catch2)
 - [SidharthArya starred salesforce/LAVIS](https://github.com/salesforce/LAVIS)
-- [SidharthArya starred xkcoding/spring-boot-demo](https://github.com/xkcoding/spring-boot-demo)
-- [SidharthArya starred InterviewReady/system-design-resources](https://github.com/InterviewReady/system-design-resources)
 <!-- GITHUB:END -->
 
 ## Top Followers
