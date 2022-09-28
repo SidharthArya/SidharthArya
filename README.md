@@ -87,16 +87,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
+- [SidharthArya starred Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes)
+- [SidharthArya starred yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db)
+- [SidharthArya starred facebook/jest](https://github.com/facebook/jest)
+- [SidharthArya starred karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design)
+- [SidharthArya starred nlohmann/json](https://github.com/nlohmann/json)
+- [SidharthArya starred Azure/azure-sdk-for-js](https://github.com/Azure/azure-sdk-for-js)
+- [SidharthArya starred prisma/prisma](https://github.com/prisma/prisma)
+- [SidharthArya starred medusajs/medusa](https://github.com/medusajs/medusa)
 - [SidharthArya starred jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days)
-- [SidharthArya starred microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners)
-- [SidharthArya starred tmux-plugins/tmux-continuum](https://github.com/tmux-plugins/tmux-continuum)
-- [SidharthArya starred tmux-plugins/tmux-yank](https://github.com/tmux-plugins/tmux-yank)
-- [SidharthArya starred steven-tey/dub](https://github.com/steven-tey/dub)
-- [SidharthArya starred openai/whisper](https://github.com/openai/whisper)
-- [SidharthArya starred doocs/advanced-java](https://github.com/doocs/advanced-java)
-- [SidharthArya starred MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps)
-- [SidharthArya starred catchorg/Catch2](https://github.com/catchorg/Catch2)
-- [SidharthArya starred salesforce/LAVIS](https://github.com/salesforce/LAVIS)
 <!-- GITHUB:END -->
 
 ## Top Followers
