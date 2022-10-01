@@ -87,16 +87,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred argoproj/argo-cd](https://github.com/argoproj/argo-cd)
+- [SidharthArya starred SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium)
+- [SidharthArya starred cypress-io/cypress](https://github.com/cypress-io/cypress)
+- [SidharthArya starred fluent/fluent-bit](https://github.com/fluent/fluent-bit)
+- [SidharthArya starred total-typescript/typescript-generics-workshop](https://github.com/total-typescript/typescript-generics-workshop)
+- [SidharthArya starred lidangzzz/How-to-run](https://github.com/lidangzzz/How-to-run)
+- [SidharthArya starred cloudflare/workerd](https://github.com/cloudflare/workerd)
+- [SidharthArya starred GoVanguard/list-infosec-encyclopedia](https://github.com/GoVanguard/list-infosec-encyclopedia)
 - [SidharthArya starred firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
 - [SidharthArya starred Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes)
-- [SidharthArya starred yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db)
-- [SidharthArya starred facebook/jest](https://github.com/facebook/jest)
-- [SidharthArya starred karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design)
-- [SidharthArya starred nlohmann/json](https://github.com/nlohmann/json)
-- [SidharthArya starred Azure/azure-sdk-for-js](https://github.com/Azure/azure-sdk-for-js)
-- [SidharthArya starred prisma/prisma](https://github.com/prisma/prisma)
-- [SidharthArya starred medusajs/medusa](https://github.com/medusajs/medusa)
-- [SidharthArya starred jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days)
 <!-- GITHUB:END -->
 
 ## Top Followers
