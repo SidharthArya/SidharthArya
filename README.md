@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred total-typescript/beginners-typescript-tutorial](https://github.com/total-typescript/beginners-typescript-tutorial)
+- [SidharthArya starred lkwq007/stablediffusion-infinity](https://github.com/lkwq007/stablediffusion-infinity)
 - [SidharthArya starred argoproj/argo-cd](https://github.com/argoproj/argo-cd)
 - [SidharthArya starred SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium)
 - [SidharthArya starred cypress-io/cypress](https://github.com/cypress-io/cypress)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred lidangzzz/How-to-run](https://github.com/lidangzzz/How-to-run)
 - [SidharthArya starred cloudflare/workerd](https://github.com/cloudflare/workerd)
 - [SidharthArya starred GoVanguard/list-infosec-encyclopedia](https://github.com/GoVanguard/list-infosec-encyclopedia)
-- [SidharthArya starred firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
-- [SidharthArya starred Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes)
 <!-- GITHUB:END -->
 
 ## Top Followers
