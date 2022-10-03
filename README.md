@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred duckdb/duckdb](https://github.com/duckdb/duckdb)
 - [SidharthArya starred turbot/steampipe](https://github.com/turbot/steampipe)
 - [SidharthArya starred HavocFramework/Havoc](https://github.com/HavocFramework/Havoc)
 - [SidharthArya starred kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred argoproj/argo-cd](https://github.com/argoproj/argo-cd)
 - [SidharthArya starred SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium)
 - [SidharthArya starred cypress-io/cypress](https://github.com/cypress-io/cypress)
-- [SidharthArya starred fluent/fluent-bit](https://github.com/fluent/fluent-bit)
 <!-- GITHUB:END -->
 
 ## Top Followers
