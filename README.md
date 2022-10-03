@@ -87,16 +87,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred turbot/steampipe](https://github.com/turbot/steampipe)
+- [SidharthArya starred HavocFramework/Havoc](https://github.com/HavocFramework/Havoc)
+- [SidharthArya starred kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+- [SidharthArya starred bitcoin/bips](https://github.com/bitcoin/bips)
 - [SidharthArya starred total-typescript/beginners-typescript-tutorial](https://github.com/total-typescript/beginners-typescript-tutorial)
 - [SidharthArya starred lkwq007/stablediffusion-infinity](https://github.com/lkwq007/stablediffusion-infinity)
 - [SidharthArya starred argoproj/argo-cd](https://github.com/argoproj/argo-cd)
 - [SidharthArya starred SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium)
 - [SidharthArya starred cypress-io/cypress](https://github.com/cypress-io/cypress)
 - [SidharthArya starred fluent/fluent-bit](https://github.com/fluent/fluent-bit)
-- [SidharthArya starred total-typescript/typescript-generics-workshop](https://github.com/total-typescript/typescript-generics-workshop)
-- [SidharthArya starred lidangzzz/How-to-run](https://github.com/lidangzzz/How-to-run)
-- [SidharthArya starred cloudflare/workerd](https://github.com/cloudflare/workerd)
-- [SidharthArya starred GoVanguard/list-infosec-encyclopedia](https://github.com/GoVanguard/list-infosec-encyclopedia)
 <!-- GITHUB:END -->
 
 ## Top Followers
