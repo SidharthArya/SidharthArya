@@ -87,6 +87,9 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya created a repository SidharthArya/setup](https://github.com/SidharthArya/setup//)
+- [SidharthArya starred mamba-org/mamba](https://github.com/mamba-org/mamba)
+- [SidharthArya starred mauhai/awesome-jupyterlab](https://github.com/mauhai/awesome-jupyterlab)
 - [SidharthArya starred stefanprodan/podinfo](https://github.com/stefanprodan/podinfo)
 - [SidharthArya starred shengcaishizhan/kkndme_tianya](https://github.com/shengcaishizhan/kkndme_tianya)
 - [SidharthArya starred iced-rs/iced](https://github.com/iced-rs/iced)
@@ -94,9 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred duckdb/duckdb](https://github.com/duckdb/duckdb)
 - [SidharthArya starred turbot/steampipe](https://github.com/turbot/steampipe)
 - [SidharthArya starred HavocFramework/Havoc](https://github.com/HavocFramework/Havoc)
-- [SidharthArya starred kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [SidharthArya starred bitcoin/bips](https://github.com/bitcoin/bips)
-- [SidharthArya starred total-typescript/beginners-typescript-tutorial](https://github.com/total-typescript/beginners-typescript-tutorial)
 <!-- GITHUB:END -->
 
 ## Top Followers
