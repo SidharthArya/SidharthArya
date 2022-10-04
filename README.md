@@ -87,6 +87,9 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred shengcaishizhan/kkndme_tianya](https://github.com/shengcaishizhan/kkndme_tianya)
+- [SidharthArya starred iced-rs/iced](https://github.com/iced-rs/iced)
+- [SidharthArya starred nats-io/nats-server](https://github.com/nats-io/nats-server)
 - [SidharthArya starred duckdb/duckdb](https://github.com/duckdb/duckdb)
 - [SidharthArya starred turbot/steampipe](https://github.com/turbot/steampipe)
 - [SidharthArya starred HavocFramework/Havoc](https://github.com/HavocFramework/Havoc)
@@ -94,9 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred bitcoin/bips](https://github.com/bitcoin/bips)
 - [SidharthArya starred total-typescript/beginners-typescript-tutorial](https://github.com/total-typescript/beginners-typescript-tutorial)
 - [SidharthArya starred lkwq007/stablediffusion-infinity](https://github.com/lkwq007/stablediffusion-infinity)
-- [SidharthArya starred argoproj/argo-cd](https://github.com/argoproj/argo-cd)
-- [SidharthArya starred SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium)
-- [SidharthArya starred cypress-io/cypress](https://github.com/cypress-io/cypress)
 <!-- GITHUB:END -->
 
 ## Top Followers
