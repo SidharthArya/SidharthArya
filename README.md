@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred stefanprodan/podinfo](https://github.com/stefanprodan/podinfo)
 - [SidharthArya starred shengcaishizhan/kkndme_tianya](https://github.com/shengcaishizhan/kkndme_tianya)
 - [SidharthArya starred iced-rs/iced](https://github.com/iced-rs/iced)
 - [SidharthArya starred nats-io/nats-server](https://github.com/nats-io/nats-server)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
 - [SidharthArya starred bitcoin/bips](https://github.com/bitcoin/bips)
 - [SidharthArya starred total-typescript/beginners-typescript-tutorial](https://github.com/total-typescript/beginners-typescript-tutorial)
-- [SidharthArya starred lkwq007/stablediffusion-infinity](https://github.com/lkwq007/stablediffusion-infinity)
 <!-- GITHUB:END -->
 
 ## Top Followers
