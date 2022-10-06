@@ -190,21 +190,12 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       <a href="https://github.com/portgasray">Lei Zhang</a>
     </td>
     <td align="center">
-      <a href="https://github.com/alaaboubrima">
-        <img src="https://avatars2.githubusercontent.com/u/97070504" width="100px;" alt="alaaboubrima"/>
-      </a>
-      <br />
-      <a href="https://github.com/alaaboubrima">A L A A</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/G0rav">
         <img src="https://avatars2.githubusercontent.com/u/62126889" width="100px;" alt="G0rav"/>
       </a>
       <br />
       <a href="https://github.com/G0rav">Gaurav</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/relativelyrehan">
         <img src="https://avatars2.githubusercontent.com/u/48210765" width="100px;" alt="relativelyrehan"/>
@@ -212,6 +203,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       <br />
       <a href="https://github.com/relativelyrehan">rreel </a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/Kushpad">
         <img src="https://avatars2.githubusercontent.com/u/89928620" width="100px;" alt="Kushpad"/>
@@ -253,6 +246,13 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       </a>
       <br />
       <a href="https://github.com/souvikg123">souvikg123</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/snuffop">
+        <img src="https://avatars2.githubusercontent.com/u/40603030" width="100px;" alt="snuffop"/>
+      </a>
+      <br />
+      <a href="https://github.com/snuffop">Marty Buchaus</a>
     </td>
   </tr>
 </table>
