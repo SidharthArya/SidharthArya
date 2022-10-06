@@ -87,6 +87,9 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred copy/v86](https://github.com/copy/v86)
+- [SidharthArya starred snaplet/postgres-wasm](https://github.com/snaplet/postgres-wasm)
+- [SidharthArya starred facebookincubator/AITemplate](https://github.com/facebookincubator/AITemplate)
 - [SidharthArya created a repository SidharthArya/setup](https://github.com/SidharthArya/setup//)
 - [SidharthArya starred mamba-org/mamba](https://github.com/mamba-org/mamba)
 - [SidharthArya starred mauhai/awesome-jupyterlab](https://github.com/mauhai/awesome-jupyterlab)
@@ -94,9 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred shengcaishizhan/kkndme_tianya](https://github.com/shengcaishizhan/kkndme_tianya)
 - [SidharthArya starred iced-rs/iced](https://github.com/iced-rs/iced)
 - [SidharthArya starred nats-io/nats-server](https://github.com/nats-io/nats-server)
-- [SidharthArya starred duckdb/duckdb](https://github.com/duckdb/duckdb)
-- [SidharthArya starred turbot/steampipe](https://github.com/turbot/steampipe)
-- [SidharthArya starred HavocFramework/Havoc](https://github.com/HavocFramework/Havoc)
 <!-- GITHUB:END -->
 
 ## Top Followers
