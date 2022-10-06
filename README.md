@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred emscripten-core/emsdk](https://github.com/emscripten-core/emsdk)
+- [SidharthArya created a repository SidharthArya/learning_webassembly](https://github.com/SidharthArya/learning_webassembly//)
 - [SidharthArya starred bufbuild/protoc-gen-validate](https://github.com/bufbuild/protoc-gen-validate)
 - [SidharthArya starred swagger-api/swagger-codegen](https://github.com/swagger-api/swagger-codegen)
 - [SidharthArya starred Azure/MachineLearningNotebooks](https://github.com/Azure/MachineLearningNotebooks)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred hashicorp/terraform-cdk](https://github.com/hashicorp/terraform-cdk)
 - [SidharthArya starred DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo)
 - [SidharthArya starred apple/swift-collections](https://github.com/apple/swift-collections)
-- [SidharthArya starred surveyjs/survey-library](https://github.com/surveyjs/survey-library)
-- [SidharthArya starred asottile/pyupgrade](https://github.com/asottile/pyupgrade)
 <!-- GITHUB:END -->
 
 ## Top Followers
