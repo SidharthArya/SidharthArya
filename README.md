@@ -87,16 +87,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
-- [SidharthArya starred copy/v86](https://github.com/copy/v86)
-- [SidharthArya starred snaplet/postgres-wasm](https://github.com/snaplet/postgres-wasm)
-- [SidharthArya starred facebookincubator/AITemplate](https://github.com/facebookincubator/AITemplate)
-- [SidharthArya created a repository SidharthArya/setup](https://github.com/SidharthArya/setup//)
-- [SidharthArya starred mamba-org/mamba](https://github.com/mamba-org/mamba)
-- [SidharthArya starred mauhai/awesome-jupyterlab](https://github.com/mauhai/awesome-jupyterlab)
-- [SidharthArya starred stefanprodan/podinfo](https://github.com/stefanprodan/podinfo)
-- [SidharthArya starred shengcaishizhan/kkndme_tianya](https://github.com/shengcaishizhan/kkndme_tianya)
-- [SidharthArya starred iced-rs/iced](https://github.com/iced-rs/iced)
-- [SidharthArya starred nats-io/nats-server](https://github.com/nats-io/nats-server)
+- [SidharthArya starred bufbuild/protoc-gen-validate](https://github.com/bufbuild/protoc-gen-validate)
+- [SidharthArya starred swagger-api/swagger-codegen](https://github.com/swagger-api/swagger-codegen)
+- [SidharthArya starred Azure/MachineLearningNotebooks](https://github.com/Azure/MachineLearningNotebooks)
+- [SidharthArya starred angular/angular-cli](https://github.com/angular/angular-cli)
+- [SidharthArya starred jbogard/MediatR](https://github.com/jbogard/MediatR)
+- [SidharthArya starred hashicorp/terraform-cdk](https://github.com/hashicorp/terraform-cdk)
+- [SidharthArya starred DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo)
+- [SidharthArya starred apple/swift-collections](https://github.com/apple/swift-collections)
+- [SidharthArya starred surveyjs/survey-library](https://github.com/surveyjs/survey-library)
+- [SidharthArya starred asottile/pyupgrade](https://github.com/asottile/pyupgrade)
 <!-- GITHUB:END -->
 
 ## Top Followers
