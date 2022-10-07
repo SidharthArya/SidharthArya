@@ -87,16 +87,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred deepset-ai/haystack](https://github.com/deepset-ai/haystack)
+- [SidharthArya starred SecureAuthCorp/impacket](https://github.com/SecureAuthCorp/impacket)
+- [SidharthArya starred sourcegraph/sourcegraph](https://github.com/sourcegraph/sourcegraph)
+- [SidharthArya starred gradio-app/gradio](https://github.com/gradio-app/gradio)
+- [SidharthArya starred helm/helm](https://github.com/helm/helm)
+- [SidharthArya starred wagtail/wagtail](https://github.com/wagtail/wagtail)
+- [SidharthArya starred zhanwen/MathModel](https://github.com/zhanwen/MathModel)
 - [SidharthArya starred emscripten-core/emsdk](https://github.com/emscripten-core/emsdk)
 - [SidharthArya created a repository SidharthArya/learning_webassembly](https://github.com/SidharthArya/learning_webassembly//)
 - [SidharthArya starred bufbuild/protoc-gen-validate](https://github.com/bufbuild/protoc-gen-validate)
-- [SidharthArya starred swagger-api/swagger-codegen](https://github.com/swagger-api/swagger-codegen)
-- [SidharthArya starred Azure/MachineLearningNotebooks](https://github.com/Azure/MachineLearningNotebooks)
-- [SidharthArya starred angular/angular-cli](https://github.com/angular/angular-cli)
-- [SidharthArya starred jbogard/MediatR](https://github.com/jbogard/MediatR)
-- [SidharthArya starred hashicorp/terraform-cdk](https://github.com/hashicorp/terraform-cdk)
-- [SidharthArya starred DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo)
-- [SidharthArya starred apple/swift-collections](https://github.com/apple/swift-collections)
 <!-- GITHUB:END -->
 
 ## Top Followers
