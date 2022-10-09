@@ -87,6 +87,9 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred huggingface/diffusers](https://github.com/huggingface/diffusers)
+- [SidharthArya starred ggandor/leap.nvim](https://github.com/ggandor/leap.nvim)
+- [SidharthArya starred vercel/vercel](https://github.com/vercel/vercel)
 - [SidharthArya starred deepset-ai/haystack](https://github.com/deepset-ai/haystack)
 - [SidharthArya starred SecureAuthCorp/impacket](https://github.com/SecureAuthCorp/impacket)
 - [SidharthArya starred sourcegraph/sourcegraph](https://github.com/sourcegraph/sourcegraph)
@@ -94,9 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred helm/helm](https://github.com/helm/helm)
 - [SidharthArya starred wagtail/wagtail](https://github.com/wagtail/wagtail)
 - [SidharthArya starred zhanwen/MathModel](https://github.com/zhanwen/MathModel)
-- [SidharthArya starred emscripten-core/emsdk](https://github.com/emscripten-core/emsdk)
-- [SidharthArya created a repository SidharthArya/learning_webassembly](https://github.com/SidharthArya/learning_webassembly//)
-- [SidharthArya starred bufbuild/protoc-gen-validate](https://github.com/bufbuild/protoc-gen-validate)
 <!-- GITHUB:END -->
 
 ## Top Followers
