@@ -87,16 +87,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred ashawkey/stable-dreamfusion](https://github.com/ashawkey/stable-dreamfusion)
+- [SidharthArya starred nocodb/nocodb](https://github.com/nocodb/nocodb)
+- [SidharthArya starred streamich/react-use](https://github.com/streamich/react-use)
+- [SidharthArya starred opa334/TrollStore](https://github.com/opa334/TrollStore)
+- [SidharthArya starred deepmind/alphatensor](https://github.com/deepmind/alphatensor)
+- [SidharthArya starred bnb-chain/bsc](https://github.com/bnb-chain/bsc)
+- [SidharthArya starred hashicorp/terraform](https://github.com/hashicorp/terraform)
 - [SidharthArya starred huggingface/diffusers](https://github.com/huggingface/diffusers)
 - [SidharthArya starred ggandor/leap.nvim](https://github.com/ggandor/leap.nvim)
 - [SidharthArya starred vercel/vercel](https://github.com/vercel/vercel)
-- [SidharthArya starred deepset-ai/haystack](https://github.com/deepset-ai/haystack)
-- [SidharthArya starred SecureAuthCorp/impacket](https://github.com/SecureAuthCorp/impacket)
-- [SidharthArya starred sourcegraph/sourcegraph](https://github.com/sourcegraph/sourcegraph)
-- [SidharthArya starred gradio-app/gradio](https://github.com/gradio-app/gradio)
-- [SidharthArya starred helm/helm](https://github.com/helm/helm)
-- [SidharthArya starred wagtail/wagtail](https://github.com/wagtail/wagtail)
-- [SidharthArya starred zhanwen/MathModel](https://github.com/zhanwen/MathModel)
 <!-- GITHUB:END -->
 
 ## Top Followers
