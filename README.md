@@ -87,16 +87,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred iptv-org/iptv](https://github.com/iptv-org/iptv)
+- [SidharthArya starred type-challenges/type-challenges](https://github.com/type-challenges/type-challenges)
+- [SidharthArya starred TencentARC/GFPGAN](https://github.com/TencentARC/GFPGAN)
+- [SidharthArya starred apache/skywalking](https://github.com/apache/skywalking)
+- [SidharthArya starred apache/doris](https://github.com/apache/doris)
+- [SidharthArya starred heejkoo/Awesome-Diffusion-Models](https://github.com/heejkoo/Awesome-Diffusion-Models)
+- [SidharthArya starred juliocesarfort/public-pentesting-reports](https://github.com/juliocesarfort/public-pentesting-reports)
+- [SidharthArya starred apache/dolphinscheduler](https://github.com/apache/dolphinscheduler)
+- [SidharthArya starred apache/echarts](https://github.com/apache/echarts)
 - [SidharthArya starred ashawkey/stable-dreamfusion](https://github.com/ashawkey/stable-dreamfusion)
-- [SidharthArya starred nocodb/nocodb](https://github.com/nocodb/nocodb)
-- [SidharthArya starred streamich/react-use](https://github.com/streamich/react-use)
-- [SidharthArya starred opa334/TrollStore](https://github.com/opa334/TrollStore)
-- [SidharthArya starred deepmind/alphatensor](https://github.com/deepmind/alphatensor)
-- [SidharthArya starred bnb-chain/bsc](https://github.com/bnb-chain/bsc)
-- [SidharthArya starred hashicorp/terraform](https://github.com/hashicorp/terraform)
-- [SidharthArya starred huggingface/diffusers](https://github.com/huggingface/diffusers)
-- [SidharthArya starred ggandor/leap.nvim](https://github.com/ggandor/leap.nvim)
-- [SidharthArya starred vercel/vercel](https://github.com/vercel/vercel)
 <!-- GITHUB:END -->
 
 ## Top Followers
