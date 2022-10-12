@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred hashicorp/nomad](https://github.com/hashicorp/nomad)
+- [SidharthArya starred lightningnetwork/lnd](https://github.com/lightningnetwork/lnd)
 - [SidharthArya starred MobSF/Mobile-Security-Framework-MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF)
 - [SidharthArya starred tremorlabs/tremor](https://github.com/tremorlabs/tremor)
 - [SidharthArya starred bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns)
 - [SidharthArya starred go-admin-team/go-admin](https://github.com/go-admin-team/go-admin)
 - [SidharthArya starred AmazingAng/WTF-Solidity](https://github.com/AmazingAng/WTF-Solidity)
-- [SidharthArya starred iptv-org/iptv](https://github.com/iptv-org/iptv)
-- [SidharthArya starred type-challenges/type-challenges](https://github.com/type-challenges/type-challenges)
 <!-- GITHUB:END -->
 
 ## Top Followers
