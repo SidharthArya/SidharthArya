@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred aiff22/DPED](https://github.com/aiff22/DPED)
 - [SidharthArya starred hashicorp/nomad](https://github.com/hashicorp/nomad)
 - [SidharthArya starred lightningnetwork/lnd](https://github.com/lightningnetwork/lnd)
 - [SidharthArya starred MobSF/Mobile-Security-Framework-MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred jupyterhub/jupyterhub](https://github.com/jupyterhub/jupyterhub)
 - [SidharthArya starred iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns)
 - [SidharthArya starred go-admin-team/go-admin](https://github.com/go-admin-team/go-admin)
-- [SidharthArya starred AmazingAng/WTF-Solidity](https://github.com/AmazingAng/WTF-Solidity)
 <!-- GITHUB:END -->
 
 ## Top Followers
