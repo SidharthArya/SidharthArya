@@ -87,16 +87,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
-- [SidharthArya starred aiff22/DPED](https://github.com/aiff22/DPED)
-- [SidharthArya starred hashicorp/nomad](https://github.com/hashicorp/nomad)
-- [SidharthArya starred lightningnetwork/lnd](https://github.com/lightningnetwork/lnd)
-- [SidharthArya starred MobSF/Mobile-Security-Framework-MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF)
-- [SidharthArya starred tremorlabs/tremor](https://github.com/tremorlabs/tremor)
-- [SidharthArya starred bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers)
-- [SidharthArya starred ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code)
-- [SidharthArya starred jupyterhub/jupyterhub](https://github.com/jupyterhub/jupyterhub)
-- [SidharthArya starred iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns)
-- [SidharthArya starred go-admin-team/go-admin](https://github.com/go-admin-team/go-admin)
+- [SidharthArya starred macrozheng/mall](https://github.com/macrozheng/mall)
+- [SidharthArya starred Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
+- [SidharthArya starred itdevbooks/pdf](https://github.com/itdevbooks/pdf)
+- [SidharthArya starred vercel/satori](https://github.com/vercel/satori)
+- [SidharthArya starred wazuh/wazuh](https://github.com/wazuh/wazuh)
+- [SidharthArya starred alibaba/nacos](https://github.com/alibaba/nacos)
+- [SidharthArya starred go-redis/redis](https://github.com/go-redis/redis)
+- [SidharthArya starred NVIDIA/cutlass](https://github.com/NVIDIA/cutlass)
+- [SidharthArya starred getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
+- [SidharthArya starred ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse)
 <!-- GITHUB:END -->
 
 ## Top Followers
