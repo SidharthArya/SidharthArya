@@ -87,6 +87,9 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred terraform-aws-modules/terraform-aws-eks](https://github.com/terraform-aws-modules/terraform-aws-eks)
+- [SidharthArya starred sveltejs/kit](https://github.com/sveltejs/kit)
+- [SidharthArya starred t3l3machus/hoaxshell](https://github.com/t3l3machus/hoaxshell)
 - [SidharthArya starred macrozheng/mall](https://github.com/macrozheng/mall)
 - [SidharthArya starred Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
 - [SidharthArya starred itdevbooks/pdf](https://github.com/itdevbooks/pdf)
@@ -94,9 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred wazuh/wazuh](https://github.com/wazuh/wazuh)
 - [SidharthArya starred alibaba/nacos](https://github.com/alibaba/nacos)
 - [SidharthArya starred go-redis/redis](https://github.com/go-redis/redis)
-- [SidharthArya starred NVIDIA/cutlass](https://github.com/NVIDIA/cutlass)
-- [SidharthArya starred getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
-- [SidharthArya starred ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse)
 <!-- GITHUB:END -->
 
 ## Top Followers
