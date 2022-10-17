@@ -87,16 +87,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred tauri-apps/tauri](https://github.com/tauri-apps/tauri)
+- [SidharthArya starred openwrt/openwrt](https://github.com/openwrt/openwrt)
+- [SidharthArya starred WebKit/WebKit](https://github.com/WebKit/WebKit)
+- [SidharthArya starred FedML-AI/FedML](https://github.com/FedML-AI/FedML)
+- [SidharthArya starred hashcat/hashcat](https://github.com/hashcat/hashcat)
+- [SidharthArya starred 2dust/v2rayN](https://github.com/2dust/v2rayN)
 - [SidharthArya starred kognise/water.css](https://github.com/kognise/water.css)
 - [SidharthArya starred PaddlePaddle/PaddleNLP](https://github.com/PaddlePaddle/PaddleNLP)
 - [SidharthArya starred vavkamil/awesome-bugbounty-tools](https://github.com/vavkamil/awesome-bugbounty-tools)
 - [SidharthArya starred terraform-aws-modules/terraform-aws-eks](https://github.com/terraform-aws-modules/terraform-aws-eks)
-- [SidharthArya starred sveltejs/kit](https://github.com/sveltejs/kit)
-- [SidharthArya starred t3l3machus/hoaxshell](https://github.com/t3l3machus/hoaxshell)
-- [SidharthArya starred macrozheng/mall](https://github.com/macrozheng/mall)
-- [SidharthArya starred Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
-- [SidharthArya starred itdevbooks/pdf](https://github.com/itdevbooks/pdf)
-- [SidharthArya starred vercel/satori](https://github.com/vercel/satori)
 <!-- GITHUB:END -->
 
 ## Top Followers
