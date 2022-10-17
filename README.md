@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred kognise/water.css](https://github.com/kognise/water.css)
 - [SidharthArya starred PaddlePaddle/PaddleNLP](https://github.com/PaddlePaddle/PaddleNLP)
 - [SidharthArya starred vavkamil/awesome-bugbounty-tools](https://github.com/vavkamil/awesome-bugbounty-tools)
 - [SidharthArya starred terraform-aws-modules/terraform-aws-eks](https://github.com/terraform-aws-modules/terraform-aws-eks)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
 - [SidharthArya starred itdevbooks/pdf](https://github.com/itdevbooks/pdf)
 - [SidharthArya starred vercel/satori](https://github.com/vercel/satori)
-- [SidharthArya starred wazuh/wazuh](https://github.com/wazuh/wazuh)
 <!-- GITHUB:END -->
 
 ## Top Followers
