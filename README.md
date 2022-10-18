@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)
+- [SidharthArya starred pmndrs/jotai](https://github.com/pmndrs/jotai)
 - [SidharthArya starred tauri-apps/tauri](https://github.com/tauri-apps/tauri)
 - [SidharthArya starred openwrt/openwrt](https://github.com/openwrt/openwrt)
 - [SidharthArya starred WebKit/WebKit](https://github.com/WebKit/WebKit)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred 2dust/v2rayN](https://github.com/2dust/v2rayN)
 - [SidharthArya starred kognise/water.css](https://github.com/kognise/water.css)
 - [SidharthArya starred PaddlePaddle/PaddleNLP](https://github.com/PaddlePaddle/PaddleNLP)
-- [SidharthArya starred vavkamil/awesome-bugbounty-tools](https://github.com/vavkamil/awesome-bugbounty-tools)
-- [SidharthArya starred terraform-aws-modules/terraform-aws-eks](https://github.com/terraform-aws-modules/terraform-aws-eks)
 <!-- GITHUB:END -->
 
 ## Top Followers
