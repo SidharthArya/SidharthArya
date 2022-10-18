@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred commaai/openpilot](https://github.com/commaai/openpilot)
 - [SidharthArya starred EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)
 - [SidharthArya starred pmndrs/jotai](https://github.com/pmndrs/jotai)
 - [SidharthArya starred tauri-apps/tauri](https://github.com/tauri-apps/tauri)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred hashcat/hashcat](https://github.com/hashcat/hashcat)
 - [SidharthArya starred 2dust/v2rayN](https://github.com/2dust/v2rayN)
 - [SidharthArya starred kognise/water.css](https://github.com/kognise/water.css)
-- [SidharthArya starred PaddlePaddle/PaddleNLP](https://github.com/PaddlePaddle/PaddleNLP)
 <!-- GITHUB:END -->
 
 ## Top Followers
