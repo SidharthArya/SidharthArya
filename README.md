@@ -234,6 +234,13 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       <a href="https://github.com/ChandanCharchit">Chandan Charchit Sahoo</a>
     </td>
     <td align="center">
+      <a href="https://github.com/rjachuthan">
+        <img src="https://avatars2.githubusercontent.com/u/7797813" width="100px;" alt="rjachuthan"/>
+      </a>
+      <br />
+      <a href="https://github.com/rjachuthan">Rituraj Achuthan</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/Shailenderyedugani">
         <img src="https://avatars2.githubusercontent.com/u/71877234" width="100px;" alt="Shailenderyedugani"/>
       </a>
@@ -246,13 +253,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       </a>
       <br />
       <a href="https://github.com/souvikg123">souvikg123</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/snuffop">
-        <img src="https://avatars2.githubusercontent.com/u/40603030" width="100px;" alt="snuffop"/>
-      </a>
-      <br />
-      <a href="https://github.com/snuffop">Marty Buchaus</a>
     </td>
   </tr>
 </table>
