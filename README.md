@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred tensorflow/agents](https://github.com/tensorflow/agents)
 - [SidharthArya starred commaai/openpilot](https://github.com/commaai/openpilot)
 - [SidharthArya starred EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)
 - [SidharthArya starred pmndrs/jotai](https://github.com/pmndrs/jotai)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred FedML-AI/FedML](https://github.com/FedML-AI/FedML)
 - [SidharthArya starred hashcat/hashcat](https://github.com/hashcat/hashcat)
 - [SidharthArya starred 2dust/v2rayN](https://github.com/2dust/v2rayN)
-- [SidharthArya starred kognise/water.css](https://github.com/kognise/water.css)
 <!-- GITHUB:END -->
 
 ## Top Followers
