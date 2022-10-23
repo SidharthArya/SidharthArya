@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred ayush714/data-science-roadmap](https://github.com/ayush714/data-science-roadmap)
+- [SidharthArya starred HarisIqbal88/PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet)
 - [SidharthArya starred tensorflow/agents](https://github.com/tensorflow/agents)
 - [SidharthArya starred commaai/openpilot](https://github.com/commaai/openpilot)
 - [SidharthArya starred EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred openwrt/openwrt](https://github.com/openwrt/openwrt)
 - [SidharthArya starred WebKit/WebKit](https://github.com/WebKit/WebKit)
 - [SidharthArya starred FedML-AI/FedML](https://github.com/FedML-AI/FedML)
-- [SidharthArya starred hashcat/hashcat](https://github.com/hashcat/hashcat)
-- [SidharthArya starred 2dust/v2rayN](https://github.com/2dust/v2rayN)
 <!-- GITHUB:END -->
 
 ## Top Followers
