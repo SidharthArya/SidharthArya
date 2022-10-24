@@ -281,7 +281,7 @@
 - [tdlib/td](https://github.com/tdlib/td) - Cross-platform library for building Telegram clients
 - [acidanthera/WhateverGreen](https://github.com/acidanthera/WhateverGreen) - Various patches necessary for certain ATI/AMD/Intel/Nvidia GPUs
 - [acidanthera/AppleALC](https://github.com/acidanthera/AppleALC) - Native macOS HD audio for not officially supported codecs
-- [mlpack/mlpack](https://github.com/mlpack/mlpack) - mlpack: a scalable C++ machine learning library --
+- [mlpack/mlpack](https://github.com/mlpack/mlpack) - mlpack: a fast, header-only C++ machine learning library
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [flutter/engine](https://github.com/flutter/engine) - The Flutter engine
 - [lava/matplotlib-cpp](https://github.com/lava/matplotlib-cpp) - Extremely simple yet powerful header-only C++ plotting library built on the popular matplotlib
@@ -1137,6 +1137,7 @@
 
 ## Others 
 
+- [ayush714/data-science-roadmap](https://github.com/ayush714/data-science-roadmap) - Roadmap for Data Science
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [WebKit/WebKit](https://github.com/WebKit/WebKit) - Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.
 - [vavkamil/awesome-bugbounty-tools](https://github.com/vavkamil/awesome-bugbounty-tools) - A curated list of various bug bounty tools
@@ -1784,6 +1785,7 @@
 
 ## Rust 
 
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices from anywhere at anytime.
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [iced-rs/iced](https://github.com/iced-rs/iced) - A cross-platform GUI library for Rust, inspired by Elm
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
@@ -1965,6 +1967,7 @@
 
 ## TeX 
 
+- [HarisIqbal88/PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet) - Latex code for making neural networks diagrams
 - [zhanwen/MathModel](https://github.com/zhanwen/MathModel) - 研究生数学建模，本科生数学建模、数学建模竞赛优秀论文，数学建模算法，LaTeX论文模板，算法思维导图，参考书籍，Matlab软件教程，PPT
 - [devonfw-forge/devon4flutter-non-bloc-arch](https://github.com/devonfw-forge/devon4flutter-non-bloc-arch) - A guide aiming to bridge the gap between the absolute Flutter basics and clean, structured Flutter Development
 - [tuhdo/os01](https://github.com/tuhdo/os01) - Bootstrap yourself to write an OS from scratch. A book for self-learner.
@@ -1977,6 +1980,7 @@
 
 ## TypeScript 
 
+- [felixrieseberg/windows95](https://github.com/felixrieseberg/windows95) - 💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.
 - [pmndrs/jotai](https://github.com/pmndrs/jotai) - 👻 Primitive and flexible state management for React
 - [vercel/satori](https://github.com/vercel/satori) - Enlightened library to convert HTML and CSS to SVG
 - [tremorlabs/tremor](https://github.com/tremorlabs/tremor) - The react library to build dashboards fast.
