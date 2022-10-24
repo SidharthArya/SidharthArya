@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred rustdesk/rustdesk](https://github.com/rustdesk/rustdesk)
+- [SidharthArya starred felixrieseberg/windows95](https://github.com/felixrieseberg/windows95)
 - [SidharthArya starred ayush714/data-science-roadmap](https://github.com/ayush714/data-science-roadmap)
 - [SidharthArya starred HarisIqbal88/PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet)
 - [SidharthArya starred tensorflow/agents](https://github.com/tensorflow/agents)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred pmndrs/jotai](https://github.com/pmndrs/jotai)
 - [SidharthArya starred tauri-apps/tauri](https://github.com/tauri-apps/tauri)
 - [SidharthArya starred openwrt/openwrt](https://github.com/openwrt/openwrt)
-- [SidharthArya starred WebKit/WebKit](https://github.com/WebKit/WebKit)
-- [SidharthArya starred FedML-AI/FedML](https://github.com/FedML-AI/FedML)
 <!-- GITHUB:END -->
 
 ## Top Followers
