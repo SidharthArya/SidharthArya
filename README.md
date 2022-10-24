@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred rancher/rancher](https://github.com/rancher/rancher)
 - [SidharthArya starred rustdesk/rustdesk](https://github.com/rustdesk/rustdesk)
 - [SidharthArya starred felixrieseberg/windows95](https://github.com/felixrieseberg/windows95)
 - [SidharthArya starred ayush714/data-science-roadmap](https://github.com/ayush714/data-science-roadmap)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)
 - [SidharthArya starred pmndrs/jotai](https://github.com/pmndrs/jotai)
 - [SidharthArya starred tauri-apps/tauri](https://github.com/tauri-apps/tauri)
-- [SidharthArya starred openwrt/openwrt](https://github.com/openwrt/openwrt)
 <!-- GITHUB:END -->
 
 ## Top Followers
