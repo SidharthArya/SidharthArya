@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive)
 - [SidharthArya starred surrealdb/surrealdb](https://github.com/surrealdb/surrealdb)
 - [SidharthArya starred AleoHQ/snarkOS](https://github.com/AleoHQ/snarkOS)
 - [SidharthArya starred rancher/rancher](https://github.com/rancher/rancher)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred HarisIqbal88/PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet)
 - [SidharthArya starred tensorflow/agents](https://github.com/tensorflow/agents)
 - [SidharthArya starred commaai/openpilot](https://github.com/commaai/openpilot)
-- [SidharthArya starred EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)
 <!-- GITHUB:END -->
 
 ## Top Followers
