@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf)
+- [SidharthArya starred cmhungsteve/Awesome-Transformer-Attention](https://github.com/cmhungsteve/Awesome-Transformer-Attention)
 - [SidharthArya starred spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive)
 - [SidharthArya starred surrealdb/surrealdb](https://github.com/surrealdb/surrealdb)
 - [SidharthArya starred AleoHQ/snarkOS](https://github.com/AleoHQ/snarkOS)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred felixrieseberg/windows95](https://github.com/felixrieseberg/windows95)
 - [SidharthArya starred ayush714/data-science-roadmap](https://github.com/ayush714/data-science-roadmap)
 - [SidharthArya starred HarisIqbal88/PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet)
-- [SidharthArya starred tensorflow/agents](https://github.com/tensorflow/agents)
-- [SidharthArya starred commaai/openpilot](https://github.com/commaai/openpilot)
 <!-- GITHUB:END -->
 
 ## Top Followers
