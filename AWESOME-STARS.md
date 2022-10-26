@@ -1004,6 +1004,7 @@
 - [lexfridman/mit-deep-learning](https://github.com/lexfridman/mit-deep-learning) - Tutorials, assignments, and competitions for MIT Deep Learning related courses.
 - [h2oai/h2o-3](https://github.com/h2oai/h2o-3) - H2O is an Open Source, Distributed, Fast & Scalable Machine Learning Platform: Deep Learning, Gradient Boosting (GBM) & XGBoost, Random Forest, Generalized Linear Modeling (GLM with Elastic Net), K-Me
 - [broadinstitute/pyro-cov](https://github.com/broadinstitute/pyro-cov) - Pyro models of SARS-CoV-2 variants
+- [luxonis/depthai-experiments](https://github.com/luxonis/depthai-experiments) - Experimental projects we've done with DepthAI.
 - [spmallick/learnopencv](https://github.com/spmallick/learnopencv) - Learn OpenCV  : C++ and Python Examples
 - [zzh8829/yolov3-tf2](https://github.com/zzh8829/yolov3-tf2) - YoloV3 Implemented in Tensorflow 2.0
 - [balancap/SSD-Tensorflow](https://github.com/balancap/SSD-Tensorflow) - Single Shot MultiBox Detector in TensorFlow
@@ -1399,7 +1400,6 @@
 - [microsoft/Microsoft-Rocketbox](https://github.com/microsoft/Microsoft-Rocketbox) - Microsoft Rocketbox is now available with MIT license! The library of 115 rigged avatars offers flexibility, enabling the easy use of animations across characters and the mixing and matching of textur
 - [NTMC-Community/MatchZoo](https://github.com/NTMC-Community/MatchZoo) - Facilitating the design, comparison and sharing of deep text matching models.
 - [microsoft/onnxruntime-inference-examples](https://github.com/microsoft/onnxruntime-inference-examples) - Examples for using ONNX Runtime for machine learning inferencing.
-- [luxonis/depthai-experiments](https://github.com/luxonis/depthai-experiments) - Experimental projects we've done with DepthAI.
 - [PaddlePaddle/PaddleDetection](https://github.com/PaddlePaddle/PaddleDetection) - Object Detection toolkit based on PaddlePaddle. It supports object detection, instance segmentation, multiple object tracking and real-time multi-person keypoint detection.
 - [PaddlePaddle/Paddle2ONNX](https://github.com/PaddlePaddle/Paddle2ONNX) - ONNX Model Exporter for PaddlePaddle
 - [PaddlePaddle/PaddleSeg](https://github.com/PaddlePaddle/PaddleSeg) - Easy-to-use image segmentation library with awesome pre-trained model zoo, supporting wide-range of practical tasks in Semantic Segmentation, Interactive Segmentation, Panoptic Segmentation, Image Mat
