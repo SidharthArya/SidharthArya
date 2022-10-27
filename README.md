@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred vercel/turbo](https://github.com/vercel/turbo)
+- [SidharthArya starred nerfstudio-project/nerfstudio](https://github.com/nerfstudio-project/nerfstudio)
 - [SidharthArya starred protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf)
 - [SidharthArya starred cmhungsteve/Awesome-Transformer-Attention](https://github.com/cmhungsteve/Awesome-Transformer-Attention)
 - [SidharthArya starred spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred rancher/rancher](https://github.com/rancher/rancher)
 - [SidharthArya starred rustdesk/rustdesk](https://github.com/rustdesk/rustdesk)
 - [SidharthArya starred felixrieseberg/windows95](https://github.com/felixrieseberg/windows95)
-- [SidharthArya starred ayush714/data-science-roadmap](https://github.com/ayush714/data-science-roadmap)
-- [SidharthArya starred HarisIqbal88/PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet)
 <!-- GITHUB:END -->
 
 ## Top Followers
