@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/52209bd03b...8f50c76a80)
+- [SidharthArya pushed to master in SidharthArya/.bspwm](https://github.com/SidharthArya/.bspwm/compare/40ce4774a8...94efa6b334)
 - [SidharthArya starred vercel/turbo](https://github.com/vercel/turbo)
 - [SidharthArya starred nerfstudio-project/nerfstudio](https://github.com/nerfstudio-project/nerfstudio)
 - [SidharthArya starred protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred surrealdb/surrealdb](https://github.com/surrealdb/surrealdb)
 - [SidharthArya starred AleoHQ/snarkOS](https://github.com/AleoHQ/snarkOS)
 - [SidharthArya starred rancher/rancher](https://github.com/rancher/rancher)
-- [SidharthArya starred rustdesk/rustdesk](https://github.com/rustdesk/rustdesk)
-- [SidharthArya starred felixrieseberg/windows95](https://github.com/felixrieseberg/windows95)
 <!-- GITHUB:END -->
 
 ## Top Followers
