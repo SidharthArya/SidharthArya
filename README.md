@@ -190,12 +190,21 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       <a href="https://github.com/portgasray">Lei Zhang</a>
     </td>
     <td align="center">
+      <a href="https://github.com/Satawatkee">
+        <img src="https://avatars2.githubusercontent.com/u/53291820" width="100px;" alt="Satawatkee"/>
+      </a>
+      <br />
+      <a href="https://github.com/Satawatkee">@s_saichansut</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/G0rav">
         <img src="https://avatars2.githubusercontent.com/u/62126889" width="100px;" alt="G0rav"/>
       </a>
       <br />
       <a href="https://github.com/G0rav">Gaurav</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/relativelyrehan">
         <img src="https://avatars2.githubusercontent.com/u/48210765" width="100px;" alt="relativelyrehan"/>
@@ -203,8 +212,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       <br />
       <a href="https://github.com/relativelyrehan">rreel </a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/Kushpad">
         <img src="https://avatars2.githubusercontent.com/u/89928620" width="100px;" alt="Kushpad"/>
@@ -246,13 +253,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       </a>
       <br />
       <a href="https://github.com/Shailenderyedugani">Shailender Yedugani</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/souvikg123">
-        <img src="https://avatars2.githubusercontent.com/u/63902209" width="100px;" alt="souvikg123"/>
-      </a>
-      <br />
-      <a href="https://github.com/souvikg123">souvikg123</a>
     </td>
   </tr>
 </table>
