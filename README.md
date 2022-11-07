@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred tokio-rs/axum](https://github.com/tokio-rs/axum)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/52209bd03b...8f50c76a80)
 - [SidharthArya pushed to master in SidharthArya/.bspwm](https://github.com/SidharthArya/.bspwm/compare/40ce4774a8...94efa6b334)
 - [SidharthArya starred vercel/turbo](https://github.com/vercel/turbo)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive)
 - [SidharthArya starred surrealdb/surrealdb](https://github.com/surrealdb/surrealdb)
 - [SidharthArya starred AleoHQ/snarkOS](https://github.com/AleoHQ/snarkOS)
-- [SidharthArya starred rancher/rancher](https://github.com/rancher/rancher)
 <!-- GITHUB:END -->
 
 ## Top Followers
