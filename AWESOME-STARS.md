@@ -1034,7 +1034,7 @@
 - [google-research/google-research](https://github.com/google-research/google-research) - Google Research
 - [fastai/fastai](https://github.com/fastai/fastai) - The fastai deep learning library
 - [aymericdamien/TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples) - TensorFlow Tutorial and Examples for Beginners (support TF v1 & v2)
-- [IBM/claimed](https://github.com/IBM/claimed) - 
+- [claimed-framework/claimed](https://github.com/claimed-framework/claimed) - 
 - [fastai/fastpages](https://github.com/fastai/fastpages) - An easy to use blogging platform, with enhanced support for Jupyter Notebooks.
 - [deepmind/deepmind-research](https://github.com/deepmind/deepmind-research) - This repository contains implementations and illustrative code to accompany DeepMind publications
 - [bukosabino/ta](https://github.com/bukosabino/ta) - Technical Analysis Library using Pandas and Numpy
