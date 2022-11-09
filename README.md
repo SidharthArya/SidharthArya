@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/2d16d60a14...e26f52a63e)
 - [SidharthArya starred tokio-rs/axum](https://github.com/tokio-rs/axum)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/52209bd03b...8f50c76a80)
 - [SidharthArya pushed to master in SidharthArya/.bspwm](https://github.com/SidharthArya/.bspwm/compare/40ce4774a8...94efa6b334)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred cmhungsteve/Awesome-Transformer-Attention](https://github.com/cmhungsteve/Awesome-Transformer-Attention)
 - [SidharthArya starred spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive)
 - [SidharthArya starred surrealdb/surrealdb](https://github.com/surrealdb/surrealdb)
-- [SidharthArya starred AleoHQ/snarkOS](https://github.com/AleoHQ/snarkOS)
 <!-- GITHUB:END -->
 
 ## Top Followers
