@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to master in SidharthArya/.bspwm](https://github.com/SidharthArya/.bspwm/compare/94efa6b334...8a7438fd25)
 - [SidharthArya starred wireservice/csvkit](https://github.com/wireservice/csvkit)
 - [SidharthArya starred vaexio/vaex](https://github.com/vaexio/vaex)
 - [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/2d16d60a14...e26f52a63e)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred vercel/turbo](https://github.com/vercel/turbo)
 - [SidharthArya starred nerfstudio-project/nerfstudio](https://github.com/nerfstudio-project/nerfstudio)
 - [SidharthArya starred protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf)
-- [SidharthArya starred cmhungsteve/Awesome-Transformer-Attention](https://github.com/cmhungsteve/Awesome-Transformer-Attention)
 <!-- GITHUB:END -->
 
 ## Top Followers
