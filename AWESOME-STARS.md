@@ -697,7 +697,7 @@
 ## Haskell 
 
 - [mchakravarty/HaskellSpriteKit](https://github.com/mchakravarty/HaskellSpriteKit) - Haskell binding to Apple's SpriteKit framework
-- [srid/neuron](https://github.com/srid/neuron) - Future-proof note-taking and publishing based on Zettelkasten (superseded by Emanote: https://github.com/srid/emanote)
+- [srid/neuron](https://github.com/srid/neuron) - Future-proof note-taking and publishing based on Zettelkasten (superseded by Emanote: https://github.com/EmaApps/emanote)
 - [facebookincubator/Glean](https://github.com/facebookincubator/Glean) - System for collecting, deriving and working with facts about source code.
 - [quchen/generative-art](https://github.com/quchen/generative-art) - I wanted to make a nicer sticker for Munihac, then things got out of hand.
 - [SidharthArya/.xmonad](https://github.com/SidharthArya/.xmonad) - 
@@ -1784,7 +1784,7 @@
 - [orbitalindex/awesome-space](https://github.com/orbitalindex/awesome-space) - 🛰️🚀A list of awesome space-related packages and resources maintained by The Orbital Index
 - [sorbet/sorbet](https://github.com/sorbet/sorbet) - A fast, powerful type checker designed for Ruby
 - [mongomapper/mongomapper](https://github.com/mongomapper/mongomapper) - A Ruby Object Mapper for Mongo
-- [mongodb/mongoid](https://github.com/mongodb/mongoid) - Ruby ODM framework for MongoDB
+- [mongodb/mongoid](https://github.com/mongodb/mongoid) - The Official Ruby Object Mapper for MongoDB
 - [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
 - [sagivo/algorithms](https://github.com/sagivo/algorithms) - algorithms playground for common questions
 
