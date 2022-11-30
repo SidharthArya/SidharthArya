@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome)
 - [SidharthArya pushed to master in SidharthArya/.bspwm](https://github.com/SidharthArya/.bspwm/compare/94efa6b334...8a7438fd25)
 - [SidharthArya starred wireservice/csvkit](https://github.com/wireservice/csvkit)
 - [SidharthArya starred vaexio/vaex](https://github.com/vaexio/vaex)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/.bspwm](https://github.com/SidharthArya/.bspwm/compare/40ce4774a8...94efa6b334)
 - [SidharthArya starred vercel/turbo](https://github.com/vercel/turbo)
 - [SidharthArya starred nerfstudio-project/nerfstudio](https://github.com/nerfstudio-project/nerfstudio)
-- [SidharthArya starred protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf)
 <!-- GITHUB:END -->
 
 ## Top Followers
