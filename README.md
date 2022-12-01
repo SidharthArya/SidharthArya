@@ -87,6 +87,9 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred dair-ai/ML-YouTube-Courses](https://github.com/dair-ai/ML-YouTube-Courses)
+- [SidharthArya starred brycedrennan/imaginAIry](https://github.com/brycedrennan/imaginAIry)
+- [SidharthArya starred alshedivat/al-folio](https://github.com/alshedivat/al-folio)
 - [SidharthArya starred jitsucom/jitsu](https://github.com/jitsucom/jitsu)
 - [SidharthArya starred diesel-rs/diesel](https://github.com/diesel-rs/diesel)
 - [SidharthArya starred ARMmbed/DAPLink](https://github.com/ARMmbed/DAPLink)
@@ -94,9 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/.bspwm](https://github.com/SidharthArya/.bspwm/compare/94efa6b334...8a7438fd25)
 - [SidharthArya starred wireservice/csvkit](https://github.com/wireservice/csvkit)
 - [SidharthArya starred vaexio/vaex](https://github.com/vaexio/vaex)
-- [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/2d16d60a14...e26f52a63e)
-- [SidharthArya starred tokio-rs/axum](https://github.com/tokio-rs/axum)
-- [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/52209bd03b...8f50c76a80)
 <!-- GITHUB:END -->
 
 ## Top Followers
