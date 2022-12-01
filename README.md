@@ -87,6 +87,9 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred jitsucom/jitsu](https://github.com/jitsucom/jitsu)
+- [SidharthArya starred diesel-rs/diesel](https://github.com/diesel-rs/diesel)
+- [SidharthArya starred ARMmbed/DAPLink](https://github.com/ARMmbed/DAPLink)
 - [SidharthArya starred AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome)
 - [SidharthArya pushed to master in SidharthArya/.bspwm](https://github.com/SidharthArya/.bspwm/compare/94efa6b334...8a7438fd25)
 - [SidharthArya starred wireservice/csvkit](https://github.com/wireservice/csvkit)
@@ -94,9 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/2d16d60a14...e26f52a63e)
 - [SidharthArya starred tokio-rs/axum](https://github.com/tokio-rs/axum)
 - [SidharthArya pushed to master in SidharthArya/dotfiles](https://github.com/SidharthArya/dotfiles/compare/52209bd03b...8f50c76a80)
-- [SidharthArya pushed to master in SidharthArya/.bspwm](https://github.com/SidharthArya/.bspwm/compare/40ce4774a8...94efa6b334)
-- [SidharthArya starred vercel/turbo](https://github.com/vercel/turbo)
-- [SidharthArya starred nerfstudio-project/nerfstudio](https://github.com/nerfstudio-project/nerfstudio)
 <!-- GITHUB:END -->
 
 ## Top Followers
