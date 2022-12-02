@@ -87,16 +87,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred troyeguo/koodo-reader](https://github.com/troyeguo/koodo-reader)
+- [SidharthArya starred jonasschmedtmann/complete-javascript-course](https://github.com/jonasschmedtmann/complete-javascript-course)
+- [SidharthArya starred discordjs/discord.js](https://github.com/discordjs/discord.js)
+- [SidharthArya starred HashLips/hashlips_art_engine](https://github.com/HashLips/hashlips_art_engine)
+- [SidharthArya starred OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts)
 - [SidharthArya starred dair-ai/ML-YouTube-Courses](https://github.com/dair-ai/ML-YouTube-Courses)
 - [SidharthArya starred brycedrennan/imaginAIry](https://github.com/brycedrennan/imaginAIry)
 - [SidharthArya starred alshedivat/al-folio](https://github.com/alshedivat/al-folio)
 - [SidharthArya starred jitsucom/jitsu](https://github.com/jitsucom/jitsu)
 - [SidharthArya starred diesel-rs/diesel](https://github.com/diesel-rs/diesel)
-- [SidharthArya starred ARMmbed/DAPLink](https://github.com/ARMmbed/DAPLink)
-- [SidharthArya starred AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome)
-- [SidharthArya pushed to master in SidharthArya/.bspwm](https://github.com/SidharthArya/.bspwm/compare/94efa6b334...8a7438fd25)
-- [SidharthArya starred wireservice/csvkit](https://github.com/wireservice/csvkit)
-- [SidharthArya starred vaexio/vaex](https://github.com/vaexio/vaex)
 <!-- GITHUB:END -->
 
 ## Top Followers
