@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred OpenMined/PySyft](https://github.com/OpenMined/PySyft)
 - [SidharthArya starred WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge)
 - [SidharthArya starred celery/celery](https://github.com/celery/celery)
 - [SidharthArya starred appsmithorg/appsmith](https://github.com/appsmithorg/appsmith)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred cosmos/cosmos-sdk](https://github.com/cosmos/cosmos-sdk)
 - [SidharthArya starred aws/aws-sdk-go](https://github.com/aws/aws-sdk-go)
 - [SidharthArya starred metabase/metabase](https://github.com/metabase/metabase)
-- [SidharthArya starred spulec/moto](https://github.com/spulec/moto)
 <!-- GITHUB:END -->
 
 ## Top Followers
