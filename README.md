@@ -87,16 +87,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
-- [SidharthArya starred troyeguo/koodo-reader](https://github.com/troyeguo/koodo-reader)
-- [SidharthArya starred jonasschmedtmann/complete-javascript-course](https://github.com/jonasschmedtmann/complete-javascript-course)
-- [SidharthArya starred discordjs/discord.js](https://github.com/discordjs/discord.js)
-- [SidharthArya starred HashLips/hashlips_art_engine](https://github.com/HashLips/hashlips_art_engine)
-- [SidharthArya starred OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts)
-- [SidharthArya starred dair-ai/ML-YouTube-Courses](https://github.com/dair-ai/ML-YouTube-Courses)
-- [SidharthArya starred brycedrennan/imaginAIry](https://github.com/brycedrennan/imaginAIry)
-- [SidharthArya starred alshedivat/al-folio](https://github.com/alshedivat/al-folio)
-- [SidharthArya starred jitsucom/jitsu](https://github.com/jitsucom/jitsu)
-- [SidharthArya starred diesel-rs/diesel](https://github.com/diesel-rs/diesel)
+- [SidharthArya starred WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge)
+- [SidharthArya starred celery/celery](https://github.com/celery/celery)
+- [SidharthArya starred appsmithorg/appsmith](https://github.com/appsmithorg/appsmith)
+- [SidharthArya starred cugu/awesome-forensics](https://github.com/cugu/awesome-forensics)
+- [SidharthArya starred grafana/grafana](https://github.com/grafana/grafana)
+- [SidharthArya starred hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws)
+- [SidharthArya starred cosmos/cosmos-sdk](https://github.com/cosmos/cosmos-sdk)
+- [SidharthArya starred aws/aws-sdk-go](https://github.com/aws/aws-sdk-go)
+- [SidharthArya starred metabase/metabase](https://github.com/metabase/metabase)
+- [SidharthArya starred spulec/moto](https://github.com/spulec/moto)
 <!-- GITHUB:END -->
 
 ## Top Followers
