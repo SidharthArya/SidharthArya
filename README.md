@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred koekeishiya/yabai](https://github.com/koekeishiya/yabai)
 - [SidharthArya starred Lexikos/AutoHotkey_L](https://github.com/Lexikos/AutoHotkey_L)
 - [SidharthArya starred OpenMined/PySyft](https://github.com/OpenMined/PySyft)
 - [SidharthArya starred WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred grafana/grafana](https://github.com/grafana/grafana)
 - [SidharthArya starred hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws)
 - [SidharthArya starred cosmos/cosmos-sdk](https://github.com/cosmos/cosmos-sdk)
-- [SidharthArya starred aws/aws-sdk-go](https://github.com/aws/aws-sdk-go)
 <!-- GITHUB:END -->
 
 ## Top Followers
