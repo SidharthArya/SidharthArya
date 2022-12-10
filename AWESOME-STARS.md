@@ -795,7 +795,7 @@
 - [HashLips/hashlips_art_engine](https://github.com/HashLips/hashlips_art_engine) - HashLips Art Engine is a tool used to create multiple different instances of artworks based on provided layers.
 - [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) - OpenZeppelin Contracts is a library for secure smart contract development.
 - [alshedivat/al-folio](https://github.com/alshedivat/al-folio) - A beautiful, simple, clean, and responsive Jekyll theme for academics
-- [sveltejs/kit](https://github.com/sveltejs/kit) - The fastest way to build Svelte apps
+- [sveltejs/kit](https://github.com/sveltejs/kit) - web development, streamlined
 - [MobSF/Mobile-Security-Framework-MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) - Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and 
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
@@ -2059,7 +2059,7 @@
 - [facebook/flipper](https://github.com/facebook/flipper) - A desktop debugging platform for mobile developers.
 - [MaxLeiter/Drift](https://github.com/MaxLeiter/Drift) - Drift is a self-hostable Gist alternative and paste service
 - [vector-im/element-web](https://github.com/vector-im/element-web) - A glossy Matrix collaboration client for the web.
-- [google-github-actions/deploy-appengine](https://github.com/google-github-actions/deploy-appengine) - This action deploys your source code to App Engine.
+- [google-github-actions/deploy-appengine](https://github.com/google-github-actions/deploy-appengine) - A GitHub Action that deploys source code to Google App Engine.
 - [codota/tabnine-vscode](https://github.com/codota/tabnine-vscode) - Visual Studio Code client for Tabnine. https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode
 - [graphile/starter](https://github.com/graphile/starter) - Opinionated SaaS quick-start with pre-built user account and organization system for full-stack application development in React, Node.js, GraphQL and PostgreSQL. Powered by PostGraphile, TypeScript, 
 - [org-roam/org-roam-ui](https://github.com/org-roam/org-roam-ui) - A graphical frontend for exploring your org-roam Zettelkasten
