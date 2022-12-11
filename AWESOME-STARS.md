@@ -582,7 +582,7 @@
 - [stefanprodan/podinfo](https://github.com/stefanprodan/podinfo) - Go microservice template for Kubernetes
 - [nats-io/nats-server](https://github.com/nats-io/nats-server) - High-Performance server for NATS.io, the cloud and edge native messaging system.
 - [turbot/steampipe](https://github.com/turbot/steampipe) - Use SQL to instantly query your cloud services (AWS, Azure, GCP and more). Open source CLI. No DB required.
-- [HavocFramework/Havoc](https://github.com/HavocFramework/Havoc) - The Havoc Framework
+- [HavocFramework/Havoc](https://github.com/HavocFramework/Havoc) - The Havoc Framework.
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative continuous deployment for Kubernetes.
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [zinclabs/zinc](https://github.com/zinclabs/zinc) - ZincSearch. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
