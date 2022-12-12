@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred Grasscutters/Grasscutter](https://github.com/Grasscutters/Grasscutter)
 - [SidharthArya starred koekeishiya/yabai](https://github.com/koekeishiya/yabai)
 - [SidharthArya starred Lexikos/AutoHotkey_L](https://github.com/Lexikos/AutoHotkey_L)
 - [SidharthArya starred OpenMined/PySyft](https://github.com/OpenMined/PySyft)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred cugu/awesome-forensics](https://github.com/cugu/awesome-forensics)
 - [SidharthArya starred grafana/grafana](https://github.com/grafana/grafana)
 - [SidharthArya starred hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws)
-- [SidharthArya starred cosmos/cosmos-sdk](https://github.com/cosmos/cosmos-sdk)
 <!-- GITHUB:END -->
 
 ## Top Followers
