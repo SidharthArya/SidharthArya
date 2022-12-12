@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya created a branch main in SidharthArya/.vim](https://github.com/SidharthArya/.vim/compare/main)
+- [SidharthArya created a repository SidharthArya/.vim](https://github.com/SidharthArya/.vim//)
 - [SidharthArya created a branch main in SidharthArya/.zsh](https://github.com/SidharthArya/.zsh/compare/main)
 - [SidharthArya created a repository SidharthArya/.zsh](https://github.com/SidharthArya/.zsh//)
 - [SidharthArya pushed to master in SidharthArya/scripts](https://github.com/SidharthArya/scripts/compare/a3cea1636a...d2fd0ec9a1)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/abd84cc8ed...129081d73f)
 - [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/e26f52a63e...0a04fe5fcd)
 - [SidharthArya starred Grasscutters/Grasscutter](https://github.com/Grasscutters/Grasscutter)
-- [SidharthArya starred koekeishiya/yabai](https://github.com/koekeishiya/yabai)
-- [SidharthArya starred Lexikos/AutoHotkey_L](https://github.com/Lexikos/AutoHotkey_L)
 <!-- GITHUB:END -->
 
 ## Top Followers
