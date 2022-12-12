@@ -87,6 +87,9 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to master in SidharthArya/scripts](https://github.com/SidharthArya/scripts/compare/a3cea1636a...d2fd0ec9a1)
+- [SidharthArya pushed to master in SidharthArya/.bspwm](https://github.com/SidharthArya/.bspwm/compare/8a7438fd25...d336367a3d)
+- [SidharthArya pushed to main in SidharthArya/.tmux](https://github.com/SidharthArya/.tmux/compare/1f5df61987...518f497168)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/abd84cc8ed...129081d73f)
 - [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/e26f52a63e...0a04fe5fcd)
 - [SidharthArya starred Grasscutters/Grasscutter](https://github.com/Grasscutters/Grasscutter)
@@ -94,9 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred Lexikos/AutoHotkey_L](https://github.com/Lexikos/AutoHotkey_L)
 - [SidharthArya starred OpenMined/PySyft](https://github.com/OpenMined/PySyft)
 - [SidharthArya starred WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge)
-- [SidharthArya starred celery/celery](https://github.com/celery/celery)
-- [SidharthArya starred appsmithorg/appsmith](https://github.com/appsmithorg/appsmith)
-- [SidharthArya starred cugu/awesome-forensics](https://github.com/cugu/awesome-forensics)
 <!-- GITHUB:END -->
 
 ## Top Followers
