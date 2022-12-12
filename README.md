@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/abd84cc8ed...129081d73f)
+- [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/e26f52a63e...0a04fe5fcd)
 - [SidharthArya starred Grasscutters/Grasscutter](https://github.com/Grasscutters/Grasscutter)
 - [SidharthArya starred koekeishiya/yabai](https://github.com/koekeishiya/yabai)
 - [SidharthArya starred Lexikos/AutoHotkey_L](https://github.com/Lexikos/AutoHotkey_L)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred celery/celery](https://github.com/celery/celery)
 - [SidharthArya starred appsmithorg/appsmith](https://github.com/appsmithorg/appsmith)
 - [SidharthArya starred cugu/awesome-forensics](https://github.com/cugu/awesome-forensics)
-- [SidharthArya starred grafana/grafana](https://github.com/grafana/grafana)
-- [SidharthArya starred hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws)
 <!-- GITHUB:END -->
 
 ## Top Followers
