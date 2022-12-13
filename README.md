@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion)
 - [SidharthArya starred m1guelpf/chatgpt-telegram](https://github.com/m1guelpf/chatgpt-telegram)
 - [SidharthArya starred MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs)
 - [SidharthArya starred colinhacks/zod](https://github.com/colinhacks/zod)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya created a repository SidharthArya/.vim](https://github.com/SidharthArya/.vim//)
 - [SidharthArya created a branch main in SidharthArya/.zsh](https://github.com/SidharthArya/.zsh/compare/main)
 - [SidharthArya created a repository SidharthArya/.zsh](https://github.com/SidharthArya/.zsh//)
-- [SidharthArya pushed to master in SidharthArya/scripts](https://github.com/SidharthArya/scripts/compare/a3cea1636a...d2fd0ec9a1)
 <!-- GITHUB:END -->
 
 ## Top Followers
