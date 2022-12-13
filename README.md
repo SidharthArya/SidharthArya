@@ -87,6 +87,9 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred m1guelpf/chatgpt-telegram](https://github.com/m1guelpf/chatgpt-telegram)
+- [SidharthArya starred MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs)
+- [SidharthArya starred colinhacks/zod](https://github.com/colinhacks/zod)
 - [SidharthArya starred unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins)
 - [SidharthArya starred rprichard/winpty](https://github.com/rprichard/winpty)
 - [SidharthArya created a branch main in SidharthArya/.vim](https://github.com/SidharthArya/.vim/compare/main)
@@ -94,9 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya created a branch main in SidharthArya/.zsh](https://github.com/SidharthArya/.zsh/compare/main)
 - [SidharthArya created a repository SidharthArya/.zsh](https://github.com/SidharthArya/.zsh//)
 - [SidharthArya pushed to master in SidharthArya/scripts](https://github.com/SidharthArya/scripts/compare/a3cea1636a...d2fd0ec9a1)
-- [SidharthArya pushed to master in SidharthArya/.bspwm](https://github.com/SidharthArya/.bspwm/compare/8a7438fd25...d336367a3d)
-- [SidharthArya pushed to main in SidharthArya/.tmux](https://github.com/SidharthArya/.tmux/compare/1f5df61987...518f497168)
-- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/abd84cc8ed...129081d73f)
 <!-- GITHUB:END -->
 
 ## Top Followers
