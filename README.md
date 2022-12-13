@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins)
 - [SidharthArya starred rprichard/winpty](https://github.com/rprichard/winpty)
 - [SidharthArya created a branch main in SidharthArya/.vim](https://github.com/SidharthArya/.vim/compare/main)
 - [SidharthArya created a repository SidharthArya/.vim](https://github.com/SidharthArya/.vim//)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/.bspwm](https://github.com/SidharthArya/.bspwm/compare/8a7438fd25...d336367a3d)
 - [SidharthArya pushed to main in SidharthArya/.tmux](https://github.com/SidharthArya/.tmux/compare/1f5df61987...518f497168)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/abd84cc8ed...129081d73f)
-- [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/e26f52a63e...0a04fe5fcd)
 <!-- GITHUB:END -->
 
 ## Top Followers
