@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred isl-org/MiDaS](https://github.com/isl-org/MiDaS)
 - [SidharthArya starred Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion)
 - [SidharthArya starred m1guelpf/chatgpt-telegram](https://github.com/m1guelpf/chatgpt-telegram)
 - [SidharthArya starred MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya created a branch main in SidharthArya/.vim](https://github.com/SidharthArya/.vim/compare/main)
 - [SidharthArya created a repository SidharthArya/.vim](https://github.com/SidharthArya/.vim//)
 - [SidharthArya created a branch main in SidharthArya/.zsh](https://github.com/SidharthArya/.zsh/compare/main)
-- [SidharthArya created a repository SidharthArya/.zsh](https://github.com/SidharthArya/.zsh//)
 <!-- GITHUB:END -->
 
 ## Top Followers
