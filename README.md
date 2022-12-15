@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred Azure/azure-quickstart-templates](https://github.com/Azure/azure-quickstart-templates)
 - [SidharthArya starred lensterxyz/lenster](https://github.com/lensterxyz/lenster)
 - [SidharthArya starred google/evcxr](https://github.com/google/evcxr)
 - [SidharthArya starred ange-yaghi/engine-sim](https://github.com/ange-yaghi/engine-sim)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs)
 - [SidharthArya starred colinhacks/zod](https://github.com/colinhacks/zod)
 - [SidharthArya starred unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins)
-- [SidharthArya starred rprichard/winpty](https://github.com/rprichard/winpty)
 <!-- GITHUB:END -->
 
 ## Top Followers
