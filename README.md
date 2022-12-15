@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred charmbracelet/glow](https://github.com/charmbracelet/glow)
 - [SidharthArya starred jpochyla/psst](https://github.com/jpochyla/psst)
 - [SidharthArya starred mui/material-ui](https://github.com/mui/material-ui)
 - [SidharthArya starred Azure/azure-quickstart-templates](https://github.com/Azure/azure-quickstart-templates)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred isl-org/MiDaS](https://github.com/isl-org/MiDaS)
 - [SidharthArya starred Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion)
 - [SidharthArya starred m1guelpf/chatgpt-telegram](https://github.com/m1guelpf/chatgpt-telegram)
-- [SidharthArya starred MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs)
 <!-- GITHUB:END -->
 
 ## Top Followers
