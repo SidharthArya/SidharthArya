@@ -176,18 +176,18 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       <a href="https://github.com/stormwatch">Ezequiel Birman</a>
     </td>
     <td align="center">
+      <a href="https://github.com/uttarayan21">
+        <img src="https://avatars2.githubusercontent.com/u/18732700" width="100px;" alt="uttarayan21"/>
+      </a>
+      <br />
+      <a href="https://github.com/uttarayan21">Uttarayan Mondal</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/yanboyang713">
         <img src="https://avatars2.githubusercontent.com/u/7603628" width="100px;" alt="yanboyang713"/>
       </a>
       <br />
       <a href="https://github.com/yanboyang713">Boyang Yan</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/portgasray">
-        <img src="https://avatars2.githubusercontent.com/u/17681580" width="100px;" alt="portgasray"/>
-      </a>
-      <br />
-      <a href="https://github.com/portgasray">Lei Zhang</a>
     </td>
     <td align="center">
       <a href="https://github.com/amrithHN">
@@ -197,14 +197,21 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       <a href="https://github.com/amrithHN">Amrith H Namboodiri</a>
     </td>
     <td align="center">
+      <a href="https://github.com/portgasray">
+        <img src="https://avatars2.githubusercontent.com/u/17681580" width="100px;" alt="portgasray"/>
+      </a>
+      <br />
+      <a href="https://github.com/portgasray">Lei Zhang</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
       <a href="https://github.com/Satawatkee">
         <img src="https://avatars2.githubusercontent.com/u/53291820" width="100px;" alt="Satawatkee"/>
       </a>
       <br />
       <a href="https://github.com/Satawatkee">@s_saichansut</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/G0rav">
         <img src="https://avatars2.githubusercontent.com/u/62126889" width="100px;" alt="G0rav"/>
@@ -246,13 +253,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       </a>
       <br />
       <a href="https://github.com/ChandanCharchit">Chandan Charchit Sahoo</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/rjachuthan">
-        <img src="https://avatars2.githubusercontent.com/u/7797813" width="100px;" alt="rjachuthan"/>
-      </a>
-      <br />
-      <a href="https://github.com/rjachuthan">Rituraj Achuthan</a>
     </td>
   </tr>
 </table>
