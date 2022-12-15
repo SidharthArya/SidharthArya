@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred jpochyla/psst](https://github.com/jpochyla/psst)
+- [SidharthArya starred mui/material-ui](https://github.com/mui/material-ui)
 - [SidharthArya starred Azure/azure-quickstart-templates](https://github.com/Azure/azure-quickstart-templates)
 - [SidharthArya starred lensterxyz/lenster](https://github.com/lensterxyz/lenster)
 - [SidharthArya starred google/evcxr](https://github.com/google/evcxr)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion)
 - [SidharthArya starred m1guelpf/chatgpt-telegram](https://github.com/m1guelpf/chatgpt-telegram)
 - [SidharthArya starred MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs)
-- [SidharthArya starred colinhacks/zod](https://github.com/colinhacks/zod)
-- [SidharthArya starred unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins)
 <!-- GITHUB:END -->
 
 ## Top Followers
