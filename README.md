@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred google/evcxr](https://github.com/google/evcxr)
 - [SidharthArya starred ange-yaghi/engine-sim](https://github.com/ange-yaghi/engine-sim)
 - [SidharthArya starred isl-org/MiDaS](https://github.com/isl-org/MiDaS)
 - [SidharthArya starred Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins)
 - [SidharthArya starred rprichard/winpty](https://github.com/rprichard/winpty)
 - [SidharthArya created a branch main in SidharthArya/.vim](https://github.com/SidharthArya/.vim/compare/main)
-- [SidharthArya created a repository SidharthArya/.vim](https://github.com/SidharthArya/.vim//)
 <!-- GITHUB:END -->
 
 ## Top Followers
