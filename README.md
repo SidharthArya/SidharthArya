@@ -87,6 +87,9 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred nalgeon/sqlean](https://github.com/nalgeon/sqlean)
+- [SidharthArya starred dolthub/dolt](https://github.com/dolthub/dolt)
+- [SidharthArya starred jindongwang/transferlearning](https://github.com/jindongwang/transferlearning)
 - [SidharthArya starred charmbracelet/glow](https://github.com/charmbracelet/glow)
 - [SidharthArya starred jpochyla/psst](https://github.com/jpochyla/psst)
 - [SidharthArya starred mui/material-ui](https://github.com/mui/material-ui)
@@ -94,9 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred lensterxyz/lenster](https://github.com/lensterxyz/lenster)
 - [SidharthArya starred google/evcxr](https://github.com/google/evcxr)
 - [SidharthArya starred ange-yaghi/engine-sim](https://github.com/ange-yaghi/engine-sim)
-- [SidharthArya starred isl-org/MiDaS](https://github.com/isl-org/MiDaS)
-- [SidharthArya starred Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion)
-- [SidharthArya starred m1guelpf/chatgpt-telegram](https://github.com/m1guelpf/chatgpt-telegram)
 <!-- GITHUB:END -->
 
 ## Top Followers
