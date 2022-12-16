@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred vaaaaanquish/Awesome-Rust-MachineLearning](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning)
 - [SidharthArya starred nalgeon/sqlean](https://github.com/nalgeon/sqlean)
 - [SidharthArya starred dolthub/dolt](https://github.com/dolthub/dolt)
 - [SidharthArya starred jindongwang/transferlearning](https://github.com/jindongwang/transferlearning)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred Azure/azure-quickstart-templates](https://github.com/Azure/azure-quickstart-templates)
 - [SidharthArya starred lensterxyz/lenster](https://github.com/lensterxyz/lenster)
 - [SidharthArya starred google/evcxr](https://github.com/google/evcxr)
-- [SidharthArya starred ange-yaghi/engine-sim](https://github.com/ange-yaghi/engine-sim)
 <!-- GITHUB:END -->
 
 ## Top Followers
