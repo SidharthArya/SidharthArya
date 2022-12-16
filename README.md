@@ -87,16 +87,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
-- [SidharthArya starred vaaaaanquish/Awesome-Rust-MachineLearning](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning)
-- [SidharthArya starred nalgeon/sqlean](https://github.com/nalgeon/sqlean)
-- [SidharthArya starred dolthub/dolt](https://github.com/dolthub/dolt)
-- [SidharthArya starred jindongwang/transferlearning](https://github.com/jindongwang/transferlearning)
-- [SidharthArya starred charmbracelet/glow](https://github.com/charmbracelet/glow)
-- [SidharthArya starred jpochyla/psst](https://github.com/jpochyla/psst)
-- [SidharthArya starred mui/material-ui](https://github.com/mui/material-ui)
-- [SidharthArya starred Azure/azure-quickstart-templates](https://github.com/Azure/azure-quickstart-templates)
-- [SidharthArya starred lensterxyz/lenster](https://github.com/lensterxyz/lenster)
-- [SidharthArya starred google/evcxr](https://github.com/google/evcxr)
+- [SidharthArya starred DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns)
+- [SidharthArya starred smartcontractkit/full-blockchain-solidity-course-js](https://github.com/smartcontractkit/full-blockchain-solidity-course-js)
+- [SidharthArya starred dotnet/roslyn](https://github.com/dotnet/roslyn)
+- [SidharthArya starred f5/unovis](https://github.com/f5/unovis)
+- [SidharthArya starred mifi/lossless-cut](https://github.com/mifi/lossless-cut)
+- [SidharthArya starred skypilot-org/skypilot](https://github.com/skypilot-org/skypilot)
+- [SidharthArya starred modelfoxdotdev/modelfox](https://github.com/modelfoxdotdev/modelfox)
+- [SidharthArya starred jart/blink](https://github.com/jart/blink)
+- [SidharthArya starred metallb/metallb](https://github.com/metallb/metallb)
+- [SidharthArya starred krahets/hello-algo](https://github.com/krahets/hello-algo)
 <!-- GITHUB:END -->
 
 ## Top Followers
