@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred directus/directus](https://github.com/directus/directus)
 - [SidharthArya starred DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns)
 - [SidharthArya starred smartcontractkit/full-blockchain-solidity-course-js](https://github.com/smartcontractkit/full-blockchain-solidity-course-js)
 - [SidharthArya starred dotnet/roslyn](https://github.com/dotnet/roslyn)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred modelfoxdotdev/modelfox](https://github.com/modelfoxdotdev/modelfox)
 - [SidharthArya starred jart/blink](https://github.com/jart/blink)
 - [SidharthArya starred metallb/metallb](https://github.com/metallb/metallb)
-- [SidharthArya starred krahets/hello-algo](https://github.com/krahets/hello-algo)
 <!-- GITHUB:END -->
 
 ## Top Followers
