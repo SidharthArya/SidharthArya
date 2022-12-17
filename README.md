@@ -183,18 +183,18 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       <a href="https://github.com/uttarayan21">Uttarayan Mondal</a>
     </td>
     <td align="center">
-      <a href="https://github.com/yanboyang713">
-        <img src="https://avatars2.githubusercontent.com/u/7603628" width="100px;" alt="yanboyang713"/>
-      </a>
-      <br />
-      <a href="https://github.com/yanboyang713">Boyang Yan</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/amrithHN">
         <img src="https://avatars2.githubusercontent.com/u/70368617" width="100px;" alt="amrithHN"/>
       </a>
       <br />
       <a href="https://github.com/amrithHN">Amrith H Namboodiri</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/yanboyang713">
+        <img src="https://avatars2.githubusercontent.com/u/7603628" width="100px;" alt="yanboyang713"/>
+      </a>
+      <br />
+      <a href="https://github.com/yanboyang713">Boyang Yan</a>
     </td>
     <td align="center">
       <a href="https://github.com/portgasray">
