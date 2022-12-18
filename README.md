@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred musescore/MuseScore](https://github.com/musescore/MuseScore)
 - [SidharthArya starred carson-katri/dream-textures](https://github.com/carson-katri/dream-textures)
 - [SidharthArya starred upx/upx](https://github.com/upx/upx)
 - [SidharthArya starred facebook/sapling](https://github.com/facebook/sapling)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred dotnet/roslyn](https://github.com/dotnet/roslyn)
 - [SidharthArya starred f5/unovis](https://github.com/f5/unovis)
 - [SidharthArya starred mifi/lossless-cut](https://github.com/mifi/lossless-cut)
-- [SidharthArya starred skypilot-org/skypilot](https://github.com/skypilot-org/skypilot)
 <!-- GITHUB:END -->
 
 ## Top Followers
