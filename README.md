@@ -87,6 +87,9 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred carson-katri/dream-textures](https://github.com/carson-katri/dream-textures)
+- [SidharthArya starred upx/upx](https://github.com/upx/upx)
+- [SidharthArya starred facebook/sapling](https://github.com/facebook/sapling)
 - [SidharthArya starred directus/directus](https://github.com/directus/directus)
 - [SidharthArya starred DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns)
 - [SidharthArya starred smartcontractkit/full-blockchain-solidity-course-js](https://github.com/smartcontractkit/full-blockchain-solidity-course-js)
@@ -94,9 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred f5/unovis](https://github.com/f5/unovis)
 - [SidharthArya starred mifi/lossless-cut](https://github.com/mifi/lossless-cut)
 - [SidharthArya starred skypilot-org/skypilot](https://github.com/skypilot-org/skypilot)
-- [SidharthArya starred modelfoxdotdev/modelfox](https://github.com/modelfoxdotdev/modelfox)
-- [SidharthArya starred jart/blink](https://github.com/jart/blink)
-- [SidharthArya starred metallb/metallb](https://github.com/metallb/metallb)
 <!-- GITHUB:END -->
 
 ## Top Followers
