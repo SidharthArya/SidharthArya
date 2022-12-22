@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred saic-mdal/lama](https://github.com/saic-mdal/lama)
 - [SidharthArya starred clap-rs/clap](https://github.com/clap-rs/clap)
 - [SidharthArya starred org-rs/org-rs](https://github.com/org-rs/org-rs)
 - [SidharthArya starred musescore/MuseScore](https://github.com/musescore/MuseScore)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred directus/directus](https://github.com/directus/directus)
 - [SidharthArya starred DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns)
 - [SidharthArya starred smartcontractkit/full-blockchain-solidity-course-js](https://github.com/smartcontractkit/full-blockchain-solidity-course-js)
-- [SidharthArya starred dotnet/roslyn](https://github.com/dotnet/roslyn)
 <!-- GITHUB:END -->
 
 ## Top Followers
