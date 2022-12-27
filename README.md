@@ -87,16 +87,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred google/comprehensive-rust](https://github.com/google/comprehensive-rust)
+- [SidharthArya starred khuyentran1401/Data-science](https://github.com/khuyentran1401/Data-science)
+- [SidharthArya starred XTLS/Xray-core](https://github.com/XTLS/Xray-core)
+- [SidharthArya starred pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu)
 - [SidharthArya starred xiaoxian521/vue-pure-admin](https://github.com/xiaoxian521/vue-pure-admin)
 - [SidharthArya starred riffusion/riffusion-app](https://github.com/riffusion/riffusion-app)
 - [SidharthArya starred williamboman/mason.nvim](https://github.com/williamboman/mason.nvim)
 - [SidharthArya starred moby/moby](https://github.com/moby/moby)
 - [SidharthArya starred komodorio/helm-dashboard](https://github.com/komodorio/helm-dashboard)
 - [SidharthArya starred saic-mdal/lama](https://github.com/saic-mdal/lama)
-- [SidharthArya starred clap-rs/clap](https://github.com/clap-rs/clap)
-- [SidharthArya starred org-rs/org-rs](https://github.com/org-rs/org-rs)
-- [SidharthArya starred musescore/MuseScore](https://github.com/musescore/MuseScore)
-- [SidharthArya starred carson-katri/dream-textures](https://github.com/carson-katri/dream-textures)
 <!-- GITHUB:END -->
 
 ## Top Followers
