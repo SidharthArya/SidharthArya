@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred Anuken/Mindustry](https://github.com/Anuken/Mindustry)
 - [SidharthArya starred google/comprehensive-rust](https://github.com/google/comprehensive-rust)
 - [SidharthArya starred khuyentran1401/Data-science](https://github.com/khuyentran1401/Data-science)
 - [SidharthArya starred XTLS/Xray-core](https://github.com/XTLS/Xray-core)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred williamboman/mason.nvim](https://github.com/williamboman/mason.nvim)
 - [SidharthArya starred moby/moby](https://github.com/moby/moby)
 - [SidharthArya starred komodorio/helm-dashboard](https://github.com/komodorio/helm-dashboard)
-- [SidharthArya starred saic-mdal/lama](https://github.com/saic-mdal/lama)
 <!-- GITHUB:END -->
 
 ## Top Followers
