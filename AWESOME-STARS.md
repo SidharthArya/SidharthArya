@@ -203,7 +203,7 @@
 ## C# # 
 
 - [dotnet/roslyn](https://github.com/dotnet/roslyn) - The Roslyn .NET compiler provides C# and Visual Basic languages with rich code analysis APIs.
-- [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》一本动画图解、能运行、可提问的数据结构与算法入门书。提供 Java, C++, Python, Go, JS, TS, C# 多语言代码实现。
+- [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》一本动画图解、能运行、可提问的数据结构与算法入门书。提供 Java, C++, Python, Go, JS, TS, C# 源代码。
 - [2dust/v2rayN](https://github.com/2dust/v2rayN) - A V2Ray client for Windows, support Xray core and v2fly core
 - [jbogard/MediatR](https://github.com/jbogard/MediatR) - Simple, unambitious mediator implementation in .NET
 - [microsoft/ailab](https://github.com/microsoft/ailab) - Experience, Learn and Code the latest breakthrough innovations with Microsoft AI
@@ -757,6 +757,7 @@
 
 ## Java 
 
+- [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS
 - [Grasscutters/Grasscutter](https://github.com/Grasscutters/Grasscutter) - A server software reimplementation for a certain anime game.
 - [macrozheng/mall](https://github.com/macrozheng/mall) - mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。
 - [alibaba/nacos](https://github.com/alibaba/nacos) - an easy-to-use dynamic service discovery, configuration and service management platform for building cloud native applications.
@@ -1075,7 +1076,7 @@
 - [mosheman5/DNP](https://github.com/mosheman5/DNP) - Audio Denoising with Deep Network Priors
 - [sthalles/deeplab_v3](https://github.com/sthalles/deeplab_v3) - Tensorflow Implementation of the Semantic Segmentation DeepLab_V3 CNN
 - [virgili0/Virgilio](https://github.com/virgili0/Virgilio) - Your new Mentor for Data Science E-Learning.
-- [AI4Finance-Foundation/FinRL-Live-Trading](https://github.com/AI4Finance-Foundation/FinRL-Live-Trading) - Live Trading. Please star.
+- [AI4Finance-Foundation/FinRL-Trading](https://github.com/AI4Finance-Foundation/FinRL-Trading) - For trading. Please star.
 - [google-research/google-research](https://github.com/google-research/google-research) - Google Research
 - [fastai/fastai](https://github.com/fastai/fastai) - The fastai deep learning library
 - [aymericdamien/TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples) - TensorFlow Tutorial and Examples for Beginners (support TF v1 & v2)
