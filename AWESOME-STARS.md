@@ -1030,7 +1030,7 @@
 
 ## Jupyter Notebook 
 
-- [khuyentran1401/Data-science](https://github.com/khuyentran1401/Data-science) - Collection of useful data science topics along with code and articles
+- [khuyentran1401/Data-science](https://github.com/khuyentran1401/Data-science) - Collection of useful data science topics along with articles, videos, and code
 - [saic-mdal/lama](https://github.com/saic-mdal/lama) - 🦙  LaMa Image Inpainting, Resolution-robust Large Mask Inpainting with Fourier Convolutions, WACV 2022
 - [OpenMined/PySyft](https://github.com/OpenMined/PySyft) - Data science on data without acquiring a copy
 - [Azure/MachineLearningNotebooks](https://github.com/Azure/MachineLearningNotebooks) - Python notebooks with ML and deep learning examples with Azure Machine Learning Python SDK | Microsoft
