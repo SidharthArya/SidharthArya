@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred karpathy/nanoGPT](https://github.com/karpathy/nanoGPT)
 - [SidharthArya starred google/osv-scanner](https://github.com/google/osv-scanner)
 - [SidharthArya starred pmndrs/zustand](https://github.com/pmndrs/zustand)
 - [SidharthArya starred Anuken/Mindustry](https://github.com/Anuken/Mindustry)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu)
 - [SidharthArya starred xiaoxian521/vue-pure-admin](https://github.com/xiaoxian521/vue-pure-admin)
 - [SidharthArya starred riffusion/riffusion-app](https://github.com/riffusion/riffusion-app)
-- [SidharthArya starred williamboman/mason.nvim](https://github.com/williamboman/mason.nvim)
 <!-- GITHUB:END -->
 
 ## Top Followers
