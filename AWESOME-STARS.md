@@ -157,7 +157,7 @@
 - [openai/retro](https://github.com/openai/retro) - Retro Games in Gym
 - [NixOS/mobile-nixos](https://github.com/NixOS/mobile-nixos) - 
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
-- [muennich/sxiv](https://github.com/muennich/sxiv) - Simple X Image Viewer
+- [xyb3rt/sxiv](https://github.com/xyb3rt/sxiv) - Simple X Image Viewer
 - [bk138/gromit-mpx](https://github.com/bk138/gromit-mpx) - Gromit-MPX is an on-screen annotation tool that works with any Unix desktop environment under X11 as well as Wayland.
 - [jlam55555/veikk-linux-driver](https://github.com/jlam55555/veikk-linux-driver) - Linux driver for VEIKK-brand digitizers
 - [vmatare/thinkfan](https://github.com/vmatare/thinkfan) - The minimalist fan control program
@@ -2068,6 +2068,7 @@
 
 ## TypeScript 
 
+- [opencv/cvat](https://github.com/opencv/cvat) - Annotate better with CVAT, the industry-leading data engine for machine learning. Used and trusted by teams at any scale, for data of any scale.
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
 - [riffusion/riffusion-app](https://github.com/riffusion/riffusion-app) - Stable diffusion for real-time music generation (web app)
 - [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
