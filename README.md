@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred midudev/preguntas-entrevista-react](https://github.com/midudev/preguntas-entrevista-react)
+- [SidharthArya starred recharts/recharts](https://github.com/recharts/recharts)
 - [SidharthArya starred opencv/cvat](https://github.com/opencv/cvat)
 - [SidharthArya starred karpathy/nanoGPT](https://github.com/karpathy/nanoGPT)
 - [SidharthArya starred google/osv-scanner](https://github.com/google/osv-scanner)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred google/comprehensive-rust](https://github.com/google/comprehensive-rust)
 - [SidharthArya starred khuyentran1401/Data-science](https://github.com/khuyentran1401/Data-science)
 - [SidharthArya starred XTLS/Xray-core](https://github.com/XTLS/Xray-core)
-- [SidharthArya starred pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu)
-- [SidharthArya starred xiaoxian521/vue-pure-admin](https://github.com/xiaoxian521/vue-pure-admin)
 <!-- GITHUB:END -->
 
 ## Top Followers
