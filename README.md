@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred danielgindi/Charts](https://github.com/danielgindi/Charts)
+- [SidharthArya starred ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
 - [SidharthArya starred midudev/preguntas-entrevista-react](https://github.com/midudev/preguntas-entrevista-react)
 - [SidharthArya starred recharts/recharts](https://github.com/recharts/recharts)
 - [SidharthArya starred opencv/cvat](https://github.com/opencv/cvat)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred pmndrs/zustand](https://github.com/pmndrs/zustand)
 - [SidharthArya starred Anuken/Mindustry](https://github.com/Anuken/Mindustry)
 - [SidharthArya starred google/comprehensive-rust](https://github.com/google/comprehensive-rust)
-- [SidharthArya starred khuyentran1401/Data-science](https://github.com/khuyentran1401/Data-science)
-- [SidharthArya starred XTLS/Xray-core](https://github.com/XTLS/Xray-core)
 <!-- GITHUB:END -->
 
 ## Top Followers
