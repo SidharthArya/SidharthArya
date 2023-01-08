@@ -820,6 +820,7 @@
 
 ## JavaScript 
 
+- [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - :bathtub: Clean Code concepts adapted for JavaScript
 - [midudev/preguntas-entrevista-react](https://github.com/midudev/preguntas-entrevista-react) - Preguntas típicas sobre React para entrevistas de trabajo ⚛️
 - [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
 - [vaaaaanquish/Awesome-Rust-MachineLearning](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning) - This repository is a list of machine learning libraries written in Rust. It's a compilation of GitHub repositories, blogs, books, movies, discussions, papers, etc. 🦀
@@ -2031,6 +2032,7 @@
 
 ## Swift 
 
+- [danielgindi/Charts](https://github.com/danielgindi/Charts) - Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart.
 - [apple/swift-collections](https://github.com/apple/swift-collections) - Commonly used data structures for Swift
 - [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar
 - [ReactiveX/RxSwift](https://github.com/ReactiveX/RxSwift) - Reactive Programming in Swift
