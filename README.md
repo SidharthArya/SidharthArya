@@ -176,18 +176,18 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       <a href="https://github.com/stormwatch">Ezequiel Birman</a>
     </td>
     <td align="center">
-      <a href="https://github.com/amrithHN">
-        <img src="https://avatars2.githubusercontent.com/u/70368617" width="100px;" alt="amrithHN"/>
-      </a>
-      <br />
-      <a href="https://github.com/amrithHN">Amrith H Namboodiri</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/grahamwaters">
         <img src="https://avatars2.githubusercontent.com/u/63750901" width="100px;" alt="grahamwaters"/>
       </a>
       <br />
       <a href="https://github.com/grahamwaters">Graham Waters</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/amrithHN">
+        <img src="https://avatars2.githubusercontent.com/u/70368617" width="100px;" alt="amrithHN"/>
+      </a>
+      <br />
+      <a href="https://github.com/amrithHN">Amrith H Namboodiri</a>
     </td>
     <td align="center">
       <a href="https://github.com/uttarayan21">
