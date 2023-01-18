@@ -169,18 +169,18 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       <a href="https://github.com/Tiancheng-Luo">Tiancheng-Luo</a>
     </td>
     <td align="center">
-      <a href="https://github.com/stormwatch">
-        <img src="https://avatars2.githubusercontent.com/u/824211" width="100px;" alt="stormwatch"/>
-      </a>
-      <br />
-      <a href="https://github.com/stormwatch">Ezequiel Birman</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/grahamwaters">
         <img src="https://avatars2.githubusercontent.com/u/63750901" width="100px;" alt="grahamwaters"/>
       </a>
       <br />
       <a href="https://github.com/grahamwaters">Graham Waters</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/stormwatch">
+        <img src="https://avatars2.githubusercontent.com/u/824211" width="100px;" alt="stormwatch"/>
+      </a>
+      <br />
+      <a href="https://github.com/stormwatch">Ezequiel Birman</a>
     </td>
     <td align="center">
       <a href="https://github.com/amrithHN">
@@ -248,11 +248,11 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       <a href="https://github.com/vinay-singh27">Vinay Singh</a>
     </td>
     <td align="center">
-      <a href="https://github.com/HakunanMatatat">
-        <img src="https://avatars2.githubusercontent.com/u/56817048" width="100px;" alt="HakunanMatatat"/>
+      <a href="https://github.com/rjachuthan">
+        <img src="https://avatars2.githubusercontent.com/u/7797813" width="100px;" alt="rjachuthan"/>
       </a>
       <br />
-      <a href="https://github.com/HakunanMatatat">HakunanMatatat</a>
+      <a href="https://github.com/rjachuthan">Rituraj Achuthan</a>
     </td>
   </tr>
 </table>
