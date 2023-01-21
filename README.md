@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred matplotlib/ipympl](https://github.com/matplotlib/ipympl)
 - [SidharthArya starred rainmeter/rainmeter](https://github.com/rainmeter/rainmeter)
 - [SidharthArya starred danielgindi/Charts](https://github.com/danielgindi/Charts)
 - [SidharthArya starred ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred karpathy/nanoGPT](https://github.com/karpathy/nanoGPT)
 - [SidharthArya starred google/osv-scanner](https://github.com/google/osv-scanner)
 - [SidharthArya starred pmndrs/zustand](https://github.com/pmndrs/zustand)
-- [SidharthArya starred Anuken/Mindustry](https://github.com/Anuken/Mindustry)
 <!-- GITHUB:END -->
 
 ## Top Followers
