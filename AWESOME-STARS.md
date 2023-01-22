@@ -2071,6 +2071,7 @@
 
 ## TypeScript 
 
+- [matplotlib/ipympl](https://github.com/matplotlib/ipympl) - Matplotlib Jupyter Integration
 - [recharts/recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
 - [opencv/cvat](https://github.com/opencv/cvat) - Annotate better with CVAT, the industry-leading data engine for machine learning. Used and trusted by teams at any scale, for data of any scale.
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
