@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred mitesh77/Best-Flutter-UI-Templates](https://github.com/mitesh77/Best-Flutter-UI-Templates)
+- [SidharthArya starred TomSchimansky/CustomTkinter](https://github.com/TomSchimansky/CustomTkinter)
 - [SidharthArya starred matplotlib/ipympl](https://github.com/matplotlib/ipympl)
 - [SidharthArya starred rainmeter/rainmeter](https://github.com/rainmeter/rainmeter)
 - [SidharthArya starred danielgindi/Charts](https://github.com/danielgindi/Charts)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred recharts/recharts](https://github.com/recharts/recharts)
 - [SidharthArya starred opencv/cvat](https://github.com/opencv/cvat)
 - [SidharthArya starred karpathy/nanoGPT](https://github.com/karpathy/nanoGPT)
-- [SidharthArya starred google/osv-scanner](https://github.com/google/osv-scanner)
-- [SidharthArya starred pmndrs/zustand](https://github.com/pmndrs/zustand)
 <!-- GITHUB:END -->
 
 ## Top Followers
