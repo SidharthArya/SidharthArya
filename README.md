@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred dair-ai/AI-Product-Index](https://github.com/dair-ai/AI-Product-Index)
+- [SidharthArya starred mage-ai/mage-ai](https://github.com/mage-ai/mage-ai)
 - [SidharthArya starred JetBrains/kotlin](https://github.com/JetBrains/kotlin)
 - [SidharthArya starred minio/minio](https://github.com/minio/minio)
 - [SidharthArya starred mitesh77/Best-Flutter-UI-Templates](https://github.com/mitesh77/Best-Flutter-UI-Templates)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred rainmeter/rainmeter](https://github.com/rainmeter/rainmeter)
 - [SidharthArya starred danielgindi/Charts](https://github.com/danielgindi/Charts)
 - [SidharthArya starred ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
-- [SidharthArya starred midudev/preguntas-entrevista-react](https://github.com/midudev/preguntas-entrevista-react)
-- [SidharthArya starred recharts/recharts](https://github.com/recharts/recharts)
 <!-- GITHUB:END -->
 
 ## Top Followers
