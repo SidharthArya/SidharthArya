@@ -87,16 +87,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred github/explore](https://github.com/github/explore)
+- [SidharthArya starred Farama-Foundation/Gymnasium](https://github.com/Farama-Foundation/Gymnasium)
+- [SidharthArya starred geocompx/geocompr](https://github.com/geocompx/geocompr)
+- [SidharthArya starred ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp)
+- [SidharthArya starred styled-system/styled-system](https://github.com/styled-system/styled-system)
 - [SidharthArya starred dair-ai/AI-Product-Index](https://github.com/dair-ai/AI-Product-Index)
 - [SidharthArya starred mage-ai/mage-ai](https://github.com/mage-ai/mage-ai)
 - [SidharthArya starred JetBrains/kotlin](https://github.com/JetBrains/kotlin)
 - [SidharthArya starred minio/minio](https://github.com/minio/minio)
 - [SidharthArya starred mitesh77/Best-Flutter-UI-Templates](https://github.com/mitesh77/Best-Flutter-UI-Templates)
-- [SidharthArya starred TomSchimansky/CustomTkinter](https://github.com/TomSchimansky/CustomTkinter)
-- [SidharthArya starred matplotlib/ipympl](https://github.com/matplotlib/ipympl)
-- [SidharthArya starred rainmeter/rainmeter](https://github.com/rainmeter/rainmeter)
-- [SidharthArya starred danielgindi/Charts](https://github.com/danielgindi/Charts)
-- [SidharthArya starred ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
 <!-- GITHUB:END -->
 
 ## Top Followers
