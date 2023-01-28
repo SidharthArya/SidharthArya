@@ -1494,7 +1494,7 @@
 - [shapely/shapely](https://github.com/shapely/shapely) - Manipulation and analysis of geometric objects
 - [masyagin1998/robin](https://github.com/masyagin1998/robin) - RObust document image BINarization
 - [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and de
-- [Lightning-AI/lightning](https://github.com/Lightning-AI/lightning) - Build and train PyTorch models and connect them to the ML lifecycle using Lightning App templates, without handling DIY infrastructure, cost management, scaling, and other headaches.
+- [Lightning-AI/lightning](https://github.com/Lightning-AI/lightning) - Deep learning framework to train, deploy, and ship AI products Lightning fast.
 - [murtazahassan/OpenCV-Python-Tutorials-and-Projects](https://github.com/murtazahassan/OpenCV-Python-Tutorials-and-Projects) - An easy to follow course of OpenCV using Python for beginners.
 - [microsoft/tf-gnn-samples](https://github.com/microsoft/tf-gnn-samples) - TensorFlow implementations of Graph Neural Networks
 - [madmaze/pytesseract](https://github.com/madmaze/pytesseract) - A Python wrapper for Google Tesseract
@@ -1707,7 +1707,7 @@
 - [georgewhewell/undervolt](https://github.com/georgewhewell/undervolt) - Undervolt Intel CPUs under Linux
 - [tableau/TabPy](https://github.com/tableau/TabPy) - Execute Python code on the fly and display results in Tableau visualizations:
 - [charlierguo/gmail](https://github.com/charlierguo/gmail) - A Pythonic interface for Google Mail
-- [mps-youtube/yewtube](https://github.com/mps-youtube/yewtube) - yewtube, formerly mps-youtube, is a Terminal based YouTube player and downloader.
+- [mps-youtube/yewtube](https://github.com/mps-youtube/yewtube) - yewtube, forked from mps-youtube , is a Terminal based YouTube player and downloader. No Youtube API key required.
 - [tiangolo/typer](https://github.com/tiangolo/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [vsjha18/nsetools](https://github.com/vsjha18/nsetools) - Realtime Data From National Stock Exchange (India)
@@ -1977,7 +1977,7 @@
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [codota/TabNine](https://github.com/codota/TabNine) - AI Code Completions
 - [FydeOS/chromium_os-raspberry_pi](https://github.com/FydeOS/chromium_os-raspberry_pi) - Build your Chromium OS for Raspberry Pi 3B/3B+/4B and Pi400
-- [guarinogabriel/Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) -  MacOS command line tool for developers – The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your Mac.
+- [guarinogabriel/Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) -  macOS command line tool for developers – The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your Mac.
 - [nginx-proxy/acme-companion](https://github.com/nginx-proxy/acme-companion) - Automated ACME SSL certificate generation for nginx-proxy
 - [opencv/opencv-python](https://github.com/opencv/opencv-python) - Automated CI toolchain to produce precompiled opencv-python, opencv-python-headless, opencv-contrib-python and opencv-contrib-python-headless packages.
 - [tmux-plugins/tmux-sensible](https://github.com/tmux-plugins/tmux-sensible) - basic tmux settings everyone can agree on
