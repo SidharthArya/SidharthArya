@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred microsoft/BioGPT](https://github.com/microsoft/BioGPT)
 - [SidharthArya starred yassouali/awesome-semi-supervised-learning](https://github.com/yassouali/awesome-semi-supervised-learning)
 - [SidharthArya starred github/explore](https://github.com/github/explore)
 - [SidharthArya starred Farama-Foundation/Gymnasium](https://github.com/Farama-Foundation/Gymnasium)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred dair-ai/AI-Product-Index](https://github.com/dair-ai/AI-Product-Index)
 - [SidharthArya starred mage-ai/mage-ai](https://github.com/mage-ai/mage-ai)
 - [SidharthArya starred JetBrains/kotlin](https://github.com/JetBrains/kotlin)
-- [SidharthArya starred minio/minio](https://github.com/minio/minio)
 <!-- GITHUB:END -->
 
 ## Top Followers
