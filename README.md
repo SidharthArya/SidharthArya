@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred yassouali/awesome-semi-supervised-learning](https://github.com/yassouali/awesome-semi-supervised-learning)
 - [SidharthArya starred github/explore](https://github.com/github/explore)
 - [SidharthArya starred Farama-Foundation/Gymnasium](https://github.com/Farama-Foundation/Gymnasium)
 - [SidharthArya starred geocompx/geocompr](https://github.com/geocompx/geocompr)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred mage-ai/mage-ai](https://github.com/mage-ai/mage-ai)
 - [SidharthArya starred JetBrains/kotlin](https://github.com/JetBrains/kotlin)
 - [SidharthArya starred minio/minio](https://github.com/minio/minio)
-- [SidharthArya starred mitesh77/Best-Flutter-UI-Templates](https://github.com/mitesh77/Best-Flutter-UI-Templates)
 <!-- GITHUB:END -->
 
 ## Top Followers
