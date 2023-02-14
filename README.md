@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred GoogleCloudPlatform/terraformer](https://github.com/GoogleCloudPlatform/terraformer)
 - [SidharthArya starred kivy/kivy](https://github.com/kivy/kivy)
 - [SidharthArya starred encode/uvicorn](https://github.com/encode/uvicorn)
 - [SidharthArya starred PowerShell/PSReadLine](https://github.com/PowerShell/PSReadLine)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred Farama-Foundation/Gymnasium](https://github.com/Farama-Foundation/Gymnasium)
 - [SidharthArya starred geocompx/geocompr](https://github.com/geocompx/geocompr)
 - [SidharthArya starred ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp)
-- [SidharthArya starred styled-system/styled-system](https://github.com/styled-system/styled-system)
 <!-- GITHUB:END -->
 
 ## Top Followers
