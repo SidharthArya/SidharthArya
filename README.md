@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred kivy/kivy](https://github.com/kivy/kivy)
 - [SidharthArya starred encode/uvicorn](https://github.com/encode/uvicorn)
 - [SidharthArya starred PowerShell/PSReadLine](https://github.com/PowerShell/PSReadLine)
 - [SidharthArya starred microsoft/BioGPT](https://github.com/microsoft/BioGPT)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred geocompx/geocompr](https://github.com/geocompx/geocompr)
 - [SidharthArya starred ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp)
 - [SidharthArya starred styled-system/styled-system](https://github.com/styled-system/styled-system)
-- [SidharthArya starred dair-ai/AI-Product-Index](https://github.com/dair-ai/AI-Product-Index)
 <!-- GITHUB:END -->
 
 ## Top Followers
