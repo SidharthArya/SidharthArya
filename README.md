@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred cleardusk/3DDFA_V2](https://github.com/cleardusk/3DDFA_V2)
 - [SidharthArya starred jiaaro/pydub](https://github.com/jiaaro/pydub)
 - [SidharthArya starred GoogleCloudPlatform/terraformer](https://github.com/GoogleCloudPlatform/terraformer)
 - [SidharthArya starred kivy/kivy](https://github.com/kivy/kivy)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred yassouali/awesome-semi-supervised-learning](https://github.com/yassouali/awesome-semi-supervised-learning)
 - [SidharthArya starred github/explore](https://github.com/github/explore)
 - [SidharthArya starred Farama-Foundation/Gymnasium](https://github.com/Farama-Foundation/Gymnasium)
-- [SidharthArya starred geocompx/geocompr](https://github.com/geocompx/geocompr)
 <!-- GITHUB:END -->
 
 ## Top Followers
