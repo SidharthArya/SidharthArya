@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred microsoft/NeuronBlocks](https://github.com/microsoft/NeuronBlocks)
 - [SidharthArya starred drogonframework/drogon](https://github.com/drogonframework/drogon)
 - [SidharthArya starred Beep6581/RawTherapee](https://github.com/Beep6581/RawTherapee)
 - [SidharthArya starred cleardusk/3DDFA_V2](https://github.com/cleardusk/3DDFA_V2)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred encode/uvicorn](https://github.com/encode/uvicorn)
 - [SidharthArya starred PowerShell/PSReadLine](https://github.com/PowerShell/PSReadLine)
 - [SidharthArya starred microsoft/BioGPT](https://github.com/microsoft/BioGPT)
-- [SidharthArya starred yassouali/awesome-semi-supervised-learning](https://github.com/yassouali/awesome-semi-supervised-learning)
 <!-- GITHUB:END -->
 
 ## Top Followers
