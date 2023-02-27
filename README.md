@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred davisking/dlib](https://github.com/davisking/dlib)
 - [SidharthArya starred microsoft/NeuronBlocks](https://github.com/microsoft/NeuronBlocks)
 - [SidharthArya starred drogonframework/drogon](https://github.com/drogonframework/drogon)
 - [SidharthArya starred Beep6581/RawTherapee](https://github.com/Beep6581/RawTherapee)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred kivy/kivy](https://github.com/kivy/kivy)
 - [SidharthArya starred encode/uvicorn](https://github.com/encode/uvicorn)
 - [SidharthArya starred PowerShell/PSReadLine](https://github.com/PowerShell/PSReadLine)
-- [SidharthArya starred microsoft/BioGPT](https://github.com/microsoft/BioGPT)
 <!-- GITHUB:END -->
 
 ## Top Followers
