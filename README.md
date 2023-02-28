@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred esimov/pigo](https://github.com/esimov/pigo)
 - [SidharthArya starred davisking/dlib](https://github.com/davisking/dlib)
 - [SidharthArya starred microsoft/NeuronBlocks](https://github.com/microsoft/NeuronBlocks)
 - [SidharthArya starred drogonframework/drogon](https://github.com/drogonframework/drogon)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred GoogleCloudPlatform/terraformer](https://github.com/GoogleCloudPlatform/terraformer)
 - [SidharthArya starred kivy/kivy](https://github.com/kivy/kivy)
 - [SidharthArya starred encode/uvicorn](https://github.com/encode/uvicorn)
-- [SidharthArya starred PowerShell/PSReadLine](https://github.com/PowerShell/PSReadLine)
 <!-- GITHUB:END -->
 
 ## Top Followers
