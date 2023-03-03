@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred tensorflow/probability](https://github.com/tensorflow/probability)
 - [SidharthArya starred deepinsight/insightface](https://github.com/deepinsight/insightface)
 - [SidharthArya starred esimov/pigo](https://github.com/esimov/pigo)
 - [SidharthArya starred davisking/dlib](https://github.com/davisking/dlib)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred cleardusk/3DDFA_V2](https://github.com/cleardusk/3DDFA_V2)
 - [SidharthArya starred jiaaro/pydub](https://github.com/jiaaro/pydub)
 - [SidharthArya starred GoogleCloudPlatform/terraformer](https://github.com/GoogleCloudPlatform/terraformer)
-- [SidharthArya starred kivy/kivy](https://github.com/kivy/kivy)
 <!-- GITHUB:END -->
 
 ## Top Followers
