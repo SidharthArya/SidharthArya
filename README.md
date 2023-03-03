@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred tensorflow/ranking](https://github.com/tensorflow/ranking)
 - [SidharthArya starred kevinzakka/spatial-transformer-network](https://github.com/kevinzakka/spatial-transformer-network)
 - [SidharthArya starred tensorflow/probability](https://github.com/tensorflow/probability)
 - [SidharthArya starred deepinsight/insightface](https://github.com/deepinsight/insightface)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred drogonframework/drogon](https://github.com/drogonframework/drogon)
 - [SidharthArya starred Beep6581/RawTherapee](https://github.com/Beep6581/RawTherapee)
 - [SidharthArya starred cleardusk/3DDFA_V2](https://github.com/cleardusk/3DDFA_V2)
-- [SidharthArya starred jiaaro/pydub](https://github.com/jiaaro/pydub)
 <!-- GITHUB:END -->
 
 ## Top Followers
