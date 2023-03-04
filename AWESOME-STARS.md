@@ -1381,6 +1381,7 @@
 
 ## Python 
 
+- [tensorflow/ranking](https://github.com/tensorflow/ranking) - Learning to Rank in TensorFlow
 - [kevinzakka/spatial-transformer-network](https://github.com/kevinzakka/spatial-transformer-network) - A Tensorflow implementation of Spatial Transformer Networks
 - [deepinsight/insightface](https://github.com/deepinsight/insightface) - State-of-the-art 2D and 3D Face Analysis Project
 - [microsoft/NeuronBlocks](https://github.com/microsoft/NeuronBlocks) - NLP DNN Toolkit - Building Your NLP DNN Models Like Playing Lego
