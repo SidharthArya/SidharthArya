@@ -169,6 +169,13 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       <a href="https://github.com/grahamwaters">Graham Waters</a>
     </td>
     <td align="center">
+      <a href="https://github.com/PlatypusSec">
+        <img src="https://avatars2.githubusercontent.com/u/123879376" width="100px;" alt="PlatypusSec"/>
+      </a>
+      <br />
+      <a href="https://github.com/PlatypusSec">Platypus Sec Team</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/Tiancheng-Luo">
         <img src="https://avatars2.githubusercontent.com/u/6097951" width="100px;" alt="Tiancheng-Luo"/>
       </a>
@@ -196,6 +203,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       <br />
       <a href="https://github.com/uttarayan21">Uttarayan Mondal</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/yanboyang713">
         <img src="https://avatars2.githubusercontent.com/u/7603628" width="100px;" alt="yanboyang713"/>
@@ -203,8 +212,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       <br />
       <a href="https://github.com/yanboyang713">Boyang Yan</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/Satawatkee">
         <img src="https://avatars2.githubusercontent.com/u/53291820" width="100px;" alt="Satawatkee"/>
@@ -246,13 +253,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       </a>
       <br />
       <a href="https://github.com/HakunanMatatat">HakunanMatatat</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/vinay-singh27">
-        <img src="https://avatars2.githubusercontent.com/u/40866557" width="100px;" alt="vinay-singh27"/>
-      </a>
-      <br />
-      <a href="https://github.com/vinay-singh27">Vinay Singh</a>
     </td>
   </tr>
 </table>
