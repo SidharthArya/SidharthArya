@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to main in SidharthArya/.zsh](https://github.com/SidharthArya/.zsh/compare/bd8df50265...d52e4ca954)
 - [SidharthArya starred rvm/rvm](https://github.com/rvm/rvm)
 - [SidharthArya created a branch main in SidharthArya/.yabai](https://github.com/SidharthArya/.yabai/compare/main)
 - [SidharthArya created a repository SidharthArya/.yabai](https://github.com/SidharthArya/.yabai//)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred tensorflow/probability](https://github.com/tensorflow/probability)
 - [SidharthArya starred deepinsight/insightface](https://github.com/deepinsight/insightface)
 - [SidharthArya starred esimov/pigo](https://github.com/esimov/pigo)
-- [SidharthArya starred davisking/dlib](https://github.com/davisking/dlib)
 <!-- GITHUB:END -->
 
 ## Top Followers
