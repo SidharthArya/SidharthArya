@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya created a branch main in SidharthArya/.yabai](https://github.com/SidharthArya/.yabai/compare/main)
+- [SidharthArya created a repository SidharthArya/.yabai](https://github.com/SidharthArya/.yabai//)
 - [SidharthArya pushed to main in SidharthArya/.zsh](https://github.com/SidharthArya/.zsh/compare/9e842b1693...bd8df50265)
 - [SidharthArya starred tensorflow/ranking](https://github.com/tensorflow/ranking)
 - [SidharthArya starred kevinzakka/spatial-transformer-network](https://github.com/kevinzakka/spatial-transformer-network)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred esimov/pigo](https://github.com/esimov/pigo)
 - [SidharthArya starred davisking/dlib](https://github.com/davisking/dlib)
 - [SidharthArya starred microsoft/NeuronBlocks](https://github.com/microsoft/NeuronBlocks)
-- [SidharthArya starred drogonframework/drogon](https://github.com/drogonframework/drogon)
-- [SidharthArya starred Beep6581/RawTherapee](https://github.com/Beep6581/RawTherapee)
 <!-- GITHUB:END -->
 
 ## Top Followers
