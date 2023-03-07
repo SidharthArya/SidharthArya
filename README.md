@@ -87,16 +87,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
+- [SidharthArya starred JimmyLv/BiliGPT](https://github.com/JimmyLv/BiliGPT)
+- [SidharthArya starred Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python)
+- [SidharthArya starred Nutlope/roomGPT](https://github.com/Nutlope/roomGPT)
+- [SidharthArya starred LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant)
+- [SidharthArya pushed to main in SidharthArya/.tmux](https://github.com/SidharthArya/.tmux/compare/518f497168...1e177c61e8)
 - [SidharthArya pushed to main in SidharthArya/.zsh](https://github.com/SidharthArya/.zsh/compare/bd8df50265...d52e4ca954)
 - [SidharthArya starred rvm/rvm](https://github.com/rvm/rvm)
 - [SidharthArya created a branch main in SidharthArya/.yabai](https://github.com/SidharthArya/.yabai/compare/main)
 - [SidharthArya created a repository SidharthArya/.yabai](https://github.com/SidharthArya/.yabai//)
-- [SidharthArya pushed to main in SidharthArya/.zsh](https://github.com/SidharthArya/.zsh/compare/9e842b1693...bd8df50265)
-- [SidharthArya starred tensorflow/ranking](https://github.com/tensorflow/ranking)
-- [SidharthArya starred kevinzakka/spatial-transformer-network](https://github.com/kevinzakka/spatial-transformer-network)
-- [SidharthArya starred tensorflow/probability](https://github.com/tensorflow/probability)
-- [SidharthArya starred deepinsight/insightface](https://github.com/deepinsight/insightface)
-- [SidharthArya starred esimov/pigo](https://github.com/esimov/pigo)
 <!-- GITHUB:END -->
 
 ## Top Followers
