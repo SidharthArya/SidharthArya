@@ -87,8 +87,9 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to main in SidharthArya/.yabai](https://github.com/SidharthArya/.yabai/compare/2814ba0371...e9a270dd2c)
 - [SidharthArya starred f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
-- [SidharthArya starred JimmyLv/BiliGPT](https://github.com/JimmyLv/BiliGPT)
+- [SidharthArya starred JimmyLv/BibiGPT](https://github.com/JimmyLv/BiliGPT)
 - [SidharthArya starred Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python)
 - [SidharthArya starred Nutlope/roomGPT](https://github.com/Nutlope/roomGPT)
 - [SidharthArya starred LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to main in SidharthArya/.zsh](https://github.com/SidharthArya/.zsh/compare/bd8df50265...d52e4ca954)
 - [SidharthArya starred rvm/rvm](https://github.com/rvm/rvm)
 - [SidharthArya created a branch main in SidharthArya/.yabai](https://github.com/SidharthArya/.yabai/compare/main)
-- [SidharthArya created a repository SidharthArya/.yabai](https://github.com/SidharthArya/.yabai//)
 <!-- GITHUB:END -->
 
 ## Top Followers
