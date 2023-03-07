@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/54a1cd7c06...c0481625bc)
+- [SidharthArya starred inconshreveable/ngrok](https://github.com/inconshreveable/ngrok)
 - [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/0a04fe5fcd...54a1cd7c06)
 - [SidharthArya pushed to main in SidharthArya/.yabai](https://github.com/SidharthArya/.yabai/compare/2814ba0371...e9a270dd2c)
 - [SidharthArya starred f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred Nutlope/roomGPT](https://github.com/Nutlope/roomGPT)
 - [SidharthArya starred LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant)
 - [SidharthArya pushed to main in SidharthArya/.tmux](https://github.com/SidharthArya/.tmux/compare/518f497168...1e177c61e8)
-- [SidharthArya pushed to main in SidharthArya/.zsh](https://github.com/SidharthArya/.zsh/compare/bd8df50265...d52e4ca954)
-- [SidharthArya starred rvm/rvm](https://github.com/rvm/rvm)
 <!-- GITHUB:END -->
 
 ## Top Followers
