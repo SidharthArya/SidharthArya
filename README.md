@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred NVIDIA/NeMo](https://github.com/NVIDIA/NeMo)
+- [SidharthArya starred NVIDIA/DeepLearningExamples](https://github.com/NVIDIA/DeepLearningExamples)
 - [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/54a1cd7c06...c0481625bc)
 - [SidharthArya starred inconshreveable/ngrok](https://github.com/inconshreveable/ngrok)
 - [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/0a04fe5fcd...54a1cd7c06)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred JimmyLv/BibiGPT](https://github.com/JimmyLv/BiliGPT)
 - [SidharthArya starred Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python)
 - [SidharthArya starred Nutlope/roomGPT](https://github.com/Nutlope/roomGPT)
-- [SidharthArya starred LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant)
-- [SidharthArya pushed to main in SidharthArya/.tmux](https://github.com/SidharthArya/.tmux/compare/518f497168...1e177c61e8)
 <!-- GITHUB:END -->
 
 ## Top Followers
