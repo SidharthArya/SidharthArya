@@ -88,7 +88,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 
 <!-- GITHUB:START -->
 - [SidharthArya starred f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
-- [SidharthArya starred JimmyLv/BiliGPT](https://github.com/JimmyLv/BiliGPT)
+- [SidharthArya starred JimmyLv/BibiGPT](https://github.com/JimmyLv/BiliGPT)
 - [SidharthArya starred Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python)
 - [SidharthArya starred Nutlope/roomGPT](https://github.com/Nutlope/roomGPT)
 - [SidharthArya starred LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant)
