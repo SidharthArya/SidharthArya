@@ -169,18 +169,18 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       <a href="https://github.com/grahamwaters">Graham Waters</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Tiancheng-Luo">
-        <img src="https://avatars2.githubusercontent.com/u/6097951" width="100px;" alt="Tiancheng-Luo"/>
-      </a>
-      <br />
-      <a href="https://github.com/Tiancheng-Luo">Tiancheng-Luo</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/PlatypusSec">
         <img src="https://avatars2.githubusercontent.com/u/123879376" width="100px;" alt="PlatypusSec"/>
       </a>
       <br />
       <a href="https://github.com/PlatypusSec">Platypus Sec Team</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Tiancheng-Luo">
+        <img src="https://avatars2.githubusercontent.com/u/6097951" width="100px;" alt="Tiancheng-Luo"/>
+      </a>
+      <br />
+      <a href="https://github.com/Tiancheng-Luo">Tiancheng-Luo</a>
     </td>
     <td align="center">
       <a href="https://github.com/amrithHN">
