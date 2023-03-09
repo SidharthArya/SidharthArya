@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred emacs-ng/emacs-ng](https://github.com/emacs-ng/emacs-ng)
 - [SidharthArya starred NVIDIA/NeMo](https://github.com/NVIDIA/NeMo)
 - [SidharthArya starred NVIDIA/DeepLearningExamples](https://github.com/NVIDIA/DeepLearningExamples)
 - [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/54a1cd7c06...c0481625bc)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
 - [SidharthArya starred JimmyLv/BibiGPT](https://github.com/JimmyLv/BiliGPT)
 - [SidharthArya starred Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python)
-- [SidharthArya starred Nutlope/roomGPT](https://github.com/Nutlope/roomGPT)
 <!-- GITHUB:END -->
 
 ## Top Followers
