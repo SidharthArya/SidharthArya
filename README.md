@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred InstaPy/InstaPy](https://github.com/InstaPy/InstaPy)
 - [SidharthArya pushed to main in SidharthArya/.zsh](https://github.com/SidharthArya/.zsh/compare/d52e4ca954...ef68fd97b8)
 - [SidharthArya starred emacs-ng/emacs-ng](https://github.com/emacs-ng/emacs-ng)
 - [SidharthArya starred NVIDIA/NeMo](https://github.com/NVIDIA/NeMo)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/0a04fe5fcd...54a1cd7c06)
 - [SidharthArya pushed to main in SidharthArya/.yabai](https://github.com/SidharthArya/.yabai/compare/2814ba0371...e9a270dd2c)
 - [SidharthArya starred f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
-- [SidharthArya starred JimmyLv/BibiGPT](https://github.com/JimmyLv/BiliGPT)
 <!-- GITHUB:END -->
 
 ## Top Followers
