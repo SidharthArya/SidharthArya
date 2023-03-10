@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred felixhageloh/uebersicht](https://github.com/felixhageloh/uebersicht)
 - [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/c0481625bc...7adeea8cfd)
 - [SidharthArya starred InstaPy/InstaPy](https://github.com/InstaPy/InstaPy)
 - [SidharthArya pushed to main in SidharthArya/.zsh](https://github.com/SidharthArya/.zsh/compare/d52e4ca954...ef68fd97b8)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/54a1cd7c06...c0481625bc)
 - [SidharthArya starred inconshreveable/ngrok](https://github.com/inconshreveable/ngrok)
 - [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/0a04fe5fcd...54a1cd7c06)
-- [SidharthArya pushed to main in SidharthArya/.yabai](https://github.com/SidharthArya/.yabai/compare/2814ba0371...e9a270dd2c)
 <!-- GITHUB:END -->
 
 ## Top Followers
