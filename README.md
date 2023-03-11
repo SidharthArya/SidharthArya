@@ -87,6 +87,9 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to main in SidharthArya/ubersicht-aws](https://github.com/SidharthArya/ubersicht-aws/compare/af472cc349...d11004efb8)
+- [SidharthArya pushed to main in SidharthArya/ubersicht-aws](https://github.com/SidharthArya/ubersicht-aws/compare/4e389a7433...af472cc349)
+- [SidharthArya pushed to main in SidharthArya/ubersicht-aws](https://github.com/SidharthArya/ubersicht-aws/compare/0322490936...4e389a7433)
 - [SidharthArya pushed to main in SidharthArya/ubersicht-aws](https://github.com/SidharthArya/ubersicht-aws/compare/ccbd47ebb1...0322490936)
 - [SidharthArya created a branch main in SidharthArya/ubersicht-aws](https://github.com/SidharthArya/ubersicht-aws/compare/main)
 - [SidharthArya created a repository SidharthArya/ubersicht-aws](https://github.com/SidharthArya/ubersicht-aws//)
@@ -94,9 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/c0481625bc...7adeea8cfd)
 - [SidharthArya starred InstaPy/InstaPy](https://github.com/InstaPy/InstaPy)
 - [SidharthArya pushed to main in SidharthArya/.zsh](https://github.com/SidharthArya/.zsh/compare/d52e4ca954...ef68fd97b8)
-- [SidharthArya starred emacs-ng/emacs-ng](https://github.com/emacs-ng/emacs-ng)
-- [SidharthArya starred NVIDIA/NeMo](https://github.com/NVIDIA/NeMo)
-- [SidharthArya starred NVIDIA/DeepLearningExamples](https://github.com/NVIDIA/DeepLearningExamples)
 <!-- GITHUB:END -->
 
 ## Top Followers
