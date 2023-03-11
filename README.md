@@ -87,6 +87,9 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to main in SidharthArya/ubersicht-aws](https://github.com/SidharthArya/ubersicht-aws/compare/ccbd47ebb1...0322490936)
+- [SidharthArya created a branch main in SidharthArya/ubersicht-aws](https://github.com/SidharthArya/ubersicht-aws/compare/main)
+- [SidharthArya created a repository SidharthArya/ubersicht-aws](https://github.com/SidharthArya/ubersicht-aws//)
 - [SidharthArya starred felixhageloh/uebersicht](https://github.com/felixhageloh/uebersicht)
 - [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/c0481625bc...7adeea8cfd)
 - [SidharthArya starred InstaPy/InstaPy](https://github.com/InstaPy/InstaPy)
@@ -94,9 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred emacs-ng/emacs-ng](https://github.com/emacs-ng/emacs-ng)
 - [SidharthArya starred NVIDIA/NeMo](https://github.com/NVIDIA/NeMo)
 - [SidharthArya starred NVIDIA/DeepLearningExamples](https://github.com/NVIDIA/DeepLearningExamples)
-- [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/54a1cd7c06...c0481625bc)
-- [SidharthArya starred inconshreveable/ngrok](https://github.com/inconshreveable/ngrok)
-- [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/0a04fe5fcd...54a1cd7c06)
 <!-- GITHUB:END -->
 
 ## Top Followers
