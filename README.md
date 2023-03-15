@@ -87,6 +87,9 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to main in SidharthArya/js5paisa](https://github.com/SidharthArya/js5paisa/compare/bd08440b57...4b9579a800)
+- [SidharthArya created a branch main in SidharthArya/js5paisa](https://github.com/SidharthArya/js5paisa/compare/main)
+- [SidharthArya created a repository SidharthArya/js5paisa](https://github.com/SidharthArya/js5paisa//)
 - [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/7adeea8cfd...5f75b68344)
 - [SidharthArya pushed to main in SidharthArya/ubersicht-aws](https://github.com/SidharthArya/ubersicht-aws/compare/af472cc349...d11004efb8)
 - [SidharthArya pushed to main in SidharthArya/ubersicht-aws](https://github.com/SidharthArya/ubersicht-aws/compare/4e389a7433...af472cc349)
@@ -94,9 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to main in SidharthArya/ubersicht-aws](https://github.com/SidharthArya/ubersicht-aws/compare/ccbd47ebb1...0322490936)
 - [SidharthArya created a branch main in SidharthArya/ubersicht-aws](https://github.com/SidharthArya/ubersicht-aws/compare/main)
 - [SidharthArya created a repository SidharthArya/ubersicht-aws](https://github.com/SidharthArya/ubersicht-aws//)
-- [SidharthArya starred felixhageloh/uebersicht](https://github.com/felixhageloh/uebersicht)
-- [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/c0481625bc...7adeea8cfd)
-- [SidharthArya starred InstaPy/InstaPy](https://github.com/InstaPy/InstaPy)
 <!-- GITHUB:END -->
 
 ## Top Followers
