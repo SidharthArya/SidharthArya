@@ -1964,7 +1964,7 @@
 - [ivanceras/svgbob](https://github.com/ivanceras/svgbob) - Convert your ascii diagram scribbles into happy little SVG
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
-- [Peltoche/lsd](https://github.com/Peltoche/lsd) - The next gen ls command
+- [lsd-rs/lsd](https://github.com/lsd-rs/lsd) - The next gen ls command
 - [nrc/r4cppp](https://github.com/nrc/r4cppp) - Rust for C++ programmers
 - [jmacdonald/amp](https://github.com/jmacdonald/amp) - A complete text editor for your terminal.
 - [rust-lang/rls](https://github.com/rust-lang/rls) - Repository for the Rust Language Server (aka RLS)
@@ -2117,7 +2117,7 @@
 
 ## TypeScript 
 
-- [JimmyLv/BibiGPT](https://github.com/JimmyLv/BibiGPT) - BibiGPT · 音视频内容一键总结：哔哩哔哩丨YouTube丨播客丨会议丨本地文件等 (原 BiliGPT 省流神器 & 课代表)
+- [JimmyLv/BibiGPT](https://github.com/JimmyLv/BibiGPT) - BibiGPT · One-click summary for video &  audio content: Bilibili | YouTube | Websites丨Podcasts | Meetings | Local files, etc. 音视频内容一键总结：哔哩哔哩丨YouTube丨网页丨播客丨会议丨本地文件等 (原 BiliGPT 省流神器 & 课代表)
 - [Nutlope/roomGPT](https://github.com/Nutlope/roomGPT) - Upload a photo of your room to generate your dream room with AI.
 - [matplotlib/ipympl](https://github.com/matplotlib/ipympl) - Matplotlib Jupyter Integration
 - [recharts/recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
