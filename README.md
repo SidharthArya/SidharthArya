@@ -190,11 +190,11 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       <a href="https://github.com/stormwatch">Ezequiel Birman</a>
     </td>
     <td align="center">
-      <a href="https://github.com/uttarayan21">
-        <img src="https://avatars2.githubusercontent.com/u/18732700" width="100px;" alt="uttarayan21"/>
+      <a href="https://github.com/Satawatkee">
+        <img src="https://avatars2.githubusercontent.com/u/53291820" width="100px;" alt="Satawatkee"/>
       </a>
       <br />
-      <a href="https://github.com/uttarayan21">Uttarayan Mondal</a>
+      <a href="https://github.com/Satawatkee">@s_saichansut</a>
     </td>
     <td align="center">
       <a href="https://github.com/yanboyang713">
@@ -205,13 +205,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <a href="https://github.com/Satawatkee">
-        <img src="https://avatars2.githubusercontent.com/u/53291820" width="100px;" alt="Satawatkee"/>
-      </a>
-      <br />
-      <a href="https://github.com/Satawatkee">@s_saichansut</a>
-    </td>
     <td align="center">
       <a href="https://github.com/portgasray">
         <img src="https://avatars2.githubusercontent.com/u/17681580" width="100px;" alt="portgasray"/>
@@ -253,6 +246,13 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       </a>
       <br />
       <a href="https://github.com/vinay-singh27">Vinay Singh</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/spector-9">
+        <img src="https://avatars2.githubusercontent.com/u/47524932" width="100px;" alt="spector-9"/>
+      </a>
+      <br />
+      <a href="https://github.com/spector-9">Arsh</a>
     </td>
   </tr>
 </table>
