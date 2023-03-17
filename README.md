@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred docker/buildx](https://github.com/docker/buildx)
 - [SidharthArya pushed to main in SidharthArya/js5paisa](https://github.com/SidharthArya/js5paisa/compare/bd08440b57...4b9579a800)
 - [SidharthArya created a branch main in SidharthArya/js5paisa](https://github.com/SidharthArya/js5paisa/compare/main)
 - [SidharthArya created a repository SidharthArya/js5paisa](https://github.com/SidharthArya/js5paisa//)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to main in SidharthArya/ubersicht-aws](https://github.com/SidharthArya/ubersicht-aws/compare/0322490936...4e389a7433)
 - [SidharthArya pushed to main in SidharthArya/ubersicht-aws](https://github.com/SidharthArya/ubersicht-aws/compare/ccbd47ebb1...0322490936)
 - [SidharthArya created a branch main in SidharthArya/ubersicht-aws](https://github.com/SidharthArya/ubersicht-aws/compare/main)
-- [SidharthArya created a repository SidharthArya/ubersicht-aws](https://github.com/SidharthArya/ubersicht-aws//)
 <!-- GITHUB:END -->
 
 ## Top Followers
