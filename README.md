@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred ultralytics/ultralytics](https://github.com/ultralytics/ultralytics)
 - [SidharthArya pushed to main in SidharthArya/.zsh](https://github.com/SidharthArya/.zsh/compare/ef68fd97b8...31a47884be)
 - [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/5f75b68344...a670134108)
 - [SidharthArya starred docker/buildx](https://github.com/docker/buildx)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/7adeea8cfd...5f75b68344)
 - [SidharthArya pushed to main in SidharthArya/ubersicht-aws](https://github.com/SidharthArya/ubersicht-aws/compare/af472cc349...d11004efb8)
 - [SidharthArya pushed to main in SidharthArya/ubersicht-aws](https://github.com/SidharthArya/ubersicht-aws/compare/4e389a7433...af472cc349)
-- [SidharthArya pushed to main in SidharthArya/ubersicht-aws](https://github.com/SidharthArya/ubersicht-aws/compare/0322490936...4e389a7433)
 <!-- GITHUB:END -->
 
 ## Top Followers
