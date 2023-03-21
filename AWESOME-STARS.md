@@ -1323,7 +1323,7 @@
 - [ValveSoftware/steam-for-linux](https://github.com/ValveSoftware/steam-for-linux) - Issue tracking for the Steam for Linux beta client
 - [kiteco/issue-tracker](https://github.com/kiteco/issue-tracker) - User-reported issues for Kite
 - [bzg/gsoc2020](https://github.com/bzg/gsoc2020) - 
-- [qtwebkit/qtwebkit](https://github.com/qtwebkit/qtwebkit) - QtWebKit development repository
+- [qtwebkit/qtwebkit](https://github.com/qtwebkit/qtwebkit) - Code in this repository is obsolete. Use this fork: https://github.com/movableink/webkit
 - [luruke/browser-2020](https://github.com/luruke/browser-2020) - Things you can do with a browser in 2020 ☕️
 - [vegasbrianc/prometheus](https://github.com/vegasbrianc/prometheus) - A docker-compose stack for Prometheus monitoring
 - [caisah/emacs.dz](https://github.com/caisah/emacs.dz) - Awesome emacs config files
@@ -1555,7 +1555,7 @@
 - [microsoft/recommenders](https://github.com/microsoft/recommenders) - Best Practices on Recommendation Systems
 - [doakey3/Bligify](https://github.com/doakey3/Bligify) - Blender addon for exporting and importing animated GIF sequences
 - [kingoflolz/mesh-transformer-jax](https://github.com/kingoflolz/mesh-transformer-jax) - Model parallel transformers in JAX and Haiku
-- [Textualize/textual](https://github.com/Textualize/textual) - Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.
+- [Textualize/textual](https://github.com/Textualize/textual) - Textual is a Rapid Application Development framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and (coming soon) a web browser!
 - [SidharthArya/qutebrowser](https://github.com/SidharthArya/qutebrowser) - A keyboard-driven, vim-like browser based on PyQt5.
 - [SidharthArya/.qutebrowser](https://github.com/SidharthArya/.qutebrowser) - 
 - [SidharthArya/investigations](https://github.com/SidharthArya/investigations) - Indicators from Amnesty International's investigations
