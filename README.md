@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred woltapp/blurhash](https://github.com/woltapp/blurhash)
 - [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/54897b96c1...497509b067)
 - [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/a670134108...54897b96c1)
 - [SidharthArya starred ultralytics/ultralytics](https://github.com/ultralytics/ultralytics)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to main in SidharthArya/js5paisa](https://github.com/SidharthArya/js5paisa/compare/bd08440b57...4b9579a800)
 - [SidharthArya created a branch main in SidharthArya/js5paisa](https://github.com/SidharthArya/js5paisa/compare/main)
 - [SidharthArya created a repository SidharthArya/js5paisa](https://github.com/SidharthArya/js5paisa//)
-- [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/7adeea8cfd...5f75b68344)
 <!-- GITHUB:END -->
 
 ## Top Followers
