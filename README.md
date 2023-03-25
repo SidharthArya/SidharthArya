@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to main in SidharthArya/.zsh](https://github.com/SidharthArya/.zsh/compare/31a47884be...cd2938b192)
 - [SidharthArya starred NaturalHistoryMuseum/pyzbar](https://github.com/NaturalHistoryMuseum/pyzbar)
 - [SidharthArya pushed to main in SidharthArya/.nvim](https://github.com/SidharthArya/.nvim/compare/cd577ed644...dae4f0fe56)
 - [SidharthArya starred mdx-js/mdx](https://github.com/mdx-js/mdx)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred chidiwilliams/buzz](https://github.com/chidiwilliams/buzz)
 - [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/497509b067...066da7dac1)
 - [SidharthArya starred woltapp/blurhash](https://github.com/woltapp/blurhash)
-- [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/54897b96c1...497509b067)
 <!-- GITHUB:END -->
 
 ## Top Followers
