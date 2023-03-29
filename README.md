@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred bazelbuild/bazel](https://github.com/bazelbuild/bazel)
 - [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/98710c7d0d...d32b29c9e7)
 - [SidharthArya starred hwchase17/langchain](https://github.com/hwchase17/langchain)
 - [SidharthArya pushed to main in SidharthArya/.zsh](https://github.com/SidharthArya/.zsh/compare/31a47884be...cd2938b192)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/7239108f3e...98710c7d0d)
 - [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/447bd2c0d2...7239108f3e)
 - [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/066da7dac1...447bd2c0d2)
-- [SidharthArya starred chidiwilliams/buzz](https://github.com/chidiwilliams/buzz)
 <!-- GITHUB:END -->
 
 ## Top Followers
