@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred fullstorydev/grpcurl](https://github.com/fullstorydev/grpcurl)
+- [SidharthArya starred grpc/grpc-go](https://github.com/grpc/grpc-go)
 - [SidharthArya starred bazelbuild/bazel](https://github.com/bazelbuild/bazel)
 - [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/98710c7d0d...d32b29c9e7)
 - [SidharthArya starred hwchase17/langchain](https://github.com/hwchase17/langchain)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to main in SidharthArya/.nvim](https://github.com/SidharthArya/.nvim/compare/cd577ed644...dae4f0fe56)
 - [SidharthArya starred mdx-js/mdx](https://github.com/mdx-js/mdx)
 - [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/7239108f3e...98710c7d0d)
-- [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/447bd2c0d2...7239108f3e)
-- [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/066da7dac1...447bd2c0d2)
 <!-- GITHUB:END -->
 
 ## Top Followers
