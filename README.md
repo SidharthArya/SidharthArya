@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred twitter/the-algorithm-ml](https://github.com/twitter/the-algorithm-ml)
 - [SidharthArya commented on issue tensorflow/io#1625](https://github.com/tensorflow/io/issues/1625#issuecomment-1489461203)
 - [SidharthArya pushed to main in SidharthArya/.zsh](https://github.com/SidharthArya/.zsh/compare/cd2938b192...16b0378cce)
 - [SidharthArya starred fullstorydev/grpcurl](https://github.com/fullstorydev/grpcurl)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred hwchase17/langchain](https://github.com/hwchase17/langchain)
 - [SidharthArya pushed to main in SidharthArya/.zsh](https://github.com/SidharthArya/.zsh/compare/31a47884be...cd2938b192)
 - [SidharthArya starred NaturalHistoryMuseum/pyzbar](https://github.com/NaturalHistoryMuseum/pyzbar)
-- [SidharthArya pushed to main in SidharthArya/.nvim](https://github.com/SidharthArya/.nvim/compare/cd577ed644...dae4f0fe56)
 <!-- GITHUB:END -->
 
 ## Top Followers
