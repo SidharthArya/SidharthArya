@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya forked SidharthArya/goth from markbates/goth](https://github.com/SidharthArya/goth)
 - [SidharthArya starred twitter/the-algorithm-ml](https://github.com/twitter/the-algorithm-ml)
 - [SidharthArya commented on issue tensorflow/io#1625](https://github.com/tensorflow/io/issues/1625#issuecomment-1489461203)
 - [SidharthArya pushed to main in SidharthArya/.zsh](https://github.com/SidharthArya/.zsh/compare/cd2938b192...16b0378cce)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/98710c7d0d...d32b29c9e7)
 - [SidharthArya starred hwchase17/langchain](https://github.com/hwchase17/langchain)
 - [SidharthArya pushed to main in SidharthArya/.zsh](https://github.com/SidharthArya/.zsh/compare/31a47884be...cd2938b192)
-- [SidharthArya starred NaturalHistoryMuseum/pyzbar](https://github.com/NaturalHistoryMuseum/pyzbar)
 <!-- GITHUB:END -->
 
 ## Top Followers
