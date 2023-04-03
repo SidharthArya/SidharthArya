@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred golang/oauth2](https://github.com/golang/oauth2)
 - [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/d32b29c9e7...5289ad6cd5)
 - [SidharthArya starred Picovoice/picovoice](https://github.com/Picovoice/picovoice)
 - [SidharthArya starred apple/ml-stable-diffusion](https://github.com/apple/ml-stable-diffusion)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to main in SidharthArya/.zsh](https://github.com/SidharthArya/.zsh/compare/cd2938b192...16b0378cce)
 - [SidharthArya starred fullstorydev/grpcurl](https://github.com/fullstorydev/grpcurl)
 - [SidharthArya starred grpc/grpc-go](https://github.com/grpc/grpc-go)
-- [SidharthArya starred bazelbuild/bazel](https://github.com/bazelbuild/bazel)
 <!-- GITHUB:END -->
 
 ## Top Followers
