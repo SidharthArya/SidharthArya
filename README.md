@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred Picovoice/picovoice](https://github.com/Picovoice/picovoice)
+- [SidharthArya starred apple/ml-stable-diffusion](https://github.com/apple/ml-stable-diffusion)
 - [SidharthArya forked SidharthArya/goth from markbates/goth](https://github.com/SidharthArya/goth)
 - [SidharthArya starred twitter/the-algorithm-ml](https://github.com/twitter/the-algorithm-ml)
 - [SidharthArya commented on issue tensorflow/io#1625](https://github.com/tensorflow/io/issues/1625#issuecomment-1489461203)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred grpc/grpc-go](https://github.com/grpc/grpc-go)
 - [SidharthArya starred bazelbuild/bazel](https://github.com/bazelbuild/bazel)
 - [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/98710c7d0d...d32b29c9e7)
-- [SidharthArya starred hwchase17/langchain](https://github.com/hwchase17/langchain)
-- [SidharthArya pushed to main in SidharthArya/.zsh](https://github.com/SidharthArya/.zsh/compare/31a47884be...cd2938b192)
 <!-- GITHUB:END -->
 
 ## Top Followers
