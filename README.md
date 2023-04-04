@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to main in SidharthArya/.nvim](https://github.com/SidharthArya/.nvim/compare/dae4f0fe56...7785a113fc)
 - [SidharthArya starred golang/oauth2](https://github.com/golang/oauth2)
 - [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/d32b29c9e7...5289ad6cd5)
 - [SidharthArya starred Picovoice/picovoice](https://github.com/Picovoice/picovoice)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya commented on issue tensorflow/io#1625](https://github.com/tensorflow/io/issues/1625#issuecomment-1489461203)
 - [SidharthArya pushed to main in SidharthArya/.zsh](https://github.com/SidharthArya/.zsh/compare/cd2938b192...16b0378cce)
 - [SidharthArya starred fullstorydev/grpcurl](https://github.com/fullstorydev/grpcurl)
-- [SidharthArya starred grpc/grpc-go](https://github.com/grpc/grpc-go)
 <!-- GITHUB:END -->
 
 ## Top Followers
