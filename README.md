@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to main in SidharthArya/.nvim](https://github.com/SidharthArya/.nvim/compare/7785a113fc...09612f7fc9)
 - [SidharthArya starred prometheus-operator/kube-prometheus](https://github.com/prometheus-operator/kube-prometheus)
 - [SidharthArya starred prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator)
 - [SidharthArya pushed to main in SidharthArya/.nvim](https://github.com/SidharthArya/.nvim/compare/dae4f0fe56...7785a113fc)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred apple/ml-stable-diffusion](https://github.com/apple/ml-stable-diffusion)
 - [SidharthArya forked SidharthArya/goth from markbates/goth](https://github.com/SidharthArya/goth)
 - [SidharthArya starred twitter/the-algorithm-ml](https://github.com/twitter/the-algorithm-ml)
-- [SidharthArya commented on issue tensorflow/io#1625](https://github.com/tensorflow/io/issues/1625#issuecomment-1489461203)
 <!-- GITHUB:END -->
 
 ## Top Followers
