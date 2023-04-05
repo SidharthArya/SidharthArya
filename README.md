@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred yuki-yano/fzf-preview.vim](https://github.com/yuki-yano/fzf-preview.vim)
+- [SidharthArya forked SidharthArya/pgx from jackc/pgx](https://github.com/SidharthArya/pgx)
 - [SidharthArya pushed to main in SidharthArya/.nvim](https://github.com/SidharthArya/.nvim/compare/7785a113fc...09612f7fc9)
 - [SidharthArya starred prometheus-operator/kube-prometheus](https://github.com/prometheus-operator/kube-prometheus)
 - [SidharthArya starred prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/d32b29c9e7...5289ad6cd5)
 - [SidharthArya starred Picovoice/picovoice](https://github.com/Picovoice/picovoice)
 - [SidharthArya starred apple/ml-stable-diffusion](https://github.com/apple/ml-stable-diffusion)
-- [SidharthArya forked SidharthArya/goth from markbates/goth](https://github.com/SidharthArya/goth)
-- [SidharthArya starred twitter/the-algorithm-ml](https://github.com/twitter/the-algorithm-ml)
 <!-- GITHUB:END -->
 
 ## Top Followers
