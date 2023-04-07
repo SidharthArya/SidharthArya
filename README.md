@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred electron/electron-packager](https://github.com/electron/electron-packager)
 - [SidharthArya pushed to main in SidharthArya/.nvim](https://github.com/SidharthArya/.nvim/compare/724b2e791f...d156ceb002)
 - [SidharthArya pushed to main in SidharthArya/.nvim](https://github.com/SidharthArya/.nvim/compare/09612f7fc9...724b2e791f)
 - [SidharthArya starred elastic/kibana](https://github.com/elastic/kibana)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred prometheus-operator/kube-prometheus](https://github.com/prometheus-operator/kube-prometheus)
 - [SidharthArya starred prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator)
 - [SidharthArya pushed to main in SidharthArya/.nvim](https://github.com/SidharthArya/.nvim/compare/dae4f0fe56...7785a113fc)
-- [SidharthArya starred golang/oauth2](https://github.com/golang/oauth2)
 <!-- GITHUB:END -->
 
 ## Top Followers
