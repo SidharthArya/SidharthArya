@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/9d88c310f1...8d7efe7d9f)
 - [SidharthArya starred terrastruct/d2](https://github.com/terrastruct/d2)
 - [SidharthArya pushed to main in SidharthArya/.nvim](https://github.com/SidharthArya/.nvim/compare/d156ceb002...4c27663694)
 - [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/5289ad6cd5...9d88c310f1)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to main in SidharthArya/.nvim](https://github.com/SidharthArya/.nvim/compare/09612f7fc9...724b2e791f)
 - [SidharthArya starred elastic/kibana](https://github.com/elastic/kibana)
 - [SidharthArya starred yuki-yano/fzf-preview.vim](https://github.com/yuki-yano/fzf-preview.vim)
-- [SidharthArya forked SidharthArya/pgx from jackc/pgx](https://github.com/SidharthArya/pgx)
 <!-- GITHUB:END -->
 
 ## Top Followers
