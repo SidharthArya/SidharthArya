@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to main in SidharthArya/.nvim](https://github.com/SidharthArya/.nvim/compare/d156ceb002...4c27663694)
 - [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/5289ad6cd5...9d88c310f1)
 - [SidharthArya starred BurntSushi/erd](https://github.com/BurntSushi/erd)
 - [SidharthArya starred electron/electron-packager](https://github.com/electron/electron-packager)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred yuki-yano/fzf-preview.vim](https://github.com/yuki-yano/fzf-preview.vim)
 - [SidharthArya forked SidharthArya/pgx from jackc/pgx](https://github.com/SidharthArya/pgx)
 - [SidharthArya pushed to main in SidharthArya/.nvim](https://github.com/SidharthArya/.nvim/compare/7785a113fc...09612f7fc9)
-- [SidharthArya starred prometheus-operator/kube-prometheus](https://github.com/prometheus-operator/kube-prometheus)
 <!-- GITHUB:END -->
 
 ## Top Followers
