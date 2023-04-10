@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to main in SidharthArya/.nvim](https://github.com/SidharthArya/.nvim/compare/4c27663694...016a398dca)
 - [SidharthArya forked SidharthArya/nx-golang from nx-go/nx-go](https://github.com/SidharthArya/nx-golang)
 - [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/9d88c310f1...8d7efe7d9f)
 - [SidharthArya starred terrastruct/d2](https://github.com/terrastruct/d2)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred electron/electron-packager](https://github.com/electron/electron-packager)
 - [SidharthArya pushed to main in SidharthArya/.nvim](https://github.com/SidharthArya/.nvim/compare/724b2e791f...d156ceb002)
 - [SidharthArya pushed to main in SidharthArya/.nvim](https://github.com/SidharthArya/.nvim/compare/09612f7fc9...724b2e791f)
-- [SidharthArya starred elastic/kibana](https://github.com/elastic/kibana)
 <!-- GITHUB:END -->
 
 ## Top Followers
