@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred emcf/engshell](https://github.com/emcf/engshell)
 - [SidharthArya starred schollz/croc](https://github.com/schollz/croc)
 - [SidharthArya pushed to main in SidharthArya/.nvim](https://github.com/SidharthArya/.nvim/compare/4c27663694...016a398dca)
 - [SidharthArya forked SidharthArya/nx-golang from nx-go/nx-go](https://github.com/SidharthArya/nx-golang)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/5289ad6cd5...9d88c310f1)
 - [SidharthArya starred BurntSushi/erd](https://github.com/BurntSushi/erd)
 - [SidharthArya starred electron/electron-packager](https://github.com/electron/electron-packager)
-- [SidharthArya pushed to main in SidharthArya/.nvim](https://github.com/SidharthArya/.nvim/compare/724b2e791f...d156ceb002)
 <!-- GITHUB:END -->
 
 ## Top Followers
