@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to main in SidharthArya/.nvim](https://github.com/SidharthArya/.nvim/compare/016a398dca...73444c503b)
+- [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/8d7efe7d9f...1e857614c7)
 - [SidharthArya starred emcf/engshell](https://github.com/emcf/engshell)
 - [SidharthArya starred schollz/croc](https://github.com/schollz/croc)
 - [SidharthArya pushed to main in SidharthArya/.nvim](https://github.com/SidharthArya/.nvim/compare/4c27663694...016a398dca)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred terrastruct/d2](https://github.com/terrastruct/d2)
 - [SidharthArya pushed to main in SidharthArya/.nvim](https://github.com/SidharthArya/.nvim/compare/d156ceb002...4c27663694)
 - [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/5289ad6cd5...9d88c310f1)
-- [SidharthArya starred BurntSushi/erd](https://github.com/BurntSushi/erd)
-- [SidharthArya starred electron/electron-packager](https://github.com/electron/electron-packager)
 <!-- GITHUB:END -->
 
 ## Top Followers
