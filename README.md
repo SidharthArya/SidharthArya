@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/1e857614c7...692f5f0878)
 - [SidharthArya pushed to main in SidharthArya/.nvim](https://github.com/SidharthArya/.nvim/compare/016a398dca...73444c503b)
 - [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/8d7efe7d9f...1e857614c7)
 - [SidharthArya starred emcf/engshell](https://github.com/emcf/engshell)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/9d88c310f1...8d7efe7d9f)
 - [SidharthArya starred terrastruct/d2](https://github.com/terrastruct/d2)
 - [SidharthArya pushed to main in SidharthArya/.nvim](https://github.com/SidharthArya/.nvim/compare/d156ceb002...4c27663694)
-- [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/5289ad6cd5...9d88c310f1)
 <!-- GITHUB:END -->
 
 ## Top Followers
