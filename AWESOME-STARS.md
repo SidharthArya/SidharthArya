@@ -1319,8 +1319,8 @@
 - [github/archive-program](https://github.com/github/archive-program) - The GitHub Archive Program & Arctic Code Vault
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝
 - [elyase/awesome-gpt3](https://github.com/elyase/awesome-gpt3) - 
-- [fniessen/refcard-org-mode](https://github.com/fniessen/refcard-org-mode) - Org mode syntax reference card
-- [fniessen/refcard-org-beamer](https://github.com/fniessen/refcard-org-beamer) - Org Beamer reference card
+- [fniessen/refcard-org-mode](https://github.com/fniessen/refcard-org-mode) - Get organized and boost your productivity with our comprehensive Org mode syntax reference card! Get a quick access to helpful tips and tricks. #orgmode #syntax #productivity #referencecard
+- [fniessen/refcard-org-beamer](https://github.com/fniessen/refcard-org-beamer) - Streamline your Beamer presentations with our Org mode Beamer Refcard. Download now for quick reference and enhanced productivity. #orgmode #beamer #referencecard #productivity
 - [nobiot/Zero-to-Emacs-and-Org-roam](https://github.com/nobiot/Zero-to-Emacs-and-Org-roam) - Step by step guide from zero to installing and setting up Emacs and Org-roam on Windows 10
 - [WazirX/wazirx-api](https://github.com/WazirX/wazirx-api) - Wazirx API documentation
 - [openai/gpt-3](https://github.com/openai/gpt-3) - GPT-3: Language Models are Few-Shot Learners
@@ -1413,7 +1413,7 @@
 - [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.  These videos may 
 - [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
 - [tensorflow/ranking](https://github.com/tensorflow/ranking) - Learning to Rank in TensorFlow
-- [kevinzakka/spatial-transformer-network](https://github.com/kevinzakka/spatial-transformer-network) - A Tensorflow implementation of Spatial Transformer Networks
+- [kevinzakka/spatial-transformer-network](https://github.com/kevinzakka/spatial-transformer-network) - A Tensorflow implementation of Spatial Transformer Networks.
 - [deepinsight/insightface](https://github.com/deepinsight/insightface) - State-of-the-art 2D and 3D Face Analysis Project
 - [microsoft/NeuronBlocks](https://github.com/microsoft/NeuronBlocks) - NLP DNN Toolkit - Building Your NLP DNN Models Like Playing Lego
 - [cleardusk/3DDFA_V2](https://github.com/cleardusk/3DDFA_V2) - The official PyTorch implementation of Towards Fast, Accurate and Stable 3D Dense Face Alignment, ECCV 2020.
