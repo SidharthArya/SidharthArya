@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/30ef991180...14eadc8e61)
 - [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/692f5f0878...30ef991180)
 - [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/1e857614c7...692f5f0878)
 - [SidharthArya pushed to main in SidharthArya/.nvim](https://github.com/SidharthArya/.nvim/compare/016a398dca...73444c503b)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to main in SidharthArya/.nvim](https://github.com/SidharthArya/.nvim/compare/4c27663694...016a398dca)
 - [SidharthArya forked SidharthArya/nx-golang from nx-go/nx-go](https://github.com/SidharthArya/nx-golang)
 - [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/9d88c310f1...8d7efe7d9f)
-- [SidharthArya starred terrastruct/d2](https://github.com/terrastruct/d2)
 <!-- GITHUB:END -->
 
 ## Top Followers
