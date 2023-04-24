@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred facebookresearch/dinov2](https://github.com/facebookresearch/dinov2)
+- [SidharthArya starred facebookresearch/xformers](https://github.com/facebookresearch/xformers)
 - [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/30ef991180...14eadc8e61)
 - [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/692f5f0878...30ef991180)
 - [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/1e857614c7...692f5f0878)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred emcf/engshell](https://github.com/emcf/engshell)
 - [SidharthArya starred schollz/croc](https://github.com/schollz/croc)
 - [SidharthArya pushed to main in SidharthArya/.nvim](https://github.com/SidharthArya/.nvim/compare/4c27663694...016a398dca)
-- [SidharthArya forked SidharthArya/nx-golang from nx-go/nx-go](https://github.com/SidharthArya/nx-golang)
-- [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/9d88c310f1...8d7efe7d9f)
 <!-- GITHUB:END -->
 
 ## Top Followers
