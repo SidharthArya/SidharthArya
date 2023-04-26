@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/1f0792b971...b4d0ac3131)
 - [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/14eadc8e61...1f0792b971)
 - [SidharthArya starred facebookresearch/dinov2](https://github.com/facebookresearch/dinov2)
 - [SidharthArya starred facebookresearch/xformers](https://github.com/facebookresearch/xformers)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to main in SidharthArya/.nvim](https://github.com/SidharthArya/.nvim/compare/016a398dca...73444c503b)
 - [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/8d7efe7d9f...1e857614c7)
 - [SidharthArya starred emcf/engshell](https://github.com/emcf/engshell)
-- [SidharthArya starred schollz/croc](https://github.com/schollz/croc)
 <!-- GITHUB:END -->
 
 ## Top Followers
