@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred Deci-AI/super-gradients](https://github.com/Deci-AI/super-gradients)
 - [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/55f412bef1...1b6488fea5)
 - [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/1dd9b23558...55f412bef1)
 - [SidharthArya starred rclone/rclone](https://github.com/rclone/rclone)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred facebookresearch/dinov2](https://github.com/facebookresearch/dinov2)
 - [SidharthArya starred facebookresearch/xformers](https://github.com/facebookresearch/xformers)
 - [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/30ef991180...14eadc8e61)
-- [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/692f5f0878...30ef991180)
 <!-- GITHUB:END -->
 
 ## Top Followers
