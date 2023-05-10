@@ -1399,6 +1399,7 @@
 
 ## Python 
 
+- [modin-project/modin](https://github.com/modin-project/modin) - Modin: Scale your Pandas workflows by changing a single line of code
 - [facebookresearch/dinov2](https://github.com/facebookresearch/dinov2) - PyTorch code and models for the DINOv2 self-supervised learning method.
 - [facebookresearch/xformers](https://github.com/facebookresearch/xformers) - Hackable and optimized Transformers building blocks, supporting a composable construction.
 - [emcf/engshell](https://github.com/emcf/engshell) - An English-language shell for any OS, powered by LLMs
@@ -2272,7 +2273,7 @@
 - [solidjs/solid](https://github.com/solidjs/solid) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 - [input-output-hk/daedalus](https://github.com/input-output-hk/daedalus) - The open source cryptocurrency wallet for ada, built to grow with the community
 - [Keyang/node-csvtojson](https://github.com/Keyang/node-csvtojson) - Blazing fast and Comprehensive CSV Parser for Node.JS / Browser / Command Line.
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite is a backend platform for developing Web, Mobile, and Flutter applications. Built with the open source community and optimized for developer experience in the coding languages you love.
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build Fast. Scale Big. All in One Place.
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
 - [orgapp/orgajs](https://github.com/orgapp/orgajs) - parse org-mode content into AST
 - [akveo/nebular](https://github.com/akveo/nebular) - :boom: Customizable Angular UI Library based on Eva Design System :new_moon_with_face::sparkles:Dark Mode
