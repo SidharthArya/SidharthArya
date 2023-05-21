@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred AMAI-GmbH/AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap)
 - [SidharthArya starred microsoft/guidance](https://github.com/microsoft/guidance)
 - [SidharthArya pushed to main in SidharthArya/.nvim](https://github.com/SidharthArya/.nvim/compare/73444c503b...363308a44d)
 - [SidharthArya starred modin-project/modin](https://github.com/modin-project/modin)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/1dd9b23558...55f412bef1)
 - [SidharthArya starred rclone/rclone](https://github.com/rclone/rclone)
 - [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/b4d0ac3131...1dd9b23558)
-- [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/1f0792b971...b4d0ac3131)
 <!-- GITHUB:END -->
 
 ## Top Followers
