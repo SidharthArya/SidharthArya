@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to main in SidharthArya/.nvim](https://github.com/SidharthArya/.nvim/compare/363308a44d...48fd3e172c)
 - [SidharthArya starred awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
 - [SidharthArya starred Stability-AI/StableStudio](https://github.com/Stability-AI/StableStudio)
 - [SidharthArya starred marcotcr/lime](https://github.com/marcotcr/lime)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to main in SidharthArya/.nvim](https://github.com/SidharthArya/.nvim/compare/73444c503b...363308a44d)
 - [SidharthArya starred modin-project/modin](https://github.com/modin-project/modin)
 - [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/1b6488fea5...3942b4e93e)
-- [SidharthArya starred Deci-AI/super-gradients](https://github.com/Deci-AI/super-gradients)
 <!-- GITHUB:END -->
 
 ## Top Followers
