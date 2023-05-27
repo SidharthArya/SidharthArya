@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred ml-tooling/best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python)
 - [SidharthArya pushed to main in SidharthArya/portfolio.dev](https://github.com/SidharthArya/portfolio.dev/compare/3f7f95e014...ab72438be5)
 - [SidharthArya pushed to main in SidharthArya/portfolio.dev](https://github.com/SidharthArya/portfolio.dev/compare/431a62b515...3f7f95e014)
 - [SidharthArya pushed to main in SidharthArya/portfolio.dev](https://github.com/SidharthArya/portfolio.dev/compare/e85c218e33...431a62b515)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya created a branch v1 in SidharthArya/portfolio](https://github.com/SidharthArya/portfolio/compare/v1)
 - [SidharthArya created a branch main in SidharthArya/portfolio](https://github.com/SidharthArya/portfolio/compare/main)
 - [SidharthArya pushed to main in SidharthArya/portfolio.dev](https://github.com/SidharthArya/portfolio.dev/compare/58443c5185...268861d643)
-- [SidharthArya created a branch v1 in SidharthArya/portfolio.dev](https://github.com/SidharthArya/portfolio.dev/compare/v1)
 <!-- GITHUB:END -->
 
 ## Top Followers
