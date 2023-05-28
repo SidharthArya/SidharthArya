@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred kubernetes-sigs/nfs-subdir-external-provisioner](https://github.com/kubernetes-sigs/nfs-subdir-external-provisioner)
 - [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/3942b4e93e...bfb2d5055c)
 - [SidharthArya starred statsmodels/statsmodels](https://github.com/statsmodels/statsmodels)
 - [SidharthArya starred ml-tooling/best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to main in SidharthArya/portfolio](https://github.com/SidharthArya/portfolio/compare/8fc2469a45...52b3e2238c)
 - [SidharthArya pushed to main in SidharthArya/portfolio.dev](https://github.com/SidharthArya/portfolio.dev/compare/268861d643...e85c218e33)
 - [SidharthArya pushed to main in SidharthArya/portfolio](https://github.com/SidharthArya/portfolio/compare/691fd38e1e...8fc2469a45)
-- [SidharthArya created a branch v1 in SidharthArya/portfolio](https://github.com/SidharthArya/portfolio/compare/v1)
 <!-- GITHUB:END -->
 
 ## Top Followers
