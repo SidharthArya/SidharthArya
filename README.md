@@ -87,16 +87,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred makeplane/plane](https://github.com/makeplane/plane)
+- [SidharthArya starred drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm)
+- [SidharthArya starred TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI)
+- [SidharthArya starred Ignitetechnologies/Mindmap](https://github.com/Ignitetechnologies/Mindmap)
 - [SidharthArya starred kubernetes-sigs/nfs-subdir-external-provisioner](https://github.com/kubernetes-sigs/nfs-subdir-external-provisioner)
 - [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/3942b4e93e...bfb2d5055c)
 - [SidharthArya starred statsmodels/statsmodels](https://github.com/statsmodels/statsmodels)
 - [SidharthArya starred ml-tooling/best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python)
 - [SidharthArya pushed to main in SidharthArya/portfolio.dev](https://github.com/SidharthArya/portfolio.dev/compare/3f7f95e014...ab72438be5)
 - [SidharthArya pushed to main in SidharthArya/portfolio.dev](https://github.com/SidharthArya/portfolio.dev/compare/431a62b515...3f7f95e014)
-- [SidharthArya pushed to main in SidharthArya/portfolio.dev](https://github.com/SidharthArya/portfolio.dev/compare/e85c218e33...431a62b515)
-- [SidharthArya pushed to main in SidharthArya/portfolio](https://github.com/SidharthArya/portfolio/compare/8fc2469a45...52b3e2238c)
-- [SidharthArya pushed to main in SidharthArya/portfolio.dev](https://github.com/SidharthArya/portfolio.dev/compare/268861d643...e85c218e33)
-- [SidharthArya pushed to main in SidharthArya/portfolio](https://github.com/SidharthArya/portfolio/compare/691fd38e1e...8fc2469a45)
 <!-- GITHUB:END -->
 
 ## Top Followers
