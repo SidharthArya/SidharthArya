@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/bfb2d5055c...6e4119fbb4)
 - [SidharthArya starred makeplane/plane](https://github.com/makeplane/plane)
 - [SidharthArya starred drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm)
 - [SidharthArya starred TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred statsmodels/statsmodels](https://github.com/statsmodels/statsmodels)
 - [SidharthArya starred ml-tooling/best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python)
 - [SidharthArya pushed to main in SidharthArya/portfolio.dev](https://github.com/SidharthArya/portfolio.dev/compare/3f7f95e014...ab72438be5)
-- [SidharthArya pushed to main in SidharthArya/portfolio.dev](https://github.com/SidharthArya/portfolio.dev/compare/431a62b515...3f7f95e014)
 <!-- GITHUB:END -->
 
 ## Top Followers
