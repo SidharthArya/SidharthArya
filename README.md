@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to main in SidharthArya/.zsh](https://github.com/SidharthArya/.zsh/compare/16b0378cce...cf30fca256)
+- [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/1ac0e2b4fb...ecf79a6dd8)
 - [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/6e4119fbb4...1ac0e2b4fb)
 - [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/bfb2d5055c...6e4119fbb4)
 - [SidharthArya starred makeplane/plane](https://github.com/makeplane/plane)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred Ignitetechnologies/Mindmap](https://github.com/Ignitetechnologies/Mindmap)
 - [SidharthArya starred kubernetes-sigs/nfs-subdir-external-provisioner](https://github.com/kubernetes-sigs/nfs-subdir-external-provisioner)
 - [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/3942b4e93e...bfb2d5055c)
-- [SidharthArya starred statsmodels/statsmodels](https://github.com/statsmodels/statsmodels)
-- [SidharthArya starred ml-tooling/best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python)
 <!-- GITHUB:END -->
 
 ## Top Followers
