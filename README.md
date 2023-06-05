@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred glacambre/firenvim](https://github.com/glacambre/firenvim)
 - [SidharthArya pushed to main in SidharthArya/.zsh](https://github.com/SidharthArya/.zsh/compare/16b0378cce...cf30fca256)
 - [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/1ac0e2b4fb...ecf79a6dd8)
 - [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/6e4119fbb4...1ac0e2b4fb)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI)
 - [SidharthArya starred Ignitetechnologies/Mindmap](https://github.com/Ignitetechnologies/Mindmap)
 - [SidharthArya starred kubernetes-sigs/nfs-subdir-external-provisioner](https://github.com/kubernetes-sigs/nfs-subdir-external-provisioner)
-- [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/3942b4e93e...bfb2d5055c)
 <!-- GITHUB:END -->
 
 ## Top Followers
