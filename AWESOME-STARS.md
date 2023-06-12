@@ -1065,6 +1065,7 @@
 
 ## Jupyter Notebook 
 
+- [AI4Finance-Foundation/FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) - Data-Centric FinGPT.  Open-source for open finance!  Revolutionize 🔥    We'll soon be releasing the trained model.
 - [microsoft/guidance](https://github.com/microsoft/guidance) - A guidance language for controlling large language models.
 - [NVIDIA/DeepLearningExamples](https://github.com/NVIDIA/DeepLearningExamples) - State-of-the-Art Deep Learning scripts organized by models - easy to train and deploy with reproducible accuracy and performance on enterprise-grade infrastructure.
 - [tensorflow/probability](https://github.com/tensorflow/probability) - Probabilistic reasoning and statistical analysis in TensorFlow
@@ -1937,6 +1938,7 @@
 
 ## Rust 
 
+- [openobserve/openobserve](https://github.com/openobserve/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces).
 - [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust to everyone.
 - [clap-rs/clap](https://github.com/clap-rs/clap) - A full featured, fast Command Line Argument Parser for Rust
 - [org-rs/org-rs](https://github.com/org-rs/org-rs) - org-mode parser rewrite in Rust
