@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/7499966194...ca874dc98e)
 - [SidharthArya starred openobserve/openobserve](https://github.com/openobserve/openobserve)
 - [SidharthArya starred AI4Finance-Foundation/FinGPT](https://github.com/AI4Finance-Foundation/FinGPT)
 - [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/eb02c69d0e...7499966194)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/ecf79a6dd8...de4109faee)
 - [SidharthArya starred hwchase17/langchainjs](https://github.com/hwchase17/langchainjs)
 - [SidharthArya starred patriciogonzalezvivo/thebookofshaders](https://github.com/patriciogonzalezvivo/thebookofshaders)
-- [SidharthArya starred patriciogonzalezvivo/glslViewer](https://github.com/patriciogonzalezvivo/glslViewer)
 <!-- GITHUB:END -->
 
 ## Top Followers
