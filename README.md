@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred xinyu1205/recognize-anything](https://github.com/xinyu1205/recognize-anything)
+- [SidharthArya starred IsaacMarovitz/Whisky](https://github.com/IsaacMarovitz/Whisky)
 - [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/39d10df965...f722b7174e)
 - [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/ca874dc98e...39d10df965)
 - [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/7499966194...ca874dc98e)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/eb02c69d0e...7499966194)
 - [SidharthArya starred google/visualblocks](https://github.com/google/visualblocks)
 - [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/de3e04f288...eb02c69d0e)
-- [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/de4109faee...de3e04f288)
-- [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/ecf79a6dd8...de4109faee)
 <!-- GITHUB:END -->
 
 ## Top Followers
