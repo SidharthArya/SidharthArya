@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred coderQuad/New-Grad-Positions](https://github.com/coderQuad/New-Grad-Positions)
+- [SidharthArya starred gabime/spdlog](https://github.com/gabime/spdlog)
 - [SidharthArya starred xinyu1205/recognize-anything](https://github.com/xinyu1205/recognize-anything)
 - [SidharthArya starred IsaacMarovitz/Whisky](https://github.com/IsaacMarovitz/Whisky)
 - [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/39d10df965...f722b7174e)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred openobserve/openobserve](https://github.com/openobserve/openobserve)
 - [SidharthArya starred AI4Finance-Foundation/FinGPT](https://github.com/AI4Finance-Foundation/FinGPT)
 - [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/eb02c69d0e...7499966194)
-- [SidharthArya starred google/visualblocks](https://github.com/google/visualblocks)
-- [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/de3e04f288...eb02c69d0e)
 <!-- GITHUB:END -->
 
 ## Top Followers
