@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred golang-migrate/migrate](https://github.com/golang-migrate/migrate)
 - [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/f722b7174e...4a1e8cb299)
 - [SidharthArya starred coderQuad/New-Grad-Positions](https://github.com/coderQuad/New-Grad-Positions)
 - [SidharthArya starred gabime/spdlog](https://github.com/gabime/spdlog)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/ca874dc98e...39d10df965)
 - [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/7499966194...ca874dc98e)
 - [SidharthArya starred openobserve/openobserve](https://github.com/openobserve/openobserve)
-- [SidharthArya starred AI4Finance-Foundation/FinGPT](https://github.com/AI4Finance-Foundation/FinGPT)
 <!-- GITHUB:END -->
 
 ## Top Followers
