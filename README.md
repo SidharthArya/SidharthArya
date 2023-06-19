@@ -87,16 +87,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
-- [SidharthArya starred golang-migrate/migrate](https://github.com/golang-migrate/migrate)
-- [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/f722b7174e...4a1e8cb299)
+- [SidharthArya starred threestudio-project/threestudio](https://github.com/threestudio-project/threestudio)
+- [SidharthArya starred ruanyf/weekly](https://github.com/ruanyf/weekly)
+- [SidharthArya starred SysCV/sam-hq](https://github.com/SysCV/sam-hq)
+- [SidharthArya starred fiatrete/OpenDAN-Personal-AI-OS](https://github.com/fiatrete/OpenDAN-Personal-AI-OS)
 - [SidharthArya starred coderQuad/New-Grad-Positions](https://github.com/coderQuad/New-Grad-Positions)
-- [SidharthArya starred gabime/spdlog](https://github.com/gabime/spdlog)
-- [SidharthArya starred xinyu1205/recognize-anything](https://github.com/xinyu1205/recognize-anything)
-- [SidharthArya starred IsaacMarovitz/Whisky](https://github.com/IsaacMarovitz/Whisky)
-- [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/39d10df965...f722b7174e)
-- [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/ca874dc98e...39d10df965)
-- [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/7499966194...ca874dc98e)
-- [SidharthArya starred openobserve/openobserve](https://github.com/openobserve/openobserve)
+- [SidharthArya starred hemansnation/God-Level-Data-Science-ML-Full-Stack](https://github.com/hemansnation/God-Level-Data-Science-ML-Full-Stack)
+- [SidharthArya starred huggingface/chat-ui](https://github.com/huggingface/chat-ui)
+- [SidharthArya starred modularml/mojo](https://github.com/modularml/mojo)
+- [SidharthArya starred openchatai/OpenChat](https://github.com/openchatai/OpenChat)
+- [SidharthArya starred golang-migrate/migrate](https://github.com/golang-migrate/migrate)
 <!-- GITHUB:END -->
 
 ## Top Followers
