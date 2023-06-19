@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred immersive-translate/immersive-translate](https://github.com/immersive-translate/immersive-translate)
 - [SidharthArya starred threestudio-project/threestudio](https://github.com/threestudio-project/threestudio)
 - [SidharthArya starred ruanyf/weekly](https://github.com/ruanyf/weekly)
 - [SidharthArya starred SysCV/sam-hq](https://github.com/SysCV/sam-hq)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred huggingface/chat-ui](https://github.com/huggingface/chat-ui)
 - [SidharthArya starred modularml/mojo](https://github.com/modularml/mojo)
 - [SidharthArya starred openchatai/OpenChat](https://github.com/openchatai/OpenChat)
-- [SidharthArya starred golang-migrate/migrate](https://github.com/golang-migrate/migrate)
 <!-- GITHUB:END -->
 
 ## Top Followers
