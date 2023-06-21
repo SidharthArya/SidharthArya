@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/b776b70d75...be5dfc168c)
 - [SidharthArya starred facebookresearch/ImageBind](https://github.com/facebookresearch/ImageBind)
 - [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/4a1e8cb299...b776b70d75)
 - [SidharthArya starred immersive-translate/immersive-translate](https://github.com/immersive-translate/immersive-translate)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred fiatrete/OpenDAN-Personal-AI-OS](https://github.com/fiatrete/OpenDAN-Personal-AI-OS)
 - [SidharthArya starred coderQuad/New-Grad-Positions](https://github.com/coderQuad/New-Grad-Positions)
 - [SidharthArya starred hemansnation/God-Level-Data-Science-ML-Full-Stack](https://github.com/hemansnation/God-Level-Data-Science-ML-Full-Stack)
-- [SidharthArya starred huggingface/chat-ui](https://github.com/huggingface/chat-ui)
 <!-- GITHUB:END -->
 
 ## Top Followers
