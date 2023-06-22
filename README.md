@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred jesseduffield/lazygit](https://github.com/jesseduffield/lazygit)
 - [SidharthArya starred nvim-lualine/lualine.nvim](https://github.com/nvim-lualine/lualine.nvim)
 - [SidharthArya starred folke/lazy.nvim](https://github.com/folke/lazy.nvim)
 - [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/b776b70d75...be5dfc168c)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred threestudio-project/threestudio](https://github.com/threestudio-project/threestudio)
 - [SidharthArya starred ruanyf/weekly](https://github.com/ruanyf/weekly)
 - [SidharthArya starred SysCV/sam-hq](https://github.com/SysCV/sam-hq)
-- [SidharthArya starred fiatrete/OpenDAN-Personal-AI-OS](https://github.com/fiatrete/OpenDAN-Personal-AI-OS)
 <!-- GITHUB:END -->
 
 ## Top Followers
