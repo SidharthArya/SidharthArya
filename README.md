@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to main in SidharthArya/.zsh](https://github.com/SidharthArya/.zsh/compare/cf30fca256...2295e11ae9)
 - [SidharthArya starred jesseduffield/lazygit](https://github.com/jesseduffield/lazygit)
 - [SidharthArya starred nvim-lualine/lualine.nvim](https://github.com/nvim-lualine/lualine.nvim)
 - [SidharthArya starred folke/lazy.nvim](https://github.com/folke/lazy.nvim)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred immersive-translate/immersive-translate](https://github.com/immersive-translate/immersive-translate)
 - [SidharthArya starred threestudio-project/threestudio](https://github.com/threestudio-project/threestudio)
 - [SidharthArya starred ruanyf/weekly](https://github.com/ruanyf/weekly)
-- [SidharthArya starred SysCV/sam-hq](https://github.com/SysCV/sam-hq)
 <!-- GITHUB:END -->
 
 ## Top Followers
