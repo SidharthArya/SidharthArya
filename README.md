@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred googlecodelabs/tools](https://github.com/googlecodelabs/tools)
+- [SidharthArya starred teambit/bit](https://github.com/teambit/bit)
 - [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/9b97e591c5...91058f674a)
 - [SidharthArya starred moovweb/gvm](https://github.com/moovweb/gvm)
 - [SidharthArya starred influxdata/influxdb](https://github.com/influxdata/influxdb)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred jesseduffield/lazygit](https://github.com/jesseduffield/lazygit)
 - [SidharthArya starred nvim-lualine/lualine.nvim](https://github.com/nvim-lualine/lualine.nvim)
 - [SidharthArya starred folke/lazy.nvim](https://github.com/folke/lazy.nvim)
-- [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/b776b70d75...be5dfc168c)
-- [SidharthArya starred facebookresearch/ImageBind](https://github.com/facebookresearch/ImageBind)
 <!-- GITHUB:END -->
 
 ## Top Followers
