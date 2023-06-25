@@ -55,7 +55,6 @@
 - [QML](#qml)
 - [R](#r)
 - [RPM Spec](#rpm-spec)
-- [ReScript](#rescript)
 - [Reason](#reason)
 - [Roff](#roff)
 - [Ruby](#ruby)
@@ -601,6 +600,8 @@
 
 ## Go 
 
+- [googlecodelabs/tools](https://github.com/googlecodelabs/tools) - Codelabs management & hosting tools
+- [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
@@ -1193,6 +1194,8 @@
 
 - [hashicorp/terraform-cdk](https://github.com/hashicorp/terraform-cdk) - Define infrastructure resources using programming constructs and provision them using HashiCorp Terraform
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
+- [rescript-association/rescript-lang.org](https://github.com/rescript-association/rescript-lang.org) - Official documentation website for the ReScript programming language
+- [wix/react-native-navigation](https://github.com/wix/react-native-navigation) - A complete native navigation solution for React Native
 - [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
 
 ## Makefile 
@@ -1236,7 +1239,6 @@
 - [felixhageloh/uebersicht](https://github.com/felixhageloh/uebersicht) - ˈyːbɐˌzɪçt
 - [opa334/TrollStore](https://github.com/opa334/TrollStore) - Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple
 - [Hammerspoon/hammerspoon](https://github.com/Hammerspoon/hammerspoon) - Staggeringly powerful macOS desktop automation with Lua
-- [wix/react-native-navigation](https://github.com/wix/react-native-navigation) - A complete native navigation solution for React Native
 - [react-native-maps/react-native-maps](https://github.com/react-native-maps/react-native-maps) - React Native Mapview component for iOS + Android
 - [realm/realm-swift](https://github.com/realm/realm-swift) - Realm is a mobile database: a replacement for Core Data & SQLite
 - [wakatime/xcode-wakatime](https://github.com/wakatime/xcode-wakatime) - Xcode plugin for automatic time tracking and metrics generated from your programming activity.
@@ -1422,6 +1424,7 @@
 
 ## Python 
 
+- [OptimalScale/LMFlow](https://github.com/OptimalScale/LMFlow) - An Extensible Toolkit for Finetuning and Inference of Large Foundation Models. Large Model for All.
 - [facebookresearch/ImageBind](https://github.com/facebookresearch/ImageBind) - ImageBind One Embedding Space to Bind Them All
 - [threestudio-project/threestudio](https://github.com/threestudio-project/threestudio) - A unified framework for 3D content generation.
 - [SysCV/sam-hq](https://github.com/SysCV/sam-hq) - Segment Anything in High Quality
@@ -1924,10 +1927,6 @@
 
 - [microsoft/CBL-Mariner](https://github.com/microsoft/CBL-Mariner) - Linux OS for Azure 1P services and edge appliances
 
-## ReScript 
-
-- [rescript-association/rescript-lang.org](https://github.com/rescript-association/rescript-lang.org) - Official documentation website for the ReScript programming language
-
 ## Reason 
 
 - [onivim/oni2](https://github.com/onivim/oni2) - Native, lightweight modal code editor
@@ -2048,6 +2047,7 @@
 
 ## Shell 
 
+- [moovweb/gvm](https://github.com/moovweb/gvm) - Go Version Manager
 - [kubernetes-sigs/nfs-subdir-external-provisioner](https://github.com/kubernetes-sigs/nfs-subdir-external-provisioner) - Dynamic sub-dir volume provisioner on a remote NFS server.
 - [rvm/rvm](https://github.com/rvm/rvm) - Ruby enVironment Manager (RVM)
 - [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
@@ -2178,6 +2178,7 @@
 
 ## TypeScript 
 
+- [teambit/bit](https://github.com/teambit/bit) - A tool for composable software development.
 - [immersive-translate/immersive-translate](https://github.com/immersive-translate/immersive-translate) - 沉浸式双语网页翻译扩展 , 支持输入框翻译， 鼠标悬停翻译， PDF, Epub, 字幕文件, TXT 文件翻译 - Immersive Dual Web Page Translation Extension
 - [hwchase17/langchainjs](https://github.com/hwchase17/langchainjs) - 
 - [glacambre/firenvim](https://github.com/glacambre/firenvim) - Embed Neovim in Chrome, Firefox & others.
