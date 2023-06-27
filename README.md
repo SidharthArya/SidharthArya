@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred embedchain/embedchain](https://github.com/embedchain/embedchain)
 - [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/91058f674a...1742d07600)
 - [SidharthArya starred OptimalScale/LMFlow](https://github.com/OptimalScale/LMFlow)
 - [SidharthArya starred googlecodelabs/tools](https://github.com/googlecodelabs/tools)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred influxdata/influxdb](https://github.com/influxdata/influxdb)
 - [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/be5dfc168c...9b97e591c5)
 - [SidharthArya pushed to main in SidharthArya/.zsh](https://github.com/SidharthArya/.zsh/compare/cf30fca256...2295e11ae9)
-- [SidharthArya starred jesseduffield/lazygit](https://github.com/jesseduffield/lazygit)
 <!-- GITHUB:END -->
 
 ## Top Followers
