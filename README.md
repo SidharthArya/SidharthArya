@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/9da3ce20bf...5b1bad3c0b)
 - [SidharthArya starred Kanaries/pygwalker](https://github.com/Kanaries/pygwalker)
 - [SidharthArya starred OpenGVLab/DragGAN](https://github.com/Zeqiang-Lai/DragGAN)
 - [SidharthArya starred actualbudget/actual](https://github.com/actualbudget/actual)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/91058f674a...1742d07600)
 - [SidharthArya starred OptimalScale/LMFlow](https://github.com/OptimalScale/LMFlow)
 - [SidharthArya starred googlecodelabs/tools](https://github.com/googlecodelabs/tools)
-- [SidharthArya starred teambit/bit](https://github.com/teambit/bit)
 <!-- GITHUB:END -->
 
 ## Top Followers
