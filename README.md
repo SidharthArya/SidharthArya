@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred omkbd/ErgoDash](https://github.com/omkbd/ErgoDash)
 - [SidharthArya starred KiCad/kicad-source-mirror](https://github.com/KiCad/kicad-source-mirror)
 - [SidharthArya starred resendlabs/react-email](https://github.com/resendlabs/react-email)
 - [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/9da3ce20bf...5b1bad3c0b)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred sadmann7/skateshop](https://github.com/sadmann7/skateshop)
 - [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/1742d07600...9da3ce20bf)
 - [SidharthArya starred embedchain/embedchain](https://github.com/embedchain/embedchain)
-- [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/91058f674a...1742d07600)
 <!-- GITHUB:END -->
 
 ## Top Followers
