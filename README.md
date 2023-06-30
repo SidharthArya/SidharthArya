@@ -87,6 +87,9 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred foostan/crkbd](https://github.com/foostan/crkbd)
+- [SidharthArya starred diimdeep/awesome-split-keyboards](https://github.com/diimdeep/awesome-split-keyboards)
+- [SidharthArya starred mattdibi/redox-keyboard](https://github.com/mattdibi/redox-keyboard)
 - [SidharthArya starred omkbd/ErgoDash](https://github.com/omkbd/ErgoDash)
 - [SidharthArya starred KiCad/kicad-source-mirror](https://github.com/KiCad/kicad-source-mirror)
 - [SidharthArya starred resendlabs/react-email](https://github.com/resendlabs/react-email)
@@ -94,9 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred Kanaries/pygwalker](https://github.com/Kanaries/pygwalker)
 - [SidharthArya starred OpenGVLab/DragGAN](https://github.com/Zeqiang-Lai/DragGAN)
 - [SidharthArya starred actualbudget/actual](https://github.com/actualbudget/actual)
-- [SidharthArya starred sadmann7/skateshop](https://github.com/sadmann7/skateshop)
-- [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/1742d07600...9da3ce20bf)
-- [SidharthArya starred embedchain/embedchain](https://github.com/embedchain/embedchain)
 <!-- GITHUB:END -->
 
 ## Top Followers
