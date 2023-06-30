@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya created a branch main in SidharthArya/website](https://github.com/SidharthArya/website/compare/main)
+- [SidharthArya created a repository SidharthArya/website](https://github.com/SidharthArya/website//)
 - [SidharthArya starred foostan/crkbd](https://github.com/foostan/crkbd)
 - [SidharthArya starred diimdeep/awesome-split-keyboards](https://github.com/diimdeep/awesome-split-keyboards)
 - [SidharthArya starred mattdibi/redox-keyboard](https://github.com/mattdibi/redox-keyboard)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred resendlabs/react-email](https://github.com/resendlabs/react-email)
 - [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/9da3ce20bf...5b1bad3c0b)
 - [SidharthArya starred Kanaries/pygwalker](https://github.com/Kanaries/pygwalker)
-- [SidharthArya starred OpenGVLab/DragGAN](https://github.com/Zeqiang-Lai/DragGAN)
-- [SidharthArya starred actualbudget/actual](https://github.com/actualbudget/actual)
 <!-- GITHUB:END -->
 
 ## Top Followers
