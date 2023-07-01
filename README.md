@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred ergogen/ergogen](https://github.com/ergogen/ergogen)
 - [SidharthArya starred kata0510/Lily58](https://github.com/kata0510/Lily58)
 - [SidharthArya starred neondatabase/neon](https://github.com/neondatabase/neon)
 - [SidharthArya created a branch main in SidharthArya/website](https://github.com/SidharthArya/website/compare/main)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred mattdibi/redox-keyboard](https://github.com/mattdibi/redox-keyboard)
 - [SidharthArya starred omkbd/ErgoDash](https://github.com/omkbd/ErgoDash)
 - [SidharthArya starred KiCad/kicad-source-mirror](https://github.com/KiCad/kicad-source-mirror)
-- [SidharthArya starred resendlabs/react-email](https://github.com/resendlabs/react-email)
 <!-- GITHUB:END -->
 
 ## Top Followers
