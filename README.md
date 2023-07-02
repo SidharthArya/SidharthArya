@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to main in SidharthArya/.zsh](https://github.com/SidharthArya/.zsh/compare/2295e11ae9...cf5e44ee14)
 - [SidharthArya pushed to main in SidharthArya/website](https://github.com/SidharthArya/website/compare/22735a0e03...bda1a08bbe)
 - [SidharthArya starred ergogen/ergogen](https://github.com/ergogen/ergogen)
 - [SidharthArya starred kata0510/Lily58](https://github.com/kata0510/Lily58)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred foostan/crkbd](https://github.com/foostan/crkbd)
 - [SidharthArya starred diimdeep/awesome-split-keyboards](https://github.com/diimdeep/awesome-split-keyboards)
 - [SidharthArya starred mattdibi/redox-keyboard](https://github.com/mattdibi/redox-keyboard)
-- [SidharthArya starred omkbd/ErgoDash](https://github.com/omkbd/ErgoDash)
 <!-- GITHUB:END -->
 
 ## Top Followers
