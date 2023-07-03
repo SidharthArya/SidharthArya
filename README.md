@@ -87,16 +87,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
-- [SidharthArya pushed to main in SidharthArya/.zsh](https://github.com/SidharthArya/.zsh/compare/2295e11ae9...cf5e44ee14)
-- [SidharthArya pushed to main in SidharthArya/website](https://github.com/SidharthArya/website/compare/22735a0e03...bda1a08bbe)
-- [SidharthArya starred ergogen/ergogen](https://github.com/ergogen/ergogen)
-- [SidharthArya starred kata0510/Lily58](https://github.com/kata0510/Lily58)
-- [SidharthArya starred neondatabase/neon](https://github.com/neondatabase/neon)
-- [SidharthArya created a branch main in SidharthArya/website](https://github.com/SidharthArya/website/compare/main)
-- [SidharthArya created a repository SidharthArya/website](https://github.com/SidharthArya/website//)
-- [SidharthArya starred foostan/crkbd](https://github.com/foostan/crkbd)
-- [SidharthArya starred diimdeep/awesome-split-keyboards](https://github.com/diimdeep/awesome-split-keyboards)
-- [SidharthArya starred mattdibi/redox-keyboard](https://github.com/mattdibi/redox-keyboard)
+- [SidharthArya starred s0md3v/roop](https://github.com/s0md3v/roop)
+- [SidharthArya starred h2oai/h2ogpt](https://github.com/h2oai/h2ogpt)
+- [SidharthArya starred Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl)
+- [SidharthArya starred microsoft/Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners)
+- [SidharthArya starred dotnet-architecture/eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers)
+- [SidharthArya starred questdb/questdb](https://github.com/questdb/questdb)
+- [SidharthArya starred geerlingguy/ansible-for-devops](https://github.com/geerlingguy/ansible-for-devops)
+- [SidharthArya starred honghuangdc/soybean-admin](https://github.com/honghuangdc/soybean-admin)
+- [SidharthArya forked SidharthArya/jetlinks-community from jetlinks/jetlinks-community](https://github.com/SidharthArya/jetlinks-community)
+- [SidharthArya starred jetlinks/jetlinks-community](https://github.com/jetlinks/jetlinks-community)
 <!-- GITHUB:END -->
 
 ## Top Followers
