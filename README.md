@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/dd9fc6520a...c87c2f90d8)
 - [SidharthArya starred MustardChef/WSABuilds](https://github.com/MustardChef/WSABuilds)
 - [SidharthArya starred angular/angular](https://github.com/angular/angular)
 - [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/5b1bad3c0b...dd9fc6520a)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred microsoft/Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners)
 - [SidharthArya starred dotnet-architecture/eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers)
 - [SidharthArya starred questdb/questdb](https://github.com/questdb/questdb)
-- [SidharthArya starred geerlingguy/ansible-for-devops](https://github.com/geerlingguy/ansible-for-devops)
 <!-- GITHUB:END -->
 
 ## Top Followers
