@@ -25,6 +25,7 @@
 - [Emacs Lisp](#emacs-lisp)
 - [Fennel](#fennel)
 - [GLSL](#glsl)
+- [Gherkin](#gherkin)
 - [Go](#go)
 - [HCL](#hcl)
 - [HTML](#html)
@@ -601,6 +602,10 @@
 
 - [patriciogonzalezvivo/thebookofshaders](https://github.com/patriciogonzalezvivo/thebookofshaders) - Step-by-step guide through the abstract and complex universe of Fragment Shaders.
 
+## Gherkin 
+
+- [sdkman/sdkman-cli](https://github.com/sdkman/sdkman-cli) - The SDKMAN! Command Line Interface
+
 ## Go 
 
 - [googlecodelabs/tools](https://github.com/googlecodelabs/tools) - Codelabs management & hosting tools
@@ -710,7 +715,7 @@
 - [Bios-Marcel/cordless](https://github.com/Bios-Marcel/cordless) - The Discord terminal client you never knew you wanted.
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) - Synchronize your DNS to multiple providers from a simple DSL
-- [gorilla/mux](https://github.com/gorilla/mux) - A powerful HTTP router and URL matcher for building Go web servers with 🦍
+- [gorilla/mux](https://github.com/gorilla/mux) - Package gorilla/mux is a powerful HTTP router and URL matcher for building Go web servers with 🦍
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [pion/webrtc](https://github.com/pion/webrtc) - Pure Go implementation of the WebRTC API
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
@@ -2329,7 +2334,7 @@
 - [IBM/openapi-to-graphql](https://github.com/IBM/openapi-to-graphql) - Translate APIs described by OpenAPI Specifications (OAS) into GraphQL
 - [helmetjs/helmet](https://github.com/helmetjs/helmet) - Help secure Express apps with various HTTP headers
 - [lerna/lerna](https://github.com/lerna/lerna) - :dragon: Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository.
-- [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
+- [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the secure note taking and to-do app with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
 - [vega/lyra](https://github.com/vega/lyra) - An interactive, graphical Visualization Design Environment (VDE)
 - [tensorflow/tensorboard](https://github.com/tensorflow/tensorboard) - TensorFlow's Visualization Toolkit
 - [homebridge/homebridge](https://github.com/homebridge/homebridge) - HomeKit support for the impatient.
