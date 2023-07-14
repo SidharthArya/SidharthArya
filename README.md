@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred fermyon/spin](https://github.com/fermyon/spin)
 - [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/bd045443b6...49dcd2e410)
 - [SidharthArya starred sdkman/sdkman-cli](https://github.com/sdkman/sdkman-cli)
 - [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/563ed9b5cc...bd045443b6)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred angular/angular](https://github.com/angular/angular)
 - [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/5b1bad3c0b...dd9fc6520a)
 - [SidharthArya starred s0md3v/roop](https://github.com/s0md3v/roop)
-- [SidharthArya starred h2oai/h2ogpt](https://github.com/h2oai/h2ogpt)
 <!-- GITHUB:END -->
 
 ## Top Followers
