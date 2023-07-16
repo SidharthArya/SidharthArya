@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/7d9de2a7db...24958cc95b)
 - [SidharthArya starred mikefarah/yq](https://github.com/mikefarah/yq)
 - [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/49dcd2e410...7d9de2a7db)
 - [SidharthArya starred fermyon/spin](https://github.com/fermyon/spin)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/c87c2f90d8...563ed9b5cc)
 - [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/dd9fc6520a...c87c2f90d8)
 - [SidharthArya starred MustardChef/WSABuilds](https://github.com/MustardChef/WSABuilds)
-- [SidharthArya starred angular/angular](https://github.com/angular/angular)
 <!-- GITHUB:END -->
 
 ## Top Followers
