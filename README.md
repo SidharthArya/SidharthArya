@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/f12483d2fd...1dc5e0535d)
+- [SidharthArya pushed to v2 in SidharthArya/portfolio](https://github.com/SidharthArya/portfolio/compare/c81b8debae...13ba599c01)
 - [SidharthArya pushed to main in SidharthArya/portfolio](https://github.com/SidharthArya/portfolio/compare/52b3e2238c...8a6fec152b)
 - [SidharthArya created a branch v2 in SidharthArya/portfolio](https://github.com/SidharthArya/portfolio/compare/v2)
 - [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/24958cc95b...f12483d2fd)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/49dcd2e410...7d9de2a7db)
 - [SidharthArya starred fermyon/spin](https://github.com/fermyon/spin)
 - [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/bd045443b6...49dcd2e410)
-- [SidharthArya starred sdkman/sdkman-cli](https://github.com/sdkman/sdkman-cli)
-- [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/563ed9b5cc...bd045443b6)
 <!-- GITHUB:END -->
 
 ## Top Followers
