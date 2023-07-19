@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/1dc5e0535d...69737177fe)
 - [SidharthArya starred microsoft/nn-Meter](https://github.com/microsoft/nn-Meter)
 - [SidharthArya starred microsoft/machine-learning-collection](https://github.com/microsoft/machine-learning-collection)
 - [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/f12483d2fd...1dc5e0535d)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/24958cc95b...f12483d2fd)
 - [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/7d9de2a7db...24958cc95b)
 - [SidharthArya starred mikefarah/yq](https://github.com/mikefarah/yq)
-- [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/49dcd2e410...7d9de2a7db)
 <!-- GITHUB:END -->
 
 ## Top Followers
