@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya created a branch new in SidharthArya/.nvim](https://github.com/SidharthArya/.nvim/compare/new)
 - [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/1dc5e0535d...69737177fe)
 - [SidharthArya starred microsoft/nn-Meter](https://github.com/microsoft/nn-Meter)
 - [SidharthArya starred microsoft/machine-learning-collection](https://github.com/microsoft/machine-learning-collection)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya created a branch v2 in SidharthArya/portfolio](https://github.com/SidharthArya/portfolio/compare/v2)
 - [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/24958cc95b...f12483d2fd)
 - [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/7d9de2a7db...24958cc95b)
-- [SidharthArya starred mikefarah/yq](https://github.com/mikefarah/yq)
 <!-- GITHUB:END -->
 
 ## Top Followers
