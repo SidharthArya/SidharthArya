@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya created a branch main in SidharthArya/corne-zmk-config](https://github.com/SidharthArya/corne-zmk-config/compare/main)
+- [SidharthArya created a repository SidharthArya/corne-zmk-config](https://github.com/SidharthArya/corne-zmk-config//)
 - [SidharthArya created a branch new in SidharthArya/.nvim](https://github.com/SidharthArya/.nvim/compare/new)
 - [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/1dc5e0535d...69737177fe)
 - [SidharthArya starred microsoft/nn-Meter](https://github.com/microsoft/nn-Meter)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to v2 in SidharthArya/portfolio](https://github.com/SidharthArya/portfolio/compare/c81b8debae...13ba599c01)
 - [SidharthArya pushed to main in SidharthArya/portfolio](https://github.com/SidharthArya/portfolio/compare/52b3e2238c...8a6fec152b)
 - [SidharthArya created a branch v2 in SidharthArya/portfolio](https://github.com/SidharthArya/portfolio/compare/v2)
-- [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/24958cc95b...f12483d2fd)
-- [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/7d9de2a7db...24958cc95b)
 <!-- GITHUB:END -->
 
 ## Top Followers
