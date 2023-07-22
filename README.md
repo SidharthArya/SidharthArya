@@ -227,6 +227,13 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       <a href="https://github.com/relativelyrehan">rreel </a>
     </td>
     <td align="center">
+      <a href="https://github.com/Pearlminimal">
+        <img src="https://avatars2.githubusercontent.com/u/45006194" width="100px;" alt="Pearlminimal"/>
+      </a>
+      <br />
+      <a href="https://github.com/Pearlminimal">Frank Daniel Orth</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/Kushpad">
         <img src="https://avatars2.githubusercontent.com/u/89928620" width="100px;" alt="Kushpad"/>
       </a>
@@ -246,13 +253,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       </a>
       <br />
       <a href="https://github.com/ChandanCharchit">Chandan Charchit Sahoo</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/vinay-singh27">
-        <img src="https://avatars2.githubusercontent.com/u/40866557" width="100px;" alt="vinay-singh27"/>
-      </a>
-      <br />
-      <a href="https://github.com/vinay-singh27">Vinay Singh</a>
     </td>
   </tr>
 </table>
