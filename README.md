@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to main in SidharthArya/corne-zmk-config](https://github.com/SidharthArya/corne-zmk-config/compare/85a9fb878e...0932dafc49)
+- [SidharthArya pushed to main in SidharthArya/corne-zmk-config](https://github.com/SidharthArya/corne-zmk-config/compare/37fcad5a46...85a9fb878e)
 - [SidharthArya created a branch main in SidharthArya/corne-zmk-config](https://github.com/SidharthArya/corne-zmk-config/compare/main)
 - [SidharthArya created a repository SidharthArya/corne-zmk-config](https://github.com/SidharthArya/corne-zmk-config//)
 - [SidharthArya created a branch new in SidharthArya/.nvim](https://github.com/SidharthArya/.nvim/compare/new)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred microsoft/machine-learning-collection](https://github.com/microsoft/machine-learning-collection)
 - [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/f12483d2fd...1dc5e0535d)
 - [SidharthArya pushed to v2 in SidharthArya/portfolio](https://github.com/SidharthArya/portfolio/compare/c81b8debae...13ba599c01)
-- [SidharthArya pushed to main in SidharthArya/portfolio](https://github.com/SidharthArya/portfolio/compare/52b3e2238c...8a6fec152b)
-- [SidharthArya created a branch v2 in SidharthArya/portfolio](https://github.com/SidharthArya/portfolio/compare/v2)
 <!-- GITHUB:END -->
 
 ## Top Followers
