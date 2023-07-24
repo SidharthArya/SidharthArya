@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to main in SidharthArya/corne-zmk-config](https://github.com/SidharthArya/corne-zmk-config/compare/16153eb1f7...8ac2c525c1)
 - [SidharthArya starred joric/nrfmicro](https://github.com/joric/nrfmicro)
 - [SidharthArya pushed to main in SidharthArya/corne-zmk-config](https://github.com/SidharthArya/corne-zmk-config/compare/0932dafc49...16153eb1f7)
 - [SidharthArya pushed to main in SidharthArya/corne-zmk-config](https://github.com/SidharthArya/corne-zmk-config/compare/85a9fb878e...0932dafc49)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya created a branch new in SidharthArya/.nvim](https://github.com/SidharthArya/.nvim/compare/new)
 - [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/1dc5e0535d...69737177fe)
 - [SidharthArya starred microsoft/nn-Meter](https://github.com/microsoft/nn-Meter)
-- [SidharthArya starred microsoft/machine-learning-collection](https://github.com/microsoft/machine-learning-collection)
 <!-- GITHUB:END -->
 
 ## Top Followers
