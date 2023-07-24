@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to main in SidharthArya/corne-zmk-config](https://github.com/SidharthArya/corne-zmk-config/compare/aa75b30c27...7e9b306019)
 - [SidharthArya pushed to main in SidharthArya/corne-zmk-config](https://github.com/SidharthArya/corne-zmk-config/compare/8ac2c525c1...aa75b30c27)
 - [SidharthArya pushed to main in SidharthArya/corne-zmk-config](https://github.com/SidharthArya/corne-zmk-config/compare/16153eb1f7...8ac2c525c1)
 - [SidharthArya starred joric/nrfmicro](https://github.com/joric/nrfmicro)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya created a branch main in SidharthArya/corne-zmk-config](https://github.com/SidharthArya/corne-zmk-config/compare/main)
 - [SidharthArya created a repository SidharthArya/corne-zmk-config](https://github.com/SidharthArya/corne-zmk-config//)
 - [SidharthArya created a branch new in SidharthArya/.nvim](https://github.com/SidharthArya/.nvim/compare/new)
-- [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/1dc5e0535d...69737177fe)
 <!-- GITHUB:END -->
 
 ## Top Followers
