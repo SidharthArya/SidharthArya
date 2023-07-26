@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred qmk/qmk_firmware](https://github.com/qmk/qmk_firmware)
 - [SidharthArya pushed to main in SidharthArya/corne-zmk-config](https://github.com/SidharthArya/corne-zmk-config/compare/7e9b306019...e8c9bd8c89)
 - [SidharthArya pushed to main in SidharthArya/corne-zmk-config](https://github.com/SidharthArya/corne-zmk-config/compare/aa75b30c27...7e9b306019)
 - [SidharthArya pushed to main in SidharthArya/corne-zmk-config](https://github.com/SidharthArya/corne-zmk-config/compare/8ac2c525c1...aa75b30c27)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to main in SidharthArya/corne-zmk-config](https://github.com/SidharthArya/corne-zmk-config/compare/85a9fb878e...0932dafc49)
 - [SidharthArya pushed to main in SidharthArya/corne-zmk-config](https://github.com/SidharthArya/corne-zmk-config/compare/37fcad5a46...85a9fb878e)
 - [SidharthArya created a branch main in SidharthArya/corne-zmk-config](https://github.com/SidharthArya/corne-zmk-config/compare/main)
-- [SidharthArya created a repository SidharthArya/corne-zmk-config](https://github.com/SidharthArya/corne-zmk-config//)
 <!-- GITHUB:END -->
 
 ## Top Followers
