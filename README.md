@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to main in SidharthArya/corne-zmk-config](https://github.com/SidharthArya/corne-zmk-config/compare/72c17b1f79...d8e7344ac0)
+- [SidharthArya pushed to main in SidharthArya/corne-zmk-config](https://github.com/SidharthArya/corne-zmk-config/compare/1c087dfc59...72c17b1f79)
 - [SidharthArya starred invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI)
 - [SidharthArya pushed to main in SidharthArya/corne-zmk-config](https://github.com/SidharthArya/corne-zmk-config/compare/e8c9bd8c89...1c087dfc59)
 - [SidharthArya starred qmk/qmk_firmware](https://github.com/qmk/qmk_firmware)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to main in SidharthArya/corne-zmk-config](https://github.com/SidharthArya/corne-zmk-config/compare/8ac2c525c1...aa75b30c27)
 - [SidharthArya pushed to main in SidharthArya/corne-zmk-config](https://github.com/SidharthArya/corne-zmk-config/compare/16153eb1f7...8ac2c525c1)
 - [SidharthArya starred joric/nrfmicro](https://github.com/joric/nrfmicro)
-- [SidharthArya pushed to main in SidharthArya/corne-zmk-config](https://github.com/SidharthArya/corne-zmk-config/compare/0932dafc49...16153eb1f7)
-- [SidharthArya pushed to main in SidharthArya/corne-zmk-config](https://github.com/SidharthArya/corne-zmk-config/compare/85a9fb878e...0932dafc49)
 <!-- GITHUB:END -->
 
 ## Top Followers
