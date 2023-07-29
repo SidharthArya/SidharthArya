@@ -169,18 +169,18 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       <a href="https://github.com/grahamwaters">Graham Waters</a>
     </td>
     <td align="center">
-      <a href="https://github.com/amrithHN">
-        <img src="https://avatars2.githubusercontent.com/u/70368617" width="100px;" alt="amrithHN"/>
-      </a>
-      <br />
-      <a href="https://github.com/amrithHN">Amrith H Namboodiri</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/Tiancheng-Luo">
         <img src="https://avatars2.githubusercontent.com/u/6097951" width="100px;" alt="Tiancheng-Luo"/>
       </a>
       <br />
       <a href="https://github.com/Tiancheng-Luo">Tiancheng-Luo</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/amrithHN">
+        <img src="https://avatars2.githubusercontent.com/u/70368617" width="100px;" alt="amrithHN"/>
+      </a>
+      <br />
+      <a href="https://github.com/amrithHN">Amrith H Namboodiri</a>
     </td>
     <td align="center">
       <a href="https://github.com/stormwatch">
@@ -220,18 +220,18 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       <a href="https://github.com/G0rav">Gaurav</a>
     </td>
     <td align="center">
-      <a href="https://github.com/relativelyrehan">
-        <img src="https://avatars2.githubusercontent.com/u/48210765" width="100px;" alt="relativelyrehan"/>
-      </a>
-      <br />
-      <a href="https://github.com/relativelyrehan">rreel </a>
-    </td>
-    <td align="center">
       <a href="https://github.com/Pearlminimal">
         <img src="https://avatars2.githubusercontent.com/u/45006194" width="100px;" alt="Pearlminimal"/>
       </a>
       <br />
       <a href="https://github.com/Pearlminimal">Frank Daniel Orth</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/relativelyrehan">
+        <img src="https://avatars2.githubusercontent.com/u/48210765" width="100px;" alt="relativelyrehan"/>
+      </a>
+      <br />
+      <a href="https://github.com/relativelyrehan">rreel </a>
     </td>
     <td align="center">
       <a href="https://github.com/Kushpad">
