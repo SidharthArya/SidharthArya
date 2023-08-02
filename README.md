@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to main in SidharthArya/blog.dev](https://github.com/SidharthArya/blog.dev/compare/c641b1c449...9c07e9da1d)
 - [SidharthArya pushed to main in SidharthArya/blog.dev](https://github.com/SidharthArya/blog.dev/compare/6fffd2616b...c641b1c449)
 - [SidharthArya pushed to main in SidharthArya/blog.dev](https://github.com/SidharthArya/blog.dev/compare/d8721e9f0c...6fffd2616b)
 - [SidharthArya starred satnaing/astro-paper](https://github.com/satnaing/astro-paper)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya created a branch main in SidharthArya/blog.dev](https://github.com/SidharthArya/blog.dev/compare/main)
 - [SidharthArya created a repository SidharthArya/blog.dev](https://github.com/SidharthArya/blog.dev//)
 - [SidharthArya pushed to master in SidharthArya/scripts](https://github.com/SidharthArya/scripts/compare/9bf75fea5c...64356cffd2)
-- [SidharthArya pushed to master in SidharthArya/scripts](https://github.com/SidharthArya/scripts/compare/d2fd0ec9a1...9bf75fea5c)
 <!-- GITHUB:END -->
 
 ## Top Followers
