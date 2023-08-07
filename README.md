@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to master in SidharthArya/.nnn](https://github.com/SidharthArya/.nnn/compare/c827119436...285730db09)
+- [SidharthArya pushed to main in SidharthArya/corne-zmk-config](https://github.com/SidharthArya/corne-zmk-config/compare/943a5d5c15...e867640e99)
 - [SidharthArya pushed to main in SidharthArya/corne-zmk-config](https://github.com/SidharthArya/corne-zmk-config/compare/308cf4c929...943a5d5c15)
 - [SidharthArya pushed to main in SidharthArya/corne-zmk-config](https://github.com/SidharthArya/corne-zmk-config/compare/0528d9645b...308cf4c929)
 - [SidharthArya pushed to main in SidharthArya/corne-zmk-config](https://github.com/SidharthArya/corne-zmk-config/compare/a822a07e08...0528d9645b)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to main in SidharthArya/corne-zmk-config](https://github.com/SidharthArya/corne-zmk-config/compare/fe7eccd1b0...547b0d1806)
 - [SidharthArya pushed to main in SidharthArya/corne-zmk-config](https://github.com/SidharthArya/corne-zmk-config/compare/ef64a12a2b...fe7eccd1b0)
 - [SidharthArya starred google/nearby](https://github.com/google/nearby)
-- [SidharthArya pushed to master in SidharthArya/.nnn](https://github.com/SidharthArya/.nnn/compare/7f9d039923...c827119436)
-- [SidharthArya pushed to master in SidharthArya/.nnn](https://github.com/SidharthArya/.nnn/compare/3c7bef8091...7f9d039923)
 <!-- GITHUB:END -->
 
 ## Top Followers
