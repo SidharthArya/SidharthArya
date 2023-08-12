@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred BuilderIO/qwik](https://github.com/BuilderIO/qwik)
 - [SidharthArya starred lit/lit](https://github.com/lit/lit)
 - [SidharthArya starred netlify/netlify-identity-widget](https://github.com/netlify/netlify-identity-widget)
 - [SidharthArya starred netlify/gotrue](https://github.com/netlify/gotrue)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to main in SidharthArya/corne-zmk-config](https://github.com/SidharthArya/corne-zmk-config/compare/e867640e99...a2f2a6d220)
 - [SidharthArya starred riverwm/river](https://github.com/riverwm/river)
 - [SidharthArya pushed to master in SidharthArya/.nnn](https://github.com/SidharthArya/.nnn/compare/285730db09...21733cb2e8)
-- [SidharthArya pushed to master in SidharthArya/.nnn](https://github.com/SidharthArya/.nnn/compare/c827119436...285730db09)
 <!-- GITHUB:END -->
 
 ## Top Followers
