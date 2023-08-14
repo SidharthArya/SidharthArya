@@ -490,7 +490,7 @@
 - [alphapapa/yequake](https://github.com/alphapapa/yequake) - Drop-down Emacs frames, like Yakuake
 - [NicolasPetton/pass](https://github.com/NicolasPetton/pass) - A major mode for password-store
 - [tkf/emacs-request](https://github.com/tkf/emacs-request) - Request.el -- Easy HTTP request for Emacs Lisp
-- [colonelpanic8/org-projectile](https://github.com/colonelpanic8/org-projectile) - Manage org-mode TODOs for your projectile projects
+- [colonelpanic8/org-project-capture](https://github.com/colonelpanic8/org-project-capture) - Manage org-mode TODOs for your projectile projects
 - [jorgenschaefer/pyvenv](https://github.com/jorgenschaefer/pyvenv) - Python virtual environment interface for Emacs
 - [Fuco1/smartparens](https://github.com/Fuco1/smartparens) - Minor mode for Emacs that deals with parens pairs and tries to be smart about it.
 - [dash-docs-el/helm-dash](https://github.com/dash-docs-el/helm-dash) - Browse Dash docsets inside emacs
