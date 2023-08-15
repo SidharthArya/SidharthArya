@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to main in SidharthArya/corne-zmk-config](https://github.com/SidharthArya/corne-zmk-config/compare/7534e09758...5c5fb5e9ad)
+- [SidharthArya pushed to main in SidharthArya/corne-zmk-config](https://github.com/SidharthArya/corne-zmk-config/compare/a2f2a6d220...7534e09758)
 - [SidharthArya starred LMMS/lmms](https://github.com/LMMS/lmms)
 - [SidharthArya starred BuilderIO/qwik](https://github.com/BuilderIO/qwik)
 - [SidharthArya starred lit/lit](https://github.com/lit/lit)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred preactjs/preact](https://github.com/preactjs/preact)
 - [SidharthArya pushed to master in SidharthArya/.nnn](https://github.com/SidharthArya/.nnn/compare/21733cb2e8...dc63139a40)
 - [SidharthArya starred adi1090x/rofi](https://github.com/adi1090x/rofi)
-- [SidharthArya pushed to main in SidharthArya/corne-zmk-config](https://github.com/SidharthArya/corne-zmk-config/compare/e867640e99...a2f2a6d220)
-- [SidharthArya starred riverwm/river](https://github.com/riverwm/river)
 <!-- GITHUB:END -->
 
 ## Top Followers
