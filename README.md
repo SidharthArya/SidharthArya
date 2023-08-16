@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred denoland/deno](https://github.com/denoland/deno)
+- [SidharthArya starred rehypejs/rehype](https://github.com/rehypejs/rehype)
 - [SidharthArya pushed to master in SidharthArya/.nnn](https://github.com/SidharthArya/.nnn/compare/dc63139a40...e0e18330e0)
 - [SidharthArya pushed to main in SidharthArya/corne-zmk-config](https://github.com/SidharthArya/corne-zmk-config/compare/7534e09758...5c5fb5e9ad)
 - [SidharthArya pushed to main in SidharthArya/corne-zmk-config](https://github.com/SidharthArya/corne-zmk-config/compare/a2f2a6d220...7534e09758)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred lit/lit](https://github.com/lit/lit)
 - [SidharthArya starred netlify/netlify-identity-widget](https://github.com/netlify/netlify-identity-widget)
 - [SidharthArya starred netlify/gotrue](https://github.com/netlify/gotrue)
-- [SidharthArya starred preactjs/preact](https://github.com/preactjs/preact)
-- [SidharthArya pushed to master in SidharthArya/.nnn](https://github.com/SidharthArya/.nnn/compare/21733cb2e8...dc63139a40)
 <!-- GITHUB:END -->
 
 ## Top Followers
