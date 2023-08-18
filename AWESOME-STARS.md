@@ -883,7 +883,6 @@
 - [netlify/netlify-identity-widget](https://github.com/netlify/netlify-identity-widget) - A zero config, framework free Netlify Identity widget
 - [preactjs/preact](https://github.com/preactjs/preact) - ⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM.
 - [ergogen/ergogen](https://github.com/ergogen/ergogen) - Ergonomic keyboard layout generator
-- [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app
 - [marcotcr/lime](https://github.com/marcotcr/lime) - Lime: Explaining the predictions of any machine learning classifier
 - [AMAI-GmbH/AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) - Roadmap to becoming an Artificial Intelligence Expert in 2022
 - [electron/electron-packager](https://github.com/electron/electron-packager) - Customize and package your Electron app with OS-specific bundles (.app, .exe, etc.) via JS or CLI
@@ -1219,7 +1218,6 @@
 
 ## MDX 
 
-- [hashicorp/terraform-cdk](https://github.com/hashicorp/terraform-cdk) - Define infrastructure resources using programming constructs and provision them using HashiCorp Terraform
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [rescript-association/rescript-lang.org](https://github.com/rescript-association/rescript-lang.org) - Official documentation website for the ReScript programming language
 - [wix/react-native-navigation](https://github.com/wix/react-native-navigation) - A complete native navigation solution for React Native
@@ -2231,6 +2229,7 @@
 - [angular/angular](https://github.com/angular/angular) - The modern web developer’s platform
 - [honghuangdc/soybean-admin](https://github.com/honghuangdc/soybean-admin) - A fresh and elegant admin template, based on Vue3,Vite3,TypeScript,NaiveUI and UnoCSS [一个基于Vue3、Vite3、TypeScript、NaiveUI 和 UnoCSS的清新优雅的中后台模版]
 - [resendlabs/react-email](https://github.com/resendlabs/react-email) - 💌 Build and send emails using React
+- [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app
 - [sadmann7/skateshop](https://github.com/sadmann7/skateshop) - An open source e-commerce skateshop build with everything new in Next.js 13.
 - [teambit/bit](https://github.com/teambit/bit) - A tool for composable software development.
 - [huggingface/chat-ui](https://github.com/huggingface/chat-ui) - Open source codebase powering the HuggingChat app
@@ -2269,6 +2268,7 @@
 - [streamich/react-use](https://github.com/streamich/react-use) - React Hooks — 👍
 - [vercel/vercel](https://github.com/vercel/vercel) - Develop. Preview. Ship.
 - [angular/angular-cli](https://github.com/angular/angular-cli) - CLI tool for Angular
+- [hashicorp/terraform-cdk](https://github.com/hashicorp/terraform-cdk) - Define infrastructure resources using programming constructs and provision them using HashiCorp Terraform
 - [surveyjs/survey-library](https://github.com/surveyjs/survey-library) - Free JavaScript form builder library with integration for React, Angular, Vue, jQuery, and Knockout.
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [total-typescript/beginners-typescript-tutorial](https://github.com/total-typescript/beginners-typescript-tutorial) - An interactive TypeScript tutorial for beginners
