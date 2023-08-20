@@ -1459,7 +1459,7 @@
 
 - [JalaliLabUCLA/phycv](https://github.com/JalaliLabUCLA/phycv) - PhyCV: The First Physics-inspired Computer Vision Library
 - [microsoft/nn-Meter](https://github.com/microsoft/nn-Meter) - A DNN inference latency prediction toolkit for accurately modeling and predicting the latency on diverse edge devices.
-- [s0md3v/roop](https://github.com/s0md3v/roop) - one-click deepfake (face swap)
+- [s0md3v/roop](https://github.com/s0md3v/roop) - one-click face swap
 - [h2oai/h2ogpt](https://github.com/h2oai/h2ogpt) - Private Q&A and summarization of documents+images or chat with local GPT, 100% private, Apache 2.0. Supports LLaMa2, llama.cpp, and more. Demo: https://gpt.h2o.ai/
 - [geerlingguy/ansible-for-devops](https://github.com/geerlingguy/ansible-for-devops) - Ansible for DevOps examples.
 - [clovaai/donut](https://github.com/clovaai/donut) - Official Implementation of OCR-free Document Understanding Transformer (Donut) and Synthetic Document Generator (SynthDoG), ECCV 2022
@@ -2183,7 +2183,7 @@
 ## Swift 
 
 - [insidegui/VirtualBuddy](https://github.com/insidegui/VirtualBuddy) - Virtualize macOS 12 and later on Apple Silicon
-- [IsaacMarovitz/Whisky](https://github.com/IsaacMarovitz/Whisky) - A modern Wine wrapper for macOS built with SwiftUI
+- [Whisky-App/Whisky](https://github.com/Whisky-App/Whisky) - A modern Wine wrapper for macOS built with SwiftUI
 - [danielgindi/Charts](https://github.com/danielgindi/Charts) - Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart.
 - [apple/swift-collections](https://github.com/apple/swift-collections) - Commonly used data structures for Swift
 - [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar
