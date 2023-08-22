@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred github/mlops](https://github.com/github/mlops)
 - [SidharthArya pushed to main in SidharthArya/corne-zmk-config](https://github.com/SidharthArya/corne-zmk-config/compare/5c5fb5e9ad...0be1882315)
 - [SidharthArya starred denoland/deno](https://github.com/denoland/deno)
 - [SidharthArya starred rehypejs/rehype](https://github.com/rehypejs/rehype)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred LMMS/lmms](https://github.com/LMMS/lmms)
 - [SidharthArya starred BuilderIO/qwik](https://github.com/BuilderIO/qwik)
 - [SidharthArya starred lit/lit](https://github.com/lit/lit)
-- [SidharthArya starred netlify/netlify-identity-widget](https://github.com/netlify/netlify-identity-widget)
 <!-- GITHUB:END -->
 
 ## Top Followers
