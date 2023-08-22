@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred krisk/Fuse](https://github.com/krisk/Fuse)
+- [SidharthArya starred olivernn/lunr.js](https://github.com/olivernn/lunr.js)
 - [SidharthArya starred github/mlops](https://github.com/github/mlops)
 - [SidharthArya pushed to main in SidharthArya/corne-zmk-config](https://github.com/SidharthArya/corne-zmk-config/compare/5c5fb5e9ad...0be1882315)
 - [SidharthArya starred denoland/deno](https://github.com/denoland/deno)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to main in SidharthArya/corne-zmk-config](https://github.com/SidharthArya/corne-zmk-config/compare/7534e09758...5c5fb5e9ad)
 - [SidharthArya pushed to main in SidharthArya/corne-zmk-config](https://github.com/SidharthArya/corne-zmk-config/compare/a2f2a6d220...7534e09758)
 - [SidharthArya starred LMMS/lmms](https://github.com/LMMS/lmms)
-- [SidharthArya starred BuilderIO/qwik](https://github.com/BuilderIO/qwik)
-- [SidharthArya starred lit/lit](https://github.com/lit/lit)
 <!-- GITHUB:END -->
 
 ## Top Followers
