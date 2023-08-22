@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya forked SidharthArya/Resume-Matcher from srbhr/Resume-Matcher](https://github.com/SidharthArya/Resume-Matcher)
+- [SidharthArya starred srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher)
 - [SidharthArya starred krisk/Fuse](https://github.com/krisk/Fuse)
 - [SidharthArya starred olivernn/lunr.js](https://github.com/olivernn/lunr.js)
 - [SidharthArya starred github/mlops](https://github.com/github/mlops)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred rehypejs/rehype](https://github.com/rehypejs/rehype)
 - [SidharthArya pushed to master in SidharthArya/.nnn](https://github.com/SidharthArya/.nnn/compare/dc63139a40...e0e18330e0)
 - [SidharthArya pushed to main in SidharthArya/corne-zmk-config](https://github.com/SidharthArya/corne-zmk-config/compare/7534e09758...5c5fb5e9ad)
-- [SidharthArya pushed to main in SidharthArya/corne-zmk-config](https://github.com/SidharthArya/corne-zmk-config/compare/a2f2a6d220...7534e09758)
-- [SidharthArya starred LMMS/lmms](https://github.com/LMMS/lmms)
 <!-- GITHUB:END -->
 
 ## Top Followers
