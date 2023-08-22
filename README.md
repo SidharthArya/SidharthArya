@@ -234,18 +234,18 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       <a href="https://github.com/relativelyrehan">rreel </a>
     </td>
     <td align="center">
-      <a href="https://github.com/Kushpad">
-        <img src="https://avatars2.githubusercontent.com/u/89928620" width="100px;" alt="Kushpad"/>
-      </a>
-      <br />
-      <a href="https://github.com/Kushpad">Kushpad</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/adam-ehab-code">
         <img src="https://avatars2.githubusercontent.com/u/137718329" width="100px;" alt="adam-ehab-code"/>
       </a>
       <br />
       <a href="https://github.com/adam-ehab-code">Adam Ehab</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Kushpad">
+        <img src="https://avatars2.githubusercontent.com/u/89928620" width="100px;" alt="Kushpad"/>
+      </a>
+      <br />
+      <a href="https://github.com/Kushpad">Kushpad</a>
     </td>
     <td align="center">
       <a href="https://github.com/HakunanMatatat">
