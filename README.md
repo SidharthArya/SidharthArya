@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred mfussenegger/nvim-dap](https://github.com/mfussenegger/nvim-dap)
 - [SidharthArya starred typst/typst](https://github.com/typst/typst)
 - [SidharthArya starred ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide)
 - [SidharthArya forked SidharthArya/Resume-Matcher from srbhr/Resume-Matcher](https://github.com/SidharthArya/Resume-Matcher)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred github/mlops](https://github.com/github/mlops)
 - [SidharthArya pushed to main in SidharthArya/corne-zmk-config](https://github.com/SidharthArya/corne-zmk-config/compare/5c5fb5e9ad...0be1882315)
 - [SidharthArya starred denoland/deno](https://github.com/denoland/deno)
-- [SidharthArya starred rehypejs/rehype](https://github.com/rehypejs/rehype)
 <!-- GITHUB:END -->
 
 ## Top Followers
