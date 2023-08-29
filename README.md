@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred lervag/vimtex](https://github.com/lervag/vimtex)
 - [SidharthArya starred PurpleI2P/i2pd](https://github.com/PurpleI2P/i2pd)
 - [SidharthArya starred your-tools/tbump](https://github.com/your-tools/tbump)
 - [SidharthArya starred jupyterlab/jupyterlab-desktop](https://github.com/jupyterlab/jupyterlab-desktop)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide)
 - [SidharthArya forked SidharthArya/Resume-Matcher from srbhr/Resume-Matcher](https://github.com/SidharthArya/Resume-Matcher)
 - [SidharthArya starred srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher)
-- [SidharthArya starred krisk/Fuse](https://github.com/krisk/Fuse)
 <!-- GITHUB:END -->
 
 ## Top Followers
