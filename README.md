@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to main in SidharthArya/corne-zmk-config](https://github.com/SidharthArya/corne-zmk-config/compare/a25add7ece...51df771067)
+- [SidharthArya pushed to main in SidharthArya/corne-zmk-config](https://github.com/SidharthArya/corne-zmk-config/compare/0be1882315...a25add7ece)
 - [SidharthArya starred lervag/vimtex](https://github.com/lervag/vimtex)
 - [SidharthArya starred PurpleI2P/i2pd](https://github.com/PurpleI2P/i2pd)
 - [SidharthArya starred your-tools/tbump](https://github.com/your-tools/tbump)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred mfussenegger/nvim-dap](https://github.com/mfussenegger/nvim-dap)
 - [SidharthArya starred typst/typst](https://github.com/typst/typst)
 - [SidharthArya starred ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide)
-- [SidharthArya forked SidharthArya/Resume-Matcher from srbhr/Resume-Matcher](https://github.com/SidharthArya/Resume-Matcher)
-- [SidharthArya starred srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher)
 <!-- GITHUB:END -->
 
 ## Top Followers
