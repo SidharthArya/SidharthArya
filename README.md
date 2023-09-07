@@ -87,16 +87,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to main in SidharthArya/corne-zmk-config](https://github.com/SidharthArya/corne-zmk-config/compare/a9b17fa05b...139bfb3340)
+- [SidharthArya pushed to main in SidharthArya/corne-zmk-config](https://github.com/SidharthArya/corne-zmk-config/compare/94da65092b...a9b17fa05b)
+- [SidharthArya pushed to main in SidharthArya/corne-zmk-config](https://github.com/SidharthArya/corne-zmk-config/compare/1cbb6edd7d...94da65092b)
+- [SidharthArya pushed to main in SidharthArya/corne-zmk-config](https://github.com/SidharthArya/corne-zmk-config/compare/f3749ddf5b...1cbb6edd7d)
 - [SidharthArya pushed to main in SidharthArya/corne-zmk-config](https://github.com/SidharthArya/corne-zmk-config/compare/95620c19d4...f3749ddf5b)
 - [SidharthArya pushed to main in SidharthArya/corne-zmk-config](https://github.com/SidharthArya/corne-zmk-config/compare/1118fd9733...95620c19d4)
 - [SidharthArya pushed to main in SidharthArya/corne-zmk-config](https://github.com/SidharthArya/corne-zmk-config/compare/8a97ab6cd5...1118fd9733)
 - [SidharthArya pushed to main in SidharthArya/corne-zmk-config](https://github.com/SidharthArya/corne-zmk-config/compare/51df771067...8a97ab6cd5)
 - [SidharthArya pushed to main in SidharthArya/corne-zmk-config](https://github.com/SidharthArya/corne-zmk-config/compare/a25add7ece...51df771067)
 - [SidharthArya pushed to main in SidharthArya/corne-zmk-config](https://github.com/SidharthArya/corne-zmk-config/compare/0be1882315...a25add7ece)
-- [SidharthArya starred lervag/vimtex](https://github.com/lervag/vimtex)
-- [SidharthArya starred PurpleI2P/i2pd](https://github.com/PurpleI2P/i2pd)
-- [SidharthArya starred your-tools/tbump](https://github.com/your-tools/tbump)
-- [SidharthArya starred jupyterlab/jupyterlab-desktop](https://github.com/jupyterlab/jupyterlab-desktop)
 <!-- GITHUB:END -->
 
 ## Top Followers
