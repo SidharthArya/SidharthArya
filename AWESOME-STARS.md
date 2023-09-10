@@ -75,6 +75,7 @@
 - [Vue](#vue)
 - [Wikitext](#wikitext)
 - [Zig](#zig)
+- [reStructuredText](#restructuredtext)
 
 ## ActionScript 
 
@@ -1913,7 +1914,6 @@
 - [deezer/spleeter](https://github.com/deezer/spleeter) - Deezer source separation library including pretrained models.
 - [thunguyenphuoc/HoloGAN](https://github.com/thunguyenphuoc/HoloGAN) - HoloGAN
 - [keithito/tacotron](https://github.com/keithito/tacotron) - A TensorFlow implementation of Google's Tacotron speech synthesis with pre-trained model (unofficial)
-- [python/peps](https://github.com/python/peps) - Python Enhancement Proposals
 - [chiphuyen/stanford-tensorflow-tutorials](https://github.com/chiphuyen/stanford-tensorflow-tutorials) - This repository contains code examples for the Stanford's course: TensorFlow for Deep Learning Research.
 - [adobe/antialiased-cnns](https://github.com/adobe/antialiased-cnns) - pip install antialiased-cnns to improve stability and accuracy
 - [facebookresearch/multigrain](https://github.com/facebookresearch/multigrain) - Code for "MultiGrain: a unified image embedding for classes and instances"
@@ -2442,6 +2442,10 @@
 - [riverwm/river](https://github.com/riverwm/river) - A dynamic tiling Wayland compositor
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
+
+## reStructuredText 
+
+- [python/peps](https://github.com/python/peps) - Python Enhancement Proposals
 
 
 ## License
