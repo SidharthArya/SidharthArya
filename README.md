@@ -217,7 +217,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
         <img src="https://avatars2.githubusercontent.com/u/45006194" width="100px;" alt="Pearlminimal"/>
       </a>
       <br />
-      <a href="https://github.com/Pearlminimal">Frank Daniel Orth</a>
+      <a href="https://github.com/Pearlminimal">minimal99pfdo73 </a>
     </td>
     <td align="center">
       <a href="https://github.com/G0rav">
