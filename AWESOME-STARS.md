@@ -445,7 +445,7 @@
 - [ananthakumaran/tide](https://github.com/ananthakumaran/tide) - Tide - TypeScript Interactive Development Environment for Emacs
 - [emacs-lsp/lsp-dart](https://github.com/emacs-lsp/lsp-dart) - lsp-mode :heart: dart
 - [emacs-lsp/lsp-sourcekit](https://github.com/emacs-lsp/lsp-sourcekit) - lsp-mode :heart: Apple's sourcekit
-- [emacs-tree-sitter/elisp-tree-sitter](https://github.com/emacs-tree-sitter/elisp-tree-sitter) - Tree-sitter bindings for Emacs Lisp
+- [emacs-tree-sitter/elisp-tree-sitter](https://github.com/emacs-tree-sitter/elisp-tree-sitter) - Emacs Lisp bindings for tree-sitter
 - [SidharthArya/browse-rules.el](https://github.com/SidharthArya/browse-rules.el) - Rules for browsing various urls
 - [SidharthArya/emacsit](https://github.com/SidharthArya/emacsit) - A Toy Package Manager for Emacs.
 - [SidharthArya/helm-org-roam](https://github.com/SidharthArya/helm-org-roam) - 
@@ -2136,7 +2136,7 @@
 - [zsh-users/antigen](https://github.com/zsh-users/antigen) - The plugin manager for zsh.
 - [sorin-ionescu/prezto](https://github.com/sorin-ionescu/prezto) - The configuration framework for Zsh
 - [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
-- [archlinux/arch-install-scripts](https://github.com/archlinux/arch-install-scripts) - Useful scripts for installing Arch Linux
+- [archlinux/arch-install-scripts](https://github.com/archlinux/arch-install-scripts) - Useful scripts for installing Arch Linux (read-only mirror)
 - [purcell/setup-emacs](https://github.com/purcell/setup-emacs) - Github action which installs a given Emacs version
 - [adi1090x/plymouth-themes](https://github.com/adi1090x/plymouth-themes) - A huge collection (80+) of plymouth themes ported from android bootanimations
 - [k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
