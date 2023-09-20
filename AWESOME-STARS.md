@@ -1463,6 +1463,7 @@
 
 ## Python 
 
+- [aiwaves-cn/agents](https://github.com/aiwaves-cn/agents) - An Open-source Framework for Autonomous Language Agents
 - [your-tools/tbump](https://github.com/your-tools/tbump) - Bump software releases
 - [JalaliLabUCLA/phycv](https://github.com/JalaliLabUCLA/phycv) - PhyCV: The First Physics-inspired Computer Vision Library
 - [microsoft/nn-Meter](https://github.com/microsoft/nn-Meter) - A DNN inference latency prediction toolkit for accurately modeling and predicting the latency on diverse edge devices.
