@@ -87,6 +87,9 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/129081d73f...186f5a659a)
+- [SidharthArya pushed to master in SidharthArya/scripts](https://github.com/SidharthArya/scripts/compare/9a8a6af98a...fcfccd3324)
+- [SidharthArya pushed to master in SidharthArya/.nnn](https://github.com/SidharthArya/.nnn/compare/e0e18330e0...bf9760ba1c)
 - [SidharthArya starred aiwaves-cn/agents](https://github.com/aiwaves-cn/agents)
 - [SidharthArya pushed to main in SidharthArya/corne-zmk-config](https://github.com/SidharthArya/corne-zmk-config/compare/5914575924...e608ac647e)
 - [SidharthArya pushed to main in SidharthArya/corne-zmk-config](https://github.com/SidharthArya/corne-zmk-config/compare/7d4827dd9f...5914575924)
@@ -94,9 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to main in SidharthArya/corne-zmk-config](https://github.com/SidharthArya/corne-zmk-config/compare/46f38856b7...b8ce966a11)
 - [SidharthArya pushed to main in SidharthArya/corne-zmk-config](https://github.com/SidharthArya/corne-zmk-config/compare/f8bdd59718...46f38856b7)
 - [SidharthArya pushed to main in SidharthArya/corne-zmk-config](https://github.com/SidharthArya/corne-zmk-config/compare/66dbbda9ce...f8bdd59718)
-- [SidharthArya pushed to main in SidharthArya/corne-zmk-config](https://github.com/SidharthArya/corne-zmk-config/compare/0376f3814f...66dbbda9ce)
-- [SidharthArya pushed to main in SidharthArya/corne-zmk-config](https://github.com/SidharthArya/corne-zmk-config/compare/2b2e8458d6...0376f3814f)
-- [SidharthArya pushed to main in SidharthArya/corne-zmk-config](https://github.com/SidharthArya/corne-zmk-config/compare/99161fe563...2b2e8458d6)
 <!-- GITHUB:END -->
 
 ## Top Followers
