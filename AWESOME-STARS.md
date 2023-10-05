@@ -1103,6 +1103,7 @@
 
 ## Jupyter Notebook 
 
+- [williamyang1991/Rerender_A_Video](https://github.com/williamyang1991/Rerender_A_Video) - [SIGGRAPH Asia 2023] Rerender A Video: Zero-Shot Text-Guided Video-to-Video Translation
 - [microsoft/Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners) - 10 Weeks, 20 Lessons, Data Science for All!
 - [imoneoi/openchat](https://github.com/imoneoi/openchat) - OpenChat: Advancing Open-source Language Models with Imperfect Data
 - [hemansnation/God-Level-Data-Science-ML-Full-Stack](https://github.com/hemansnation/God-Level-Data-Science-ML-Full-Stack) - A collection of scientific methods, processes, algorithms, and systems to build stories & models. This roadmap contains 16 Chapters, whether you are a fresher in the field or an experienced profession
@@ -1466,6 +1467,7 @@
 
 ## Python 
 
+- [guoyww/AnimateDiff](https://github.com/guoyww/AnimateDiff) - Official implementation of AnimateDiff.
 - [aiwaves-cn/agents](https://github.com/aiwaves-cn/agents) - An Open-source Framework for Autonomous Language Agents
 - [your-tools/tbump](https://github.com/your-tools/tbump) - Bump software releases
 - [JalaliLabUCLA/phycv](https://github.com/JalaliLabUCLA/phycv) - PhyCV: The First Physics-inspired Computer Vision Library
