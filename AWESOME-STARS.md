@@ -2247,7 +2247,7 @@
 - [resendlabs/react-email](https://github.com/resendlabs/react-email) - 💌 Build and send emails using React
 - [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app
 - [sadmann7/skateshop](https://github.com/sadmann7/skateshop) - An open source e-commerce skateshop build with everything new in Next.js 13.
-- [teambit/bit](https://github.com/teambit/bit) - A tool for composable software development.
+- [teambit/bit](https://github.com/teambit/bit) - A toolchain for development of composable software.
 - [huggingface/chat-ui](https://github.com/huggingface/chat-ui) - Open source codebase powering the HuggingChat app
 - [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) - 
 - [glacambre/firenvim](https://github.com/glacambre/firenvim) - Embed Neovim in Chrome, Firefox & others.
