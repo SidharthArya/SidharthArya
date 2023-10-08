@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred switchablenorms/DeepFashion2](https://github.com/switchablenorms/DeepFashion2)
+- [SidharthArya starred open-mmlab/mmfashion](https://github.com/open-mmlab/mmfashion)
 - [SidharthArya starred guoyww/AnimateDiff](https://github.com/guoyww/AnimateDiff)
 - [SidharthArya starred williamyang1991/Rerender_A_Video](https://github.com/williamyang1991/Rerender_A_Video)
 - [SidharthArya starred cointop-sh/cointop](https://github.com/cointop-sh/cointop)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/.nnn](https://github.com/SidharthArya/.nnn/compare/ee746ac6d0...5b80330982)
 - [SidharthArya pushed to master in SidharthArya/scripts](https://github.com/SidharthArya/scripts/compare/fcfccd3324...6672c50f84)
 - [SidharthArya pushed to master in SidharthArya/.nnn](https://github.com/SidharthArya/.nnn/compare/bf9760ba1c...ee746ac6d0)
-- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/129081d73f...186f5a659a)
-- [SidharthArya pushed to master in SidharthArya/scripts](https://github.com/SidharthArya/scripts/compare/9a8a6af98a...fcfccd3324)
 <!-- GITHUB:END -->
 
 ## Top Followers
