@@ -103,6 +103,7 @@
 
 ## C 
 
+- [psycopg/psycopg2](https://github.com/psycopg/psycopg2) - PostgreSQL database adapter for the Python programming language
 - [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families
 - [woltapp/blurhash](https://github.com/woltapp/blurhash) - A very compact representation of a placeholder for an image.
 - [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
@@ -1663,7 +1664,7 @@
 - [recommenders-team/recommenders](https://github.com/recommenders-team/recommenders) - Best Practices on Recommendation Systems
 - [doakey3/Bligify](https://github.com/doakey3/Bligify) - Blender addon for exporting and importing animated GIF sequences
 - [kingoflolz/mesh-transformer-jax](https://github.com/kingoflolz/mesh-transformer-jax) - Model parallel transformers in JAX and Haiku
-- [Textualize/textual](https://github.com/Textualize/textual) - Textual is a Rapid Application Development framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and (coming soon) a web browser!
+- [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
 - [SidharthArya/qutebrowser](https://github.com/SidharthArya/qutebrowser) - A keyboard-driven, vim-like browser based on PyQt5.
 - [SidharthArya/.qutebrowser](https://github.com/SidharthArya/.qutebrowser) - 
 - [SidharthArya/investigations](https://github.com/SidharthArya/investigations) - Indicators from Amnesty International's investigations
