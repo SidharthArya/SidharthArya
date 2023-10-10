@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred psycopg/psycopg2](https://github.com/psycopg/psycopg2)
 - [SidharthArya starred SigNoz/signoz](https://github.com/SigNoz/signoz)
 - [SidharthArya starred switchablenorms/DeepFashion2](https://github.com/switchablenorms/DeepFashion2)
 - [SidharthArya starred open-mmlab/mmfashion](https://github.com/open-mmlab/mmfashion)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred minar09/awesome-virtual-try-on](https://github.com/minar09/awesome-virtual-try-on)
 - [SidharthArya pushed to master in SidharthArya/.nnn](https://github.com/SidharthArya/.nnn/compare/5b80330982...d601ce83a9)
 - [SidharthArya pushed to master in SidharthArya/.nnn](https://github.com/SidharthArya/.nnn/compare/ee746ac6d0...5b80330982)
-- [SidharthArya pushed to master in SidharthArya/scripts](https://github.com/SidharthArya/scripts/compare/fcfccd3324...6672c50f84)
 <!-- GITHUB:END -->
 
 ## Top Followers
