@@ -248,11 +248,11 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       <a href="https://github.com/Kushpad">Kushpad</a>
     </td>
     <td align="center">
-      <a href="https://github.com/HakunanMatatat">
-        <img src="https://avatars2.githubusercontent.com/u/56817048" width="100px;" alt="HakunanMatatat"/>
+      <a href="https://github.com/spector-9">
+        <img src="https://avatars2.githubusercontent.com/u/47524932" width="100px;" alt="spector-9"/>
       </a>
       <br />
-      <a href="https://github.com/HakunanMatatat">HakunanMatatat</a>
+      <a href="https://github.com/spector-9">Arsh</a>
     </td>
   </tr>
 </table>
