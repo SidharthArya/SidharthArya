@@ -183,18 +183,18 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       <a href="https://github.com/Tiancheng-Luo">Tiancheng-Luo</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Satawatkee">
-        <img src="https://avatars2.githubusercontent.com/u/53291820" width="100px;" alt="Satawatkee"/>
-      </a>
-      <br />
-      <a href="https://github.com/Satawatkee">@s_saichansut</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/stormwatch">
         <img src="https://avatars2.githubusercontent.com/u/824211" width="100px;" alt="stormwatch"/>
       </a>
       <br />
       <a href="https://github.com/stormwatch">Ezequiel Birman</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Satawatkee">
+        <img src="https://avatars2.githubusercontent.com/u/53291820" width="100px;" alt="Satawatkee"/>
+      </a>
+      <br />
+      <a href="https://github.com/Satawatkee">@s_saichansut</a>
     </td>
     <td align="center">
       <a href="https://github.com/yanboyang713">
