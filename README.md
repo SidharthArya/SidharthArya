@@ -248,11 +248,11 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       <a href="https://github.com/Kushpad">Kushpad</a>
     </td>
     <td align="center">
-      <a href="https://github.com/vinay-singh27">
-        <img src="https://avatars2.githubusercontent.com/u/40866557" width="100px;" alt="vinay-singh27"/>
+      <a href="https://github.com/ChandanCharchit">
+        <img src="https://avatars2.githubusercontent.com/u/74564556" width="100px;" alt="ChandanCharchit"/>
       </a>
       <br />
-      <a href="https://github.com/vinay-singh27">Vinay Singh</a>
+      <a href="https://github.com/ChandanCharchit">Chandan Charchit Sahoo</a>
     </td>
   </tr>
 </table>
