@@ -206,18 +206,18 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/portgasray">
-        <img src="https://avatars2.githubusercontent.com/u/17681580" width="100px;" alt="portgasray"/>
-      </a>
-      <br />
-      <a href="https://github.com/portgasray">Lei Zhang</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/Pearlminimal">
         <img src="https://avatars2.githubusercontent.com/u/45006194" width="100px;" alt="Pearlminimal"/>
       </a>
       <br />
       <a href="https://github.com/Pearlminimal">minimal99pfdo73 </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/portgasray">
+        <img src="https://avatars2.githubusercontent.com/u/17681580" width="100px;" alt="portgasray"/>
+      </a>
+      <br />
+      <a href="https://github.com/portgasray">Lei Zhang</a>
     </td>
     <td align="center">
       <a href="https://github.com/adam-ehab-code">
