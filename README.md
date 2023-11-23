@@ -197,20 +197,20 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       <a href="https://github.com/stormwatch">Ezequiel Birman</a>
     </td>
     <td align="center">
-      <a href="https://github.com/yanboyang713">
-        <img src="https://avatars2.githubusercontent.com/u/7603628" width="100px;" alt="yanboyang713"/>
-      </a>
-      <br />
-      <a href="https://github.com/yanboyang713">Boyang Yan</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <a href="https://github.com/Pearlminimal">
         <img src="https://avatars2.githubusercontent.com/u/45006194" width="100px;" alt="Pearlminimal"/>
       </a>
       <br />
       <a href="https://github.com/Pearlminimal">minimal99pfdo73 </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/yanboyang713">
+        <img src="https://avatars2.githubusercontent.com/u/7603628" width="100px;" alt="yanboyang713"/>
+      </a>
+      <br />
+      <a href="https://github.com/yanboyang713">Boyang Yan</a>
     </td>
     <td align="center">
       <a href="https://github.com/portgasray">
