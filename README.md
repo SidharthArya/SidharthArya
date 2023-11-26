@@ -155,18 +155,18 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/grahamwaters">
-        <img src="https://avatars2.githubusercontent.com/u/63750901" width="100px;" alt="grahamwaters"/>
-      </a>
-      <br />
-      <a href="https://github.com/grahamwaters">Graham Waters</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/maskegger">
         <img src="https://avatars2.githubusercontent.com/u/3811321" width="100px;" alt="maskegger"/>
       </a>
       <br />
       <a href="https://github.com/maskegger">AM</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/grahamwaters">
+        <img src="https://avatars2.githubusercontent.com/u/63750901" width="100px;" alt="grahamwaters"/>
+      </a>
+      <br />
+      <a href="https://github.com/grahamwaters">Graham Waters</a>
     </td>
     <td align="center">
       <a href="https://github.com/amrithHN">
