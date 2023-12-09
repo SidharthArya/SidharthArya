@@ -87,16 +87,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL)
+- [SidharthArya starred retejs/rete](https://github.com/retejs/rete)
+- [SidharthArya starred jepsen-io/jepsen](https://github.com/jepsen-io/jepsen)
+- [SidharthArya starred firebase/firebase-ios-sdk](https://github.com/firebase/firebase-ios-sdk)
+- [SidharthArya starred Flode-Labs/vid2densepose](https://github.com/Flode-Labs/vid2densepose)
+- [SidharthArya starred ml-explore/mlx](https://github.com/ml-explore/mlx)
 - [SidharthArya starred lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus)
 - [SidharthArya starred psycopg/psycopg2](https://github.com/psycopg/psycopg2)
 - [SidharthArya starred SigNoz/signoz](https://github.com/SigNoz/signoz)
 - [SidharthArya starred switchablenorms/DeepFashion2](https://github.com/switchablenorms/DeepFashion2)
-- [SidharthArya starred open-mmlab/mmfashion](https://github.com/open-mmlab/mmfashion)
-- [SidharthArya starred guoyww/AnimateDiff](https://github.com/guoyww/AnimateDiff)
-- [SidharthArya starred williamyang1991/Rerender_A_Video](https://github.com/williamyang1991/Rerender_A_Video)
-- [SidharthArya starred cointop-sh/cointop](https://github.com/cointop-sh/cointop)
-- [SidharthArya starred minar09/awesome-virtual-try-on](https://github.com/minar09/awesome-virtual-try-on)
-- [SidharthArya pushed to master in SidharthArya/.nnn](https://github.com/SidharthArya/.nnn/compare/5b80330982...d601ce83a9)
 <!-- GITHUB:END -->
 
 ## Top Followers
