@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/186f5a659a...7f4d4cd42c)
 - [SidharthArya starred AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL)
 - [SidharthArya starred retejs/rete](https://github.com/retejs/rete)
 - [SidharthArya starred jepsen-io/jepsen](https://github.com/jepsen-io/jepsen)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus)
 - [SidharthArya starred psycopg/psycopg2](https://github.com/psycopg/psycopg2)
 - [SidharthArya starred SigNoz/signoz](https://github.com/SigNoz/signoz)
-- [SidharthArya starred switchablenorms/DeepFashion2](https://github.com/switchablenorms/DeepFashion2)
 <!-- GITHUB:END -->
 
 ## Top Followers
