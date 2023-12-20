@@ -87,16 +87,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to main in SidharthArya/.zsh](https://github.com/SidharthArya/.zsh/compare/cf5e44ee14...1053055220)
+- [SidharthArya pushed to master in SidharthArya/.nnn](https://github.com/SidharthArya/.nnn/compare/d601ce83a9...9eb1980416)
+- [SidharthArya pushed to master in SidharthArya/.bspwm](https://github.com/SidharthArya/.bspwm/compare/d336367a3d...3a4710ef5b)
+- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/74617e39ba...d1f06f3907)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/7f4d4cd42c...74617e39ba)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/186f5a659a...7f4d4cd42c)
 - [SidharthArya starred AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL)
 - [SidharthArya starred retejs/rete](https://github.com/retejs/rete)
 - [SidharthArya starred jepsen-io/jepsen](https://github.com/jepsen-io/jepsen)
 - [SidharthArya starred firebase/firebase-ios-sdk](https://github.com/firebase/firebase-ios-sdk)
-- [SidharthArya starred Flode-Labs/vid2densepose](https://github.com/Flode-Labs/vid2densepose)
-- [SidharthArya starred ml-explore/mlx](https://github.com/ml-explore/mlx)
-- [SidharthArya starred lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus)
-- [SidharthArya starred psycopg/psycopg2](https://github.com/psycopg/psycopg2)
 <!-- GITHUB:END -->
 
 ## Top Followers
