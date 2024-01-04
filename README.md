@@ -87,6 +87,9 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred shadcn-ui/ui](https://github.com/shadcn-ui/ui)
+- [SidharthArya starred hrvach/deskhop](https://github.com/hrvach/deskhop)
+- [SidharthArya starred movie-web/movie-web](https://github.com/movie-web/movie-web)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/1bc0f9c301...108b02f081)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/d1f06f3907...1bc0f9c301)
 - [SidharthArya starred cumulo-autumn/StreamDiffusion](https://github.com/cumulo-autumn/StreamDiffusion)
@@ -94,9 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to main in SidharthArya/.zsh](https://github.com/SidharthArya/.zsh/compare/1053055220...636d41d0e6)
 - [SidharthArya pushed to main in SidharthArya/.tmux](https://github.com/SidharthArya/.tmux/compare/1e177c61e8...f64b9d6524)
 - [SidharthArya pushed to main in SidharthArya/.nvim](https://github.com/SidharthArya/.nvim/compare/48fd3e172c...eded32031c)
-- [SidharthArya pushed to master in SidharthArya/.bspwm](https://github.com/SidharthArya/.bspwm/compare/3a4710ef5b...1ab803d5db)
-- [SidharthArya pushed to main in SidharthArya/.zsh](https://github.com/SidharthArya/.zsh/compare/cf5e44ee14...1053055220)
-- [SidharthArya pushed to master in SidharthArya/.nnn](https://github.com/SidharthArya/.nnn/compare/d601ce83a9...9eb1980416)
 <!-- GITHUB:END -->
 
 ## Top Followers
