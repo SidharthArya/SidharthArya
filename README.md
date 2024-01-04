@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred Az0x7/vulnerability-Checklist](https://github.com/Az0x7/vulnerability-Checklist)
 - [SidharthArya starred dair-ai/ML-Papers-of-the-Week](https://github.com/dair-ai/ML-Papers-of-the-Week)
 - [SidharthArya starred sundowndev/phoneinfoga](https://github.com/sundowndev/phoneinfoga)
 - [SidharthArya starred shadcn-ui/ui](https://github.com/shadcn-ui/ui)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/d1f06f3907...1bc0f9c301)
 - [SidharthArya starred cumulo-autumn/StreamDiffusion](https://github.com/cumulo-autumn/StreamDiffusion)
 - [SidharthArya starred Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot)
-- [SidharthArya pushed to main in SidharthArya/.zsh](https://github.com/SidharthArya/.zsh/compare/1053055220...636d41d0e6)
 <!-- GITHUB:END -->
 
 ## Top Followers
