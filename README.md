@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred dair-ai/ML-Papers-of-the-Week](https://github.com/dair-ai/ML-Papers-of-the-Week)
+- [SidharthArya starred sundowndev/phoneinfoga](https://github.com/sundowndev/phoneinfoga)
 - [SidharthArya starred shadcn-ui/ui](https://github.com/shadcn-ui/ui)
 - [SidharthArya starred hrvach/deskhop](https://github.com/hrvach/deskhop)
 - [SidharthArya starred movie-web/movie-web](https://github.com/movie-web/movie-web)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred cumulo-autumn/StreamDiffusion](https://github.com/cumulo-autumn/StreamDiffusion)
 - [SidharthArya starred Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot)
 - [SidharthArya pushed to main in SidharthArya/.zsh](https://github.com/SidharthArya/.zsh/compare/1053055220...636d41d0e6)
-- [SidharthArya pushed to main in SidharthArya/.tmux](https://github.com/SidharthArya/.tmux/compare/1e177c61e8...f64b9d6524)
-- [SidharthArya pushed to main in SidharthArya/.nvim](https://github.com/SidharthArya/.nvim/compare/48fd3e172c...eded32031c)
 <!-- GITHUB:END -->
 
 ## Top Followers
