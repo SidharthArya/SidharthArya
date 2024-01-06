@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox)
+- [SidharthArya pushed to master in SidharthArya/.nnn](https://github.com/SidharthArya/.nnn/compare/9eb1980416...e64f2c7f96)
 - [SidharthArya starred Az0x7/vulnerability-Checklist](https://github.com/Az0x7/vulnerability-Checklist)
 - [SidharthArya starred dair-ai/ML-Papers-of-the-Week](https://github.com/dair-ai/ML-Papers-of-the-Week)
 - [SidharthArya starred sundowndev/phoneinfoga](https://github.com/sundowndev/phoneinfoga)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred movie-web/movie-web](https://github.com/movie-web/movie-web)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/1bc0f9c301...108b02f081)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/d1f06f3907...1bc0f9c301)
-- [SidharthArya starred cumulo-autumn/StreamDiffusion](https://github.com/cumulo-autumn/StreamDiffusion)
-- [SidharthArya starred Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot)
 <!-- GITHUB:END -->
 
 ## Top Followers
