@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to master in SidharthArya/.nnn](https://github.com/SidharthArya/.nnn/compare/e64f2c7f96...4324bf51a7)
+- [SidharthArya pushed to master in SidharthArya/.bspwm](https://github.com/SidharthArya/.bspwm/compare/1ab803d5db...4e6387c27f)
 - [SidharthArya starred ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox)
 - [SidharthArya pushed to master in SidharthArya/.nnn](https://github.com/SidharthArya/.nnn/compare/9eb1980416...e64f2c7f96)
 - [SidharthArya starred Az0x7/vulnerability-Checklist](https://github.com/Az0x7/vulnerability-Checklist)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred shadcn-ui/ui](https://github.com/shadcn-ui/ui)
 - [SidharthArya starred hrvach/deskhop](https://github.com/hrvach/deskhop)
 - [SidharthArya starred movie-web/movie-web](https://github.com/movie-web/movie-web)
-- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/1bc0f9c301...108b02f081)
-- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/d1f06f3907...1bc0f9c301)
 <!-- GITHUB:END -->
 
 ## Top Followers
