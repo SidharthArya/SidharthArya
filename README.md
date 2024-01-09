@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to master in SidharthArya/.bspwm](https://github.com/SidharthArya/.bspwm/compare/4e6387c27f...831c8f5765)
+- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/108b02f081...8d0dad69ad)
 - [SidharthArya pushed to master in SidharthArya/.nnn](https://github.com/SidharthArya/.nnn/compare/e64f2c7f96...4324bf51a7)
 - [SidharthArya pushed to master in SidharthArya/.bspwm](https://github.com/SidharthArya/.bspwm/compare/1ab803d5db...4e6387c27f)
 - [SidharthArya starred ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred dair-ai/ML-Papers-of-the-Week](https://github.com/dair-ai/ML-Papers-of-the-Week)
 - [SidharthArya starred sundowndev/phoneinfoga](https://github.com/sundowndev/phoneinfoga)
 - [SidharthArya starred shadcn-ui/ui](https://github.com/shadcn-ui/ui)
-- [SidharthArya starred hrvach/deskhop](https://github.com/hrvach/deskhop)
-- [SidharthArya starred movie-web/movie-web](https://github.com/movie-web/movie-web)
 <!-- GITHUB:END -->
 
 ## Top Followers
