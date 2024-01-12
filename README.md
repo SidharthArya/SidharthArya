@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/69737177fe...93809f8101)
 - [SidharthArya starred karlicoss/orgparse](https://github.com/karlicoss/orgparse)
 - [SidharthArya starred kiwiz/gkeepapi](https://github.com/kiwiz/gkeepapi)
 - [SidharthArya pushed to master in SidharthArya/.bspwm](https://github.com/SidharthArya/.bspwm/compare/4e6387c27f...831c8f5765)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox)
 - [SidharthArya pushed to master in SidharthArya/.nnn](https://github.com/SidharthArya/.nnn/compare/9eb1980416...e64f2c7f96)
 - [SidharthArya starred Az0x7/vulnerability-Checklist](https://github.com/Az0x7/vulnerability-Checklist)
-- [SidharthArya starred dair-ai/ML-Papers-of-the-Week](https://github.com/dair-ai/ML-Papers-of-the-Week)
 <!-- GITHUB:END -->
 
 ## Top Followers
