@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred vitoplantamura/OnnxStream](https://github.com/vitoplantamura/OnnxStream)
 - [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/69737177fe...93809f8101)
 - [SidharthArya starred karlicoss/orgparse](https://github.com/karlicoss/orgparse)
 - [SidharthArya starred kiwiz/gkeepapi](https://github.com/kiwiz/gkeepapi)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/.bspwm](https://github.com/SidharthArya/.bspwm/compare/1ab803d5db...4e6387c27f)
 - [SidharthArya starred ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox)
 - [SidharthArya pushed to master in SidharthArya/.nnn](https://github.com/SidharthArya/.nnn/compare/9eb1980416...e64f2c7f96)
-- [SidharthArya starred Az0x7/vulnerability-Checklist](https://github.com/Az0x7/vulnerability-Checklist)
 <!-- GITHUB:END -->
 
 ## Top Followers
