@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred dccsillag/magma-nvim](https://github.com/dccsillag/magma-nvim)
 - [SidharthArya pushed to main in SidharthArya/.nvim](https://github.com/SidharthArya/.nvim/compare/eded32031c...01436b9ee7)
 - [SidharthArya pushed to master in SidharthArya/.bspwm](https://github.com/SidharthArya/.bspwm/compare/831c8f5765...5f6b10b584)
 - [SidharthArya starred meilisearch/meilisearch](https://github.com/meilisearch/meilisearch)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred kiwiz/gkeepapi](https://github.com/kiwiz/gkeepapi)
 - [SidharthArya pushed to master in SidharthArya/.bspwm](https://github.com/SidharthArya/.bspwm/compare/4e6387c27f...831c8f5765)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/108b02f081...8d0dad69ad)
-- [SidharthArya pushed to master in SidharthArya/.nnn](https://github.com/SidharthArya/.nnn/compare/e64f2c7f96...4324bf51a7)
 <!-- GITHUB:END -->
 
 ## Top Followers
