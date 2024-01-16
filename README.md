@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to main in SidharthArya/.nvim](https://github.com/SidharthArya/.nvim/compare/eded32031c...01436b9ee7)
+- [SidharthArya pushed to master in SidharthArya/.bspwm](https://github.com/SidharthArya/.bspwm/compare/831c8f5765...5f6b10b584)
 - [SidharthArya starred meilisearch/meilisearch](https://github.com/meilisearch/meilisearch)
 - [SidharthArya starred vitoplantamura/OnnxStream](https://github.com/vitoplantamura/OnnxStream)
 - [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/69737177fe...93809f8101)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/.bspwm](https://github.com/SidharthArya/.bspwm/compare/4e6387c27f...831c8f5765)
 - [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/108b02f081...8d0dad69ad)
 - [SidharthArya pushed to master in SidharthArya/.nnn](https://github.com/SidharthArya/.nnn/compare/e64f2c7f96...4324bf51a7)
-- [SidharthArya pushed to master in SidharthArya/.bspwm](https://github.com/SidharthArya/.bspwm/compare/1ab803d5db...4e6387c27f)
-- [SidharthArya starred ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox)
 <!-- GITHUB:END -->
 
 ## Top Followers
