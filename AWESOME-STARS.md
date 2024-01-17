@@ -413,7 +413,7 @@
 - [dart-lang/dart_style](https://github.com/dart-lang/dart_style) - An opinionated formatter/linter for Dart code
 - [jonbhanson/flutter_native_splash](https://github.com/jonbhanson/flutter_native_splash) - Automatically generates native code for adding splash screens in Android and iOS. Customize with specific platform, background color and splash image.
 - [angulardart/angular](https://github.com/angulardart/angular) - Fast and productive web framework provided by Dart
-- [flutter/gallery](https://github.com/flutter/gallery) - Flutter Gallery is a resource to help developers evaluate and use Flutter
+- [flutter/gallery](https://github.com/flutter/gallery) - Flutter Gallery was a resource to help developers evaluate and use Flutter
 - [fluttercommunity/flutter_sms](https://github.com/fluttercommunity/flutter_sms) - A Flutter plugin to Send SMS and MMS on iOS and Android. If iMessage is enabled it will send as iMessage on iOS. This plugin must be tested on a real device on iOS. Maintainer: @rodydavis
 - [fluttercommunity/flutter_launcher_icons](https://github.com/fluttercommunity/flutter_launcher_icons) - Flutter Launcher Icons - A package which simplifies the task of updating your Flutter app's launcher icon. Fully flexible, allowing you to choose what platform you wish to update the launcher icon for
 - [fluttercommunity/flutter_sticky_headers](https://github.com/fluttercommunity/flutter_sticky_headers) - Flutter Sticky Headers - Lets you place "sticky headers" into any scrollable content in your Flutter app. No special wrappers or magic required. Maintainer: @slightfoot
@@ -1210,6 +1210,7 @@
 
 ## Lua 
 
+- [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) - Quickstart configs for Nvim LSP
 - [mfussenegger/nvim-dap](https://github.com/mfussenegger/nvim-dap) - Debug Adapter Protocol client implementation for Neovim
 - [nvim-lualine/lualine.nvim](https://github.com/nvim-lualine/lualine.nvim) - A blazing fast and easy to configure neovim statusline plugin written in pure lua.
 - [folke/lazy.nvim](https://github.com/folke/lazy.nvim) - 💤 A modern plugin manager for Neovim
@@ -1476,6 +1477,7 @@
 
 ## Python 
 
+- [dccsillag/magma-nvim](https://github.com/dccsillag/magma-nvim) - Interact with Jupyter from NeoVim.
 - [karlicoss/orgparse](https://github.com/karlicoss/orgparse) - Python module for reading Emacs org-mode files
 - [kiwiz/gkeepapi](https://github.com/kiwiz/gkeepapi) - An unofficial client for the Google Keep API.
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
