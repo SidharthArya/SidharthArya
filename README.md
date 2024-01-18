@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred LazyVim/LazyVim](https://github.com/LazyVim/LazyVim)
+- [SidharthArya starred folke/which-key.nvim](https://github.com/folke/which-key.nvim)
 - [SidharthArya starred kylechui/nvim-surround](https://github.com/kylechui/nvim-surround)
 - [SidharthArya starred EleutherAI/lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness)
 - [SidharthArya starred suno-ai/bark](https://github.com/suno-ai/bark)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/.bspwm](https://github.com/SidharthArya/.bspwm/compare/5f6b10b584...225635b9b2)
 - [SidharthArya starred neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig)
 - [SidharthArya starred dccsillag/magma-nvim](https://github.com/dccsillag/magma-nvim)
-- [SidharthArya pushed to main in SidharthArya/.nvim](https://github.com/SidharthArya/.nvim/compare/eded32031c...01436b9ee7)
-- [SidharthArya pushed to master in SidharthArya/.bspwm](https://github.com/SidharthArya/.bspwm/compare/831c8f5765...5f6b10b584)
 <!-- GITHUB:END -->
 
 ## Top Followers
