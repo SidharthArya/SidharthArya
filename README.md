@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to main in SidharthArya/.zsh](https://github.com/SidharthArya/.zsh/compare/636d41d0e6...ab645c3abd)
+- [SidharthArya pushed to master in SidharthArya/.bspwm](https://github.com/SidharthArya/.bspwm/compare/5f6b10b584...225635b9b2)
 - [SidharthArya starred neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig)
 - [SidharthArya starred dccsillag/magma-nvim](https://github.com/dccsillag/magma-nvim)
 - [SidharthArya pushed to main in SidharthArya/.nvim](https://github.com/SidharthArya/.nvim/compare/eded32031c...01436b9ee7)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred vitoplantamura/OnnxStream](https://github.com/vitoplantamura/OnnxStream)
 - [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/69737177fe...93809f8101)
 - [SidharthArya starred karlicoss/orgparse](https://github.com/karlicoss/orgparse)
-- [SidharthArya starred kiwiz/gkeepapi](https://github.com/kiwiz/gkeepapi)
-- [SidharthArya pushed to master in SidharthArya/.bspwm](https://github.com/SidharthArya/.bspwm/compare/4e6387c27f...831c8f5765)
 <!-- GITHUB:END -->
 
 ## Top Followers
