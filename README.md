@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred suno-ai/bark](https://github.com/suno-ai/bark)
+- [SidharthArya starred tensorchord/Awesome-LLMOps](https://github.com/tensorchord/Awesome-LLMOps)
 - [SidharthArya pushed to main in SidharthArya/.zsh](https://github.com/SidharthArya/.zsh/compare/636d41d0e6...ab645c3abd)
 - [SidharthArya pushed to master in SidharthArya/.bspwm](https://github.com/SidharthArya/.bspwm/compare/5f6b10b584...225635b9b2)
 - [SidharthArya starred neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/.bspwm](https://github.com/SidharthArya/.bspwm/compare/831c8f5765...5f6b10b584)
 - [SidharthArya starred meilisearch/meilisearch](https://github.com/meilisearch/meilisearch)
 - [SidharthArya starred vitoplantamura/OnnxStream](https://github.com/vitoplantamura/OnnxStream)
-- [SidharthArya pushed to master in SidharthArya/braindump](https://github.com/SidharthArya/braindump/compare/69737177fe...93809f8101)
-- [SidharthArya starred karlicoss/orgparse](https://github.com/karlicoss/orgparse)
 <!-- GITHUB:END -->
 
 ## Top Followers
