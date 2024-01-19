@@ -87,16 +87,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred Portkey-AI/gateway](https://github.com/Portkey-AI/gateway)
+- [SidharthArya starred danny-avila/LibreChat](https://github.com/danny-avila/LibreChat)
+- [SidharthArya starred MatsuriDayo/NekoBoxForAndroid](https://github.com/MatsuriDayo/NekoBoxForAndroid)
+- [SidharthArya starred FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube)
 - [SidharthArya forked SidharthArya/vscode from microsoft/vscode](https://github.com/SidharthArya/vscode)
 - [SidharthArya starred LazyVim/LazyVim](https://github.com/LazyVim/LazyVim)
 - [SidharthArya starred folke/which-key.nvim](https://github.com/folke/which-key.nvim)
 - [SidharthArya starred kylechui/nvim-surround](https://github.com/kylechui/nvim-surround)
 - [SidharthArya starred EleutherAI/lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness)
 - [SidharthArya starred suno-ai/bark](https://github.com/suno-ai/bark)
-- [SidharthArya starred tensorchord/Awesome-LLMOps](https://github.com/tensorchord/Awesome-LLMOps)
-- [SidharthArya pushed to main in SidharthArya/.zsh](https://github.com/SidharthArya/.zsh/compare/636d41d0e6...ab645c3abd)
-- [SidharthArya pushed to master in SidharthArya/.bspwm](https://github.com/SidharthArya/.bspwm/compare/5f6b10b584...225635b9b2)
-- [SidharthArya starred neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig)
 <!-- GITHUB:END -->
 
 ## Top Followers
