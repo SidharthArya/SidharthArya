@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred PowerShell/PowerShell](https://github.com/PowerShell/PowerShell)
 - [SidharthArya starred Portkey-AI/gateway](https://github.com/Portkey-AI/gateway)
 - [SidharthArya starred danny-avila/LibreChat](https://github.com/danny-avila/LibreChat)
 - [SidharthArya starred MatsuriDayo/NekoBoxForAndroid](https://github.com/MatsuriDayo/NekoBoxForAndroid)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred folke/which-key.nvim](https://github.com/folke/which-key.nvim)
 - [SidharthArya starred kylechui/nvim-surround](https://github.com/kylechui/nvim-surround)
 - [SidharthArya starred EleutherAI/lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness)
-- [SidharthArya starred suno-ai/bark](https://github.com/suno-ai/bark)
 <!-- GITHUB:END -->
 
 ## Top Followers
