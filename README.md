@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya forked SidharthArya/vscode from microsoft/vscode](https://github.com/SidharthArya/vscode)
 - [SidharthArya starred LazyVim/LazyVim](https://github.com/LazyVim/LazyVim)
 - [SidharthArya starred folke/which-key.nvim](https://github.com/folke/which-key.nvim)
 - [SidharthArya starred kylechui/nvim-surround](https://github.com/kylechui/nvim-surround)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to main in SidharthArya/.zsh](https://github.com/SidharthArya/.zsh/compare/636d41d0e6...ab645c3abd)
 - [SidharthArya pushed to master in SidharthArya/.bspwm](https://github.com/SidharthArya/.bspwm/compare/5f6b10b584...225635b9b2)
 - [SidharthArya starred neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig)
-- [SidharthArya starred dccsillag/magma-nvim](https://github.com/dccsillag/magma-nvim)
 <!-- GITHUB:END -->
 
 ## Top Followers
