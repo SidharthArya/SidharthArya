@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to master in SidharthArya/.nnn](https://github.com/SidharthArya/.nnn/compare/4324bf51a7...46ab16f174)
+- [SidharthArya pushed to master in SidharthArya/.bspwm](https://github.com/SidharthArya/.bspwm/compare/225635b9b2...673806ab47)
 - [SidharthArya starred PowerShell/PowerShell](https://github.com/PowerShell/PowerShell)
 - [SidharthArya starred Portkey-AI/gateway](https://github.com/Portkey-AI/gateway)
 - [SidharthArya starred danny-avila/LibreChat](https://github.com/danny-avila/LibreChat)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya forked SidharthArya/vscode from microsoft/vscode](https://github.com/SidharthArya/vscode)
 - [SidharthArya starred LazyVim/LazyVim](https://github.com/LazyVim/LazyVim)
 - [SidharthArya starred folke/which-key.nvim](https://github.com/folke/which-key.nvim)
-- [SidharthArya starred kylechui/nvim-surround](https://github.com/kylechui/nvim-surround)
-- [SidharthArya starred EleutherAI/lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness)
 <!-- GITHUB:END -->
 
 ## Top Followers
