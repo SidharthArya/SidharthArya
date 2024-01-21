@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred SoftwareBrothers/adminjs](https://github.com/SoftwareBrothers/adminjs)
+- [SidharthArya starred typeorm/typeorm](https://github.com/typeorm/typeorm)
 - [SidharthArya starred und3fined/medium-unlocker](https://github.com/und3fined/medium-unlocker)
 - [SidharthArya pushed to master in SidharthArya/.nnn](https://github.com/SidharthArya/.nnn/compare/4324bf51a7...46ab16f174)
 - [SidharthArya pushed to master in SidharthArya/.bspwm](https://github.com/SidharthArya/.bspwm/compare/225635b9b2...673806ab47)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred danny-avila/LibreChat](https://github.com/danny-avila/LibreChat)
 - [SidharthArya starred MatsuriDayo/NekoBoxForAndroid](https://github.com/MatsuriDayo/NekoBoxForAndroid)
 - [SidharthArya starred FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube)
-- [SidharthArya forked SidharthArya/vscode from microsoft/vscode](https://github.com/SidharthArya/vscode)
-- [SidharthArya starred LazyVim/LazyVim](https://github.com/LazyVim/LazyVim)
 <!-- GITHUB:END -->
 
 ## Top Followers
