@@ -87,6 +87,9 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred marimo-team/marimo](https://github.com/marimo-team/marimo)
+- [SidharthArya starred homanp/superagent](https://github.com/homanp/superagent)
+- [SidharthArya starred mouredev/Hello-Python](https://github.com/mouredev/Hello-Python)
 - [SidharthArya pushed to main in SidharthArya/.zsh](https://github.com/SidharthArya/.zsh/compare/ab645c3abd...2b074ec1c6)
 - [SidharthArya starred SoftwareBrothers/adminjs](https://github.com/SoftwareBrothers/adminjs)
 - [SidharthArya starred typeorm/typeorm](https://github.com/typeorm/typeorm)
@@ -94,9 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/.nnn](https://github.com/SidharthArya/.nnn/compare/4324bf51a7...46ab16f174)
 - [SidharthArya pushed to master in SidharthArya/.bspwm](https://github.com/SidharthArya/.bspwm/compare/225635b9b2...673806ab47)
 - [SidharthArya starred PowerShell/PowerShell](https://github.com/PowerShell/PowerShell)
-- [SidharthArya starred Portkey-AI/gateway](https://github.com/Portkey-AI/gateway)
-- [SidharthArya starred danny-avila/LibreChat](https://github.com/danny-avila/LibreChat)
-- [SidharthArya starred MatsuriDayo/NekoBoxForAndroid](https://github.com/MatsuriDayo/NekoBoxForAndroid)
 <!-- GITHUB:END -->
 
 ## Top Followers
