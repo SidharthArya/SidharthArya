@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to main in SidharthArya/.zsh](https://github.com/SidharthArya/.zsh/compare/ab645c3abd...2b074ec1c6)
 - [SidharthArya starred SoftwareBrothers/adminjs](https://github.com/SoftwareBrothers/adminjs)
 - [SidharthArya starred typeorm/typeorm](https://github.com/typeorm/typeorm)
 - [SidharthArya starred und3fined/medium-unlocker](https://github.com/und3fined/medium-unlocker)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred Portkey-AI/gateway](https://github.com/Portkey-AI/gateway)
 - [SidharthArya starred danny-avila/LibreChat](https://github.com/danny-avila/LibreChat)
 - [SidharthArya starred MatsuriDayo/NekoBoxForAndroid](https://github.com/MatsuriDayo/NekoBoxForAndroid)
-- [SidharthArya starred FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube)
 <!-- GITHUB:END -->
 
 ## Top Followers
