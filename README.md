@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips)
+- [SidharthArya starred mingrammer/diagrams](https://github.com/mingrammer/diagrams)
 - [SidharthArya starred marimo-team/marimo](https://github.com/marimo-team/marimo)
 - [SidharthArya starred homanp/superagent](https://github.com/homanp/superagent)
 - [SidharthArya starred mouredev/Hello-Python](https://github.com/mouredev/Hello-Python)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred typeorm/typeorm](https://github.com/typeorm/typeorm)
 - [SidharthArya starred und3fined/medium-unlocker](https://github.com/und3fined/medium-unlocker)
 - [SidharthArya pushed to master in SidharthArya/.nnn](https://github.com/SidharthArya/.nnn/compare/4324bf51a7...46ab16f174)
-- [SidharthArya pushed to master in SidharthArya/.bspwm](https://github.com/SidharthArya/.bspwm/compare/225635b9b2...673806ab47)
-- [SidharthArya starred PowerShell/PowerShell](https://github.com/PowerShell/PowerShell)
 <!-- GITHUB:END -->
 
 ## Top Followers
