@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to main in SidharthArya/.zsh](https://github.com/SidharthArya/.zsh/compare/2b074ec1c6...682e9db0df)
 - [SidharthArya starred byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips)
 - [SidharthArya starred mingrammer/diagrams](https://github.com/mingrammer/diagrams)
 - [SidharthArya starred marimo-team/marimo](https://github.com/marimo-team/marimo)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred SoftwareBrothers/adminjs](https://github.com/SoftwareBrothers/adminjs)
 - [SidharthArya starred typeorm/typeorm](https://github.com/typeorm/typeorm)
 - [SidharthArya starred und3fined/medium-unlocker](https://github.com/und3fined/medium-unlocker)
-- [SidharthArya pushed to master in SidharthArya/.nnn](https://github.com/SidharthArya/.nnn/compare/4324bf51a7...46ab16f174)
 <!-- GITHUB:END -->
 
 ## Top Followers
