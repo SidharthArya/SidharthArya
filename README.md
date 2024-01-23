@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred WebAssembly/wabt](https://github.com/WebAssembly/wabt)
 - [SidharthArya forked SidharthArya/diagrams from mingrammer/diagrams](https://github.com/SidharthArya/diagrams)
 - [SidharthArya pushed to main in SidharthArya/.zsh](https://github.com/SidharthArya/.zsh/compare/2b074ec1c6...682e9db0df)
 - [SidharthArya starred byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred mouredev/Hello-Python](https://github.com/mouredev/Hello-Python)
 - [SidharthArya pushed to main in SidharthArya/.zsh](https://github.com/SidharthArya/.zsh/compare/ab645c3abd...2b074ec1c6)
 - [SidharthArya starred SoftwareBrothers/adminjs](https://github.com/SoftwareBrothers/adminjs)
-- [SidharthArya starred typeorm/typeorm](https://github.com/typeorm/typeorm)
 <!-- GITHUB:END -->
 
 ## Top Followers
