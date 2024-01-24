@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to main in SidharthArya/corne-zmk-config](https://github.com/SidharthArya/corne-zmk-config/compare/5675c7d985...eb8945e1d5)
 - [SidharthArya pushed to main in SidharthArya/corne-zmk-config](https://github.com/SidharthArya/corne-zmk-config/compare/7ca9a3962e...5675c7d985)
 - [SidharthArya pushed to master in SidharthArya/.nnn](https://github.com/SidharthArya/.nnn/compare/46ab16f174...8850605bd9)
 - [SidharthArya pushed to main in SidharthArya/corne-zmk-config](https://github.com/SidharthArya/corne-zmk-config/compare/bf64d525ac...7ca9a3962e)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to main in SidharthArya/.zsh](https://github.com/SidharthArya/.zsh/compare/2b074ec1c6...682e9db0df)
 - [SidharthArya starred byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips)
 - [SidharthArya starred mingrammer/diagrams](https://github.com/mingrammer/diagrams)
-- [SidharthArya starred marimo-team/marimo](https://github.com/marimo-team/marimo)
 <!-- GITHUB:END -->
 
 ## Top Followers
