@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred LiheYoung/Depth-Anything](https://github.com/LiheYoung/Depth-Anything)
+- [SidharthArya starred containers/oci-seccomp-bpf-hook](https://github.com/containers/oci-seccomp-bpf-hook)
 - [SidharthArya starred google-research/meliad](https://github.com/google-research/meliad)
 - [SidharthArya starred erikbern/ann-benchmarks](https://github.com/erikbern/ann-benchmarks)
 - [SidharthArya starred wkentaro/gdown](https://github.com/wkentaro/gdown)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred pinecone-io/examples](https://github.com/pinecone-io/examples)
 - [SidharthArya starred GoogleCloudPlatform/generative-ai](https://github.com/GoogleCloudPlatform/generative-ai)
 - [SidharthArya pushed to master in SidharthArya/.bspwm](https://github.com/SidharthArya/.bspwm/compare/673806ab47...ca3a82d30f)
-- [SidharthArya pushed to main in SidharthArya/corne-zmk-config](https://github.com/SidharthArya/corne-zmk-config/compare/e7ac5669a4...77e47802d0)
-- [SidharthArya pushed to main in SidharthArya/corne-zmk-config](https://github.com/SidharthArya/corne-zmk-config/compare/30a306bf18...e7ac5669a4)
 <!-- GITHUB:END -->
 
 ## Top Followers
