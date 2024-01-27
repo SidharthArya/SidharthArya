@@ -87,6 +87,9 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred wkentaro/gdown](https://github.com/wkentaro/gdown)
+- [SidharthArya forked SidharthArya/alphageometry from google-deepmind/alphageometry](https://github.com/SidharthArya/alphageometry)
+- [SidharthArya starred google-deepmind/alphageometry](https://github.com/google-deepmind/alphageometry)
 - [SidharthArya starred pinecone-io/examples](https://github.com/pinecone-io/examples)
 - [SidharthArya starred GoogleCloudPlatform/generative-ai](https://github.com/GoogleCloudPlatform/generative-ai)
 - [SidharthArya pushed to master in SidharthArya/.bspwm](https://github.com/SidharthArya/.bspwm/compare/673806ab47...ca3a82d30f)
@@ -94,9 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to main in SidharthArya/corne-zmk-config](https://github.com/SidharthArya/corne-zmk-config/compare/30a306bf18...e7ac5669a4)
 - [SidharthArya pushed to main in SidharthArya/corne-zmk-config](https://github.com/SidharthArya/corne-zmk-config/compare/4ea575fb6d...30a306bf18)
 - [SidharthArya pushed to main in SidharthArya/corne-zmk-config](https://github.com/SidharthArya/corne-zmk-config/compare/799084e765...4ea575fb6d)
-- [SidharthArya pushed to main in SidharthArya/corne-zmk-config](https://github.com/SidharthArya/corne-zmk-config/compare/336455c475...799084e765)
-- [SidharthArya pushed to main in SidharthArya/corne-zmk-config](https://github.com/SidharthArya/corne-zmk-config/compare/8ccdde93fa...336455c475)
-- [SidharthArya pushed to main in SidharthArya/corne-zmk-config](https://github.com/SidharthArya/corne-zmk-config/compare/39c2223d9f...8ccdde93fa)
 <!-- GITHUB:END -->
 
 ## Top Followers
