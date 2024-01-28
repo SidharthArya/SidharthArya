@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred google/brotli](https://github.com/google/brotli)
 - [SidharthArya forked SidharthArya/servo from servo/servo](https://github.com/SidharthArya/servo)
 - [SidharthArya forked SidharthArya/bun from oven-sh/bun](https://github.com/SidharthArya/bun)
 - [SidharthArya forked SidharthArya/zed from zed-industries/zed](https://github.com/SidharthArya/zed)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred leanprover/lean4](https://github.com/leanprover/lean4)
 - [SidharthArya starred opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch)
 - [SidharthArya starred rofl0r/proxychains-ng](https://github.com/rofl0r/proxychains-ng)
-- [SidharthArya starred haad/proxychains](https://github.com/haad/proxychains)
 <!-- GITHUB:END -->
 
 ## Top Followers
