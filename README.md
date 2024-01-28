@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred nitrictech/nitric](https://github.com/nitrictech/nitric)
 - [SidharthArya starred LiheYoung/Depth-Anything](https://github.com/LiheYoung/Depth-Anything)
 - [SidharthArya starred containers/oci-seccomp-bpf-hook](https://github.com/containers/oci-seccomp-bpf-hook)
 - [SidharthArya starred google-research/meliad](https://github.com/google-research/meliad)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred google-deepmind/alphageometry](https://github.com/google-deepmind/alphageometry)
 - [SidharthArya starred pinecone-io/examples](https://github.com/pinecone-io/examples)
 - [SidharthArya starred GoogleCloudPlatform/generative-ai](https://github.com/GoogleCloudPlatform/generative-ai)
-- [SidharthArya pushed to master in SidharthArya/.bspwm](https://github.com/SidharthArya/.bspwm/compare/673806ab47...ca3a82d30f)
 <!-- GITHUB:END -->
 
 ## Top Followers
