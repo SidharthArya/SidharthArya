@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred rofl0r/proxychains-ng](https://github.com/rofl0r/proxychains-ng)
+- [SidharthArya starred haad/proxychains](https://github.com/haad/proxychains)
 - [SidharthArya starred apernet/OpenGFW](https://github.com/apernet/OpenGFW)
 - [SidharthArya starred apollographql/apollo-client](https://github.com/apollographql/apollo-client)
 - [SidharthArya starred apollographql/apollo-server](https://github.com/apollographql/apollo-server)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred containers/oci-seccomp-bpf-hook](https://github.com/containers/oci-seccomp-bpf-hook)
 - [SidharthArya starred google-research/meliad](https://github.com/google-research/meliad)
 - [SidharthArya starred erikbern/ann-benchmarks](https://github.com/erikbern/ann-benchmarks)
-- [SidharthArya starred wkentaro/gdown](https://github.com/wkentaro/gdown)
-- [SidharthArya forked SidharthArya/alphageometry from google-deepmind/alphageometry](https://github.com/SidharthArya/alphageometry)
 <!-- GITHUB:END -->
 
 ## Top Followers
