@@ -87,16 +87,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya forked SidharthArya/zed from zed-industries/zed](https://github.com/SidharthArya/zed)
+- [SidharthArya starred zed-industries/zed](https://github.com/zed-industries/zed)
+- [SidharthArya starred hvianna/audioMotion-analyzer](https://github.com/hvianna/audioMotion-analyzer)
+- [SidharthArya starred zhanymkanov/fastapi-best-practices](https://github.com/zhanymkanov/fastapi-best-practices)
+- [SidharthArya starred leanprover/lean4](https://github.com/leanprover/lean4)
+- [SidharthArya starred opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch)
 - [SidharthArya starred rofl0r/proxychains-ng](https://github.com/rofl0r/proxychains-ng)
 - [SidharthArya starred haad/proxychains](https://github.com/haad/proxychains)
 - [SidharthArya starred apernet/OpenGFW](https://github.com/apernet/OpenGFW)
 - [SidharthArya starred apollographql/apollo-client](https://github.com/apollographql/apollo-client)
-- [SidharthArya starred apollographql/apollo-server](https://github.com/apollographql/apollo-server)
-- [SidharthArya starred nitrictech/nitric](https://github.com/nitrictech/nitric)
-- [SidharthArya starred LiheYoung/Depth-Anything](https://github.com/LiheYoung/Depth-Anything)
-- [SidharthArya starred containers/oci-seccomp-bpf-hook](https://github.com/containers/oci-seccomp-bpf-hook)
-- [SidharthArya starred google-research/meliad](https://github.com/google-research/meliad)
-- [SidharthArya starred erikbern/ann-benchmarks](https://github.com/erikbern/ann-benchmarks)
 <!-- GITHUB:END -->
 
 ## Top Followers
