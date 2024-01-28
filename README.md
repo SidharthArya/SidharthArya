@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred apernet/OpenGFW](https://github.com/apernet/OpenGFW)
 - [SidharthArya starred apollographql/apollo-client](https://github.com/apollographql/apollo-client)
 - [SidharthArya starred apollographql/apollo-server](https://github.com/apollographql/apollo-server)
 - [SidharthArya starred nitrictech/nitric](https://github.com/nitrictech/nitric)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred erikbern/ann-benchmarks](https://github.com/erikbern/ann-benchmarks)
 - [SidharthArya starred wkentaro/gdown](https://github.com/wkentaro/gdown)
 - [SidharthArya forked SidharthArya/alphageometry from google-deepmind/alphageometry](https://github.com/SidharthArya/alphageometry)
-- [SidharthArya starred google-deepmind/alphageometry](https://github.com/google-deepmind/alphageometry)
 <!-- GITHUB:END -->
 
 ## Top Followers
