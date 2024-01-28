@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred apollographql/apollo-client](https://github.com/apollographql/apollo-client)
+- [SidharthArya starred apollographql/apollo-server](https://github.com/apollographql/apollo-server)
 - [SidharthArya starred nitrictech/nitric](https://github.com/nitrictech/nitric)
 - [SidharthArya starred LiheYoung/Depth-Anything](https://github.com/LiheYoung/Depth-Anything)
 - [SidharthArya starred containers/oci-seccomp-bpf-hook](https://github.com/containers/oci-seccomp-bpf-hook)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred wkentaro/gdown](https://github.com/wkentaro/gdown)
 - [SidharthArya forked SidharthArya/alphageometry from google-deepmind/alphageometry](https://github.com/SidharthArya/alphageometry)
 - [SidharthArya starred google-deepmind/alphageometry](https://github.com/google-deepmind/alphageometry)
-- [SidharthArya starred pinecone-io/examples](https://github.com/pinecone-io/examples)
-- [SidharthArya starred GoogleCloudPlatform/generative-ai](https://github.com/GoogleCloudPlatform/generative-ai)
 <!-- GITHUB:END -->
 
 ## Top Followers
