@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred ionic-team/capacitor](https://github.com/ionic-team/capacitor)
 - [SidharthArya starred VueTubeApp/VueTube](https://github.com/VueTubeApp/VueTube)
 - [SidharthArya starred rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)
 - [SidharthArya starred Rapha-Borges/oke-free](https://github.com/Rapha-Borges/oke-free)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred vscode-org-mode/vscode-org-mode](https://github.com/vscode-org-mode/vscode-org-mode)
 - [SidharthArya pushed to master in SidharthArya/.nnn](https://github.com/SidharthArya/.nnn/compare/8850605bd9...c147e5678f)
 - [SidharthArya starred google/brotli](https://github.com/google/brotli)
-- [SidharthArya forked SidharthArya/servo from servo/servo](https://github.com/SidharthArya/servo)
 <!-- GITHUB:END -->
 
 ## Top Followers
