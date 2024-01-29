@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya forked SidharthArya/search_with_lepton from leptonai/search_with_lepton](https://github.com/SidharthArya/search_with_lepton)
+- [SidharthArya starred leptonai/search_with_lepton](https://github.com/leptonai/search_with_lepton)
 - [SidharthArya starred ionic-team/capacitor](https://github.com/ionic-team/capacitor)
 - [SidharthArya starred VueTubeApp/VueTube](https://github.com/VueTubeApp/VueTube)
 - [SidharthArya starred rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred leptonai/leptonai](https://github.com/leptonai/leptonai)
 - [SidharthArya starred bevyengine/bevy](https://github.com/bevyengine/bevy)
 - [SidharthArya starred vscode-org-mode/vscode-org-mode](https://github.com/vscode-org-mode/vscode-org-mode)
-- [SidharthArya pushed to master in SidharthArya/.nnn](https://github.com/SidharthArya/.nnn/compare/8850605bd9...c147e5678f)
-- [SidharthArya starred google/brotli](https://github.com/google/brotli)
 <!-- GITHUB:END -->
 
 ## Top Followers
