@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred vscode-org-mode/vscode-org-mode](https://github.com/vscode-org-mode/vscode-org-mode)
+- [SidharthArya pushed to master in SidharthArya/.nnn](https://github.com/SidharthArya/.nnn/compare/8850605bd9...c147e5678f)
 - [SidharthArya starred google/brotli](https://github.com/google/brotli)
 - [SidharthArya forked SidharthArya/servo from servo/servo](https://github.com/SidharthArya/servo)
 - [SidharthArya forked SidharthArya/bun from oven-sh/bun](https://github.com/SidharthArya/bun)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred hvianna/audioMotion-analyzer](https://github.com/hvianna/audioMotion-analyzer)
 - [SidharthArya starred zhanymkanov/fastapi-best-practices](https://github.com/zhanymkanov/fastapi-best-practices)
 - [SidharthArya starred leanprover/lean4](https://github.com/leanprover/lean4)
-- [SidharthArya starred opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch)
-- [SidharthArya starred rofl0r/proxychains-ng](https://github.com/rofl0r/proxychains-ng)
 <!-- GITHUB:END -->
 
 ## Top Followers
