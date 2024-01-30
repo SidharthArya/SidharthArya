@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred ajenti/ajenti](https://github.com/ajenti/ajenti)
+- [SidharthArya starred sehmaschine/django-grappelli](https://github.com/sehmaschine/django-grappelli)
 - [SidharthArya forked SidharthArya/search_with_lepton from leptonai/search_with_lepton](https://github.com/SidharthArya/search_with_lepton)
 - [SidharthArya starred leptonai/search_with_lepton](https://github.com/leptonai/search_with_lepton)
 - [SidharthArya starred ionic-team/capacitor](https://github.com/ionic-team/capacitor)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred Rapha-Borges/oke-free](https://github.com/Rapha-Borges/oke-free)
 - [SidharthArya starred axodotdev/cargo-dist](https://github.com/axodotdev/cargo-dist)
 - [SidharthArya starred leptonai/leptonai](https://github.com/leptonai/leptonai)
-- [SidharthArya starred bevyengine/bevy](https://github.com/bevyengine/bevy)
-- [SidharthArya starred vscode-org-mode/vscode-org-mode](https://github.com/vscode-org-mode/vscode-org-mode)
 <!-- GITHUB:END -->
 
 ## Top Followers
