@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred pipeless-ai/pipeless](https://github.com/pipeless-ai/pipeless)
+- [SidharthArya starred open-mmlab/mmsegmentation](https://github.com/open-mmlab/mmsegmentation)
 - [SidharthArya starred ajenti/ajenti](https://github.com/ajenti/ajenti)
 - [SidharthArya starred sehmaschine/django-grappelli](https://github.com/sehmaschine/django-grappelli)
 - [SidharthArya forked SidharthArya/search_with_lepton from leptonai/search_with_lepton](https://github.com/SidharthArya/search_with_lepton)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred VueTubeApp/VueTube](https://github.com/VueTubeApp/VueTube)
 - [SidharthArya starred rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)
 - [SidharthArya starred Rapha-Borges/oke-free](https://github.com/Rapha-Borges/oke-free)
-- [SidharthArya starred axodotdev/cargo-dist](https://github.com/axodotdev/cargo-dist)
-- [SidharthArya starred leptonai/leptonai](https://github.com/leptonai/leptonai)
 <!-- GITHUB:END -->
 
 ## Top Followers
