@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred google/angle](https://github.com/google/angle)
 - [SidharthArya starred pipeless-ai/pipeless](https://github.com/pipeless-ai/pipeless)
 - [SidharthArya starred open-mmlab/mmsegmentation](https://github.com/open-mmlab/mmsegmentation)
 - [SidharthArya starred ajenti/ajenti](https://github.com/ajenti/ajenti)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred ionic-team/capacitor](https://github.com/ionic-team/capacitor)
 - [SidharthArya starred VueTubeApp/VueTube](https://github.com/VueTubeApp/VueTube)
 - [SidharthArya starred rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)
-- [SidharthArya starred Rapha-Borges/oke-free](https://github.com/Rapha-Borges/oke-free)
 <!-- GITHUB:END -->
 
 ## Top Followers
