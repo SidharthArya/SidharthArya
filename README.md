@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred XueFuzhao/OpenMoE](https://github.com/XueFuzhao/OpenMoE)
 - [SidharthArya starred actix/actix-web](https://github.com/actix/actix-web)
 - [SidharthArya starred actix/actix](https://github.com/actix/actix)
 - [SidharthArya starred google/angle](https://github.com/google/angle)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred sehmaschine/django-grappelli](https://github.com/sehmaschine/django-grappelli)
 - [SidharthArya forked SidharthArya/search_with_lepton from leptonai/search_with_lepton](https://github.com/SidharthArya/search_with_lepton)
 - [SidharthArya starred leptonai/search_with_lepton](https://github.com/leptonai/search_with_lepton)
-- [SidharthArya starred ionic-team/capacitor](https://github.com/ionic-team/capacitor)
 <!-- GITHUB:END -->
 
 ## Top Followers
