@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred actix/actix-web](https://github.com/actix/actix-web)
+- [SidharthArya starred actix/actix](https://github.com/actix/actix)
 - [SidharthArya starred google/angle](https://github.com/google/angle)
 - [SidharthArya starred pipeless-ai/pipeless](https://github.com/pipeless-ai/pipeless)
 - [SidharthArya starred open-mmlab/mmsegmentation](https://github.com/open-mmlab/mmsegmentation)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya forked SidharthArya/search_with_lepton from leptonai/search_with_lepton](https://github.com/SidharthArya/search_with_lepton)
 - [SidharthArya starred leptonai/search_with_lepton](https://github.com/leptonai/search_with_lepton)
 - [SidharthArya starred ionic-team/capacitor](https://github.com/ionic-team/capacitor)
-- [SidharthArya starred VueTubeApp/VueTube](https://github.com/VueTubeApp/VueTube)
-- [SidharthArya starred rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)
 <!-- GITHUB:END -->
 
 ## Top Followers
