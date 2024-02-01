@@ -87,16 +87,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred open-mmlab/mmaction2](https://github.com/open-mmlab/mmaction2)
+- [SidharthArya starred SwinTransformer/Video-Swin-Transformer](https://github.com/SwinTransformer/Video-Swin-Transformer)
+- [SidharthArya starred QwenLM/Qwen](https://github.com/QwenLM/Qwen)
+- [SidharthArya starred allenai/open-instruct](https://github.com/allenai/open-instruct)
 - [SidharthArya starred XueFuzhao/OpenMoE](https://github.com/XueFuzhao/OpenMoE)
 - [SidharthArya starred actix/actix-web](https://github.com/actix/actix-web)
 - [SidharthArya starred actix/actix](https://github.com/actix/actix)
 - [SidharthArya starred google/angle](https://github.com/google/angle)
 - [SidharthArya starred pipeless-ai/pipeless](https://github.com/pipeless-ai/pipeless)
 - [SidharthArya starred open-mmlab/mmsegmentation](https://github.com/open-mmlab/mmsegmentation)
-- [SidharthArya starred ajenti/ajenti](https://github.com/ajenti/ajenti)
-- [SidharthArya starred sehmaschine/django-grappelli](https://github.com/sehmaschine/django-grappelli)
-- [SidharthArya forked SidharthArya/search_with_lepton from leptonai/search_with_lepton](https://github.com/SidharthArya/search_with_lepton)
-- [SidharthArya starred leptonai/search_with_lepton](https://github.com/leptonai/search_with_lepton)
 <!-- GITHUB:END -->
 
 ## Top Followers
