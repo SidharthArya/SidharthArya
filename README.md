@@ -87,16 +87,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs)
+- [SidharthArya starred niespodd/browser-fingerprinting](https://github.com/niespodd/browser-fingerprinting)
+- [SidharthArya starred berstend/puppeteer-extra](https://github.com/berstend/puppeteer-extra)
+- [SidharthArya starred openresty/openresty](https://github.com/openresty/openresty)
+- [SidharthArya starred SidharthArya/search_with_lepton](https://github.com/SidharthArya/search_with_lepton)
 - [SidharthArya starred open-mmlab/mmaction2](https://github.com/open-mmlab/mmaction2)
 - [SidharthArya starred SwinTransformer/Video-Swin-Transformer](https://github.com/SwinTransformer/Video-Swin-Transformer)
 - [SidharthArya starred QwenLM/Qwen](https://github.com/QwenLM/Qwen)
 - [SidharthArya starred allenai/open-instruct](https://github.com/allenai/open-instruct)
 - [SidharthArya starred XueFuzhao/OpenMoE](https://github.com/XueFuzhao/OpenMoE)
-- [SidharthArya starred actix/actix-web](https://github.com/actix/actix-web)
-- [SidharthArya starred actix/actix](https://github.com/actix/actix)
-- [SidharthArya starred google/angle](https://github.com/google/angle)
-- [SidharthArya starred pipeless-ai/pipeless](https://github.com/pipeless-ai/pipeless)
-- [SidharthArya starred open-mmlab/mmsegmentation](https://github.com/open-mmlab/mmsegmentation)
 <!-- GITHUB:END -->
 
 ## Top Followers
