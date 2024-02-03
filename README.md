@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred refinedev/refine](https://github.com/refinedev/refine)
 - [SidharthArya pushed to master in SidharthArya/.bspwm](https://github.com/SidharthArya/.bspwm/compare/a4561cdee8...26c41c992f)
 - [SidharthArya starred paypal/junodb](https://github.com/paypal/junodb)
 - [SidharthArya starred seemoo-lab/openhaystack](https://github.com/seemoo-lab/openhaystack)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/.bspwm](https://github.com/SidharthArya/.bspwm/compare/ca3a82d30f...a4561cdee8)
 - [SidharthArya starred fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs)
 - [SidharthArya starred niespodd/browser-fingerprinting](https://github.com/niespodd/browser-fingerprinting)
-- [SidharthArya starred berstend/puppeteer-extra](https://github.com/berstend/puppeteer-extra)
 <!-- GITHUB:END -->
 
 ## Top Followers
