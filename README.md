@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to main in SidharthArya/js5paisa](https://github.com/SidharthArya/js5paisa/compare/4b9579a800...7191dc88de)
 - [SidharthArya starred refinedev/refine](https://github.com/refinedev/refine)
 - [SidharthArya pushed to master in SidharthArya/.bspwm](https://github.com/SidharthArya/.bspwm/compare/a4561cdee8...26c41c992f)
 - [SidharthArya starred paypal/junodb](https://github.com/paypal/junodb)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/scripts](https://github.com/SidharthArya/scripts/compare/6672c50f84...db7cc1f69e)
 - [SidharthArya pushed to master in SidharthArya/.bspwm](https://github.com/SidharthArya/.bspwm/compare/ca3a82d30f...a4561cdee8)
 - [SidharthArya starred fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs)
-- [SidharthArya starred niespodd/browser-fingerprinting](https://github.com/niespodd/browser-fingerprinting)
 <!-- GITHUB:END -->
 
 ## Top Followers
