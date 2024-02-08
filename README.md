@@ -87,16 +87,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred atopile/atopile](https://github.com/atopile/atopile)
+- [SidharthArya starred holoviz/panel](https://github.com/holoviz/panel)
+- [SidharthArya starred ollama/ollama](https://github.com/ollama/ollama)
+- [SidharthArya starred apple/pkl](https://github.com/apple/pkl)
+- [SidharthArya starred Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome)
+- [SidharthArya starred mitsuhiko/rye](https://github.com/mitsuhiko/rye)
+- [SidharthArya starred FujiwaraChoki/MoneyPrinter](https://github.com/FujiwaraChoki/MoneyPrinter)
+- [SidharthArya starred allenai/OLMo](https://github.com/allenai/OLMo)
+- [SidharthArya starred mbzuai-oryx/groundingLMM](https://github.com/mbzuai-oryx/groundingLMM)
 - [SidharthArya starred rustformers/llm](https://github.com/rustformers/llm)
-- [SidharthArya pushed to master in SidharthArya/.bspwm](https://github.com/SidharthArya/.bspwm/compare/26c41c992f...733e0c6588)
-- [SidharthArya pushed to master in SidharthArya/.emacs.d](https://github.com/SidharthArya/.emacs.d/compare/8d0dad69ad...bac783d2cf)
-- [SidharthArya starred newren/git-filter-repo](https://github.com/newren/git-filter-repo)
-- [SidharthArya pushed to main in SidharthArya/js5paisa](https://github.com/SidharthArya/js5paisa/compare/4b9579a800...7191dc88de)
-- [SidharthArya starred refinedev/refine](https://github.com/refinedev/refine)
-- [SidharthArya pushed to master in SidharthArya/.bspwm](https://github.com/SidharthArya/.bspwm/compare/a4561cdee8...26c41c992f)
-- [SidharthArya starred paypal/junodb](https://github.com/paypal/junodb)
-- [SidharthArya starred seemoo-lab/openhaystack](https://github.com/seemoo-lab/openhaystack)
-- [SidharthArya created a branch dev in SidharthArya/simple-proxy](https://github.com/SidharthArya/simple-proxy/compare/dev)
 <!-- GITHUB:END -->
 
 ## Top Followers
