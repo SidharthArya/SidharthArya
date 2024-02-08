@@ -87,6 +87,9 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred redpenguinyt/display3d](https://github.com/redpenguinyt/display3d)
+- [SidharthArya starred backstage/backstage](https://github.com/backstage/backstage)
+- [SidharthArya starred mui/mui-x](https://github.com/mui/mui-x)
 - [SidharthArya starred atopile/atopile](https://github.com/atopile/atopile)
 - [SidharthArya starred holoviz/panel](https://github.com/holoviz/panel)
 - [SidharthArya starred ollama/ollama](https://github.com/ollama/ollama)
@@ -94,9 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome)
 - [SidharthArya starred mitsuhiko/rye](https://github.com/mitsuhiko/rye)
 - [SidharthArya starred FujiwaraChoki/MoneyPrinter](https://github.com/FujiwaraChoki/MoneyPrinter)
-- [SidharthArya starred allenai/OLMo](https://github.com/allenai/OLMo)
-- [SidharthArya starred mbzuai-oryx/groundingLMM](https://github.com/mbzuai-oryx/groundingLMM)
-- [SidharthArya starred rustformers/llm](https://github.com/rustformers/llm)
 <!-- GITHUB:END -->
 
 ## Top Followers
