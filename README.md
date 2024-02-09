@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred puppeteer/puppeteer](https://github.com/puppeteer/puppeteer)
+- [SidharthArya starred D4Vinci/Cr3dOv3r](https://github.com/D4Vinci/Cr3dOv3r)
 - [SidharthArya starred aya-rs/aya](https://github.com/aya-rs/aya)
 - [SidharthArya starred Kong/kong](https://github.com/Kong/kong)
 - [SidharthArya starred idaholab/moose](https://github.com/idaholab/moose)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred google/glog](https://github.com/google/glog)
 - [SidharthArya starred lizongying/my-tv](https://github.com/lizongying/my-tv)
 - [SidharthArya starred ashishps1/awesome-behavioral-interviews](https://github.com/ashishps1/awesome-behavioral-interviews)
-- [SidharthArya starred vikhyat/moondream](https://github.com/vikhyat/moondream)
-- [SidharthArya starred sunface/rust-course](https://github.com/sunface/rust-course)
 <!-- GITHUB:END -->
 
 ## Top Followers
