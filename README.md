@@ -87,16 +87,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
-- [SidharthArya starred redpenguinyt/display3d](https://github.com/redpenguinyt/display3d)
-- [SidharthArya starred backstage/backstage](https://github.com/backstage/backstage)
-- [SidharthArya starred mui/mui-x](https://github.com/mui/mui-x)
-- [SidharthArya starred atopile/atopile](https://github.com/atopile/atopile)
-- [SidharthArya starred holoviz/panel](https://github.com/holoviz/panel)
-- [SidharthArya starred ollama/ollama](https://github.com/ollama/ollama)
-- [SidharthArya starred apple/pkl](https://github.com/apple/pkl)
-- [SidharthArya starred Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome)
-- [SidharthArya starred mitsuhiko/rye](https://github.com/mitsuhiko/rye)
-- [SidharthArya starred FujiwaraChoki/MoneyPrinter](https://github.com/FujiwaraChoki/MoneyPrinter)
+- [SidharthArya starred aya-rs/aya](https://github.com/aya-rs/aya)
+- [SidharthArya starred Kong/kong](https://github.com/Kong/kong)
+- [SidharthArya starred idaholab/moose](https://github.com/idaholab/moose)
+- [SidharthArya starred VikParuchuri/marker](https://github.com/VikParuchuri/marker)
+- [SidharthArya starred ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101)
+- [SidharthArya starred google/glog](https://github.com/google/glog)
+- [SidharthArya starred lizongying/my-tv](https://github.com/lizongying/my-tv)
+- [SidharthArya starred ashishps1/awesome-behavioral-interviews](https://github.com/ashishps1/awesome-behavioral-interviews)
+- [SidharthArya starred vikhyat/moondream](https://github.com/vikhyat/moondream)
+- [SidharthArya starred sunface/rust-course](https://github.com/sunface/rust-course)
 <!-- GITHUB:END -->
 
 ## Top Followers
