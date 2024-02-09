@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred geopandas/geopandas](https://github.com/geopandas/geopandas)
 - [SidharthArya starred puppeteer/puppeteer](https://github.com/puppeteer/puppeteer)
 - [SidharthArya starred D4Vinci/Cr3dOv3r](https://github.com/D4Vinci/Cr3dOv3r)
 - [SidharthArya starred aya-rs/aya](https://github.com/aya-rs/aya)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101)
 - [SidharthArya starred google/glog](https://github.com/google/glog)
 - [SidharthArya starred lizongying/my-tv](https://github.com/lizongying/my-tv)
-- [SidharthArya starred ashishps1/awesome-behavioral-interviews](https://github.com/ashishps1/awesome-behavioral-interviews)
 <!-- GITHUB:END -->
 
 ## Top Followers
