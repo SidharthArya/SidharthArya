@@ -1515,6 +1515,8 @@
 
 ## Python 
 
+- [pallets/click](https://github.com/pallets/click) - Python composable command line interface toolkit
+- [geopandas/geopandas](https://github.com/geopandas/geopandas) - Python tools for geographic data
 - [D4Vinci/Cr3dOv3r](https://github.com/D4Vinci/Cr3dOv3r) - Know the dangers of credential reuse attacks.
 - [VikParuchuri/marker](https://github.com/VikParuchuri/marker) - Convert PDF to markdown quickly with high accuracy
 - [vikhyat/moondream](https://github.com/vikhyat/moondream) - tiny vision language model
