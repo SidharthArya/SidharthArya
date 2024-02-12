@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred falconry/falcon](https://github.com/falconry/falcon)
 - [SidharthArya starred seatgeek/thefuzz](https://github.com/seatgeek/thefuzz)
 - [SidharthArya starred triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev)
 - [SidharthArya starred pallets/click](https://github.com/pallets/click)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred aya-rs/aya](https://github.com/aya-rs/aya)
 - [SidharthArya starred Kong/kong](https://github.com/Kong/kong)
 - [SidharthArya starred idaholab/moose](https://github.com/idaholab/moose)
-- [SidharthArya starred VikParuchuri/marker](https://github.com/VikParuchuri/marker)
 <!-- GITHUB:END -->
 
 ## Top Followers
