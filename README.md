@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev)
 - [SidharthArya starred pallets/click](https://github.com/pallets/click)
 - [SidharthArya starred geopandas/geopandas](https://github.com/geopandas/geopandas)
 - [SidharthArya starred puppeteer/puppeteer](https://github.com/puppeteer/puppeteer)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred idaholab/moose](https://github.com/idaholab/moose)
 - [SidharthArya starred VikParuchuri/marker](https://github.com/VikParuchuri/marker)
 - [SidharthArya starred ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101)
-- [SidharthArya starred google/glog](https://github.com/google/glog)
 <!-- GITHUB:END -->
 
 ## Top Followers
