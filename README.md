@@ -87,6 +87,9 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred bazelbuild/buildtools](https://github.com/bazelbuild/buildtools)
+- [SidharthArya starred bazelbuild/bazelisk](https://github.com/bazelbuild/bazelisk)
+- [SidharthArya starred korfuri/awesome-monorepo](https://github.com/korfuri/awesome-monorepo)
 - [SidharthArya starred falconry/falcon](https://github.com/falconry/falcon)
 - [SidharthArya starred seatgeek/thefuzz](https://github.com/seatgeek/thefuzz)
 - [SidharthArya starred triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev)
@@ -94,9 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred geopandas/geopandas](https://github.com/geopandas/geopandas)
 - [SidharthArya starred puppeteer/puppeteer](https://github.com/puppeteer/puppeteer)
 - [SidharthArya starred D4Vinci/Cr3dOv3r](https://github.com/D4Vinci/Cr3dOv3r)
-- [SidharthArya starred aya-rs/aya](https://github.com/aya-rs/aya)
-- [SidharthArya starred Kong/kong](https://github.com/Kong/kong)
-- [SidharthArya starred idaholab/moose](https://github.com/idaholab/moose)
 <!-- GITHUB:END -->
 
 ## Top Followers
