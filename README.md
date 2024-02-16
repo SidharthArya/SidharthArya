@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred GoogleChrome/chrome-extensions-samples](https://github.com/GoogleChrome/chrome-extensions-samples)
+- [SidharthArya starred chromium/chromium](https://github.com/chromium/chromium)
 - [SidharthArya starred redis/redis](https://github.com/redis/redis)
 - [SidharthArya starred shoelace-style/shoelace](https://github.com/shoelace-style/shoelace)
 - [SidharthArya starred bazelbuild/buildtools](https://github.com/bazelbuild/buildtools)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred falconry/falcon](https://github.com/falconry/falcon)
 - [SidharthArya starred seatgeek/thefuzz](https://github.com/seatgeek/thefuzz)
 - [SidharthArya starred triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev)
-- [SidharthArya starred pallets/click](https://github.com/pallets/click)
-- [SidharthArya starred geopandas/geopandas](https://github.com/geopandas/geopandas)
 <!-- GITHUB:END -->
 
 ## Top Followers
