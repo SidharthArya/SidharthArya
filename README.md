@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred redis/redis](https://github.com/redis/redis)
 - [SidharthArya starred shoelace-style/shoelace](https://github.com/shoelace-style/shoelace)
 - [SidharthArya starred bazelbuild/buildtools](https://github.com/bazelbuild/buildtools)
 - [SidharthArya starred bazelbuild/bazelisk](https://github.com/bazelbuild/bazelisk)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev)
 - [SidharthArya starred pallets/click](https://github.com/pallets/click)
 - [SidharthArya starred geopandas/geopandas](https://github.com/geopandas/geopandas)
-- [SidharthArya starred puppeteer/puppeteer](https://github.com/puppeteer/puppeteer)
 <!-- GITHUB:END -->
 
 ## Top Followers
