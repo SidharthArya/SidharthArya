@@ -87,16 +87,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA)
+- [SidharthArya starred phidatahq/phidata](https://github.com/phidatahq/phidata)
+- [SidharthArya starred TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt)
+- [SidharthArya starred apple/ml-mgie](https://github.com/apple/ml-mgie)
+- [SidharthArya starred joaomdmoura/crewAI](https://github.com/joaomdmoura/crewAI)
+- [SidharthArya starred metavoiceio/metavoice-src](https://github.com/metavoiceio/metavoice-src)
+- [SidharthArya forked SidharthArya/chromium from chromium/chromium](https://github.com/SidharthArya/chromium)
 - [SidharthArya starred GoogleChrome/chrome-extensions-samples](https://github.com/GoogleChrome/chrome-extensions-samples)
 - [SidharthArya starred chromium/chromium](https://github.com/chromium/chromium)
 - [SidharthArya starred redis/redis](https://github.com/redis/redis)
-- [SidharthArya starred shoelace-style/shoelace](https://github.com/shoelace-style/shoelace)
-- [SidharthArya starred bazelbuild/buildtools](https://github.com/bazelbuild/buildtools)
-- [SidharthArya starred bazelbuild/bazelisk](https://github.com/bazelbuild/bazelisk)
-- [SidharthArya starred korfuri/awesome-monorepo](https://github.com/korfuri/awesome-monorepo)
-- [SidharthArya starred falconry/falcon](https://github.com/falconry/falcon)
-- [SidharthArya starred seatgeek/thefuzz](https://github.com/seatgeek/thefuzz)
-- [SidharthArya starred triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev)
 <!-- GITHUB:END -->
 
 ## Top Followers
