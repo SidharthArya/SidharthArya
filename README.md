@@ -87,6 +87,9 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred stas00/ml-engineering](https://github.com/stas00/ml-engineering)
+- [SidharthArya starred BCG-X-Official/agentkit](https://github.com/BCG-X-Official/agentkit)
+- [SidharthArya starred gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
 - [SidharthArya starred git/git](https://github.com/git/git)
 - [SidharthArya starred haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA)
 - [SidharthArya starred phidatahq/phidata](https://github.com/phidatahq/phidata)
@@ -94,9 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred apple/ml-mgie](https://github.com/apple/ml-mgie)
 - [SidharthArya starred joaomdmoura/crewAI](https://github.com/joaomdmoura/crewAI)
 - [SidharthArya starred metavoiceio/metavoice-src](https://github.com/metavoiceio/metavoice-src)
-- [SidharthArya forked SidharthArya/chromium from chromium/chromium](https://github.com/SidharthArya/chromium)
-- [SidharthArya starred GoogleChrome/chrome-extensions-samples](https://github.com/GoogleChrome/chrome-extensions-samples)
-- [SidharthArya starred chromium/chromium](https://github.com/chromium/chromium)
 <!-- GITHUB:END -->
 
 ## Top Followers
