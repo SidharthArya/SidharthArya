@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred git/git](https://github.com/git/git)
 - [SidharthArya starred haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA)
 - [SidharthArya starred phidatahq/phidata](https://github.com/phidatahq/phidata)
 - [SidharthArya starred TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya forked SidharthArya/chromium from chromium/chromium](https://github.com/SidharthArya/chromium)
 - [SidharthArya starred GoogleChrome/chrome-extensions-samples](https://github.com/GoogleChrome/chrome-extensions-samples)
 - [SidharthArya starred chromium/chromium](https://github.com/chromium/chromium)
-- [SidharthArya starred redis/redis](https://github.com/redis/redis)
 <!-- GITHUB:END -->
 
 ## Top Followers
