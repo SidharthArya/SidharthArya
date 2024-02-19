@@ -905,6 +905,8 @@
 
 ## JavaScript 
 
+- [JannisX11/blockbench](https://github.com/JannisX11/blockbench) - Blockbench - A low poly 3D model editor
+- [platformatic/platformatic](https://github.com/platformatic/platformatic) - Platformatic Open Source monorepo!
 - [GoogleChrome/chrome-extensions-samples](https://github.com/GoogleChrome/chrome-extensions-samples) - Chrome Extensions Samples
 - [niespodd/browser-fingerprinting](https://github.com/niespodd/browser-fingerprinting) - Analysis of Bot Protection systems with available countermeasures 🚿. How to defeat anti-bot system 👻 and get around browser fingerprinting scripts 🕵️‍♂️ when scraping the web?
 - [berstend/puppeteer-extra](https://github.com/berstend/puppeteer-extra) - 💯  Teach puppeteer new tricks through plugins.
@@ -1476,7 +1478,7 @@
 - [awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of HQ open datasets.
 - [nashory/gans-awesome-applications](https://github.com/nashory/gans-awesome-applications) - Curated list of awesome GAN applications and demo
 - [redguardtoo/mastering-emacs-in-one-year-guide](https://github.com/redguardtoo/mastering-emacs-in-one-year-guide) - Be great at emacs in one year
-- [servo/servo](https://github.com/servo/servo) - The Servo Browser Engine
+- [servo/servo](https://github.com/servo/servo) - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
 - [ysh329/deep-learning-model-convertor](https://github.com/ysh329/deep-learning-model-convertor) - The convertor/conversion of deep learning models for different deep learning frameworks/softwares.
 - [noctuid/evil-guide](https://github.com/noctuid/evil-guide) - Draft of a guide for using emacs with evil
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
@@ -1519,6 +1521,8 @@
 
 ## Python 
 
+- [NVIDIA/GenerativeAIExamples](https://github.com/NVIDIA/GenerativeAIExamples) - Generative AI reference workflows optimized for accelerated infrastructure and microservice architecture.
+- [dbt-labs/dbt-core](https://github.com/dbt-labs/dbt-core) - dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.
 - [stas00/ml-engineering](https://github.com/stas00/ml-engineering) - Machine Learning Engineering Open Book
 - [haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA) - [NeurIPS'23 Oral] Visual Instruction Tuning (LLaVA) built towards GPT-4V level capabilities and beyond.
 - [phidatahq/phidata](https://github.com/phidatahq/phidata) - Build AI Assistants using function calling
@@ -2349,6 +2353,7 @@
 
 ## TypeScript 
 
+- [bluesky-social/atproto](https://github.com/bluesky-social/atproto) - Social networking technology created by Bluesky
 - [BCG-X-Official/agentkit](https://github.com/BCG-X-Official/agentkit) - Starter-kit to build constrained agents with Nextjs, FastAPI and Langchain
 - [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 - [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. Works with all frameworks as well as regular HTML/CSS/JS. 🥾
