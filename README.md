@@ -87,6 +87,9 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred serverless/serverless](https://github.com/serverless/serverless)
+- [SidharthArya starred cloudcommunity/Cloud-Free-Tier-Comparison](https://github.com/cloudcommunity/Cloud-Free-Tier-Comparison)
+- [SidharthArya starred postalserver/postal](https://github.com/postalserver/postal)
 - [SidharthArya starred google-deepmind/graphcast](https://github.com/google-deepmind/graphcast)
 - [SidharthArya starred google/mediapipe](https://github.com/google/mediapipe)
 - [SidharthArya starred Lissy93/dashy](https://github.com/Lissy93/dashy)
@@ -94,9 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred bluesky-social/atproto](https://github.com/bluesky-social/atproto)
 - [SidharthArya starred dbt-labs/dbt-core](https://github.com/dbt-labs/dbt-core)
 - [SidharthArya starred JannisX11/blockbench](https://github.com/JannisX11/blockbench)
-- [SidharthArya starred platformatic/platformatic](https://github.com/platformatic/platformatic)
-- [SidharthArya starred stas00/ml-engineering](https://github.com/stas00/ml-engineering)
-- [SidharthArya starred BCG-X-Official/agentkit](https://github.com/BCG-X-Official/agentkit)
 <!-- GITHUB:END -->
 
 ## Top Followers
