@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred google/mediapipe](https://github.com/google/mediapipe)
+- [SidharthArya starred Lissy93/dashy](https://github.com/Lissy93/dashy)
 - [SidharthArya starred NVIDIA/GenerativeAIExamples](https://github.com/NVIDIA/GenerativeAIExamples)
 - [SidharthArya starred bluesky-social/atproto](https://github.com/bluesky-social/atproto)
 - [SidharthArya starred dbt-labs/dbt-core](https://github.com/dbt-labs/dbt-core)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred stas00/ml-engineering](https://github.com/stas00/ml-engineering)
 - [SidharthArya starred BCG-X-Official/agentkit](https://github.com/BCG-X-Official/agentkit)
 - [SidharthArya starred gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-- [SidharthArya starred git/git](https://github.com/git/git)
-- [SidharthArya starred haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA)
 <!-- GITHUB:END -->
 
 ## Top Followers
