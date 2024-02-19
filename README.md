@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred google-deepmind/graphcast](https://github.com/google-deepmind/graphcast)
 - [SidharthArya starred google/mediapipe](https://github.com/google/mediapipe)
 - [SidharthArya starred Lissy93/dashy](https://github.com/Lissy93/dashy)
 - [SidharthArya starred NVIDIA/GenerativeAIExamples](https://github.com/NVIDIA/GenerativeAIExamples)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred platformatic/platformatic](https://github.com/platformatic/platformatic)
 - [SidharthArya starred stas00/ml-engineering](https://github.com/stas00/ml-engineering)
 - [SidharthArya starred BCG-X-Official/agentkit](https://github.com/BCG-X-Official/agentkit)
-- [SidharthArya starred gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
 <!-- GITHUB:END -->
 
 ## Top Followers
