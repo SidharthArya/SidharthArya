@@ -87,6 +87,9 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya forked SidharthArya/gemma_pytorch from google/gemma_pytorch](https://github.com/SidharthArya/gemma_pytorch)
+- [SidharthArya starred google/gemma.cpp](https://github.com/google/gemma.cpp)
+- [SidharthArya starred google/gemma_pytorch](https://github.com/google/gemma_pytorch)
 - [SidharthArya starred serverless/serverless](https://github.com/serverless/serverless)
 - [SidharthArya starred cloudcommunity/Cloud-Free-Tier-Comparison](https://github.com/cloudcommunity/Cloud-Free-Tier-Comparison)
 - [SidharthArya starred postalserver/postal](https://github.com/postalserver/postal)
@@ -94,9 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred google/mediapipe](https://github.com/google/mediapipe)
 - [SidharthArya starred Lissy93/dashy](https://github.com/Lissy93/dashy)
 - [SidharthArya starred NVIDIA/GenerativeAIExamples](https://github.com/NVIDIA/GenerativeAIExamples)
-- [SidharthArya starred bluesky-social/atproto](https://github.com/bluesky-social/atproto)
-- [SidharthArya starred dbt-labs/dbt-core](https://github.com/dbt-labs/dbt-core)
-- [SidharthArya starred JannisX11/blockbench](https://github.com/JannisX11/blockbench)
 <!-- GITHUB:END -->
 
 ## Top Followers
