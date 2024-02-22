@@ -87,16 +87,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred charlax/professional-programming](https://github.com/charlax/professional-programming)
+- [SidharthArya starred chatchat-space/Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat)
+- [SidharthArya starred 1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel)
+- [SidharthArya starred huginn/huginn](https://github.com/huginn/huginn)
+- [SidharthArya starred IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS)
 - [SidharthArya starred usememos/memos](https://github.com/usememos/memos)
 - [SidharthArya starred immich-app/immich](https://github.com/immich-app/immich)
 - [SidharthArya starred gogs/gogs](https://github.com/gogs/gogs)
 - [SidharthArya starred websockets/ws](https://github.com/websockets/ws)
 - [SidharthArya starred Unitech/pm2](https://github.com/Unitech/pm2)
-- [SidharthArya starred n8n-io/n8n](https://github.com/n8n-io/n8n)
-- [SidharthArya starred coqui-ai/TTS](https://github.com/coqui-ai/TTS)
-- [SidharthArya starred xtekky/gpt4free](https://github.com/xtekky/gpt4free)
-- [SidharthArya starred QuivrHQ/quivr](https://github.com/QuivrHQ/quivr)
-- [SidharthArya starred tw93/Pake](https://github.com/tw93/Pake)
 <!-- GITHUB:END -->
 
 ## Top Followers
