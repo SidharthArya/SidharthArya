@@ -87,16 +87,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred xtekky/gpt4free](https://github.com/xtekky/gpt4free)
+- [SidharthArya starred QuivrHQ/quivr](https://github.com/QuivrHQ/quivr)
+- [SidharthArya starred tw93/Pake](https://github.com/tw93/Pake)
+- [SidharthArya starred lobehub/lobe-chat](https://github.com/lobehub/lobe-chat)
+- [SidharthArya starred superagent-ai/super-rag](https://github.com/superagent-ai/super-rag)
 - [SidharthArya forked SidharthArya/gemma_pytorch from google/gemma_pytorch](https://github.com/SidharthArya/gemma_pytorch)
 - [SidharthArya starred google/gemma.cpp](https://github.com/google/gemma.cpp)
 - [SidharthArya starred google/gemma_pytorch](https://github.com/google/gemma_pytorch)
 - [SidharthArya starred serverless/serverless](https://github.com/serverless/serverless)
 - [SidharthArya starred cloudcommunity/Cloud-Free-Tier-Comparison](https://github.com/cloudcommunity/Cloud-Free-Tier-Comparison)
-- [SidharthArya starred postalserver/postal](https://github.com/postalserver/postal)
-- [SidharthArya starred google-deepmind/graphcast](https://github.com/google-deepmind/graphcast)
-- [SidharthArya starred google/mediapipe](https://github.com/google/mediapipe)
-- [SidharthArya starred Lissy93/dashy](https://github.com/Lissy93/dashy)
-- [SidharthArya starred NVIDIA/GenerativeAIExamples](https://github.com/NVIDIA/GenerativeAIExamples)
 <!-- GITHUB:END -->
 
 ## Top Followers
