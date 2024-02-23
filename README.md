@@ -87,16 +87,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp)
+- [SidharthArya starred levihsu/OOTDiffusion](https://github.com/levihsu/OOTDiffusion)
+- [SidharthArya starred InstantID/InstantID](https://github.com/InstantID/InstantID)
+- [SidharthArya starred NVIDIA/TensorRT](https://github.com/NVIDIA/TensorRT)
+- [SidharthArya starred dunwu/linux-tutorial](https://github.com/dunwu/linux-tutorial)
+- [SidharthArya starred google/space](https://github.com/google/space)
+- [SidharthArya starred electron/forge](https://github.com/electron/forge)
 - [SidharthArya pushed to master in SidharthArya/.zathura](https://github.com/SidharthArya/.zathura/compare/b597b1537a...b75b8bec02)
 - [SidharthArya created a branch master in SidharthArya/.zathura](https://github.com/SidharthArya/.zathura/compare/master)
 - [SidharthArya created a repository SidharthArya/.zathura](https://github.com/SidharthArya/.zathura//)
-- [SidharthArya forked SidharthArya/TTS-papers from coqui-ai/TTS-papers](https://github.com/SidharthArya/TTS-papers)
-- [SidharthArya starred coqui-ai/TTS-papers](https://github.com/coqui-ai/TTS-papers)
-- [SidharthArya starred google-research/seanet](https://github.com/google-research/seanet)
-- [SidharthArya starred tensorflow/mesh](https://github.com/tensorflow/mesh)
-- [SidharthArya starred google-research/t5x](https://github.com/google-research/t5x)
-- [SidharthArya starred charlax/professional-programming](https://github.com/charlax/professional-programming)
-- [SidharthArya starred chatchat-space/Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat)
 <!-- GITHUB:END -->
 
 ## Top Followers
