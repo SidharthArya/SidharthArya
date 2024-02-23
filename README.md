@@ -87,16 +87,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya created a repository SidharthArya/.zathura](https://github.com/SidharthArya/.zathura//)
+- [SidharthArya forked SidharthArya/TTS-papers from coqui-ai/TTS-papers](https://github.com/SidharthArya/TTS-papers)
+- [SidharthArya starred coqui-ai/TTS-papers](https://github.com/coqui-ai/TTS-papers)
+- [SidharthArya starred google-research/seanet](https://github.com/google-research/seanet)
+- [SidharthArya starred tensorflow/mesh](https://github.com/tensorflow/mesh)
+- [SidharthArya starred google-research/t5x](https://github.com/google-research/t5x)
 - [SidharthArya starred charlax/professional-programming](https://github.com/charlax/professional-programming)
 - [SidharthArya starred chatchat-space/Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat)
 - [SidharthArya starred 1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel)
 - [SidharthArya starred huginn/huginn](https://github.com/huginn/huginn)
-- [SidharthArya starred IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS)
-- [SidharthArya starred usememos/memos](https://github.com/usememos/memos)
-- [SidharthArya starred immich-app/immich](https://github.com/immich-app/immich)
-- [SidharthArya starred gogs/gogs](https://github.com/gogs/gogs)
-- [SidharthArya starred websockets/ws](https://github.com/websockets/ws)
-- [SidharthArya starred Unitech/pm2](https://github.com/Unitech/pm2)
 <!-- GITHUB:END -->
 
 ## Top Followers
