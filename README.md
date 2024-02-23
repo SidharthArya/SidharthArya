@@ -87,16 +87,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred MineDojo/MineDojo](https://github.com/MineDojo/MineDojo)
+- [SidharthArya starred vimalabs/VIMA](https://github.com/vimalabs/VIMA)
+- [SidharthArya starred MineDojo/Voyager](https://github.com/MineDojo/Voyager)
+- [SidharthArya starred eureka-research/Eureka](https://github.com/eureka-research/Eureka)
 - [SidharthArya starred systemdesign42/system-design](https://github.com/systemdesign42/system-design)
 - [SidharthArya starred hiddify/hiddify-next](https://github.com/hiddify/hiddify-next)
 - [SidharthArya starred ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp)
 - [SidharthArya starred levihsu/OOTDiffusion](https://github.com/levihsu/OOTDiffusion)
 - [SidharthArya starred InstantID/InstantID](https://github.com/InstantID/InstantID)
 - [SidharthArya starred NVIDIA/TensorRT](https://github.com/NVIDIA/TensorRT)
-- [SidharthArya starred dunwu/linux-tutorial](https://github.com/dunwu/linux-tutorial)
-- [SidharthArya starred google/space](https://github.com/google/space)
-- [SidharthArya starred electron/forge](https://github.com/electron/forge)
-- [SidharthArya pushed to master in SidharthArya/.zathura](https://github.com/SidharthArya/.zathura/compare/b597b1537a...b75b8bec02)
 <!-- GITHUB:END -->
 
 ## Top Followers
