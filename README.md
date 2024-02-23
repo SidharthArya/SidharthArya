@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to master in SidharthArya/.zathura](https://github.com/SidharthArya/.zathura/compare/b597b1537a...b75b8bec02)
+- [SidharthArya created a branch master in SidharthArya/.zathura](https://github.com/SidharthArya/.zathura/compare/master)
 - [SidharthArya created a repository SidharthArya/.zathura](https://github.com/SidharthArya/.zathura//)
 - [SidharthArya forked SidharthArya/TTS-papers from coqui-ai/TTS-papers](https://github.com/SidharthArya/TTS-papers)
 - [SidharthArya starred coqui-ai/TTS-papers](https://github.com/coqui-ai/TTS-papers)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred google-research/t5x](https://github.com/google-research/t5x)
 - [SidharthArya starred charlax/professional-programming](https://github.com/charlax/professional-programming)
 - [SidharthArya starred chatchat-space/Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat)
-- [SidharthArya starred 1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel)
-- [SidharthArya starred huginn/huginn](https://github.com/huginn/huginn)
 <!-- GITHUB:END -->
 
 ## Top Followers
