@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred systemdesign42/system-design](https://github.com/systemdesign42/system-design)
+- [SidharthArya starred hiddify/hiddify-next](https://github.com/hiddify/hiddify-next)
 - [SidharthArya starred ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp)
 - [SidharthArya starred levihsu/OOTDiffusion](https://github.com/levihsu/OOTDiffusion)
 - [SidharthArya starred InstantID/InstantID](https://github.com/InstantID/InstantID)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred google/space](https://github.com/google/space)
 - [SidharthArya starred electron/forge](https://github.com/electron/forge)
 - [SidharthArya pushed to master in SidharthArya/.zathura](https://github.com/SidharthArya/.zathura/compare/b597b1537a...b75b8bec02)
-- [SidharthArya created a branch master in SidharthArya/.zathura](https://github.com/SidharthArya/.zathura/compare/master)
-- [SidharthArya created a repository SidharthArya/.zathura](https://github.com/SidharthArya/.zathura//)
 <!-- GITHUB:END -->
 
 ## Top Followers
