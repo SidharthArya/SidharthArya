@@ -87,6 +87,9 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to main in SidharthArya/.zsh](https://github.com/SidharthArya/.zsh/compare/682e9db0df...c1006955ea)
+- [SidharthArya pushed to master in SidharthArya/.nnn](https://github.com/SidharthArya/.nnn/compare/c147e5678f...176a765b3e)
+- [SidharthArya pushed to master in SidharthArya/.bspwm](https://github.com/SidharthArya/.bspwm/compare/733e0c6588...deaf55d22e)
 - [SidharthArya starred MineDojo/MineDojo](https://github.com/MineDojo/MineDojo)
 - [SidharthArya starred vimalabs/VIMA](https://github.com/vimalabs/VIMA)
 - [SidharthArya starred MineDojo/Voyager](https://github.com/MineDojo/Voyager)
@@ -94,9 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred systemdesign42/system-design](https://github.com/systemdesign42/system-design)
 - [SidharthArya starred hiddify/hiddify-next](https://github.com/hiddify/hiddify-next)
 - [SidharthArya starred ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp)
-- [SidharthArya starred levihsu/OOTDiffusion](https://github.com/levihsu/OOTDiffusion)
-- [SidharthArya starred InstantID/InstantID](https://github.com/InstantID/InstantID)
-- [SidharthArya starred NVIDIA/TensorRT](https://github.com/NVIDIA/TensorRT)
 <!-- GITHUB:END -->
 
 ## Top Followers
