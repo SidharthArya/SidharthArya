@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya forked SidharthArya/siyuan from siyuan-note/siyuan](https://github.com/SidharthArya/siyuan)
+- [SidharthArya starred siyuan-note/siyuan](https://github.com/siyuan-note/siyuan)
 - [SidharthArya starred ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources)
 - [SidharthArya starred angular/components](https://github.com/angular/components)
 - [SidharthArya starred massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred tigerbeetle/tigerbeetle](https://github.com/tigerbeetle/tigerbeetle)
 - [SidharthArya starred WongKinYiu/yolov9](https://github.com/WongKinYiu/yolov9)
 - [SidharthArya starred KaimingHe/deep-residual-networks](https://github.com/KaimingHe/deep-residual-networks)
-- [SidharthArya forked SidharthArya/notesGPT from Nutlope/notesGPT](https://github.com/SidharthArya/notesGPT)
-- [SidharthArya starred Nutlope/notesGPT](https://github.com/Nutlope/notesGPT)
 <!-- GITHUB:END -->
 
 ## Top Followers
