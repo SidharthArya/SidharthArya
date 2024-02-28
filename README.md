@@ -87,16 +87,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources)
+- [SidharthArya starred angular/components](https://github.com/angular/components)
+- [SidharthArya starred massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts)
+- [SidharthArya starred MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui)
+- [SidharthArya starred FuelLabs/fuel-core](https://github.com/FuelLabs/fuel-core)
+- [SidharthArya starred tigerbeetle/tigerbeetle](https://github.com/tigerbeetle/tigerbeetle)
+- [SidharthArya starred WongKinYiu/yolov9](https://github.com/WongKinYiu/yolov9)
 - [SidharthArya starred KaimingHe/deep-residual-networks](https://github.com/KaimingHe/deep-residual-networks)
 - [SidharthArya forked SidharthArya/notesGPT from Nutlope/notesGPT](https://github.com/SidharthArya/notesGPT)
 - [SidharthArya starred Nutlope/notesGPT](https://github.com/Nutlope/notesGPT)
-- [SidharthArya starred joaomdmoura/crewAI-examples](https://github.com/joaomdmoura/crewAI-examples)
-- [SidharthArya starred npiv/chatblade](https://github.com/npiv/chatblade)
-- [SidharthArya pushed to main in SidharthArya/.zsh](https://github.com/SidharthArya/.zsh/compare/682e9db0df...c1006955ea)
-- [SidharthArya pushed to master in SidharthArya/.nnn](https://github.com/SidharthArya/.nnn/compare/c147e5678f...176a765b3e)
-- [SidharthArya pushed to master in SidharthArya/.bspwm](https://github.com/SidharthArya/.bspwm/compare/733e0c6588...deaf55d22e)
-- [SidharthArya starred MineDojo/MineDojo](https://github.com/MineDojo/MineDojo)
-- [SidharthArya starred vimalabs/VIMA](https://github.com/vimalabs/VIMA)
 <!-- GITHUB:END -->
 
 ## Top Followers
