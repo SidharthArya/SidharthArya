@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred KaimingHe/deep-residual-networks](https://github.com/KaimingHe/deep-residual-networks)
 - [SidharthArya forked SidharthArya/notesGPT from Nutlope/notesGPT](https://github.com/SidharthArya/notesGPT)
 - [SidharthArya starred Nutlope/notesGPT](https://github.com/Nutlope/notesGPT)
 - [SidharthArya starred joaomdmoura/crewAI-examples](https://github.com/joaomdmoura/crewAI-examples)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/.bspwm](https://github.com/SidharthArya/.bspwm/compare/733e0c6588...deaf55d22e)
 - [SidharthArya starred MineDojo/MineDojo](https://github.com/MineDojo/MineDojo)
 - [SidharthArya starred vimalabs/VIMA](https://github.com/vimalabs/VIMA)
-- [SidharthArya starred MineDojo/Voyager](https://github.com/MineDojo/Voyager)
 <!-- GITHUB:END -->
 
 ## Top Followers
