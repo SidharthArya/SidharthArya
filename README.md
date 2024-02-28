@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred npiv/chatblade](https://github.com/npiv/chatblade)
 - [SidharthArya pushed to main in SidharthArya/.zsh](https://github.com/SidharthArya/.zsh/compare/682e9db0df...c1006955ea)
 - [SidharthArya pushed to master in SidharthArya/.nnn](https://github.com/SidharthArya/.nnn/compare/c147e5678f...176a765b3e)
 - [SidharthArya pushed to master in SidharthArya/.bspwm](https://github.com/SidharthArya/.bspwm/compare/733e0c6588...deaf55d22e)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred eureka-research/Eureka](https://github.com/eureka-research/Eureka)
 - [SidharthArya starred systemdesign42/system-design](https://github.com/systemdesign42/system-design)
 - [SidharthArya starred hiddify/hiddify-next](https://github.com/hiddify/hiddify-next)
-- [SidharthArya starred ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp)
 <!-- GITHUB:END -->
 
 ## Top Followers
