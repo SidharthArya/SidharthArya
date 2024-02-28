@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya forked SidharthArya/notesGPT from Nutlope/notesGPT](https://github.com/SidharthArya/notesGPT)
+- [SidharthArya starred Nutlope/notesGPT](https://github.com/Nutlope/notesGPT)
 - [SidharthArya starred joaomdmoura/crewAI-examples](https://github.com/joaomdmoura/crewAI-examples)
 - [SidharthArya starred npiv/chatblade](https://github.com/npiv/chatblade)
 - [SidharthArya pushed to main in SidharthArya/.zsh](https://github.com/SidharthArya/.zsh/compare/682e9db0df...c1006955ea)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred MineDojo/MineDojo](https://github.com/MineDojo/MineDojo)
 - [SidharthArya starred vimalabs/VIMA](https://github.com/vimalabs/VIMA)
 - [SidharthArya starred MineDojo/Voyager](https://github.com/MineDojo/Voyager)
-- [SidharthArya starred eureka-research/Eureka](https://github.com/eureka-research/Eureka)
-- [SidharthArya starred systemdesign42/system-design](https://github.com/systemdesign42/system-design)
 <!-- GITHUB:END -->
 
 ## Top Followers
