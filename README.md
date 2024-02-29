@@ -87,16 +87,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred Avaiga/taipy](https://github.com/Avaiga/taipy)
+- [SidharthArya starred polyfillpolyfill/polyfill-service](https://github.com/polyfillpolyfill/polyfill-service)
+- [SidharthArya starred dockur/windows](https://github.com/dockur/windows)
+- [SidharthArya starred Netflix/bpftop](https://github.com/Netflix/bpftop)
+- [SidharthArya starred Lissy93/web-check](https://github.com/Lissy93/web-check)
 - [SidharthArya starred notable/notable](https://github.com/notable/notable)
 - [SidharthArya starred requarks/wiki](https://github.com/requarks/wiki)
 - [SidharthArya starred docsifyjs/docsify](https://github.com/docsifyjs/docsify)
 - [SidharthArya starred GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily)
 - [SidharthArya forked SidharthArya/siyuan from siyuan-note/siyuan](https://github.com/SidharthArya/siyuan)
-- [SidharthArya starred siyuan-note/siyuan](https://github.com/siyuan-note/siyuan)
-- [SidharthArya starred ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources)
-- [SidharthArya starred angular/components](https://github.com/angular/components)
-- [SidharthArya starred massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts)
-- [SidharthArya starred MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui)
 <!-- GITHUB:END -->
 
 ## Top Followers
