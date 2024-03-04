@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred nodejs/undici](https://github.com/nodejs/undici)
+- [SidharthArya starred hpjansson/chafa](https://github.com/hpjansson/chafa)
 - [SidharthArya starred Avaiga/taipy](https://github.com/Avaiga/taipy)
 - [SidharthArya starred polyfillpolyfill/polyfill-service](https://github.com/polyfillpolyfill/polyfill-service)
 - [SidharthArya starred dockur/windows](https://github.com/dockur/windows)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred notable/notable](https://github.com/notable/notable)
 - [SidharthArya starred requarks/wiki](https://github.com/requarks/wiki)
 - [SidharthArya starred docsifyjs/docsify](https://github.com/docsifyjs/docsify)
-- [SidharthArya starred GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily)
-- [SidharthArya forked SidharthArya/siyuan from siyuan-note/siyuan](https://github.com/SidharthArya/siyuan)
 <!-- GITHUB:END -->
 
 ## Top Followers
