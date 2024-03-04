@@ -87,16 +87,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred taikoxyz/taiko-mono](https://github.com/taikoxyz/taiko-mono)
+- [SidharthArya starred HumanAIGC/EMO](https://github.com/HumanAIGC/EMO)
+- [SidharthArya starred HumanAIGC/AnimateAnyone](https://github.com/HumanAIGC/AnimateAnyone)
+- [SidharthArya starred myshell-ai/MeloTTS](https://github.com/myshell-ai/MeloTTS)
+- [SidharthArya pushed to main in SidharthArya/.zsh](https://github.com/SidharthArya/.zsh/compare/c1006955ea...ff2e2fecc8)
 - [SidharthArya starred nodejs/undici](https://github.com/nodejs/undici)
 - [SidharthArya starred hpjansson/chafa](https://github.com/hpjansson/chafa)
 - [SidharthArya starred Avaiga/taipy](https://github.com/Avaiga/taipy)
 - [SidharthArya starred polyfillpolyfill/polyfill-service](https://github.com/polyfillpolyfill/polyfill-service)
 - [SidharthArya starred dockur/windows](https://github.com/dockur/windows)
-- [SidharthArya starred Netflix/bpftop](https://github.com/Netflix/bpftop)
-- [SidharthArya starred Lissy93/web-check](https://github.com/Lissy93/web-check)
-- [SidharthArya starred notable/notable](https://github.com/notable/notable)
-- [SidharthArya starred requarks/wiki](https://github.com/requarks/wiki)
-- [SidharthArya starred docsifyjs/docsify](https://github.com/docsifyjs/docsify)
 <!-- GITHUB:END -->
 
 ## Top Followers
