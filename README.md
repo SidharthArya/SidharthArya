@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred benweet/stackedit](https://github.com/benweet/stackedit)
 - [SidharthArya starred taikoxyz/taiko-mono](https://github.com/taikoxyz/taiko-mono)
 - [SidharthArya starred HumanAIGC/EMO](https://github.com/HumanAIGC/EMO)
 - [SidharthArya starred HumanAIGC/AnimateAnyone](https://github.com/HumanAIGC/AnimateAnyone)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred hpjansson/chafa](https://github.com/hpjansson/chafa)
 - [SidharthArya starred Avaiga/taipy](https://github.com/Avaiga/taipy)
 - [SidharthArya starred polyfillpolyfill/polyfill-service](https://github.com/polyfillpolyfill/polyfill-service)
-- [SidharthArya starred dockur/windows](https://github.com/dockur/windows)
 <!-- GITHUB:END -->
 
 ## Top Followers
