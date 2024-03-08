@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred AmenRa/ranx](https://github.com/AmenRa/ranx)
 - [SidharthArya starred vtabbott/Neural-Circuit-Diagrams](https://github.com/vtabbott/Neural-Circuit-Diagrams)
 - [SidharthArya starred benweet/stackedit](https://github.com/benweet/stackedit)
 - [SidharthArya starred taikoxyz/taiko-mono](https://github.com/taikoxyz/taiko-mono)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to main in SidharthArya/.zsh](https://github.com/SidharthArya/.zsh/compare/c1006955ea...ff2e2fecc8)
 - [SidharthArya starred nodejs/undici](https://github.com/nodejs/undici)
 - [SidharthArya starred hpjansson/chafa](https://github.com/hpjansson/chafa)
-- [SidharthArya starred Avaiga/taipy](https://github.com/Avaiga/taipy)
 <!-- GITHUB:END -->
 
 ## Top Followers
