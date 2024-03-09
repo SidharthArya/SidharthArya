@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred chaiNNer-org/chaiNNer](https://github.com/chaiNNer-org/chaiNNer)
 - [SidharthArya starred NielsRogge/Transformers-Tutorials](https://github.com/NielsRogge/Transformers-Tutorials)
 - [SidharthArya starred AmenRa/ranx](https://github.com/AmenRa/ranx)
 - [SidharthArya starred vtabbott/Neural-Circuit-Diagrams](https://github.com/vtabbott/Neural-Circuit-Diagrams)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred HumanAIGC/AnimateAnyone](https://github.com/HumanAIGC/AnimateAnyone)
 - [SidharthArya starred myshell-ai/MeloTTS](https://github.com/myshell-ai/MeloTTS)
 - [SidharthArya pushed to main in SidharthArya/.zsh](https://github.com/SidharthArya/.zsh/compare/c1006955ea...ff2e2fecc8)
-- [SidharthArya starred nodejs/undici](https://github.com/nodejs/undici)
 <!-- GITHUB:END -->
 
 ## Top Followers
