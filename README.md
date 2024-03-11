@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred upscayl/upscayl](https://github.com/upscayl/upscayl)
 - [SidharthArya starred InfuseAI/colab-xterm](https://github.com/InfuseAI/colab-xterm)
 - [SidharthArya starred chaiNNer-org/chaiNNer](https://github.com/chaiNNer-org/chaiNNer)
 - [SidharthArya starred NielsRogge/Transformers-Tutorials](https://github.com/NielsRogge/Transformers-Tutorials)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred taikoxyz/taiko-mono](https://github.com/taikoxyz/taiko-mono)
 - [SidharthArya starred HumanAIGC/EMO](https://github.com/HumanAIGC/EMO)
 - [SidharthArya starred HumanAIGC/AnimateAnyone](https://github.com/HumanAIGC/AnimateAnyone)
-- [SidharthArya starred myshell-ai/MeloTTS](https://github.com/myshell-ai/MeloTTS)
 <!-- GITHUB:END -->
 
 ## Top Followers
