@@ -87,6 +87,9 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm)
+- [SidharthArya forked SidharthArya/Inpaint-Anything from geekyutao/Inpaint-Anything](https://github.com/SidharthArya/Inpaint-Anything)
+- [SidharthArya starred geekyutao/Inpaint-Anything](https://github.com/geekyutao/Inpaint-Anything)
 - [SidharthArya starred replicate/cog](https://github.com/replicate/cog)
 - [SidharthArya starred upscayl/upscayl](https://github.com/upscayl/upscayl)
 - [SidharthArya starred InfuseAI/colab-xterm](https://github.com/InfuseAI/colab-xterm)
@@ -94,9 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred NielsRogge/Transformers-Tutorials](https://github.com/NielsRogge/Transformers-Tutorials)
 - [SidharthArya starred AmenRa/ranx](https://github.com/AmenRa/ranx)
 - [SidharthArya starred vtabbott/Neural-Circuit-Diagrams](https://github.com/vtabbott/Neural-Circuit-Diagrams)
-- [SidharthArya starred benweet/stackedit](https://github.com/benweet/stackedit)
-- [SidharthArya starred taikoxyz/taiko-mono](https://github.com/taikoxyz/taiko-mono)
-- [SidharthArya starred HumanAIGC/EMO](https://github.com/HumanAIGC/EMO)
 <!-- GITHUB:END -->
 
 ## Top Followers
