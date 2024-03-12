@@ -87,16 +87,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
-- [SidharthArya starred Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm)
-- [SidharthArya forked SidharthArya/Inpaint-Anything from geekyutao/Inpaint-Anything](https://github.com/SidharthArya/Inpaint-Anything)
-- [SidharthArya starred geekyutao/Inpaint-Anything](https://github.com/geekyutao/Inpaint-Anything)
-- [SidharthArya starred replicate/cog](https://github.com/replicate/cog)
-- [SidharthArya starred upscayl/upscayl](https://github.com/upscayl/upscayl)
-- [SidharthArya starred InfuseAI/colab-xterm](https://github.com/InfuseAI/colab-xterm)
-- [SidharthArya starred chaiNNer-org/chaiNNer](https://github.com/chaiNNer-org/chaiNNer)
-- [SidharthArya starred NielsRogge/Transformers-Tutorials](https://github.com/NielsRogge/Transformers-Tutorials)
-- [SidharthArya starred AmenRa/ranx](https://github.com/AmenRa/ranx)
-- [SidharthArya starred vtabbott/Neural-Circuit-Diagrams](https://github.com/vtabbott/Neural-Circuit-Diagrams)
+- [SidharthArya forked SidharthArya/ProPainter from sczhou/ProPainter](https://github.com/SidharthArya/ProPainter)
+- [SidharthArya starred sczhou/ProPainter](https://github.com/sczhou/ProPainter)
+- [SidharthArya starred OpenGVLab/Ask-Anything](https://github.com/OpenGVLab/Ask-Anything)
+- [SidharthArya starred IDEA-Research/Grounded-Segment-Anything](https://github.com/IDEA-Research/Grounded-Segment-Anything)
+- [SidharthArya starred gaomingqi/Track-Anything](https://github.com/gaomingqi/Track-Anything)
+- [SidharthArya starred TaskingAI/TaskingAI](https://github.com/TaskingAI/TaskingAI)
+- [SidharthArya starred khoj-ai/khoj](https://github.com/khoj-ai/khoj)
+- [SidharthArya starred neuml/txtai](https://github.com/neuml/txtai)
+- [SidharthArya starred danswer-ai/danswer](https://github.com/danswer-ai/danswer)
+- [SidharthArya starred janhq/jan](https://github.com/janhq/jan)
 <!-- GITHUB:END -->
 
 ## Top Followers
