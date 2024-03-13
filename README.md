@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred XPixelGroup/BasicSR](https://github.com/XPixelGroup/BasicSR)
+- [SidharthArya starred zengyh1900/Awesome-Image-Inpainting](https://github.com/zengyh1900/Awesome-Image-Inpainting)
 - [SidharthArya forked SidharthArya/ProPainter from sczhou/ProPainter](https://github.com/SidharthArya/ProPainter)
 - [SidharthArya starred sczhou/ProPainter](https://github.com/sczhou/ProPainter)
 - [SidharthArya starred OpenGVLab/Ask-Anything](https://github.com/OpenGVLab/Ask-Anything)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred TaskingAI/TaskingAI](https://github.com/TaskingAI/TaskingAI)
 - [SidharthArya starred khoj-ai/khoj](https://github.com/khoj-ai/khoj)
 - [SidharthArya starred neuml/txtai](https://github.com/neuml/txtai)
-- [SidharthArya starred danswer-ai/danswer](https://github.com/danswer-ai/danswer)
-- [SidharthArya starred janhq/jan](https://github.com/janhq/jan)
 <!-- GITHUB:END -->
 
 ## Top Followers
