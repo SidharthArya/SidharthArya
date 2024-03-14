@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred pytorch/text](https://github.com/pytorch/text)
 - [SidharthArya starred jbhuang0604/awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision)
 - [SidharthArya starred JiahuiYu/generative_inpainting](https://github.com/JiahuiYu/generative_inpainting)
 - [SidharthArya starred openai/guided-diffusion](https://github.com/openai/guided-diffusion)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya forked SidharthArya/ProPainter from sczhou/ProPainter](https://github.com/SidharthArya/ProPainter)
 - [SidharthArya starred sczhou/ProPainter](https://github.com/sczhou/ProPainter)
 - [SidharthArya starred OpenGVLab/Ask-Anything](https://github.com/OpenGVLab/Ask-Anything)
-- [SidharthArya starred IDEA-Research/Grounded-Segment-Anything](https://github.com/IDEA-Research/Grounded-Segment-Anything)
 <!-- GITHUB:END -->
 
 ## Top Followers
