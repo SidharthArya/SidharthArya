@@ -87,16 +87,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred jbhuang0604/awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision)
+- [SidharthArya starred JiahuiYu/generative_inpainting](https://github.com/JiahuiYu/generative_inpainting)
+- [SidharthArya starred openai/guided-diffusion](https://github.com/openai/guided-diffusion)
+- [SidharthArya starred NVIDIA/partialconv](https://github.com/NVIDIA/partialconv)
 - [SidharthArya starred XPixelGroup/BasicSR](https://github.com/XPixelGroup/BasicSR)
 - [SidharthArya starred zengyh1900/Awesome-Image-Inpainting](https://github.com/zengyh1900/Awesome-Image-Inpainting)
 - [SidharthArya forked SidharthArya/ProPainter from sczhou/ProPainter](https://github.com/SidharthArya/ProPainter)
 - [SidharthArya starred sczhou/ProPainter](https://github.com/sczhou/ProPainter)
 - [SidharthArya starred OpenGVLab/Ask-Anything](https://github.com/OpenGVLab/Ask-Anything)
 - [SidharthArya starred IDEA-Research/Grounded-Segment-Anything](https://github.com/IDEA-Research/Grounded-Segment-Anything)
-- [SidharthArya starred gaomingqi/Track-Anything](https://github.com/gaomingqi/Track-Anything)
-- [SidharthArya starred TaskingAI/TaskingAI](https://github.com/TaskingAI/TaskingAI)
-- [SidharthArya starred khoj-ai/khoj](https://github.com/khoj-ai/khoj)
-- [SidharthArya starred neuml/txtai](https://github.com/neuml/txtai)
 <!-- GITHUB:END -->
 
 ## Top Followers
