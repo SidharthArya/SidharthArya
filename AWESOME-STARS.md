@@ -1149,6 +1149,9 @@
 
 ## Jupyter Notebook 
 
+- [luca-medeiros/lang-segment-anything](https://github.com/luca-medeiros/lang-segment-anything) - SAM with text prompt
+- [researchmm/STTN](https://github.com/researchmm/STTN) - [ECCV'2020] STTN: Learning Joint Spatial-Temporal Transformations for Video Inpainting
+- [Cheems-Seminar/grounded-segment-any-parts](https://github.com/Cheems-Seminar/grounded-segment-any-parts) - Grounded Segment Anything: From Objects to Parts
 - [IDEA-Research/Grounded-Segment-Anything](https://github.com/IDEA-Research/Grounded-Segment-Anything) - Grounded-SAM: Marrying Grounding-DINO with Segment Anything & Stable Diffusion & Recognize Anything - Automatically Detect , Segment and Generate Anything
 - [geekyutao/Inpaint-Anything](https://github.com/geekyutao/Inpaint-Anything) - Inpaint anything using Segment Anything and inpainting models.
 - [NielsRogge/Transformers-Tutorials](https://github.com/NielsRogge/Transformers-Tutorials) - This repository contains demos I made with the Transformers library by HuggingFace.
@@ -1350,6 +1353,7 @@
 
 ## Others 
 
+- [VainF/Awesome-Anything](https://github.com/VainF/Awesome-Anything) - General AI methods for Anything: AnyObject, AnyGeneration, AnyModel, AnyTask, AnyX
 - [jbhuang0604/awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) - A curated list of awesome computer vision resources
 - [HumanAIGC/EMO](https://github.com/HumanAIGC/EMO) - Emote Portrait Alive: Generating Expressive Portrait Videos with Audio2Video Diffusion Model under Weak Conditions
 - [HumanAIGC/AnimateAnyone](https://github.com/HumanAIGC/AnimateAnyone) - Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation
@@ -1553,6 +1557,7 @@
 
 ## Python 
 
+- [IDEA-Research/GroundingDINO](https://github.com/IDEA-Research/GroundingDINO) - Official implementation of the paper "Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection"
 - [pytorch/text](https://github.com/pytorch/text) - Models, data loaders and abstractions for language processing, powered by PyTorch
 - [JiahuiYu/generative_inpainting](https://github.com/JiahuiYu/generative_inpainting) - DeepFill v1/v2 with Contextual Attention and Gated Convolution, CVPR 2018, and ICCV 2019 Oral
 - [openai/guided-diffusion](https://github.com/openai/guided-diffusion) - 
@@ -1631,7 +1636,7 @@
 - [kiwiz/gkeepapi](https://github.com/kiwiz/gkeepapi) - An unofficial client for the Google Keep API.
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [cumulo-autumn/StreamDiffusion](https://github.com/cumulo-autumn/StreamDiffusion) - StreamDiffusion: A Pipeline-Level Solution for Real-Time Interactive Generation
-- [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) - Dev tool that writes scalable apps from scratch while the developer oversees the implementation
+- [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) - The first real AI developer
 - [Flode-Labs/vid2densepose](https://github.com/Flode-Labs/vid2densepose) - Convert your videos to densepose and use it on MagicAnimate
 - [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) - Focus on prompting and generating
 - [open-mmlab/mmfashion](https://github.com/open-mmlab/mmfashion) - Open-source toolbox for visual fashion analysis based on PyTorch
@@ -2162,7 +2167,7 @@
 ## Ruby 
 
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
-- [postalserver/postal](https://github.com/postalserver/postal) - ✉️ A fully featured open source mail delivery platform for incoming & outgoing e-mail
+- [postalserver/postal](https://github.com/postalserver/postal) - 📮 A fully featured open source mail delivery platform for incoming & outgoing e-mail
 - [Shopify/liquid](https://github.com/Shopify/liquid) - Liquid markup language. Safe, customer facing template language for flexible web apps.
 - [github/explore](https://github.com/github/explore) - Community-curated topic and collection pages on GitHub
 - [faker-ruby/faker](https://github.com/faker-ruby/faker) - A library for generating fake data such as names, addresses, and phone numbers.
@@ -2197,7 +2202,7 @@
 - [actix/actix-web](https://github.com/actix/actix-web) - Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.
 - [actix/actix](https://github.com/actix/actix) - Actor framework for Rust.
 - [pipeless-ai/pipeless](https://github.com/pipeless-ai/pipeless) - An open-source computer vision framework to build and deploy apps in minutes
-- [axodotdev/cargo-dist](https://github.com/axodotdev/cargo-dist) - 📦 shippable application packaging for Rust
+- [axodotdev/cargo-dist](https://github.com/axodotdev/cargo-dist) - 📦 shippable application packaging
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search API that fits effortlessly into your apps, websites, and workflow
