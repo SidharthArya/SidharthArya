@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred huggingface/optimum-intel](https://github.com/huggingface/optimum-intel)
+- [SidharthArya starred wasmerio/wasmer](https://github.com/wasmerio/wasmer)
 - [SidharthArya starred deepseek-ai/DeepSeek-VL](https://github.com/deepseek-ai/DeepSeek-VL)
 - [SidharthArya starred lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region)
 - [SidharthArya starred halide/Halide](https://github.com/halide/Halide)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred tiangolo/full-stack-fastapi-template](https://github.com/tiangolo/full-stack-fastapi-template)
 - [SidharthArya starred google/leveldb](https://github.com/google/leveldb)
 - [SidharthArya starred google/googletest](https://github.com/google/googletest)
-- [SidharthArya starred IDEA-Research/GroundingDINO](https://github.com/IDEA-Research/GroundingDINO)
-- [SidharthArya starred luca-medeiros/lang-segment-anything](https://github.com/luca-medeiros/lang-segment-anything)
 <!-- GITHUB:END -->
 
 ## Top Followers
