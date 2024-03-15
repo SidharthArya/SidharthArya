@@ -87,6 +87,9 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred researchmm/STTN](https://github.com/researchmm/STTN)
+- [SidharthArya starred Cheems-Seminar/grounded-segment-any-parts](https://github.com/Cheems-Seminar/grounded-segment-any-parts)
+- [SidharthArya starred VainF/Awesome-Anything](https://github.com/VainF/Awesome-Anything)
 - [SidharthArya starred pytorch/text](https://github.com/pytorch/text)
 - [SidharthArya starred jbhuang0604/awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision)
 - [SidharthArya starred JiahuiYu/generative_inpainting](https://github.com/JiahuiYu/generative_inpainting)
@@ -94,9 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred NVIDIA/partialconv](https://github.com/NVIDIA/partialconv)
 - [SidharthArya starred XPixelGroup/BasicSR](https://github.com/XPixelGroup/BasicSR)
 - [SidharthArya starred zengyh1900/Awesome-Image-Inpainting](https://github.com/zengyh1900/Awesome-Image-Inpainting)
-- [SidharthArya forked SidharthArya/ProPainter from sczhou/ProPainter](https://github.com/SidharthArya/ProPainter)
-- [SidharthArya starred sczhou/ProPainter](https://github.com/sczhou/ProPainter)
-- [SidharthArya starred OpenGVLab/Ask-Anything](https://github.com/OpenGVLab/Ask-Anything)
 <!-- GITHUB:END -->
 
 ## Top Followers
