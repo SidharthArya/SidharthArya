@@ -87,16 +87,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred deepseek-ai/DeepSeek-VL](https://github.com/deepseek-ai/DeepSeek-VL)
+- [SidharthArya starred lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region)
+- [SidharthArya starred halide/Halide](https://github.com/halide/Halide)
+- [SidharthArya starred geekan/MetaGPT](https://github.com/geekan/MetaGPT)
+- [SidharthArya starred lavague-ai/LaVague](https://github.com/lavague-ai/LaVague)
+- [SidharthArya starred tiangolo/full-stack-fastapi-template](https://github.com/tiangolo/full-stack-fastapi-template)
+- [SidharthArya starred google/leveldb](https://github.com/google/leveldb)
+- [SidharthArya starred google/googletest](https://github.com/google/googletest)
 - [SidharthArya starred IDEA-Research/GroundingDINO](https://github.com/IDEA-Research/GroundingDINO)
 - [SidharthArya starred luca-medeiros/lang-segment-anything](https://github.com/luca-medeiros/lang-segment-anything)
-- [SidharthArya starred researchmm/STTN](https://github.com/researchmm/STTN)
-- [SidharthArya starred Cheems-Seminar/grounded-segment-any-parts](https://github.com/Cheems-Seminar/grounded-segment-any-parts)
-- [SidharthArya starred VainF/Awesome-Anything](https://github.com/VainF/Awesome-Anything)
-- [SidharthArya starred pytorch/text](https://github.com/pytorch/text)
-- [SidharthArya starred jbhuang0604/awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision)
-- [SidharthArya starred JiahuiYu/generative_inpainting](https://github.com/JiahuiYu/generative_inpainting)
-- [SidharthArya starred openai/guided-diffusion](https://github.com/openai/guided-diffusion)
-- [SidharthArya starred NVIDIA/partialconv](https://github.com/NVIDIA/partialconv)
 <!-- GITHUB:END -->
 
 ## Top Followers
