@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred IDEA-Research/GroundingDINO](https://github.com/IDEA-Research/GroundingDINO)
 - [SidharthArya starred luca-medeiros/lang-segment-anything](https://github.com/luca-medeiros/lang-segment-anything)
 - [SidharthArya starred researchmm/STTN](https://github.com/researchmm/STTN)
 - [SidharthArya starred Cheems-Seminar/grounded-segment-any-parts](https://github.com/Cheems-Seminar/grounded-segment-any-parts)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred JiahuiYu/generative_inpainting](https://github.com/JiahuiYu/generative_inpainting)
 - [SidharthArya starred openai/guided-diffusion](https://github.com/openai/guided-diffusion)
 - [SidharthArya starred NVIDIA/partialconv](https://github.com/NVIDIA/partialconv)
-- [SidharthArya starred XPixelGroup/BasicSR](https://github.com/XPixelGroup/BasicSR)
 <!-- GITHUB:END -->
 
 ## Top Followers
