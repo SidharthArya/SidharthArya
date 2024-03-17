@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya forked SidharthArya/moondream from vikhyat/moondream](https://github.com/SidharthArya/moondream)
 - [SidharthArya starred huggingface/optimum-intel](https://github.com/huggingface/optimum-intel)
 - [SidharthArya starred wasmerio/wasmer](https://github.com/wasmerio/wasmer)
 - [SidharthArya starred deepseek-ai/DeepSeek-VL](https://github.com/deepseek-ai/DeepSeek-VL)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred lavague-ai/LaVague](https://github.com/lavague-ai/LaVague)
 - [SidharthArya starred tiangolo/full-stack-fastapi-template](https://github.com/tiangolo/full-stack-fastapi-template)
 - [SidharthArya starred google/leveldb](https://github.com/google/leveldb)
-- [SidharthArya starred google/googletest](https://github.com/google/googletest)
 <!-- GITHUB:END -->
 
 ## Top Followers
