@@ -87,16 +87,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred OpenDevin/OpenDevin](https://github.com/OpenDevin/OpenDevin)
+- [SidharthArya starred aishwaryanr/awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide)
+- [SidharthArya starred imartinez/privateGPT](https://github.com/imartinez/privateGPT)
+- [SidharthArya starred tiann/KernelSU](https://github.com/tiann/KernelSU)
+- [SidharthArya starred BerriAI/litellm](https://github.com/BerriAI/litellm)
+- [SidharthArya starred Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern)
+- [SidharthArya starred philz1337x/clarity-upscaler](https://github.com/philz1337x/clarity-upscaler)
+- [SidharthArya starred openai/grok](https://github.com/openai/grok)
+- [SidharthArya starred NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler)
 - [SidharthArya starred danielgatis/rembg](https://github.com/danielgatis/rembg)
-- [SidharthArya starred openai/CLIP](https://github.com/openai/CLIP)
-- [SidharthArya forked SidharthArya/moondream from vikhyat/moondream](https://github.com/SidharthArya/moondream)
-- [SidharthArya starred huggingface/optimum-intel](https://github.com/huggingface/optimum-intel)
-- [SidharthArya starred wasmerio/wasmer](https://github.com/wasmerio/wasmer)
-- [SidharthArya starred deepseek-ai/DeepSeek-VL](https://github.com/deepseek-ai/DeepSeek-VL)
-- [SidharthArya starred lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region)
-- [SidharthArya starred halide/Halide](https://github.com/halide/Halide)
-- [SidharthArya starred geekan/MetaGPT](https://github.com/geekan/MetaGPT)
-- [SidharthArya starred lavague-ai/LaVague](https://github.com/lavague-ai/LaVague)
 <!-- GITHUB:END -->
 
 ## Top Followers
