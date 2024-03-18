@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred danielgatis/rembg](https://github.com/danielgatis/rembg)
 - [SidharthArya starred openai/CLIP](https://github.com/openai/CLIP)
 - [SidharthArya forked SidharthArya/moondream from vikhyat/moondream](https://github.com/SidharthArya/moondream)
 - [SidharthArya starred huggingface/optimum-intel](https://github.com/huggingface/optimum-intel)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred halide/Halide](https://github.com/halide/Halide)
 - [SidharthArya starred geekan/MetaGPT](https://github.com/geekan/MetaGPT)
 - [SidharthArya starred lavague-ai/LaVague](https://github.com/lavague-ai/LaVague)
-- [SidharthArya starred tiangolo/full-stack-fastapi-template](https://github.com/tiangolo/full-stack-fastapi-template)
 <!-- GITHUB:END -->
 
 ## Top Followers
