@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred said7388/developer-portfolio](https://github.com/said7388/developer-portfolio)
 - [SidharthArya starred OpenDevin/OpenDevin](https://github.com/OpenDevin/OpenDevin)
 - [SidharthArya starred aishwaryanr/awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide)
 - [SidharthArya starred imartinez/privateGPT](https://github.com/imartinez/privateGPT)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred philz1337x/clarity-upscaler](https://github.com/philz1337x/clarity-upscaler)
 - [SidharthArya starred openai/grok](https://github.com/openai/grok)
 - [SidharthArya starred NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler)
-- [SidharthArya starred danielgatis/rembg](https://github.com/danielgatis/rembg)
 <!-- GITHUB:END -->
 
 ## Top Followers
