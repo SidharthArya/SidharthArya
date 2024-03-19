@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred microsoft/UDOP](https://github.com/microsoft/UDOP)
 - [SidharthArya starred cnr-isti-vclab/meshlab](https://github.com/cnr-isti-vclab/meshlab)
 - [SidharthArya starred said7388/developer-portfolio](https://github.com/said7388/developer-portfolio)
 - [SidharthArya starred OpenDevin/OpenDevin](https://github.com/OpenDevin/OpenDevin)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred BerriAI/litellm](https://github.com/BerriAI/litellm)
 - [SidharthArya starred Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern)
 - [SidharthArya starred philz1337x/clarity-upscaler](https://github.com/philz1337x/clarity-upscaler)
-- [SidharthArya starred openai/grok](https://github.com/openai/grok)
 <!-- GITHUB:END -->
 
 ## Top Followers
