@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred fenglinglwb/MAT](https://github.com/fenglinglwb/MAT)
 - [SidharthArya starred Sanster/IOPaint](https://github.com/Sanster/IOPaint)
 - [SidharthArya starred facebookresearch/LAMA](https://github.com/facebookresearch/LAMA)
 - [SidharthArya starred microsoft/UDOP](https://github.com/microsoft/UDOP)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred aishwaryanr/awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide)
 - [SidharthArya starred imartinez/privateGPT](https://github.com/imartinez/privateGPT)
 - [SidharthArya starred tiann/KernelSU](https://github.com/tiann/KernelSU)
-- [SidharthArya starred BerriAI/litellm](https://github.com/BerriAI/litellm)
 <!-- GITHUB:END -->
 
 ## Top Followers
