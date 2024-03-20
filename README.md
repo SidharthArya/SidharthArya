@@ -87,16 +87,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred Hextris/hextris](https://github.com/Hextris/hextris)
+- [SidharthArya starred bijection/sistine](https://github.com/bijection/sistine)
+- [SidharthArya starred lengstrom/falcon](https://github.com/lengstrom/falcon)
+- [SidharthArya starred libffcv/ffcv](https://github.com/libffcv/ffcv)
+- [SidharthArya starred lllyasviel/ControlNet](https://github.com/lllyasviel/ControlNet)
 - [SidharthArya starred fenglinglwb/MAT](https://github.com/fenglinglwb/MAT)
 - [SidharthArya starred Sanster/IOPaint](https://github.com/Sanster/IOPaint)
 - [SidharthArya starred facebookresearch/LAMA](https://github.com/facebookresearch/LAMA)
 - [SidharthArya starred microsoft/UDOP](https://github.com/microsoft/UDOP)
 - [SidharthArya starred cnr-isti-vclab/meshlab](https://github.com/cnr-isti-vclab/meshlab)
-- [SidharthArya starred said7388/developer-portfolio](https://github.com/said7388/developer-portfolio)
-- [SidharthArya starred OpenDevin/OpenDevin](https://github.com/OpenDevin/OpenDevin)
-- [SidharthArya starred aishwaryanr/awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide)
-- [SidharthArya starred imartinez/privateGPT](https://github.com/imartinez/privateGPT)
-- [SidharthArya starred tiann/KernelSU](https://github.com/tiann/KernelSU)
 <!-- GITHUB:END -->
 
 ## Top Followers
