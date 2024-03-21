@@ -87,16 +87,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred LLaVA-VL/LLaVA-Interactive-Demo](https://github.com/LLaVA-VL/LLaVA-Interactive-Demo)
+- [SidharthArya starred microsoft/LLaVA-Med](https://github.com/microsoft/LLaVA-Med)
+- [SidharthArya starred gligen/GLIGEN](https://github.com/gligen/GLIGEN)
+- [SidharthArya starred microsoft/GLIP](https://github.com/microsoft/GLIP)
 - [SidharthArya starred IDEA-Research/DINO](https://github.com/IDEA-Research/DINO)
 - [SidharthArya starred joblib/joblib](https://github.com/joblib/joblib)
 - [SidharthArya starred Hextris/hextris](https://github.com/Hextris/hextris)
 - [SidharthArya starred bijection/sistine](https://github.com/bijection/sistine)
 - [SidharthArya starred lengstrom/falcon](https://github.com/lengstrom/falcon)
 - [SidharthArya starred libffcv/ffcv](https://github.com/libffcv/ffcv)
-- [SidharthArya starred lllyasviel/ControlNet](https://github.com/lllyasviel/ControlNet)
-- [SidharthArya starred fenglinglwb/MAT](https://github.com/fenglinglwb/MAT)
-- [SidharthArya starred Sanster/IOPaint](https://github.com/Sanster/IOPaint)
-- [SidharthArya starred facebookresearch/LAMA](https://github.com/facebookresearch/LAMA)
 <!-- GITHUB:END -->
 
 ## Top Followers
