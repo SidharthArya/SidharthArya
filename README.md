@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred IDEA-Research/DINO](https://github.com/IDEA-Research/DINO)
+- [SidharthArya starred joblib/joblib](https://github.com/joblib/joblib)
 - [SidharthArya starred Hextris/hextris](https://github.com/Hextris/hextris)
 - [SidharthArya starred bijection/sistine](https://github.com/bijection/sistine)
 - [SidharthArya starred lengstrom/falcon](https://github.com/lengstrom/falcon)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred fenglinglwb/MAT](https://github.com/fenglinglwb/MAT)
 - [SidharthArya starred Sanster/IOPaint](https://github.com/Sanster/IOPaint)
 - [SidharthArya starred facebookresearch/LAMA](https://github.com/facebookresearch/LAMA)
-- [SidharthArya starred microsoft/UDOP](https://github.com/microsoft/UDOP)
-- [SidharthArya starred cnr-isti-vclab/meshlab](https://github.com/cnr-isti-vclab/meshlab)
 <!-- GITHUB:END -->
 
 ## Top Followers
