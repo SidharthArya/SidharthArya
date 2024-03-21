@@ -87,6 +87,9 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred microsoft/FocalNet](https://github.com/microsoft/FocalNet)
+- [SidharthArya starred microsoft/UniCL](https://github.com/microsoft/UniCL)
+- [SidharthArya starred UX-Decoder/Segment-Everything-Everywhere-All-At-Once](https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once)
 - [SidharthArya starred LLaVA-VL/LLaVA-Interactive-Demo](https://github.com/LLaVA-VL/LLaVA-Interactive-Demo)
 - [SidharthArya starred microsoft/LLaVA-Med](https://github.com/microsoft/LLaVA-Med)
 - [SidharthArya starred gligen/GLIGEN](https://github.com/gligen/GLIGEN)
@@ -94,9 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred IDEA-Research/DINO](https://github.com/IDEA-Research/DINO)
 - [SidharthArya starred joblib/joblib](https://github.com/joblib/joblib)
 - [SidharthArya starred Hextris/hextris](https://github.com/Hextris/hextris)
-- [SidharthArya starred bijection/sistine](https://github.com/bijection/sistine)
-- [SidharthArya starred lengstrom/falcon](https://github.com/lengstrom/falcon)
-- [SidharthArya starred libffcv/ffcv](https://github.com/libffcv/ffcv)
 <!-- GITHUB:END -->
 
 ## Top Followers
