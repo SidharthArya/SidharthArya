@@ -1571,6 +1571,9 @@
 
 ## Python 
 
+- [microsoft/FocalNet](https://github.com/microsoft/FocalNet) - [NeurIPS 2022] Official code for "Focal Modulation Networks"
+- [microsoft/UniCL](https://github.com/microsoft/UniCL) - [CVPR 2022] Official code for "Unified Contrastive Learning in Image-Text-Label Space"
+- [UX-Decoder/Segment-Everything-Everywhere-All-At-Once](https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once) - [NeurIPS 2023] Official implementation of the paper "Segment Everything Everywhere All at Once"
 - [LLaVA-VL/LLaVA-Interactive-Demo](https://github.com/LLaVA-VL/LLaVA-Interactive-Demo) - LLaVA-Interactive-Demo
 - [gligen/GLIGEN](https://github.com/gligen/GLIGEN) - Open-Set Grounded Text-to-Image Generation
 - [microsoft/GLIP](https://github.com/microsoft/GLIP) - Grounded Language-Image Pre-training
@@ -2725,7 +2728,7 @@
 ## Zig 
 
 - [tigerbeetle/tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) - The distributed financial transactions database designed for mission critical safety and performance.
-- [riverwm/river](https://github.com/riverwm/river) - A dynamic tiling Wayland compositor
+- [riverwm/river](https://github.com/riverwm/river) - [mirror] A dynamic tiling Wayland compositor
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 
