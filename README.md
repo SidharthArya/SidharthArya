@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred kongzhecn/OMG](https://github.com/kongzhecn/OMG)
 - [SidharthArya starred microsoft/FocalNet](https://github.com/microsoft/FocalNet)
 - [SidharthArya starred microsoft/UniCL](https://github.com/microsoft/UniCL)
 - [SidharthArya starred UX-Decoder/Segment-Everything-Everywhere-All-At-Once](https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred microsoft/GLIP](https://github.com/microsoft/GLIP)
 - [SidharthArya starred IDEA-Research/DINO](https://github.com/IDEA-Research/DINO)
 - [SidharthArya starred joblib/joblib](https://github.com/joblib/joblib)
-- [SidharthArya starred Hextris/hextris](https://github.com/Hextris/hextris)
 <!-- GITHUB:END -->
 
 ## Top Followers
