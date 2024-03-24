@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred teableio/teable](https://github.com/teableio/teable)
 - [SidharthArya starred kongzhecn/OMG](https://github.com/kongzhecn/OMG)
 - [SidharthArya starred microsoft/FocalNet](https://github.com/microsoft/FocalNet)
 - [SidharthArya starred microsoft/UniCL](https://github.com/microsoft/UniCL)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred gligen/GLIGEN](https://github.com/gligen/GLIGEN)
 - [SidharthArya starred microsoft/GLIP](https://github.com/microsoft/GLIP)
 - [SidharthArya starred IDEA-Research/DINO](https://github.com/IDEA-Research/DINO)
-- [SidharthArya starred joblib/joblib](https://github.com/joblib/joblib)
 <!-- GITHUB:END -->
 
 ## Top Followers
