@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred afshinea/stanford-cs-229-machine-learning](https://github.com/afshinea/stanford-cs-229-machine-learning)
 - [SidharthArya starred teableio/teable](https://github.com/teableio/teable)
 - [SidharthArya starred kongzhecn/OMG](https://github.com/kongzhecn/OMG)
 - [SidharthArya starred microsoft/FocalNet](https://github.com/microsoft/FocalNet)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred microsoft/LLaVA-Med](https://github.com/microsoft/LLaVA-Med)
 - [SidharthArya starred gligen/GLIGEN](https://github.com/gligen/GLIGEN)
 - [SidharthArya starred microsoft/GLIP](https://github.com/microsoft/GLIP)
-- [SidharthArya starred IDEA-Research/DINO](https://github.com/IDEA-Research/DINO)
 <!-- GITHUB:END -->
 
 ## Top Followers
