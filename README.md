@@ -87,16 +87,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred langchain-ai/langchain-extract](https://github.com/langchain-ai/langchain-extract)
+- [SidharthArya starred valkey-io/valkey](https://github.com/valkey-io/valkey)
+- [SidharthArya starred olegos2/mobox](https://github.com/olegos2/mobox)
+- [SidharthArya starred AlexanderKoch-Koch/low_cost_robot](https://github.com/AlexanderKoch-Koch/low_cost_robot)
+- [SidharthArya starred antonbabenko/pre-commit-terraform](https://github.com/antonbabenko/pre-commit-terraform)
+- [SidharthArya starred aws-samples/amazon-bedrock-workshop](https://github.com/aws-samples/amazon-bedrock-workshop)
 - [SidharthArya starred stefanXO/Tab-Manager-Plus](https://github.com/stefanXO/Tab-Manager-Plus)
 - [SidharthArya starred containers/podman](https://github.com/containers/podman)
 - [SidharthArya starred OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter)
 - [SidharthArya starred harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
-- [SidharthArya starred stitionai/devika](https://github.com/stitionai/devika)
-- [SidharthArya starred langchain4j/langchain4j](https://github.com/langchain4j/langchain4j)
-- [SidharthArya starred karlstav/cava](https://github.com/karlstav/cava)
-- [SidharthArya starred open-mmlab/Amphion](https://github.com/open-mmlab/Amphion)
-- [SidharthArya starred webprofusion/OpenAudio](https://github.com/webprofusion/OpenAudio)
-- [SidharthArya starred sovereign/sovereign](https://github.com/sovereign/sovereign)
 <!-- GITHUB:END -->
 
 ## Top Followers
