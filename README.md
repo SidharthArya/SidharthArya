@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred webprofusion/OpenAudio](https://github.com/webprofusion/OpenAudio)
 - [SidharthArya starred sovereign/sovereign](https://github.com/sovereign/sovereign)
 - [SidharthArya starred fullcalendar/fullcalendar](https://github.com/fullcalendar/fullcalendar)
 - [SidharthArya starred afshinea/stanford-cs-229-machine-learning](https://github.com/afshinea/stanford-cs-229-machine-learning)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred microsoft/UniCL](https://github.com/microsoft/UniCL)
 - [SidharthArya starred UX-Decoder/Segment-Everything-Everywhere-All-At-Once](https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once)
 - [SidharthArya starred LLaVA-VL/LLaVA-Interactive-Demo](https://github.com/LLaVA-VL/LLaVA-Interactive-Demo)
-- [SidharthArya starred microsoft/LLaVA-Med](https://github.com/microsoft/LLaVA-Med)
 <!-- GITHUB:END -->
 
 ## Top Followers
