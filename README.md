@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred karlstav/cava](https://github.com/karlstav/cava)
 - [SidharthArya starred open-mmlab/Amphion](https://github.com/open-mmlab/Amphion)
 - [SidharthArya starred webprofusion/OpenAudio](https://github.com/webprofusion/OpenAudio)
 - [SidharthArya starred sovereign/sovereign](https://github.com/sovereign/sovereign)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred kongzhecn/OMG](https://github.com/kongzhecn/OMG)
 - [SidharthArya starred microsoft/FocalNet](https://github.com/microsoft/FocalNet)
 - [SidharthArya starred microsoft/UniCL](https://github.com/microsoft/UniCL)
-- [SidharthArya starred UX-Decoder/Segment-Everything-Everywhere-All-At-Once](https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once)
 <!-- GITHUB:END -->
 
 ## Top Followers
