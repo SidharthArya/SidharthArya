@@ -87,16 +87,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred stefanXO/Tab-Manager-Plus](https://github.com/stefanXO/Tab-Manager-Plus)
+- [SidharthArya starred containers/podman](https://github.com/containers/podman)
+- [SidharthArya starred OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter)
+- [SidharthArya starred harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
+- [SidharthArya starred stitionai/devika](https://github.com/stitionai/devika)
+- [SidharthArya starred langchain4j/langchain4j](https://github.com/langchain4j/langchain4j)
 - [SidharthArya starred karlstav/cava](https://github.com/karlstav/cava)
 - [SidharthArya starred open-mmlab/Amphion](https://github.com/open-mmlab/Amphion)
 - [SidharthArya starred webprofusion/OpenAudio](https://github.com/webprofusion/OpenAudio)
 - [SidharthArya starred sovereign/sovereign](https://github.com/sovereign/sovereign)
-- [SidharthArya starred fullcalendar/fullcalendar](https://github.com/fullcalendar/fullcalendar)
-- [SidharthArya starred afshinea/stanford-cs-229-machine-learning](https://github.com/afshinea/stanford-cs-229-machine-learning)
-- [SidharthArya starred teableio/teable](https://github.com/teableio/teable)
-- [SidharthArya starred kongzhecn/OMG](https://github.com/kongzhecn/OMG)
-- [SidharthArya starred microsoft/FocalNet](https://github.com/microsoft/FocalNet)
-- [SidharthArya starred microsoft/UniCL](https://github.com/microsoft/UniCL)
 <!-- GITHUB:END -->
 
 ## Top Followers
