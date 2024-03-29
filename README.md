@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya forked SidharthArya/simple-proxy from movie-web/simple-proxy](https://github.com/SidharthArya/simple-proxy)
 - [SidharthArya starred langchain-ai/langchain-extract](https://github.com/langchain-ai/langchain-extract)
 - [SidharthArya starred valkey-io/valkey](https://github.com/valkey-io/valkey)
 - [SidharthArya starred olegos2/mobox](https://github.com/olegos2/mobox)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred stefanXO/Tab-Manager-Plus](https://github.com/stefanXO/Tab-Manager-Plus)
 - [SidharthArya starred containers/podman](https://github.com/containers/podman)
 - [SidharthArya starred OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter)
-- [SidharthArya starred harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
 <!-- GITHUB:END -->
 
 ## Top Followers
