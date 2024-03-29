@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya forked SidharthArya/Working-with-the-Web-Audio-API from joshreiss/Working-with-the-Web-Audio-API](https://github.com/SidharthArya/Working-with-the-Web-Audio-API)
+- [SidharthArya starred joshreiss/Working-with-the-Web-Audio-API](https://github.com/joshreiss/Working-with-the-Web-Audio-API)
 - [SidharthArya forked SidharthArya/simple-proxy from movie-web/simple-proxy](https://github.com/SidharthArya/simple-proxy)
 - [SidharthArya starred langchain-ai/langchain-extract](https://github.com/langchain-ai/langchain-extract)
 - [SidharthArya starred valkey-io/valkey](https://github.com/valkey-io/valkey)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred antonbabenko/pre-commit-terraform](https://github.com/antonbabenko/pre-commit-terraform)
 - [SidharthArya starred aws-samples/amazon-bedrock-workshop](https://github.com/aws-samples/amazon-bedrock-workshop)
 - [SidharthArya starred stefanXO/Tab-Manager-Plus](https://github.com/stefanXO/Tab-Manager-Plus)
-- [SidharthArya starred containers/podman](https://github.com/containers/podman)
-- [SidharthArya starred OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter)
 <!-- GITHUB:END -->
 
 ## Top Followers
