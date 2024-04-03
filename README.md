@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred cuthbertLab/music21](https://github.com/cuthbertLab/music21)
 - [SidharthArya starred microsoft/muzic](https://github.com/microsoft/muzic)
 - [SidharthArya pushed to main in SidharthArya/trackless](https://github.com/SidharthArya/trackless/compare/7a91790f91...85198b6f19)
 - [SidharthArya pushed to main in SidharthArya/trackless](https://github.com/SidharthArya/trackless/compare/cf17f0c857...7a91790f91)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred ant-design/ant-design](https://github.com/ant-design/ant-design)
 - [SidharthArya starred leon-ai/leon](https://github.com/leon-ai/leon)
 - [SidharthArya forked SidharthArya/Working-with-the-Web-Audio-API from joshreiss/Working-with-the-Web-Audio-API](https://github.com/SidharthArya/Working-with-the-Web-Audio-API)
-- [SidharthArya starred joshreiss/Working-with-the-Web-Audio-API](https://github.com/joshreiss/Working-with-the-Web-Audio-API)
 <!-- GITHUB:END -->
 
 ## Top Followers
