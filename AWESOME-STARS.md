@@ -441,7 +441,7 @@
 - [flutter/photobooth](https://github.com/flutter/photobooth) - Google I/O 2021 Photo Booth built with Flutter and Firebase
 - [dart-lang/shelf](https://github.com/dart-lang/shelf) - Web server middleware for Dart
 - [zubairehman/flutter_boilerplate_project](https://github.com/zubairehman/flutter_boilerplate_project) - A boilerplate project created in flutter using MobX and Provider.
-- [mhmdanas/quantities](https://github.com/mhmdanas/quantities) - Work with physical quantities and units seamlessly! (moved to https://codeberg.org/triallax/quantities)
+- [triallax/quantities](https://github.com/triallax/quantities) - Work with physical quantities and units seamlessly! (moved to https://codeberg.org/triallax/quantities)
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 - [leoafarias/fvm](https://github.com/leoafarias/fvm) - Flutter Version Management: A simple CLI to manage Flutter SDK versions.
