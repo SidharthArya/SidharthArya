@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred chenfei-wu/TaskMatrix](https://github.com/chenfei-wu/TaskMatrix)
 - [SidharthArya starred microsoft/STL](https://github.com/microsoft/STL)
 - [SidharthArya starred microsoft/RegionCLIP](https://github.com/microsoft/RegionCLIP)
 - [SidharthArya starred cuthbertLab/music21](https://github.com/cuthbertLab/music21)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to main in SidharthArya/trackless](https://github.com/SidharthArya/trackless/compare/bea640876d...cf17f0c857)
 - [SidharthArya created a branch main in SidharthArya/trackless](https://github.com/SidharthArya/trackless/compare/main)
 - [SidharthArya created a repository SidharthArya/trackless](https://github.com/SidharthArya/trackless//)
-- [SidharthArya starred ant-design/ant-design](https://github.com/ant-design/ant-design)
 <!-- GITHUB:END -->
 
 ## Top Followers
