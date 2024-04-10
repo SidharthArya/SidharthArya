@@ -1529,7 +1529,7 @@
 - [caisah/emacs.dz](https://github.com/caisah/emacs.dz) - Awesome emacs config files
 - [goabstract/Marketing-for-Engineers](https://github.com/goabstract/Marketing-for-Engineers) - A curated collection of marketing articles & tools to grow your product.
 - [sharkdp/great-puzzles](https://github.com/sharkdp/great-puzzles) - A curated list of great puzzles
-- [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google
+- [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google (Material Symbols)
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 - [ngosang/trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
 - [kylelobo/The-Documentation-Compendium](https://github.com/kylelobo/The-Documentation-Compendium) - 📢 Various README templates & tips on writing high-quality documentation that people want to read.
@@ -1834,7 +1834,7 @@
 - [tensorflow/cloud](https://github.com/tensorflow/cloud) - The TensorFlow Cloud repository provides APIs that will allow to easily go from debugging and training your Keras and TensorFlow code in a local environment to distributed training in the cloud.
 - [pengzhiliang/MAE-pytorch](https://github.com/pengzhiliang/MAE-pytorch) - Unofficial PyTorch implementation of Masked Autoencoders Are Scalable Vision Learners
 - [yuexy/PS-ViT](https://github.com/yuexy/PS-ViT) - Official implementation of the paper Vision Transformer with Progressive Sampling, ICCV 2021.
-- [redis/redis-py](https://github.com/redis/redis-py) - Redis Python Client
+- [redis/redis-py](https://github.com/redis/redis-py) - Redis Python client
 - [infer-actively/pymdp](https://github.com/infer-actively/pymdp) - A Python implementation of active inference for Markov Decision Processes
 - [facebookresearch/ConvNeXt](https://github.com/facebookresearch/ConvNeXt) - Code release for ConvNeXt model
 - [facebookresearch/mae](https://github.com/facebookresearch/mae) - PyTorch implementation of MAE https//arxiv.org/abs/2111.06377
@@ -2547,7 +2547,7 @@
 - [retejs/rete](https://github.com/retejs/rete) - JavaScript framework for visual programming
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
 - [jupyterlab/jupyterlab-desktop](https://github.com/jupyterlab/jupyterlab-desktop) - JupyterLab desktop application, based on Electron.
-- [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - Instant-loading web apps, without effort
+- [QwikDev/qwik](https://github.com/QwikDev/qwik) - Instant-loading web apps, without effort
 - [lit/lit](https://github.com/lit/lit) - Lit is a simple library for building fast, lightweight web components.
 - [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - InvokeAI is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The s
 - [angular/angular](https://github.com/angular/angular) - Deliver web apps with confidence 🚀
