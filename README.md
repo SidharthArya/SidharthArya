@@ -241,18 +241,18 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       <a href="https://github.com/relativelyrehan">rreel </a>
     </td>
     <td align="center">
+      <a href="https://github.com/abdullah-azab">
+        <img src="https://avatars2.githubusercontent.com/u/58390815" width="100px;" alt="abdullah-azab"/>
+      </a>
+      <br />
+      <a href="https://github.com/abdullah-azab">abdullah azab</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/Kushpad">
         <img src="https://avatars2.githubusercontent.com/u/89928620" width="100px;" alt="Kushpad"/>
       </a>
       <br />
       <a href="https://github.com/Kushpad">Kushpad</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/ChandanCharchit">
-        <img src="https://avatars2.githubusercontent.com/u/74564556" width="100px;" alt="ChandanCharchit"/>
-      </a>
-      <br />
-      <a href="https://github.com/ChandanCharchit">Chandan Charchit Sahoo</a>
     </td>
   </tr>
 </table>
