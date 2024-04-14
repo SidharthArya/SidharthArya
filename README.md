@@ -125,13 +125,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       <a href="https://github.com/jelsonjay">Jelson J</a>
     </td>
     <td align="center">
-      <a href="https://github.com/MdRashid62">
-        <img src="https://avatars2.githubusercontent.com/u/55427374" width="100px;" alt="MdRashid62"/>
-      </a>
-      <br />
-      <a href="https://github.com/MdRashid62">Muhammad Rashid</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/carlosal1015">
         <img src="https://avatars2.githubusercontent.com/u/21283014" width="100px;" alt="carlosal1015"/>
       </a>
@@ -152,8 +145,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       <br />
       <a href="https://github.com/M3nin0">Felipe</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/grahamwaters">
         <img src="https://avatars2.githubusercontent.com/u/63750901" width="100px;" alt="grahamwaters"/>
@@ -161,6 +152,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       <br />
       <a href="https://github.com/grahamwaters">Graham Waters</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/maskegger">
         <img src="https://avatars2.githubusercontent.com/u/3811321" width="100px;" alt="maskegger"/>
@@ -203,8 +196,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       <br />
       <a href="https://github.com/Pearlminimal">minimal99pfdo73 </a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/yanboyang713">
         <img src="https://avatars2.githubusercontent.com/u/7603628" width="100px;" alt="yanboyang713"/>
@@ -212,6 +203,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       <br />
       <a href="https://github.com/yanboyang713">Boyang Yan</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/portgasray">
         <img src="https://avatars2.githubusercontent.com/u/17681580" width="100px;" alt="portgasray"/>
@@ -241,18 +234,25 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       <a href="https://github.com/relativelyrehan">rreel </a>
     </td>
     <td align="center">
-      <a href="https://github.com/abdullah-azab">
-        <img src="https://avatars2.githubusercontent.com/u/58390815" width="100px;" alt="abdullah-azab"/>
-      </a>
-      <br />
-      <a href="https://github.com/abdullah-azab">abdullah azab</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/Kushpad">
         <img src="https://avatars2.githubusercontent.com/u/89928620" width="100px;" alt="Kushpad"/>
       </a>
       <br />
       <a href="https://github.com/Kushpad">Kushpad</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ChandanCharchit">
+        <img src="https://avatars2.githubusercontent.com/u/74564556" width="100px;" alt="ChandanCharchit"/>
+      </a>
+      <br />
+      <a href="https://github.com/ChandanCharchit">Chandan Charchit Sahoo</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/abdullah-azab">
+        <img src="https://avatars2.githubusercontent.com/u/58390815" width="100px;" alt="abdullah-azab"/>
+      </a>
+      <br />
+      <a href="https://github.com/abdullah-azab">abdullah azab</a>
     </td>
   </tr>
 </table>
