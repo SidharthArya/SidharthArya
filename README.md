@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred jimp-dev/jimp](https://github.com/jimp-dev/jimp)
 - [SidharthArya starred crater-invoice/crater](https://github.com/crater-invoice/crater)
 - [SidharthArya starred editor-js/awesome-editorjs](https://github.com/editor-js/awesome-editorjs)
 - [SidharthArya starred codex-team/editor.js](https://github.com/codex-team/editor.js)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred microsoft/RegionCLIP](https://github.com/microsoft/RegionCLIP)
 - [SidharthArya starred cuthbertLab/music21](https://github.com/cuthbertLab/music21)
 - [SidharthArya starred microsoft/muzic](https://github.com/microsoft/muzic)
-- [SidharthArya pushed to main in SidharthArya/trackless](https://github.com/SidharthArya/trackless/compare/7a91790f91...85198b6f19)
 <!-- GITHUB:END -->
 
 ## Top Followers
