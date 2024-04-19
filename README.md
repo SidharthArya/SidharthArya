@@ -87,16 +87,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred pyscript/pyscript](https://github.com/pyscript/pyscript)
+- [SidharthArya starred tobymao/sqlglot](https://github.com/tobymao/sqlglot)
+- [SidharthArya starred ibis-project/ibis](https://github.com/ibis-project/ibis)
+- [SidharthArya starred magenta/ddsp-vst](https://github.com/magenta/ddsp-vst)
 - [SidharthArya starred jimp-dev/jimp](https://github.com/jimp-dev/jimp)
 - [SidharthArya starred crater-invoice/crater](https://github.com/crater-invoice/crater)
 - [SidharthArya starred editor-js/awesome-editorjs](https://github.com/editor-js/awesome-editorjs)
 - [SidharthArya starred codex-team/editor.js](https://github.com/codex-team/editor.js)
 - [SidharthArya pushed to dev in SidharthArya/simple-proxy](https://github.com/SidharthArya/simple-proxy/compare/3fab3a39ec...97d65a47bb)
 - [SidharthArya starred chenfei-wu/TaskMatrix](https://github.com/chenfei-wu/TaskMatrix)
-- [SidharthArya starred microsoft/STL](https://github.com/microsoft/STL)
-- [SidharthArya starred microsoft/RegionCLIP](https://github.com/microsoft/RegionCLIP)
-- [SidharthArya starred cuthbertLab/music21](https://github.com/cuthbertLab/music21)
-- [SidharthArya starred microsoft/muzic](https://github.com/microsoft/muzic)
 <!-- GITHUB:END -->
 
 ## Top Followers
