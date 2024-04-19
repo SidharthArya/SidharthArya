@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui)
+- [SidharthArya starred astral-sh/uv](https://github.com/astral-sh/uv)
 - [SidharthArya starred pyscript/pyscript](https://github.com/pyscript/pyscript)
 - [SidharthArya starred tobymao/sqlglot](https://github.com/tobymao/sqlglot)
 - [SidharthArya starred ibis-project/ibis](https://github.com/ibis-project/ibis)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred crater-invoice/crater](https://github.com/crater-invoice/crater)
 - [SidharthArya starred editor-js/awesome-editorjs](https://github.com/editor-js/awesome-editorjs)
 - [SidharthArya starred codex-team/editor.js](https://github.com/codex-team/editor.js)
-- [SidharthArya pushed to dev in SidharthArya/simple-proxy](https://github.com/SidharthArya/simple-proxy/compare/3fab3a39ec...97d65a47bb)
-- [SidharthArya starred chenfei-wu/TaskMatrix](https://github.com/chenfei-wu/TaskMatrix)
 <!-- GITHUB:END -->
 
 ## Top Followers
