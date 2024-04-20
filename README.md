@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred meta-llama/codellama](https://github.com/meta-llama/codellama)
 - [SidharthArya starred amalshaji/portr](https://github.com/amalshaji/portr)
 - [SidharthArya starred WINSDK/bite](https://github.com/WINSDK/bite)
 - [SidharthArya starred meta-llama/PurpleLlama](https://github.com/meta-llama/PurpleLlama)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui)
 - [SidharthArya starred astral-sh/uv](https://github.com/astral-sh/uv)
 - [SidharthArya starred pyscript/pyscript](https://github.com/pyscript/pyscript)
-- [SidharthArya starred tobymao/sqlglot](https://github.com/tobymao/sqlglot)
 <!-- GITHUB:END -->
 
 ## Top Followers
