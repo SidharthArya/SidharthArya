@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred vasturiano/react-force-graph](https://github.com/vasturiano/react-force-graph)
 - [SidharthArya starred chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui)
 - [SidharthArya starred astral-sh/uv](https://github.com/astral-sh/uv)
 - [SidharthArya starred pyscript/pyscript](https://github.com/pyscript/pyscript)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred jimp-dev/jimp](https://github.com/jimp-dev/jimp)
 - [SidharthArya starred crater-invoice/crater](https://github.com/crater-invoice/crater)
 - [SidharthArya starred editor-js/awesome-editorjs](https://github.com/editor-js/awesome-editorjs)
-- [SidharthArya starred codex-team/editor.js](https://github.com/codex-team/editor.js)
 <!-- GITHUB:END -->
 
 ## Top Followers
