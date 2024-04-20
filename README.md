@@ -87,16 +87,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred amalshaji/portr](https://github.com/amalshaji/portr)
+- [SidharthArya starred WINSDK/bite](https://github.com/WINSDK/bite)
+- [SidharthArya starred meta-llama/PurpleLlama](https://github.com/meta-llama/PurpleLlama)
+- [SidharthArya starred pytorch/torchtune](https://github.com/pytorch/torchtune)
+- [SidharthArya starred elastic/otel-profiling-agent](https://github.com/elastic/otel-profiling-agent)
 - [SidharthArya starred vasturiano/react-force-graph](https://github.com/vasturiano/react-force-graph)
 - [SidharthArya starred chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui)
 - [SidharthArya starred astral-sh/uv](https://github.com/astral-sh/uv)
 - [SidharthArya starred pyscript/pyscript](https://github.com/pyscript/pyscript)
 - [SidharthArya starred tobymao/sqlglot](https://github.com/tobymao/sqlglot)
-- [SidharthArya starred ibis-project/ibis](https://github.com/ibis-project/ibis)
-- [SidharthArya starred magenta/ddsp-vst](https://github.com/magenta/ddsp-vst)
-- [SidharthArya starred jimp-dev/jimp](https://github.com/jimp-dev/jimp)
-- [SidharthArya starred crater-invoice/crater](https://github.com/crater-invoice/crater)
-- [SidharthArya starred editor-js/awesome-editorjs](https://github.com/editor-js/awesome-editorjs)
 <!-- GITHUB:END -->
 
 ## Top Followers
