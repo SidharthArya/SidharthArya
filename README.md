@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred civitai/civitai](https://github.com/civitai/civitai)
 - [SidharthArya starred oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui)
 - [SidharthArya starred langchain-ai/langgraph](https://github.com/langchain-ai/langgraph)
 - [SidharthArya starred HeyPuter/puter](https://github.com/HeyPuter/puter)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred amalshaji/portr](https://github.com/amalshaji/portr)
 - [SidharthArya starred WINSDK/bite](https://github.com/WINSDK/bite)
 - [SidharthArya starred meta-llama/PurpleLlama](https://github.com/meta-llama/PurpleLlama)
-- [SidharthArya starred pytorch/torchtune](https://github.com/pytorch/torchtune)
 <!-- GITHUB:END -->
 
 ## Top Followers
