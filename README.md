@@ -87,16 +87,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui)
+- [SidharthArya starred langchain-ai/langgraph](https://github.com/langchain-ai/langgraph)
+- [SidharthArya starred HeyPuter/puter](https://github.com/HeyPuter/puter)
+- [SidharthArya starred mudler/LocalAI](https://github.com/mudler/LocalAI)
+- [SidharthArya starred meta-llama/llama3](https://github.com/meta-llama/llama3)
 - [SidharthArya starred meta-llama/codellama](https://github.com/meta-llama/codellama)
 - [SidharthArya starred amalshaji/portr](https://github.com/amalshaji/portr)
 - [SidharthArya starred WINSDK/bite](https://github.com/WINSDK/bite)
 - [SidharthArya starred meta-llama/PurpleLlama](https://github.com/meta-llama/PurpleLlama)
 - [SidharthArya starred pytorch/torchtune](https://github.com/pytorch/torchtune)
-- [SidharthArya starred elastic/otel-profiling-agent](https://github.com/elastic/otel-profiling-agent)
-- [SidharthArya starred vasturiano/react-force-graph](https://github.com/vasturiano/react-force-graph)
-- [SidharthArya starred chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui)
-- [SidharthArya starred astral-sh/uv](https://github.com/astral-sh/uv)
-- [SidharthArya starred pyscript/pyscript](https://github.com/pyscript/pyscript)
 <!-- GITHUB:END -->
 
 ## Top Followers
