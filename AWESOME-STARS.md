@@ -242,6 +242,7 @@
 
 ## C++ 
 
+- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs gguf, transfor
 - [magenta/ddsp-vst](https://github.com/magenta/ddsp-vst) - Realtime DDSP Neural Synthesizer and Effect
 - [microsoft/STL](https://github.com/microsoft/STL) - MSVC's implementation of the C++ Standard Library.
 - [cnr-isti-vclab/meshlab](https://github.com/cnr-isti-vclab/meshlab) - The open source mesh processing system
@@ -935,6 +936,7 @@
 
 ## JavaScript 
 
+- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable!
 - [jimp-dev/jimp](https://github.com/jimp-dev/jimp) - An image processing library written entirely in JavaScript for Node, with zero external or native dependencies.
 - [stefanXO/Tab-Manager-Plus](https://github.com/stefanXO/Tab-Manager-Plus) - An updated and improved Chrome and Firefox extension of the old google chrome extension "Tab Manager".
 - [Hextris/hextris](https://github.com/Hextris/hextris) - Fast paced HTML5 puzzle game inspired by Tetris!
@@ -1593,6 +1595,9 @@
 
 ## Python 
 
+- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models. Supports transformers, GPTQ, AWQ, EXL2, llama.cpp (GGUF), Llama models.
+- [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) - 
+- [meta-llama/llama3](https://github.com/meta-llama/llama3) - The official Meta Llama 3 GitHub site
 - [meta-llama/codellama](https://github.com/meta-llama/codellama) - Inference code for CodeLlama models
 - [meta-llama/PurpleLlama](https://github.com/meta-llama/PurpleLlama) - Set of tools to assess and improve LLM security.
 - [pytorch/torchtune](https://github.com/pytorch/torchtune) - A Native-PyTorch Library for LLM Fine-tuning
@@ -2525,6 +2530,7 @@
 
 ## TypeScript 
 
+- [civitai/civitai](https://github.com/civitai/civitai) - A repository of models, textual inversions, and more
 - [codex-team/editor.js](https://github.com/codex-team/editor.js) - A block-style editor with clean JSON output
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
