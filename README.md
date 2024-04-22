@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred ocornut/imgui](https://github.com/ocornut/imgui)
+- [SidharthArya starred YavorGIvanov/sam.cpp](https://github.com/YavorGIvanov/sam.cpp)
 - [SidharthArya starred civitai/civitai](https://github.com/civitai/civitai)
 - [SidharthArya starred oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui)
 - [SidharthArya starred langchain-ai/langgraph](https://github.com/langchain-ai/langgraph)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred meta-llama/llama3](https://github.com/meta-llama/llama3)
 - [SidharthArya starred meta-llama/codellama](https://github.com/meta-llama/codellama)
 - [SidharthArya starred amalshaji/portr](https://github.com/amalshaji/portr)
-- [SidharthArya starred WINSDK/bite](https://github.com/WINSDK/bite)
-- [SidharthArya starred meta-llama/PurpleLlama](https://github.com/meta-llama/PurpleLlama)
 <!-- GITHUB:END -->
 
 ## Top Followers
