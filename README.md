@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile)
 - [SidharthArya starred jart/cosmopolitan](https://github.com/jart/cosmopolitan)
 - [SidharthArya starred ocornut/imgui](https://github.com/ocornut/imgui)
 - [SidharthArya starred YavorGIvanov/sam.cpp](https://github.com/YavorGIvanov/sam.cpp)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred HeyPuter/puter](https://github.com/HeyPuter/puter)
 - [SidharthArya starred mudler/LocalAI](https://github.com/mudler/LocalAI)
 - [SidharthArya starred meta-llama/llama3](https://github.com/meta-llama/llama3)
-- [SidharthArya starred meta-llama/codellama](https://github.com/meta-llama/codellama)
 <!-- GITHUB:END -->
 
 ## Top Followers
