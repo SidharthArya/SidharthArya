@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred facebookresearch/audiocraft](https://github.com/facebookresearch/audiocraft)
 - [SidharthArya starred mathjax/MathJax](https://github.com/mathjax/MathJax)
 - [SidharthArya starred Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile)
 - [SidharthArya starred jart/cosmopolitan](https://github.com/jart/cosmopolitan)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui)
 - [SidharthArya starred langchain-ai/langgraph](https://github.com/langchain-ai/langgraph)
 - [SidharthArya starred HeyPuter/puter](https://github.com/HeyPuter/puter)
-- [SidharthArya starred mudler/LocalAI](https://github.com/mudler/LocalAI)
 <!-- GITHUB:END -->
 
 ## Top Followers
