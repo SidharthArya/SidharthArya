@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred google-research/vision_transformer](https://github.com/google-research/vision_transformer)
+- [SidharthArya starred NVlabs/eg3d](https://github.com/NVlabs/eg3d)
 - [SidharthArya starred amusi/CVPR2024-Papers-with-Code](https://github.com/amusi/CVPR2024-Papers-with-Code)
 - [SidharthArya starred catalyst-team/catalyst](https://github.com/catalyst-team/catalyst)
 - [SidharthArya starred facebookresearch/audiocraft](https://github.com/facebookresearch/audiocraft)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred jart/cosmopolitan](https://github.com/jart/cosmopolitan)
 - [SidharthArya starred ocornut/imgui](https://github.com/ocornut/imgui)
 - [SidharthArya starred YavorGIvanov/sam.cpp](https://github.com/YavorGIvanov/sam.cpp)
-- [SidharthArya starred civitai/civitai](https://github.com/civitai/civitai)
-- [SidharthArya starred oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui)
 <!-- GITHUB:END -->
 
 ## Top Followers
