@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred amusi/CVPR2024-Papers-with-Code](https://github.com/amusi/CVPR2024-Papers-with-Code)
+- [SidharthArya starred catalyst-team/catalyst](https://github.com/catalyst-team/catalyst)
 - [SidharthArya starred facebookresearch/audiocraft](https://github.com/facebookresearch/audiocraft)
 - [SidharthArya starred mathjax/MathJax](https://github.com/mathjax/MathJax)
 - [SidharthArya starred Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred YavorGIvanov/sam.cpp](https://github.com/YavorGIvanov/sam.cpp)
 - [SidharthArya starred civitai/civitai](https://github.com/civitai/civitai)
 - [SidharthArya starred oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui)
-- [SidharthArya starred langchain-ai/langgraph](https://github.com/langchain-ai/langgraph)
-- [SidharthArya starred HeyPuter/puter](https://github.com/HeyPuter/puter)
 <!-- GITHUB:END -->
 
 ## Top Followers
