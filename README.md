@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred UX-Decoder/Semantic-SAM](https://github.com/UX-Decoder/Semantic-SAM)
 - [SidharthArya starred google-research/vision_transformer](https://github.com/google-research/vision_transformer)
 - [SidharthArya starred NVlabs/eg3d](https://github.com/NVlabs/eg3d)
 - [SidharthArya starred amusi/CVPR2024-Papers-with-Code](https://github.com/amusi/CVPR2024-Papers-with-Code)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile)
 - [SidharthArya starred jart/cosmopolitan](https://github.com/jart/cosmopolitan)
 - [SidharthArya starred ocornut/imgui](https://github.com/ocornut/imgui)
-- [SidharthArya starred YavorGIvanov/sam.cpp](https://github.com/YavorGIvanov/sam.cpp)
 <!-- GITHUB:END -->
 
 ## Top Followers
