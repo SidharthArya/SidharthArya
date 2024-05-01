@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred EricLBuehler/mistral.rs](https://github.com/EricLBuehler/mistral.rs)
 - [SidharthArya starred apple/corenet](https://github.com/apple/corenet)
 - [SidharthArya starred blender/blender](https://github.com/blender/blender)
 - [SidharthArya starred UX-Decoder/Semantic-SAM](https://github.com/UX-Decoder/Semantic-SAM)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred catalyst-team/catalyst](https://github.com/catalyst-team/catalyst)
 - [SidharthArya starred facebookresearch/audiocraft](https://github.com/facebookresearch/audiocraft)
 - [SidharthArya starred mathjax/MathJax](https://github.com/mathjax/MathJax)
-- [SidharthArya starred Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile)
 <!-- GITHUB:END -->
 
 ## Top Followers
