@@ -122,6 +122,7 @@
 - [psycopg/psycopg2](https://github.com/psycopg/psycopg2) - PostgreSQL database adapter for the Python programming language
 - [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families
 - [woltapp/blurhash](https://github.com/woltapp/blurhash) - A very compact representation of a placeholder for an image.
+- [deepinsight/insightface](https://github.com/deepinsight/insightface) - State-of-the-art 2D and 3D Face Analysis Project
 - [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [rainmeter/rainmeter](https://github.com/rainmeter/rainmeter) - Desktop customization tool for Windows
 - [jart/blink](https://github.com/jart/blink) - tiniest x86-64-linux emulator
@@ -394,6 +395,7 @@
 
 ## CSS 
 
+- [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
 - [kognise/water.css](https://github.com/kognise/water.css) - A drop-in collection of CSS styles to make simple websites just a little nicer
 - [bradtraversy/50projects50days](https://github.com/bradtraversy/50projects50days) - 50+ mini web projects using HTML, CSS & JS
 - [aws-samples/eks-workshop](https://github.com/aws-samples/eks-workshop) - AWS Workshop for Learning EKS
@@ -939,6 +941,7 @@
 
 ## JavaScript 
 
+- [Dogfalo/materialize](https://github.com/Dogfalo/materialize) - Materialize, a CSS Framework based on Material Design
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
 - [jimp-dev/jimp](https://github.com/jimp-dev/jimp) - An image processing library written entirely in JavaScript for Node, with zero external or native dependencies.
 - [stefanXO/Tab-Manager-Plus](https://github.com/stefanXO/Tab-Manager-Plus) - An updated and improved Chrome and Firefox extension of the old google chrome extension "Tab Manager".
@@ -1774,7 +1777,6 @@
 - [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
 - [tensorflow/ranking](https://github.com/tensorflow/ranking) - Learning to Rank in TensorFlow
 - [kevinzakka/spatial-transformer-network](https://github.com/kevinzakka/spatial-transformer-network) - A Tensorflow implementation of Spatial Transformer Networks.
-- [deepinsight/insightface](https://github.com/deepinsight/insightface) - State-of-the-art 2D and 3D Face Analysis Project
 - [microsoft/NeuronBlocks](https://github.com/microsoft/NeuronBlocks) - NLP DNN Toolkit - Building Your NLP DNN Models Like Playing Lego
 - [cleardusk/3DDFA_V2](https://github.com/cleardusk/3DDFA_V2) - The official PyTorch implementation of Towards Fast, Accurate and Stable 3D Dense Face Alignment, ECCV 2020.
 - [jiaaro/pydub](https://github.com/jiaaro/pydub) - Manipulate audio with a simple and easy high level interface
@@ -2542,6 +2544,8 @@
 
 ## TypeScript 
 
+- [microsoft/fast](https://github.com/microsoft/fast) - The adaptive interface system for modern web experiences.
+- [microsoft/fluentui](https://github.com/microsoft/fluentui) - Fluent UI web represents a collection of utilities, React components, and web components for building web applications.
 - [civitai/civitai](https://github.com/civitai/civitai) - A repository of models, textual inversions, and more
 - [codex-team/editor.js](https://github.com/codex-team/editor.js) - A block-style editor with clean JSON output
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
