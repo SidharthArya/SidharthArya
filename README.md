@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred microsoft/fluentui](https://github.com/microsoft/fluentui)
 - [SidharthArya starred EricLBuehler/mistral.rs](https://github.com/EricLBuehler/mistral.rs)
 - [SidharthArya starred apple/corenet](https://github.com/apple/corenet)
 - [SidharthArya starred blender/blender](https://github.com/blender/blender)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred amusi/CVPR2024-Papers-with-Code](https://github.com/amusi/CVPR2024-Papers-with-Code)
 - [SidharthArya starred catalyst-team/catalyst](https://github.com/catalyst-team/catalyst)
 - [SidharthArya starred facebookresearch/audiocraft](https://github.com/facebookresearch/audiocraft)
-- [SidharthArya starred mathjax/MathJax](https://github.com/mathjax/MathJax)
 <!-- GITHUB:END -->
 
 ## Top Followers
