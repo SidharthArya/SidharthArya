@@ -87,6 +87,9 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred jgthms/bulma](https://github.com/jgthms/bulma)
+- [SidharthArya starred Dogfalo/materialize](https://github.com/Dogfalo/materialize)
+- [SidharthArya starred microsoft/fast](https://github.com/microsoft/fast)
 - [SidharthArya starred microsoft/fluentui](https://github.com/microsoft/fluentui)
 - [SidharthArya starred EricLBuehler/mistral.rs](https://github.com/EricLBuehler/mistral.rs)
 - [SidharthArya starred apple/corenet](https://github.com/apple/corenet)
@@ -94,9 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred UX-Decoder/Semantic-SAM](https://github.com/UX-Decoder/Semantic-SAM)
 - [SidharthArya starred google-research/vision_transformer](https://github.com/google-research/vision_transformer)
 - [SidharthArya starred NVlabs/eg3d](https://github.com/NVlabs/eg3d)
-- [SidharthArya starred amusi/CVPR2024-Papers-with-Code](https://github.com/amusi/CVPR2024-Papers-with-Code)
-- [SidharthArya starred catalyst-team/catalyst](https://github.com/catalyst-team/catalyst)
-- [SidharthArya starred facebookresearch/audiocraft](https://github.com/facebookresearch/audiocraft)
 <!-- GITHUB:END -->
 
 ## Top Followers
