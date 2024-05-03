@@ -87,16 +87,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to main in SidharthArya/trackless](https://github.com/SidharthArya/trackless/compare/85198b6f19...4c9c534750)
+- [SidharthArya opened an issue in SidharthArya/trackless](https://github.com/SidharthArya/trackless/issues/7)
+- [SidharthArya opened an issue in SidharthArya/trackless](https://github.com/SidharthArya/trackless/issues/6)
+- [SidharthArya opened an issue in SidharthArya/trackless](https://github.com/SidharthArya/trackless/issues/5)
+- [SidharthArya opened an issue in SidharthArya/trackless](https://github.com/SidharthArya/trackless/issues/4)
+- [SidharthArya opened an issue in SidharthArya/trackless](https://github.com/SidharthArya/trackless/issues/3)
+- [SidharthArya opened an issue in SidharthArya/trackless](https://github.com/SidharthArya/trackless/issues/2)
 - [SidharthArya starred jgthms/bulma](https://github.com/jgthms/bulma)
 - [SidharthArya starred Dogfalo/materialize](https://github.com/Dogfalo/materialize)
 - [SidharthArya starred microsoft/fast](https://github.com/microsoft/fast)
-- [SidharthArya starred microsoft/fluentui](https://github.com/microsoft/fluentui)
-- [SidharthArya starred EricLBuehler/mistral.rs](https://github.com/EricLBuehler/mistral.rs)
-- [SidharthArya starred apple/corenet](https://github.com/apple/corenet)
-- [SidharthArya starred blender/blender](https://github.com/blender/blender)
-- [SidharthArya starred UX-Decoder/Semantic-SAM](https://github.com/UX-Decoder/Semantic-SAM)
-- [SidharthArya starred google-research/vision_transformer](https://github.com/google-research/vision_transformer)
-- [SidharthArya starred NVlabs/eg3d](https://github.com/NVlabs/eg3d)
 <!-- GITHUB:END -->
 
 ## Top Followers
