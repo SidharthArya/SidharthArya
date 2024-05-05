@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred fastnlp/fastNLP](https://github.com/fastnlp/fastNLP)
+- [SidharthArya forked SidharthArya/awesome-fast-attention from Separius/awesome-fast-attention](https://github.com/SidharthArya/awesome-fast-attention)
 - [SidharthArya forked SidharthArya/saas-starter-kit from boxyhq/saas-starter-kit](https://github.com/SidharthArya/saas-starter-kit)
 - [SidharthArya starred facebookresearch/llm-transparency-tool](https://github.com/facebookresearch/llm-transparency-tool)
 - [SidharthArya pushed to main in SidharthArya/trackless](https://github.com/SidharthArya/trackless/compare/85198b6f19...4c9c534750)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya opened an issue in SidharthArya/trackless](https://github.com/SidharthArya/trackless/issues/5)
 - [SidharthArya opened an issue in SidharthArya/trackless](https://github.com/SidharthArya/trackless/issues/4)
 - [SidharthArya opened an issue in SidharthArya/trackless](https://github.com/SidharthArya/trackless/issues/3)
-- [SidharthArya opened an issue in SidharthArya/trackless](https://github.com/SidharthArya/trackless/issues/2)
-- [SidharthArya starred jgthms/bulma](https://github.com/jgthms/bulma)
 <!-- GITHUB:END -->
 
 ## Top Followers
