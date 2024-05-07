@@ -913,7 +913,7 @@
 - [akshitgupta95/IDCardDataExtractorWithOnDeviceML](https://github.com/akshitgupta95/IDCardDataExtractorWithOnDeviceML) - Text Extraction from Aadhaar Card,Pan Card for Indian Citizens using on-device(Android) machine learning.
 - [zo0r/react-native-push-notification](https://github.com/zo0r/react-native-push-notification) - React Native Local and Remote Notifications
 - [react-native-image-picker/react-native-image-picker](https://github.com/react-native-image-picker/react-native-image-picker) - :sunrise_over_mountains: A React Native module that allows you to use native UI to select media from the device library or directly from the camera.
-- [react-native-video/react-native-video](https://github.com/react-native-video/react-native-video) - A &lt;Video /&gt; component for react-native
+- [TheWidlarzGroup/react-native-video](https://github.com/TheWidlarzGroup/react-native-video) - A &lt;Video /&gt; component for react-native
 - [crazycodeboy/react-native-splash-screen](https://github.com/crazycodeboy/react-native-splash-screen) - A splash screen for react-native, hide when application loaded ,it works on iOS and Android.
 - [react-native-camera/react-native-camera](https://github.com/react-native-camera/react-native-camera) - A Camera component for React Native. Also supports barcode scanning!
 - [google/ringdroid](https://github.com/google/ringdroid) - 
@@ -2666,7 +2666,7 @@
 - [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
 - [element-plus/element-plus](https://github.com/element-plus/element-plus) - 🎉 A Vue.js 3 UI Library made by Element team
 - [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
-- [novuhq/novu](https://github.com/novuhq/novu) - 🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀
+- [novuhq/novu](https://github.com/novuhq/novu) - GitOps based Notification Infrastructure as Code. Embeddable Notification Center, E-mail, Push and Slack Integrations.
 - [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
 - [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
 - [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer. ⭐️ Star to support our work!
