@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred osmr/imgclsmob](https://github.com/osmr/imgclsmob)
+- [SidharthArya starred ZrrSkywalker/Personalize-SAM](https://github.com/ZrrSkywalker/Personalize-SAM)
 - [SidharthArya pushed to main in SidharthArya/.zsh](https://github.com/SidharthArya/.zsh/compare/ff2e2fecc8...5c2e455c82)
 - [SidharthArya pushed to master in SidharthArya/.nnn](https://github.com/SidharthArya/.nnn/compare/176a765b3e...d5bb70d492)
 - [SidharthArya pushed to main in SidharthArya/.tmux](https://github.com/SidharthArya/.tmux/compare/f64b9d6524...0657495bcc)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to main in SidharthArya/trackless](https://github.com/SidharthArya/trackless/compare/54cd42476e...38b1f5b9d1)
 - [SidharthArya pushed to main in SidharthArya/trackless](https://github.com/SidharthArya/trackless/compare/4f8f352873...54cd42476e)
 - [SidharthArya pushed to main in SidharthArya/trackless](https://github.com/SidharthArya/trackless/compare/c64a40a988...4f8f352873)
-- [SidharthArya pushed to main in SidharthArya/trackless](https://github.com/SidharthArya/trackless/compare/4c9c534750...c64a40a988)
-- [SidharthArya starred remix-run/remix](https://github.com/remix-run/remix)
 <!-- GITHUB:END -->
 
 ## Top Followers
