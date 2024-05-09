@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred OLIMEX/DIY-LAPTOP](https://github.com/OLIMEX/DIY-LAPTOP)
 - [SidharthArya starred osmr/imgclsmob](https://github.com/osmr/imgclsmob)
 - [SidharthArya starred ZrrSkywalker/Personalize-SAM](https://github.com/ZrrSkywalker/Personalize-SAM)
 - [SidharthArya pushed to main in SidharthArya/.zsh](https://github.com/SidharthArya/.zsh/compare/ff2e2fecc8...5c2e455c82)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to main in SidharthArya/trackless](https://github.com/SidharthArya/trackless/compare/38b1f5b9d1...9ff84f0a1f)
 - [SidharthArya pushed to main in SidharthArya/trackless](https://github.com/SidharthArya/trackless/compare/54cd42476e...38b1f5b9d1)
 - [SidharthArya pushed to main in SidharthArya/trackless](https://github.com/SidharthArya/trackless/compare/4f8f352873...54cd42476e)
-- [SidharthArya pushed to main in SidharthArya/trackless](https://github.com/SidharthArya/trackless/compare/c64a40a988...4f8f352873)
 <!-- GITHUB:END -->
 
 ## Top Followers
