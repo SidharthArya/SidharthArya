@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)
 - [SidharthArya starred lbonn/rofi](https://github.com/lbonn/rofi)
 - [SidharthArya starred OLIMEX/DIY-LAPTOP](https://github.com/OLIMEX/DIY-LAPTOP)
 - [SidharthArya starred osmr/imgclsmob](https://github.com/osmr/imgclsmob)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to main in SidharthArya/.tmux](https://github.com/SidharthArya/.tmux/compare/f64b9d6524...0657495bcc)
 - [SidharthArya pushed to master in SidharthArya/.bspwm](https://github.com/SidharthArya/.bspwm/compare/deaf55d22e...d3978eacb7)
 - [SidharthArya pushed to main in SidharthArya/trackless](https://github.com/SidharthArya/trackless/compare/38b1f5b9d1...9ff84f0a1f)
-- [SidharthArya pushed to main in SidharthArya/trackless](https://github.com/SidharthArya/trackless/compare/54cd42476e...38b1f5b9d1)
 <!-- GITHUB:END -->
 
 ## Top Followers
