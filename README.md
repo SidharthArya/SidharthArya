@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya created a branch main in SidharthArya/.hypr](https://github.com/SidharthArya/.hypr/compare/main)
+- [SidharthArya created a repository SidharthArya/.hypr](https://github.com/SidharthArya/.hypr//)
 - [SidharthArya starred DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus)
 - [SidharthArya starred Alexays/Waybar](https://github.com/Alexays/Waybar)
 - [SidharthArya starred UKPLab/sentence-transformers](https://github.com/UKPLab/sentence-transformers)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred lbonn/rofi](https://github.com/lbonn/rofi)
 - [SidharthArya starred OLIMEX/DIY-LAPTOP](https://github.com/OLIMEX/DIY-LAPTOP)
 - [SidharthArya starred osmr/imgclsmob](https://github.com/osmr/imgclsmob)
-- [SidharthArya starred ZrrSkywalker/Personalize-SAM](https://github.com/ZrrSkywalker/Personalize-SAM)
-- [SidharthArya pushed to main in SidharthArya/.zsh](https://github.com/SidharthArya/.zsh/compare/ff2e2fecc8...5c2e455c82)
 <!-- GITHUB:END -->
 
 ## Top Followers
