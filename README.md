@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred anyrun-org/anyrun](https://github.com/anyrun-org/anyrun)
 - [SidharthArya created a branch main in SidharthArya/.hypr](https://github.com/SidharthArya/.hypr/compare/main)
 - [SidharthArya created a repository SidharthArya/.hypr](https://github.com/SidharthArya/.hypr//)
 - [SidharthArya starred DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)
 - [SidharthArya starred lbonn/rofi](https://github.com/lbonn/rofi)
 - [SidharthArya starred OLIMEX/DIY-LAPTOP](https://github.com/OLIMEX/DIY-LAPTOP)
-- [SidharthArya starred osmr/imgclsmob](https://github.com/osmr/imgclsmob)
 <!-- GITHUB:END -->
 
 ## Top Followers
