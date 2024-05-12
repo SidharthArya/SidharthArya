@@ -87,6 +87,9 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus)
+- [SidharthArya starred Alexays/Waybar](https://github.com/Alexays/Waybar)
+- [SidharthArya starred UKPLab/sentence-transformers](https://github.com/UKPLab/sentence-transformers)
 - [SidharthArya starred online-ml/river](https://github.com/online-ml/river)
 - [SidharthArya starred hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)
 - [SidharthArya starred lbonn/rofi](https://github.com/lbonn/rofi)
@@ -94,9 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred osmr/imgclsmob](https://github.com/osmr/imgclsmob)
 - [SidharthArya starred ZrrSkywalker/Personalize-SAM](https://github.com/ZrrSkywalker/Personalize-SAM)
 - [SidharthArya pushed to main in SidharthArya/.zsh](https://github.com/SidharthArya/.zsh/compare/ff2e2fecc8...5c2e455c82)
-- [SidharthArya pushed to master in SidharthArya/.nnn](https://github.com/SidharthArya/.nnn/compare/176a765b3e...d5bb70d492)
-- [SidharthArya pushed to main in SidharthArya/.tmux](https://github.com/SidharthArya/.tmux/compare/f64b9d6524...0657495bcc)
-- [SidharthArya pushed to master in SidharthArya/.bspwm](https://github.com/SidharthArya/.bspwm/compare/deaf55d22e...d3978eacb7)
 <!-- GITHUB:END -->
 
 ## Top Followers
