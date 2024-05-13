@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya created a branch main in SidharthArya/trackless_backend](https://github.com/SidharthArya/trackless_backend/compare/main)
+- [SidharthArya created a repository SidharthArya/trackless_backend](https://github.com/SidharthArya/trackless_backend//)
 - [SidharthArya starred CorentinTh/it-tools](https://github.com/CorentinTh/it-tools)
 - [SidharthArya starred dataelement/bisheng](https://github.com/dataelement/bisheng)
 - [SidharthArya starred roboflow/supervision](https://github.com/roboflow/supervision)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya created a branch main in SidharthArya/.hypr](https://github.com/SidharthArya/.hypr/compare/main)
 - [SidharthArya created a repository SidharthArya/.hypr](https://github.com/SidharthArya/.hypr//)
 - [SidharthArya starred DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus)
-- [SidharthArya starred Alexays/Waybar](https://github.com/Alexays/Waybar)
-- [SidharthArya starred UKPLab/sentence-transformers](https://github.com/UKPLab/sentence-transformers)
 <!-- GITHUB:END -->
 
 ## Top Followers
