@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
 - [SidharthArya created a branch main in SidharthArya/trackless_backend](https://github.com/SidharthArya/trackless_backend/compare/main)
 - [SidharthArya created a repository SidharthArya/trackless_backend](https://github.com/SidharthArya/trackless_backend//)
 - [SidharthArya starred CorentinTh/it-tools](https://github.com/CorentinTh/it-tools)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred anyrun-org/anyrun](https://github.com/anyrun-org/anyrun)
 - [SidharthArya created a branch main in SidharthArya/.hypr](https://github.com/SidharthArya/.hypr/compare/main)
 - [SidharthArya created a repository SidharthArya/.hypr](https://github.com/SidharthArya/.hypr//)
-- [SidharthArya starred DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus)
 <!-- GITHUB:END -->
 
 ## Top Followers
