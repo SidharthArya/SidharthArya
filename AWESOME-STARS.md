@@ -262,7 +262,7 @@
 - [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - LLM inference in C/C++
 - [NVIDIA/TensorRT](https://github.com/NVIDIA/TensorRT) - NVIDIA® TensorRT™ is an SDK for high-performance deep learning inference on NVIDIA GPUs. This repository contains the open source components of TensorRT.
 - [google/gemma.cpp](https://github.com/google/gemma.cpp) - lightweight, standalone C++ inference engine for Google's Gemma models.
-- [google/mediapipe](https://github.com/google/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
+- [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
 - [idaholab/moose](https://github.com/idaholab/moose) - Multiphysics Object Oriented Simulation Environment
 - [google/glog](https://github.com/google/glog) - C++ implementation of the Google logging module
 - [google/angle](https://github.com/google/angle) - A conformant OpenGL ES implementation for Windows, Mac, Linux, iOS and Android.
@@ -930,7 +930,7 @@
 - [android/media-samples](https://github.com/android/media-samples) - Multiple samples showing the best practices in media APIs on Android (audio, video, etc.).
 - [microsoft/gctoolkit](https://github.com/microsoft/gctoolkit) - Tool for parsing GC logs
 - [open-keychain/open-keychain](https://github.com/open-keychain/open-keychain) - OpenKeychain is an OpenPGP implementation for Android.
-- [dromara/Sa-Token](https://github.com/dromara/Sa-Token) - 这可能是史上功能最全的Java权限认证框架！目前已集成——登录认证、权限认证、分布式Session会话、微服务网关鉴权、单点登录、OAuth2.0、踢人下线、Redis集成、前后台分离、记住我模式、模拟他人账号、临时身份切换、账号封禁、多账号认证体系、注解式鉴权、路由拦截式鉴权、花式token生成、自动续签、同端互斥登录、会话治理、密码加密、jwt集成、Spring集成、WebFlux集成...
+- [dromara/Sa-Token](https://github.com/dromara/Sa-Token) - 一个轻量级 Java 权限认证框架，让鉴权变得简单、优雅！—— 登录认证、权限认证、分布式Session会话、微服务网关鉴权、单点登录、OAuth2.0
 - [assertj/assertj](https://github.com/assertj/assertj) - AssertJ is a library providing easy to use rich typed assertions
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 - [payatu/diva-android](https://github.com/payatu/diva-android) - DIVA Android - Damn Insecure and vulnerable App for Android
@@ -1067,7 +1067,7 @@
 - [lutzroeder/netron](https://github.com/lutzroeder/netron) - Visualizer for neural network, deep learning and machine learning models
 - [disease-sh/API](https://github.com/disease-sh/API) - API for Current cases and more stuff about COVID-19 and Influenza
 - [covid19india/covid19india-react](https://github.com/covid19india/covid19india-react) - Tracking the impact of COVID-19 in India
-- [breck7/scroll](https://github.com/breck7/scroll) - Tools for thought. A language for bloggers. This repo contains the language and a static site generator command line app.
+- [breck7/scroll](https://github.com/breck7/scroll) - Scroll is a language for scientists of all ages. Scroll includes a command line app that builds static blogs, websites, CSVs, text files, and more.
 - [firebase/functions-samples](https://github.com/firebase/functions-samples) - Collection of sample apps showcasing popular use cases using Cloud Functions for Firebase
 - [quasarframework/quasar](https://github.com/quasarframework/quasar) - Quasar Framework - Build high-performance VueJS user interfaces in record time
 - [haizlin/fe-interview](https://github.com/haizlin/fe-interview) - 前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家），6000+道前端面试题全面覆盖，HTML/CSS/JavaScript/Vue/React/Nodejs/TypeScript/ECMAScritpt/Webpack/Jquery/小程序/软技能……
@@ -1402,6 +1402,7 @@
 
 ## Others 
 
+- [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
 - [amusi/CVPR2024-Papers-with-Code](https://github.com/amusi/CVPR2024-Papers-with-Code) - CVPR 2024 论文和开源项目合集
 - [mathjax/MathJax](https://github.com/mathjax/MathJax) - Beautiful and accessible math in all browsers
 - [editor-js/awesome-editorjs](https://github.com/editor-js/awesome-editorjs) - 🤩 A curated list of awesome Editor.js tools, libraries and resources.
@@ -1417,7 +1418,7 @@
 - [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
 - [ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) - Learn System Design concepts and prepare for interviews using free resources.
 - [KaimingHe/deep-residual-networks](https://github.com/KaimingHe/deep-residual-networks) - Deep Residual Learning for Image Recognition
-- [systemdesign42/system-design](https://github.com/systemdesign42/system-design) - A resource to help you learn system design.
+- [systemdesign42/system-design](https://github.com/systemdesign42/system-design) - A resource to help you become good at system design.
 - [coqui-ai/TTS-papers](https://github.com/coqui-ai/TTS-papers) - 🐸 collection of TTS papers
 - [cloudcommunity/Cloud-Free-Tier-Comparison](https://github.com/cloudcommunity/Cloud-Free-Tier-Comparison) - Comparing the free tier offers of the major cloud providers like AWS, Azure, GCP, Oracle etc.
 - [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
@@ -1711,7 +1712,7 @@
 - [dbt-labs/dbt-core](https://github.com/dbt-labs/dbt-core) - dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.
 - [stas00/ml-engineering](https://github.com/stas00/ml-engineering) - Machine Learning Engineering Open Book
 - [haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA) - [NeurIPS'23 Oral] Visual Instruction Tuning (LLaVA) built towards GPT-4V level capabilities and beyond.
-- [phidatahq/phidata](https://github.com/phidatahq/phidata) - Memory, knowledge and tools for LLMs
+- [phidatahq/phidata](https://github.com/phidatahq/phidata) - Build AI Agents with memory, knowledge and tools.
 - [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by AI large language models like GPT-4, will help you accomplish your tasks faster and more efficiently.
 - [apple/ml-mgie](https://github.com/apple/ml-mgie) - 
 - [joaomdmoura/crewAI](https://github.com/joaomdmoura/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
