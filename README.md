@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred google-research/timesfm](https://github.com/google-research/timesfm)
 - [SidharthArya starred google-deepmind/onetwo](https://github.com/google-deepmind/onetwo)
 - [SidharthArya starred google-deepmind/open_spiel](https://github.com/google-deepmind/open_spiel)
 - [SidharthArya starred openai/weak-to-strong](https://github.com/openai/weak-to-strong)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya created a repository SidharthArya/trackless_backend](https://github.com/SidharthArya/trackless_backend//)
 - [SidharthArya starred CorentinTh/it-tools](https://github.com/CorentinTh/it-tools)
 - [SidharthArya starred dataelement/bisheng](https://github.com/dataelement/bisheng)
-- [SidharthArya starred roboflow/supervision](https://github.com/roboflow/supervision)
 <!-- GITHUB:END -->
 
 ## Top Followers
