@@ -87,16 +87,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred google-deepmind/onetwo](https://github.com/google-deepmind/onetwo)
+- [SidharthArya starred google-deepmind/open_spiel](https://github.com/google-deepmind/open_spiel)
+- [SidharthArya starred openai/weak-to-strong](https://github.com/openai/weak-to-strong)
+- [SidharthArya starred openai/jukebox](https://github.com/openai/jukebox)
 - [SidharthArya starred sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
 - [SidharthArya created a branch main in SidharthArya/trackless_backend](https://github.com/SidharthArya/trackless_backend/compare/main)
 - [SidharthArya created a repository SidharthArya/trackless_backend](https://github.com/SidharthArya/trackless_backend//)
 - [SidharthArya starred CorentinTh/it-tools](https://github.com/CorentinTh/it-tools)
 - [SidharthArya starred dataelement/bisheng](https://github.com/dataelement/bisheng)
 - [SidharthArya starred roboflow/supervision](https://github.com/roboflow/supervision)
-- [SidharthArya starred lllyasviel/IC-Light](https://github.com/lllyasviel/IC-Light)
-- [SidharthArya starred anyrun-org/anyrun](https://github.com/anyrun-org/anyrun)
-- [SidharthArya created a branch main in SidharthArya/.hypr](https://github.com/SidharthArya/.hypr/compare/main)
-- [SidharthArya created a repository SidharthArya/.hypr](https://github.com/SidharthArya/.hypr//)
 <!-- GITHUB:END -->
 
 ## Top Followers
