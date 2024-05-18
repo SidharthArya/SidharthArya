@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred HigherOrderCO/HVM](https://github.com/HigherOrderCO/HVM)
+- [SidharthArya starred HigherOrderCO/Bend](https://github.com/HigherOrderCO/Bend)
 - [SidharthArya starred Aylur/ags](https://github.com/Aylur/ags)
 - [SidharthArya starred google-research/timesfm](https://github.com/google-research/timesfm)
 - [SidharthArya starred google-deepmind/onetwo](https://github.com/google-deepmind/onetwo)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred openai/jukebox](https://github.com/openai/jukebox)
 - [SidharthArya starred sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
 - [SidharthArya created a branch main in SidharthArya/trackless_backend](https://github.com/SidharthArya/trackless_backend/compare/main)
-- [SidharthArya created a repository SidharthArya/trackless_backend](https://github.com/SidharthArya/trackless_backend//)
-- [SidharthArya starred CorentinTh/it-tools](https://github.com/CorentinTh/it-tools)
 <!-- GITHUB:END -->
 
 ## Top Followers
