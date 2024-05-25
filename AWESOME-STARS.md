@@ -1636,7 +1636,7 @@
 - [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) - Build resilient language agents as graphs.
 - [meta-llama/llama3](https://github.com/meta-llama/llama3) - The official Meta Llama 3 GitHub site
 - [meta-llama/codellama](https://github.com/meta-llama/codellama) - Inference code for CodeLlama models
-- [amalshaji/portr](https://github.com/amalshaji/portr) - Open source ngrok alternative designed for teams
+- [amalshaji/portr](https://github.com/amalshaji/portr) - Open source ngrok alternative designed for teams. Tunnel http, tcp or websocket connections.
 - [meta-llama/PurpleLlama](https://github.com/meta-llama/PurpleLlama) - Set of tools to assess and improve LLM security.
 - [pytorch/torchtune](https://github.com/pytorch/torchtune) - A Native-PyTorch Library for LLM Fine-tuning
 - [pyscript/pyscript](https://github.com/pyscript/pyscript) - Try PyScript: https://pyscript.com  Examples: https://tinyurl.com/pyscript-examples  Community: https://discord.gg/HxvBtukrg2
