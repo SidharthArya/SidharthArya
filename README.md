@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred mozilla/rhino](https://github.com/mozilla/rhino)
 - [SidharthArya starred HigherOrderCO/HVM](https://github.com/HigherOrderCO/HVM)
 - [SidharthArya starred HigherOrderCO/Bend](https://github.com/HigherOrderCO/Bend)
 - [SidharthArya starred Aylur/ags](https://github.com/Aylur/ags)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred openai/weak-to-strong](https://github.com/openai/weak-to-strong)
 - [SidharthArya starred openai/jukebox](https://github.com/openai/jukebox)
 - [SidharthArya starred sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
-- [SidharthArya created a branch main in SidharthArya/trackless_backend](https://github.com/SidharthArya/trackless_backend/compare/main)
 <!-- GITHUB:END -->
 
 ## Top Followers
