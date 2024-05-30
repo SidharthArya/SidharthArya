@@ -139,21 +139,12 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       <a href="https://github.com/carlosal1015">Oromion</a>
     </td>
     <td align="center">
-      <a href="https://github.com/NobleMajo">
-        <img src="https://avatars2.githubusercontent.com/u/39386799" width="100px;" alt="NobleMajo"/>
-      </a>
-      <br />
-      <a href="https://github.com/NobleMajo">NobleMajo</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/conao3">
         <img src="https://avatars2.githubusercontent.com/u/4703128" width="100px;" alt="conao3"/>
       </a>
       <br />
       <a href="https://github.com/conao3">Naoya Yamashita</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/M3nin0">
         <img src="https://avatars2.githubusercontent.com/u/17037029" width="100px;" alt="M3nin0"/>
@@ -161,6 +152,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       <br />
       <a href="https://github.com/M3nin0">Felipe</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/grahamwaters">
         <img src="https://avatars2.githubusercontent.com/u/63750901" width="100px;" alt="grahamwaters"/>
@@ -203,8 +196,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       <br />
       <a href="https://github.com/stormwatch">Ezequiel Birman</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/Pearlminimal">
         <img src="https://avatars2.githubusercontent.com/u/45006194" width="100px;" alt="Pearlminimal"/>
@@ -212,6 +203,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       <br />
       <a href="https://github.com/Pearlminimal">minimal99pfdo73 </a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/yanboyang713">
         <img src="https://avatars2.githubusercontent.com/u/7603628" width="100px;" alt="yanboyang713"/>
@@ -253,6 +246,13 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       </a>
       <br />
       <a href="https://github.com/Kushpad">Kushpad</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ChandanCharchit">
+        <img src="https://avatars2.githubusercontent.com/u/74564556" width="100px;" alt="ChandanCharchit"/>
+      </a>
+      <br />
+      <a href="https://github.com/ChandanCharchit">Chandan Charchit Sahoo</a>
     </td>
   </tr>
 </table>
