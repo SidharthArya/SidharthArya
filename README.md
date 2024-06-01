@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred debauchee/barrier](https://github.com/debauchee/barrier)
+- [SidharthArya starred pwr-Solaar/Solaar](https://github.com/pwr-Solaar/Solaar)
 - [SidharthArya deleted branch v3 at SidharthArya/Working-with-the-Web-Audio-API](https://github.com/)
 - [SidharthArya created a branch v3 in SidharthArya/Working-with-the-Web-Audio-API](https://github.com/SidharthArya/Working-with-the-Web-Audio-API/compare/v3)
 - [SidharthArya starred mozilla/rhino](https://github.com/mozilla/rhino)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred Aylur/ags](https://github.com/Aylur/ags)
 - [SidharthArya starred google-research/timesfm](https://github.com/google-research/timesfm)
 - [SidharthArya starred google-deepmind/onetwo](https://github.com/google-deepmind/onetwo)
-- [SidharthArya starred google-deepmind/open_spiel](https://github.com/google-deepmind/open_spiel)
-- [SidharthArya starred openai/weak-to-strong](https://github.com/openai/weak-to-strong)
 <!-- GITHUB:END -->
 
 ## Top Followers
