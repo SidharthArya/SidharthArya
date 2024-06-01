@@ -213,18 +213,18 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       <a href="https://github.com/yanboyang713">Boyang Yan</a>
     </td>
     <td align="center">
-      <a href="https://github.com/StefanHritcu">
-        <img src="https://avatars2.githubusercontent.com/u/148911384" width="100px;" alt="StefanHritcu"/>
-      </a>
-      <br />
-      <a href="https://github.com/StefanHritcu">Stefan Hritcu</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/portgasray">
         <img src="https://avatars2.githubusercontent.com/u/17681580" width="100px;" alt="portgasray"/>
       </a>
       <br />
       <a href="https://github.com/portgasray">Lei Zhang</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/StefanHritcu">
+        <img src="https://avatars2.githubusercontent.com/u/148911384" width="100px;" alt="StefanHritcu"/>
+      </a>
+      <br />
+      <a href="https://github.com/StefanHritcu">Stefan Hritcu</a>
     </td>
     <td align="center">
       <a href="https://github.com/relativelyrehan">
