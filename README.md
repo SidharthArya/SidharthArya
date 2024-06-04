@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred sezanzeb/input-remapper](https://github.com/sezanzeb/input-remapper)
 - [SidharthArya starred astral-sh/ruff](https://github.com/astral-sh/ruff)
 - [SidharthArya starred rerun-io/rerun](https://github.com/rerun-io/rerun)
 - [SidharthArya starred jenv/jenv](https://github.com/jenv/jenv)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya created a branch v3 in SidharthArya/Working-with-the-Web-Audio-API](https://github.com/SidharthArya/Working-with-the-Web-Audio-API/compare/v3)
 - [SidharthArya starred mozilla/rhino](https://github.com/mozilla/rhino)
 - [SidharthArya starred HigherOrderCO/HVM](https://github.com/HigherOrderCO/HVM)
-- [SidharthArya starred HigherOrderCO/Bend](https://github.com/HigherOrderCO/Bend)
 <!-- GITHUB:END -->
 
 ## Top Followers
