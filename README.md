@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred rerun-io/rerun](https://github.com/rerun-io/rerun)
 - [SidharthArya starred jenv/jenv](https://github.com/jenv/jenv)
 - [SidharthArya starred debauchee/barrier](https://github.com/debauchee/barrier)
 - [SidharthArya starred pwr-Solaar/Solaar](https://github.com/pwr-Solaar/Solaar)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred HigherOrderCO/HVM](https://github.com/HigherOrderCO/HVM)
 - [SidharthArya starred HigherOrderCO/Bend](https://github.com/HigherOrderCO/Bend)
 - [SidharthArya starred Aylur/ags](https://github.com/Aylur/ags)
-- [SidharthArya starred google-research/timesfm](https://github.com/google-research/timesfm)
 <!-- GITHUB:END -->
 
 ## Top Followers
