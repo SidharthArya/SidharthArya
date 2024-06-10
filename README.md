@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya created a branch main in SidharthArya/gnome-discord](https://github.com/SidharthArya/gnome-discord/compare/main)
+- [SidharthArya created a repository SidharthArya/gnome-discord](https://github.com/SidharthArya/gnome-discord//)
 - [SidharthArya opened a pull request in wwardaww/gnome-gemini-ai](https://github.com/wwardaww/gnome-gemini-ai/pull/8)
 - [SidharthArya pushed to patch-1 in SidharthArya/gnome-gemini-ai](https://github.com/SidharthArya/gnome-gemini-ai/compare/b87fa992a9...ef90766bb4)
 - [SidharthArya forked SidharthArya/gnome-gemini-ai from wwardaww/gnome-gemini-ai](https://github.com/SidharthArya/gnome-gemini-ai)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred 89luca89/distrobox](https://github.com/89luca89/distrobox)
 - [SidharthArya starred 89luca89/distrobox](https://github.com/89luca89/distrobox)
 - [SidharthArya starred sezanzeb/input-remapper](https://github.com/sezanzeb/input-remapper)
-- [SidharthArya starred astral-sh/ruff](https://github.com/astral-sh/ruff)
-- [SidharthArya starred rerun-io/rerun](https://github.com/rerun-io/rerun)
 <!-- GITHUB:END -->
 
 ## Top Followers
