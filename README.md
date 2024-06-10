@@ -87,6 +87,9 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya opened a pull request in wwardaww/gnome-gemini-ai](https://github.com/wwardaww/gnome-gemini-ai/pull/8)
+- [SidharthArya pushed to patch-1 in SidharthArya/gnome-gemini-ai](https://github.com/SidharthArya/gnome-gemini-ai/compare/b87fa992a9...ef90766bb4)
+- [SidharthArya forked SidharthArya/gnome-gemini-ai from wwardaww/gnome-gemini-ai](https://github.com/SidharthArya/gnome-gemini-ai)
 - [SidharthArya starred LunarVim/LunarVim](https://github.com/LunarVim/LunarVim)
 - [SidharthArya starred helix-editor/helix](https://github.com/helix-editor/helix)
 - [SidharthArya starred 89luca89/distrobox](https://github.com/89luca89/distrobox)
@@ -94,9 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred sezanzeb/input-remapper](https://github.com/sezanzeb/input-remapper)
 - [SidharthArya starred astral-sh/ruff](https://github.com/astral-sh/ruff)
 - [SidharthArya starred rerun-io/rerun](https://github.com/rerun-io/rerun)
-- [SidharthArya starred jenv/jenv](https://github.com/jenv/jenv)
-- [SidharthArya starred debauchee/barrier](https://github.com/debauchee/barrier)
-- [SidharthArya starred pwr-Solaar/Solaar](https://github.com/pwr-Solaar/Solaar)
 <!-- GITHUB:END -->
 
 ## Top Followers
