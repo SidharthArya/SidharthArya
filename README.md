@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred helix-editor/helix](https://github.com/helix-editor/helix)
 - [SidharthArya starred 89luca89/distrobox](https://github.com/89luca89/distrobox)
 - [SidharthArya starred 89luca89/distrobox](https://github.com/89luca89/distrobox)
 - [SidharthArya starred sezanzeb/input-remapper](https://github.com/sezanzeb/input-remapper)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred debauchee/barrier](https://github.com/debauchee/barrier)
 - [SidharthArya starred pwr-Solaar/Solaar](https://github.com/pwr-Solaar/Solaar)
 - [SidharthArya deleted branch v3 at SidharthArya/Working-with-the-Web-Audio-API](https://github.com/)
-- [SidharthArya created a branch v3 in SidharthArya/Working-with-the-Web-Audio-API](https://github.com/SidharthArya/Working-with-the-Web-Audio-API/compare/v3)
 <!-- GITHUB:END -->
 
 ## Top Followers
