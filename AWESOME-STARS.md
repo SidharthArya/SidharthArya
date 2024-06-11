@@ -2692,7 +2692,7 @@
 - [Azure/azure-sdk-for-js](https://github.com/Azure/azure-sdk-for-js) - This repository is for active development of the Azure SDK for JavaScript (NodeJS & Browser). For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/jav
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [medusajs/medusa](https://github.com/medusajs/medusa) - Building blocks for digital commerce
-- [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure.
+- [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure
 - [nestjs/typescript-starter](https://github.com/nestjs/typescript-starter) - Nest framework TypeScript starter :coffee:
 - [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated coding interview preparation materials for busy software engineers
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
