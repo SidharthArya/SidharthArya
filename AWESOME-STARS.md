@@ -1621,6 +1621,7 @@
 
 ## Python 
 
+- [google/mesop](https://github.com/google/mesop) - 
 - [sezanzeb/input-remapper](https://github.com/sezanzeb/input-remapper) - 🎮 ⌨ An easy to use tool to change the behaviour of your input devices.
 - [pwr-Solaar/Solaar](https://github.com/pwr-Solaar/Solaar) - Linux device manager for Logitech devices
 - [google-research/timesfm](https://github.com/google-research/timesfm) - TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.
@@ -2079,7 +2080,7 @@
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [vbelz/Speech-enhancement](https://github.com/vbelz/Speech-enhancement) - Deep learning for audio denoising
 - [drethage/speech-denoising-wavenet](https://github.com/drethage/speech-denoising-wavenet) - A neural network for end-to-end speech denoising
-- [devsnd/tinytag](https://github.com/devsnd/tinytag) - Python library for reading audio file metadata, duration of MP3, OGG, OPUS, MP4, M4A, FLAC, WMA, Wave, AIFF and a few more
+- [tinytag/tinytag](https://github.com/tinytag/tinytag) - Python library for reading audio file metadata, duration of MP3, OGG, OPUS, MP4, M4A, FLAC, WMA, Wave, AIFF and a few more
 - [pyg-team/pytorch_geometric](https://github.com/pyg-team/pytorch_geometric) - Graph Neural Network Library for PyTorch
 - [nltk/nltk](https://github.com/nltk/nltk) - NLTK Source
 - [mementum/backtrader](https://github.com/mementum/backtrader) - Python Backtesting library for trading strategies
