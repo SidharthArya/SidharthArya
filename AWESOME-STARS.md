@@ -419,6 +419,7 @@
 
 ## Clojure 
 
+- [clj-commons/seesaw](https://github.com/clj-commons/seesaw) - Seesaw turns the Horror of Swing into a friendly, well-documented, Clojure library
 - [jepsen-io/jepsen](https://github.com/jepsen-io/jepsen) - A framework for distributed systems verification, with fault injection
 - [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum:
 - [lambdaisland/regal](https://github.com/lambdaisland/regal) - Royally reified regular expressions
@@ -1723,7 +1724,7 @@
 - [chatchat-space/Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat) - Langchain-Chatchat（原Langchain-ChatGLM）基于 Langchain 与 ChatGLM 等语言模型的本地知识库问答 | Langchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM) QA app with langchain
 - [coqui-ai/TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
-- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, Groq 
+- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Open-source RAG Framework for building GenAI Second Brains 🧠  Build productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic,
 - [superagent-ai/super-rag](https://github.com/superagent-ai/super-rag) - Super performant RAG pipelines for AI apps. Summarization, Retrieve/Rerank and Code Interpreters in one simple API.
 - [google/gemma_pytorch](https://github.com/google/gemma_pytorch) - The official PyTorch implementation of Google's Gemma models
 - [google-deepmind/graphcast](https://github.com/google-deepmind/graphcast) - 
