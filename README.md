@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred clj-commons/seesaw](https://github.com/clj-commons/seesaw)
 - [SidharthArya pushed to master in SidharthArya/powerido](https://github.com/SidharthArya/powerido/compare/1986fdcf4b...949a8a9c60)
 - [SidharthArya starred google/mesop](https://github.com/google/mesop)
 - [SidharthArya created a branch main in SidharthArya/gnome-discord](https://github.com/SidharthArya/gnome-discord/compare/main)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya forked SidharthArya/gnome-gemini-ai from wwardaww/gnome-gemini-ai](https://github.com/SidharthArya/gnome-gemini-ai)
 - [SidharthArya starred LunarVim/LunarVim](https://github.com/LunarVim/LunarVim)
 - [SidharthArya starred helix-editor/helix](https://github.com/helix-editor/helix)
-- [SidharthArya starred 89luca89/distrobox](https://github.com/89luca89/distrobox)
 <!-- GITHUB:END -->
 
 ## Top Followers
