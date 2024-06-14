@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred penpot/penpot](https://github.com/penpot/penpot)
+- [SidharthArya starred technomancy/leiningen](https://github.com/technomancy/leiningen)
 - [SidharthArya starred clj-commons/seesaw](https://github.com/clj-commons/seesaw)
 - [SidharthArya pushed to master in SidharthArya/powerido](https://github.com/SidharthArya/powerido/compare/1986fdcf4b...949a8a9c60)
 - [SidharthArya starred google/mesop](https://github.com/google/mesop)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya opened a pull request in wwardaww/gnome-gemini-ai](https://github.com/wwardaww/gnome-gemini-ai/pull/8)
 - [SidharthArya pushed to patch-1 in SidharthArya/gnome-gemini-ai](https://github.com/SidharthArya/gnome-gemini-ai/compare/b87fa992a9...ef90766bb4)
 - [SidharthArya forked SidharthArya/gnome-gemini-ai from wwardaww/gnome-gemini-ai](https://github.com/SidharthArya/gnome-gemini-ai)
-- [SidharthArya starred LunarVim/LunarVim](https://github.com/LunarVim/LunarVim)
-- [SidharthArya starred helix-editor/helix](https://github.com/helix-editor/helix)
 <!-- GITHUB:END -->
 
 ## Top Followers
