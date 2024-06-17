@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred magicuidesign/magicui](https://github.com/magicuidesign/magicui)
 - [SidharthArya starred penpot/penpot](https://github.com/penpot/penpot)
 - [SidharthArya starred technomancy/leiningen](https://github.com/technomancy/leiningen)
 - [SidharthArya starred clj-commons/seesaw](https://github.com/clj-commons/seesaw)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya created a repository SidharthArya/gnome-discord](https://github.com/SidharthArya/gnome-discord//)
 - [SidharthArya opened a pull request in wwardaww/gnome-gemini-ai](https://github.com/wwardaww/gnome-gemini-ai/pull/8)
 - [SidharthArya pushed to patch-1 in SidharthArya/gnome-gemini-ai](https://github.com/SidharthArya/gnome-gemini-ai/compare/b87fa992a9...ef90766bb4)
-- [SidharthArya forked SidharthArya/gnome-gemini-ai from wwardaww/gnome-gemini-ai](https://github.com/SidharthArya/gnome-gemini-ai)
 <!-- GITHUB:END -->
 
 ## Top Followers
