@@ -169,18 +169,18 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       <a href="https://github.com/maskegger">AM</a>
     </td>
     <td align="center">
-      <a href="https://github.com/amrithHN">
-        <img src="https://avatars2.githubusercontent.com/u/70368617" width="100px;" alt="amrithHN"/>
-      </a>
-      <br />
-      <a href="https://github.com/amrithHN">Amrith H Namboodiri</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/Tiancheng-Luo">
         <img src="https://avatars2.githubusercontent.com/u/6097951" width="100px;" alt="Tiancheng-Luo"/>
       </a>
       <br />
       <a href="https://github.com/Tiancheng-Luo">Tiancheng-Luo</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/amrithHN">
+        <img src="https://avatars2.githubusercontent.com/u/70368617" width="100px;" alt="amrithHN"/>
+      </a>
+      <br />
+      <a href="https://github.com/amrithHN">Amrith H Namboodiri</a>
     </td>
     <td align="center">
       <a href="https://github.com/Satawatkee">
@@ -248,11 +248,11 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       <a href="https://github.com/G0rav">Gaurav</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Kushpad">
-        <img src="https://avatars2.githubusercontent.com/u/89928620" width="100px;" alt="Kushpad"/>
+      <a href="https://github.com/abdullah-azab">
+        <img src="https://avatars2.githubusercontent.com/u/58390815" width="100px;" alt="abdullah-azab"/>
       </a>
       <br />
-      <a href="https://github.com/Kushpad">Kushpad</a>
+      <a href="https://github.com/abdullah-azab">abdullah azab</a>
     </td>
   </tr>
 </table>
