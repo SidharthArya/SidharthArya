@@ -332,7 +332,7 @@
 - [google/oboe](https://github.com/google/oboe) - Oboe is a C++ library that makes it easy to build high-performance audio apps on Android.
 - [dogecoin/dogecoin](https://github.com/dogecoin/dogecoin) - very currency
 - [keyboardio/Kaleidoscope](https://github.com/keyboardio/Kaleidoscope) - Firmware for Keyboardio keyboards and other keyboards with AVR or ARM MCUs.
-- [apple/swift](https://github.com/apple/swift) - The Swift Programming Language
+- [swiftlang/swift](https://github.com/swiftlang/swift) - The Swift Programming Language
 - [pytorch/FBGEMM](https://github.com/pytorch/FBGEMM) - FB (Facebook) + GEMM (General Matrix-Matrix Multiplication) - https://code.fb.com/ml-applications/fbgemm/
 - [onnx/onnx-tensorrt](https://github.com/onnx/onnx-tensorrt) - ONNX-TensorRT: TensorRT backend for ONNX
 - [rapidsai/cudf](https://github.com/rapidsai/cudf) - cuDF - GPU DataFrame Library
@@ -663,7 +663,7 @@
 
 ## Go 
 
-- [elastic/otel-profiling-agent](https://github.com/elastic/otel-profiling-agent) - The production-scale datacenter profiler (C/C++, Go, Rust, Python, Java, NodeJS, PHP, Ruby, Perl, ...)
+- [elastic/otel-profiling-agent](https://github.com/elastic/otel-profiling-agent) - The production-scale datacenter profiler (C/C++, Go, Rust, Python, Java, NodeJS, .NET, PHP, Ruby, Perl, ...)
 - [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
 - [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming la
 - [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 🔥 🔥 现代化、开源的 Linux 服务器运维管理面板。
@@ -1867,7 +1867,7 @@
 - [OpenEthan/SMSBoom](https://github.com/OpenEthan/SMSBoom) - SMSBoom - Deprecate: Due to judicial reasons, the repository has been suspended!
 - [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) - A curated list of awesome Machine Learning frameworks, libraries and software.
 - [GothenburgBitFactory/bugwarrior](https://github.com/GothenburgBitFactory/bugwarrior) - Pull github, bitbucket, and trac issues into taskwarrior
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - The platform for customizing AI from enterprise data
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - The platform for building AI from enterprise data
 - [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is an Open Source Security tool for AWS, Azure, GCP and Kubernetes to do security assessments, audits, incident response, compliance, continuous monitoring, hardening and forensics readiness. 
 - [kuprel/min-dalle](https://github.com/kuprel/min-dalle) - min(DALL·E) is a fast, minimal port of DALL·E Mini to PyTorch
 - [eriklindernoren/PyTorch-GAN](https://github.com/eriklindernoren/PyTorch-GAN) - PyTorch implementations of Generative Adversarial Networks.
