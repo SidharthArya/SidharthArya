@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all)
 - [SidharthArya starred tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui)
 - [SidharthArya starred magicuidesign/magicui](https://github.com/magicuidesign/magicui)
 - [SidharthArya starred penpot/penpot](https://github.com/penpot/penpot)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred google/mesop](https://github.com/google/mesop)
 - [SidharthArya created a branch main in SidharthArya/gnome-discord](https://github.com/SidharthArya/gnome-discord/compare/main)
 - [SidharthArya created a repository SidharthArya/gnome-discord](https://github.com/SidharthArya/gnome-discord//)
-- [SidharthArya opened a pull request in wwardaww/gnome-gemini-ai](https://github.com/wwardaww/gnome-gemini-ai/pull/8)
 <!-- GITHUB:END -->
 
 ## Top Followers
