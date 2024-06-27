@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons)
 - [SidharthArya pushed to master in SidharthArya/SidharthArya](https://github.com/SidharthArya/SidharthArya/compare/37c672d7e0...32961b84d0)
 - [SidharthArya pushed to master in SidharthArya/SidharthArya](https://github.com/SidharthArya/SidharthArya/compare/804764ab81...37c672d7e0)
 - [SidharthArya starred nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred technomancy/leiningen](https://github.com/technomancy/leiningen)
 - [SidharthArya starred clj-commons/seesaw](https://github.com/clj-commons/seesaw)
 - [SidharthArya pushed to master in SidharthArya/powerido](https://github.com/SidharthArya/powerido/compare/1986fdcf4b...949a8a9c60)
-- [SidharthArya starred google/mesop](https://github.com/google/mesop)
 <!-- GITHUB:END -->
 
 ## Top Followers
