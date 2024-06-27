@@ -181,7 +181,7 @@
 - [magit/emacsql](https://github.com/magit/emacsql) - A high-level Emacs Lisp RDBMS front-end
 - [Jimx-/emacs-gl](https://github.com/Jimx-/emacs-gl) - OpenGL bindings for Emacs Lisp
 - [openai/retro](https://github.com/openai/retro) - Retro Games in Gym
-- [NixOS/mobile-nixos](https://github.com/NixOS/mobile-nixos) - 
+- [mobile-nixos/mobile-nixos](https://github.com/mobile-nixos/mobile-nixos) - 📱 (rebooting... please wait...)
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [xyb3rt/sxiv](https://github.com/xyb3rt/sxiv) - Simple X Image Viewer
 - [bk138/gromit-mpx](https://github.com/bk138/gromit-mpx) - Gromit-MPX is an on-screen annotation tool that works with any Unix desktop environment under X11 as well as Wayland.
@@ -472,7 +472,7 @@
 ## Dockerfile 
 
 - [vulhub/vulhub](https://github.com/vulhub/vulhub) - Pre-Built Vulnerable Environments Based on Docker-Compose
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (February 2024)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2024)
 
 ## Elm 
 
@@ -673,7 +673,7 @@
 - [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
 - [bazelbuild/buildtools](https://github.com/bazelbuild/buildtools) - A bazel BUILD file formatter and editor
 - [bazelbuild/bazelisk](https://github.com/bazelbuild/bazelisk) - A user-friendly launcher for Bazel.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3, Mistral, Gemma, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3, Mistral, Gemma 2, and other large language models.
 - [paypal/junodb](https://github.com/paypal/junodb) - JunoDB is PayPal's home-grown secure, consistent and highly available key-value store providing low, single digit millisecond, latency at any scale.
 - [apernet/OpenGFW](https://github.com/apernet/OpenGFW) - OpenGFW is a flexible, easy-to-use, open source implementation of GFW (Great Firewall of China) on Linux
 - [nitrictech/nitric](https://github.com/nitrictech/nitric) - Nitric is a multi-language framework for cloud applications with infrastructure from code.
@@ -959,6 +959,7 @@
 
 ## JavaScript 
 
+- [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
 - [mozilla/rhino](https://github.com/mozilla/rhino) - Rhino is an open-source implementation of JavaScript written entirely in Java
 - [Dogfalo/materialize](https://github.com/Dogfalo/materialize) - Materialize, a CSS Framework based on Material Design
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Web OS! Free, Open-Source, and Self-Hostable.
@@ -2828,7 +2829,7 @@
 - [tpope/vim-fugitive](https://github.com/tpope/vim-fugitive) - fugitive.vim: A Git wrapper so awesome, it should be illegal
 - [prabirshrestha/vim-lsp](https://github.com/prabirshrestha/vim-lsp) - async language server protocol plugin for vim and neovim
 - [preservim/nerdcommenter](https://github.com/preservim/nerdcommenter) - Vim plugin for intensely nerdy commenting powers
-- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - 
+- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A modular Vim/Neovim configuration
 - [vimwiki/vimwiki](https://github.com/vimwiki/vimwiki) - Personal Wiki for Vim
 - [tpope/vim-speeddating](https://github.com/tpope/vim-speeddating) - speeddating.vim: use CTRL-A/CTRL-X to increment dates, times, and more
 - [amix/vimrc](https://github.com/amix/vimrc) - The ultimate Vim configuration (vimrc)
