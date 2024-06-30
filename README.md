@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya created a branch old in SidharthArya/.zsh](https://github.com/SidharthArya/.zsh/compare/old)
 - [SidharthArya starred DustinBrett/daedalOS](https://github.com/DustinBrett/daedalOS)
 - [SidharthArya starred edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons)
 - [SidharthArya pushed to master in SidharthArya/SidharthArya](https://github.com/SidharthArya/SidharthArya/compare/37c672d7e0...32961b84d0)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred magicuidesign/magicui](https://github.com/magicuidesign/magicui)
 - [SidharthArya starred penpot/penpot](https://github.com/penpot/penpot)
 - [SidharthArya starred technomancy/leiningen](https://github.com/technomancy/leiningen)
-- [SidharthArya starred clj-commons/seesaw](https://github.com/clj-commons/seesaw)
 <!-- GITHUB:END -->
 
 ## Top Followers
