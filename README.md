@@ -87,16 +87,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to main in SidharthArya/.zsh](https://github.com/SidharthArya/.zsh/compare/5556039695...1e371e248c)
+- [SidharthArya pushed to main in SidharthArya/.zsh](https://github.com/SidharthArya/.zsh/compare/5c2e455c82...5556039695)
+- [SidharthArya pushed to v2 in SidharthArya/.zsh](https://github.com/SidharthArya/.zsh/compare/320666d643...5556039695)
+- [SidharthArya created a branch v2 in SidharthArya/.zsh](https://github.com/SidharthArya/.zsh/compare/v2)
 - [SidharthArya created a branch old in SidharthArya/.zsh](https://github.com/SidharthArya/.zsh/compare/old)
 - [SidharthArya starred DustinBrett/daedalOS](https://github.com/DustinBrett/daedalOS)
 - [SidharthArya starred edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons)
 - [SidharthArya pushed to master in SidharthArya/SidharthArya](https://github.com/SidharthArya/SidharthArya/compare/37c672d7e0...32961b84d0)
 - [SidharthArya pushed to master in SidharthArya/SidharthArya](https://github.com/SidharthArya/SidharthArya/compare/804764ab81...37c672d7e0)
 - [SidharthArya starred nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all)
-- [SidharthArya starred tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui)
-- [SidharthArya starred magicuidesign/magicui](https://github.com/magicuidesign/magicui)
-- [SidharthArya starred penpot/penpot](https://github.com/penpot/penpot)
-- [SidharthArya starred technomancy/leiningen](https://github.com/technomancy/leiningen)
 <!-- GITHUB:END -->
 
 ## Top Followers
