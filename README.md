@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred hrsh7th/nvim-cmp](https://github.com/hrsh7th/nvim-cmp)
 - [SidharthArya pushed to main in SidharthArya/.nvim](https://github.com/SidharthArya/.nvim/compare/01436b9ee7...32f44a48cc)
 - [SidharthArya starred YaLTeR/niri](https://github.com/YaLTeR/niri)
 - [SidharthArya pushed to main in SidharthArya/.zsh](https://github.com/SidharthArya/.zsh/compare/5556039695...1e371e248c)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya created a branch old in SidharthArya/.zsh](https://github.com/SidharthArya/.zsh/compare/old)
 - [SidharthArya starred DustinBrett/daedalOS](https://github.com/DustinBrett/daedalOS)
 - [SidharthArya starred edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons)
-- [SidharthArya pushed to master in SidharthArya/SidharthArya](https://github.com/SidharthArya/SidharthArya/compare/37c672d7e0...32961b84d0)
 <!-- GITHUB:END -->
 
 ## Top Followers
