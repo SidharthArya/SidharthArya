@@ -208,6 +208,7 @@
 - [tmux/tmux](https://github.com/tmux/tmux) - tmux source code
 - [LemonBoy/bar](https://github.com/LemonBoy/bar) - A featherweight, lemon-scented, bar based on xcb
 - [skeeto/purgeable](https://github.com/skeeto/purgeable) - Purgeable memory allocations for Linux
+- [fairyglade/ly](https://github.com/fairyglade/ly) - display manager with console UI
 - [saghul/txiki.js](https://github.com/saghul/txiki.js) - A tiny JavaScript runtime
 - [jqlang/jq](https://github.com/jqlang/jq) - Command-line JSON processor
 - [radareorg/radare2](https://github.com/radareorg/radare2) - UNIX-like reverse engineering framework and command-line toolset
@@ -853,7 +854,6 @@
 - [rough-stuff/rough](https://github.com/rough-stuff/rough) - Create graphics with a hand-drawn, sketchy, appearance
 - [rapid7/metasploitable3](https://github.com/rapid7/metasploitable3) - Metasploitable3 is a VM that is built from the ground up with a large amount of security vulnerabilities.
 - [freebsd/freebsd-papers](https://github.com/freebsd/freebsd-papers) - The FreeBSD Papers, Slides, and Video Collection
-- [servo/servo](https://github.com/servo/servo) - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
 - [kmario23/deep-learning-drizzle](https://github.com/kmario23/deep-learning-drizzle) - Drench yourself in Deep Learning, Reinforcement Learning, Machine Learning, Computer Vision, and NLP by learning from these exciting lectures!!
 - [microsoft/language-server-protocol](https://github.com/microsoft/language-server-protocol) - Defines a common protocol for language servers.
 
@@ -1669,7 +1669,7 @@
 - [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
 - [stitionai/devika](https://github.com/stitionai/devika) - Devika is an Agentic AI Software Engineer that can understand high-level human instructions, break them down into steps, research relevant information, and write code to achieve the given objective. D
 - [open-mmlab/Amphion](https://github.com/open-mmlab/Amphion) - Amphion (/æmˈfaɪən/) is a toolkit for Audio, Music, and Speech Generation. Its purpose is to support reproducible research and help junior researchers and engineers get started in the field of audio, 
-- [kongzhecn/OMG](https://github.com/kongzhecn/OMG) - OMG: Occlusion-friendly Personalized Multi-concept Generation In Diffusion Models
+- [kongzhecn/OMG](https://github.com/kongzhecn/OMG) - [ECCV 2024] OMG: Occlusion-friendly Personalized Multi-concept Generation In Diffusion Models
 - [microsoft/FocalNet](https://github.com/microsoft/FocalNet) - [NeurIPS 2022] Official code for "Focal Modulation Networks"
 - [microsoft/UniCL](https://github.com/microsoft/UniCL) - [CVPR 2022] Official code for "Unified Contrastive Learning in Image-Text-Label Space"
 - [UX-Decoder/Segment-Everything-Everywhere-All-At-Once](https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once) - [NeurIPS 2023] Official implementation of the paper "Segment Everything Everywhere All at Once"
@@ -1696,7 +1696,7 @@
 - [deepseek-ai/DeepSeek-VL](https://github.com/deepseek-ai/DeepSeek-VL) - DeepSeek-VL: Towards Real-World Vision-Language Understanding
 - [geekan/MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
 - [lavague-ai/LaVague](https://github.com/lavague-ai/LaVague) - Large Action Model framework to develop AI Web Agents
-- [IDEA-Research/GroundingDINO](https://github.com/IDEA-Research/GroundingDINO) - Official implementation of the paper "Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection"
+- [IDEA-Research/GroundingDINO](https://github.com/IDEA-Research/GroundingDINO) - [ECCV 2024] Official implementation of the paper "Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection"
 - [pytorch/text](https://github.com/pytorch/text) - Models, data loaders and abstractions for language processing, powered by PyTorch
 - [JiahuiYu/generative_inpainting](https://github.com/JiahuiYu/generative_inpainting) - DeepFill v1/v2 with Contextual Attention and Gated Convolution, CVPR 2018, and ICCV 2019 Oral
 - [openai/guided-diffusion](https://github.com/openai/guided-diffusion) - 
@@ -2425,6 +2425,7 @@
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [lsd-rs/lsd](https://github.com/lsd-rs/lsd) - The next gen ls command
+- [servo/servo](https://github.com/servo/servo) - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
 - [nrc/r4cppp](https://github.com/nrc/r4cppp) - Rust for C++ programmers
 - [jmacdonald/amp](https://github.com/jmacdonald/amp) - A complete text editor for your terminal.
 - [rust-lang/rls](https://github.com/rust-lang/rls) - Repository for the Rust Language Server (aka RLS)
@@ -2865,7 +2866,6 @@
 - [riverwm/river](https://github.com/riverwm/river) - [mirror] A dynamic tiling Wayland compositor
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
-- [fairyglade/ly](https://github.com/fairyglade/ly) - display manager with console UI
 
 ## reStructuredText 
 
