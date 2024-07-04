@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred pypa/pipx](https://github.com/pypa/pipx)
+- [SidharthArya starred OneUptime/oneuptime](https://github.com/OneUptime/oneuptime)
 - [SidharthArya starred hrsh7th/nvim-cmp](https://github.com/hrsh7th/nvim-cmp)
 - [SidharthArya pushed to main in SidharthArya/.nvim](https://github.com/SidharthArya/.nvim/compare/01436b9ee7...32f44a48cc)
 - [SidharthArya starred YaLTeR/niri](https://github.com/YaLTeR/niri)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to v2 in SidharthArya/.zsh](https://github.com/SidharthArya/.zsh/compare/320666d643...5556039695)
 - [SidharthArya created a branch v2 in SidharthArya/.zsh](https://github.com/SidharthArya/.zsh/compare/v2)
 - [SidharthArya created a branch old in SidharthArya/.zsh](https://github.com/SidharthArya/.zsh/compare/old)
-- [SidharthArya starred DustinBrett/daedalOS](https://github.com/DustinBrett/daedalOS)
-- [SidharthArya starred edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons)
 <!-- GITHUB:END -->
 
 ## Top Followers
