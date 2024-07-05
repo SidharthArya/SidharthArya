@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred mesonbuild/meson](https://github.com/mesonbuild/meson)
+- [SidharthArya starred glanceapp/glance](https://github.com/glanceapp/glance)
 - [SidharthArya starred casey/just](https://github.com/casey/just)
 - [SidharthArya starred vitessio/vitess](https://github.com/vitessio/vitess)
 - [SidharthArya starred pypa/pipx](https://github.com/pypa/pipx)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to main in SidharthArya/.nvim](https://github.com/SidharthArya/.nvim/compare/01436b9ee7...32f44a48cc)
 - [SidharthArya starred YaLTeR/niri](https://github.com/YaLTeR/niri)
 - [SidharthArya pushed to main in SidharthArya/.zsh](https://github.com/SidharthArya/.zsh/compare/5556039695...1e371e248c)
-- [SidharthArya pushed to main in SidharthArya/.zsh](https://github.com/SidharthArya/.zsh/compare/5c2e455c82...5556039695)
-- [SidharthArya pushed to v2 in SidharthArya/.zsh](https://github.com/SidharthArya/.zsh/compare/320666d643...5556039695)
 <!-- GITHUB:END -->
 
 ## Top Followers
