@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred vitessio/vitess](https://github.com/vitessio/vitess)
 - [SidharthArya starred pypa/pipx](https://github.com/pypa/pipx)
 - [SidharthArya starred OneUptime/oneuptime](https://github.com/OneUptime/oneuptime)
 - [SidharthArya starred hrsh7th/nvim-cmp](https://github.com/hrsh7th/nvim-cmp)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to main in SidharthArya/.zsh](https://github.com/SidharthArya/.zsh/compare/5c2e455c82...5556039695)
 - [SidharthArya pushed to v2 in SidharthArya/.zsh](https://github.com/SidharthArya/.zsh/compare/320666d643...5556039695)
 - [SidharthArya created a branch v2 in SidharthArya/.zsh](https://github.com/SidharthArya/.zsh/compare/v2)
-- [SidharthArya created a branch old in SidharthArya/.zsh](https://github.com/SidharthArya/.zsh/compare/old)
 <!-- GITHUB:END -->
 
 ## Top Followers
