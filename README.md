@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred acornjs/acorn](https://github.com/acornjs/acorn)
 - [SidharthArya starred v8/v8](https://github.com/v8/v8)
 - [SidharthArya pushed to master in SidharthArya/flake-templates](https://github.com/SidharthArya/flake-templates/compare/113e14259b...80b4613b1e)
 - [SidharthArya starred nix-systems/nix-systems](https://github.com/nix-systems/nix-systems)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred mesonbuild/meson](https://github.com/mesonbuild/meson)
 - [SidharthArya starred glanceapp/glance](https://github.com/glanceapp/glance)
 - [SidharthArya starred casey/just](https://github.com/casey/just)
-- [SidharthArya starred vitessio/vitess](https://github.com/vitessio/vitess)
 <!-- GITHUB:END -->
 
 ## Top Followers
