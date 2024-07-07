@@ -87,6 +87,9 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred v8/v8](https://github.com/v8/v8)
+- [SidharthArya pushed to master in SidharthArya/flake-templates](https://github.com/SidharthArya/flake-templates/compare/113e14259b...80b4613b1e)
+- [SidharthArya starred nix-systems/nix-systems](https://github.com/nix-systems/nix-systems)
 - [SidharthArya pushed to master in SidharthArya/flake-templates](https://github.com/SidharthArya/flake-templates/compare/966ee3616d...113e14259b)
 - [SidharthArya pushed to master in SidharthArya/flake-templates](https://github.com/SidharthArya/flake-templates/compare/b795a99ec1...966ee3616d)
 - [SidharthArya forked SidharthArya/flake-templates from akirak/flake-templates](https://github.com/SidharthArya/flake-templates)
@@ -94,9 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred glanceapp/glance](https://github.com/glanceapp/glance)
 - [SidharthArya starred casey/just](https://github.com/casey/just)
 - [SidharthArya starred vitessio/vitess](https://github.com/vitessio/vitess)
-- [SidharthArya starred pypa/pipx](https://github.com/pypa/pipx)
-- [SidharthArya starred OneUptime/oneuptime](https://github.com/OneUptime/oneuptime)
-- [SidharthArya starred hrsh7th/nvim-cmp](https://github.com/hrsh7th/nvim-cmp)
 <!-- GITHUB:END -->
 
 ## Top Followers
