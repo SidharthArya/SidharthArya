@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred auchenberg/chrome-devtools-app](https://github.com/auchenberg/chrome-devtools-app)
+- [SidharthArya starred libuv/libuv](https://github.com/libuv/libuv)
 - [SidharthArya starred acornjs/acorn](https://github.com/acornjs/acorn)
 - [SidharthArya starred v8/v8](https://github.com/v8/v8)
 - [SidharthArya pushed to master in SidharthArya/flake-templates](https://github.com/SidharthArya/flake-templates/compare/113e14259b...80b4613b1e)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/flake-templates](https://github.com/SidharthArya/flake-templates/compare/b795a99ec1...966ee3616d)
 - [SidharthArya forked SidharthArya/flake-templates from akirak/flake-templates](https://github.com/SidharthArya/flake-templates)
 - [SidharthArya starred mesonbuild/meson](https://github.com/mesonbuild/meson)
-- [SidharthArya starred glanceapp/glance](https://github.com/glanceapp/glance)
-- [SidharthArya starred casey/just](https://github.com/casey/just)
 <!-- GITHUB:END -->
 
 ## Top Followers
