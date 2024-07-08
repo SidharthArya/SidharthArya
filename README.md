@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya opened a pull request in sudheerj/javascript-interview-questions](https://github.com/sudheerj/javascript-interview-questions/pull/290)
+- [SidharthArya pushed to patch-1 in SidharthArya/javascript-interview-questions](https://github.com/SidharthArya/javascript-interview-questions/compare/cca2d6703a...78ead638df)
 - [SidharthArya forked SidharthArya/javascript-interview-questions from sudheerj/javascript-interview-questions](https://github.com/SidharthArya/javascript-interview-questions)
 - [SidharthArya starred pugjs/pug](https://github.com/pugjs/pug)
 - [SidharthArya starred auchenberg/chrome-devtools-app](https://github.com/auchenberg/chrome-devtools-app)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred v8/v8](https://github.com/v8/v8)
 - [SidharthArya pushed to master in SidharthArya/flake-templates](https://github.com/SidharthArya/flake-templates/compare/113e14259b...80b4613b1e)
 - [SidharthArya starred nix-systems/nix-systems](https://github.com/nix-systems/nix-systems)
-- [SidharthArya pushed to master in SidharthArya/flake-templates](https://github.com/SidharthArya/flake-templates/compare/966ee3616d...113e14259b)
-- [SidharthArya pushed to master in SidharthArya/flake-templates](https://github.com/SidharthArya/flake-templates/compare/b795a99ec1...966ee3616d)
 <!-- GITHUB:END -->
 
 ## Top Followers
