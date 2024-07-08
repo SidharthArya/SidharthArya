@@ -87,16 +87,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to master in SidharthArya/.niri](https://github.com/SidharthArya/.niri/compare/19cc11fff9...5f9226db49)
+- [SidharthArya pushed to master in SidharthArya/.niri](https://github.com/SidharthArya/.niri/compare/dbeed2eef6...19cc11fff9)
+- [SidharthArya created a branch master in SidharthArya/.niri](https://github.com/SidharthArya/.niri/compare/master)
+- [SidharthArya created a repository SidharthArya/.niri](https://github.com/SidharthArya/.niri//)
+- [SidharthArya pushed to master in SidharthArya/flake-templates](https://github.com/SidharthArya/flake-templates/compare/0ba385de33...6fc625bd4e)
+- [SidharthArya pushed to master in SidharthArya/flake-templates](https://github.com/SidharthArya/flake-templates/compare/b3297ca8a3...0ba385de33)
 - [SidharthArya pushed to master in SidharthArya/flake-templates](https://github.com/SidharthArya/flake-templates/compare/80b4613b1e...b3297ca8a3)
 - [SidharthArya opened a pull request in sudheerj/javascript-interview-questions](https://github.com/sudheerj/javascript-interview-questions/pull/290)
 - [SidharthArya pushed to patch-1 in SidharthArya/javascript-interview-questions](https://github.com/SidharthArya/javascript-interview-questions/compare/cca2d6703a...78ead638df)
 - [SidharthArya forked SidharthArya/javascript-interview-questions from sudheerj/javascript-interview-questions](https://github.com/SidharthArya/javascript-interview-questions)
-- [SidharthArya starred pugjs/pug](https://github.com/pugjs/pug)
-- [SidharthArya starred auchenberg/chrome-devtools-app](https://github.com/auchenberg/chrome-devtools-app)
-- [SidharthArya starred libuv/libuv](https://github.com/libuv/libuv)
-- [SidharthArya starred acornjs/acorn](https://github.com/acornjs/acorn)
-- [SidharthArya starred v8/v8](https://github.com/v8/v8)
-- [SidharthArya pushed to master in SidharthArya/flake-templates](https://github.com/SidharthArya/flake-templates/compare/113e14259b...80b4613b1e)
 <!-- GITHUB:END -->
 
 ## Top Followers
