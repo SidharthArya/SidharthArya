@@ -34,7 +34,7 @@ Wish you a good-looking profile README!
 [![Website Badge](https://img.shields.io/badge/-sidhartharya.com-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://sidhartharya.com)](https://sidhartharya.com)
 
 -   Programming: Python, C++, GitHub Actions, JavaScript, Haskell, Nodejs
--   Operating System: [Nix OS](https://nixos.org/) / [Arch Linux](https://archlinux.org/) / [Mac OSx](https://macosx.com/) / [Debian](https://www.debian.org/)
+-   Operating System: [Nix OS](https://nixos.org/) / [Mac OSx](https://macosx.com/) 
 -   Window Manager: [bspwm](https://github.com/baskerville/bspwm) / [Gnome](https://www.gnome.org/)
 -   Shell: [Zsh](https://www.zsh.org/)
 -   Editor: [Emacs](https://www.gnu.org/software/emacs/) / [Neovim](https://neovim.io/) / [VS Code](https://code.visualstudio.com/)
