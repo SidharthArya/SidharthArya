@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred eclipse-theia/theia](https://github.com/eclipse-theia/theia)
 - [SidharthArya pushed to master in SidharthArya/SidharthArya](https://github.com/SidharthArya/SidharthArya/compare/b98c0756f9...37d645387d)
 - [SidharthArya commented on pull request YaLTeR/niri#453](https://github.com/YaLTeR/niri/pull/453#issuecomment-2215180253)
 - [SidharthArya forked SidharthArya/node-express-boilerplate from hagopj13/node-express-boilerplate](https://github.com/SidharthArya/node-express-boilerplate)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/.niri](https://github.com/SidharthArya/.niri/compare/19cc11fff9...5f9226db49)
 - [SidharthArya pushed to master in SidharthArya/.niri](https://github.com/SidharthArya/.niri/compare/dbeed2eef6...19cc11fff9)
 - [SidharthArya created a branch master in SidharthArya/.niri](https://github.com/SidharthArya/.niri/compare/master)
-- [SidharthArya created a repository SidharthArya/.niri](https://github.com/SidharthArya/.niri//)
 <!-- GITHUB:END -->
 
 ## Top Followers
