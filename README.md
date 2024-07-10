@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit)
+- [SidharthArya starred SidharthArya/powerido](https://github.com/SidharthArya/powerido)
 - [SidharthArya starred eclipse-theia/theia](https://github.com/eclipse-theia/theia)
 - [SidharthArya pushed to master in SidharthArya/SidharthArya](https://github.com/SidharthArya/SidharthArya/compare/b98c0756f9...37d645387d)
 - [SidharthArya commented on pull request YaLTeR/niri#453](https://github.com/YaLTeR/niri/pull/453#issuecomment-2215180253)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to main in SidharthArya/.nvim](https://github.com/SidharthArya/.nvim/compare/289c7c9b3f...f19c9c3da8)
 - [SidharthArya pushed to main in SidharthArya/.nvim](https://github.com/SidharthArya/.nvim/compare/32f44a48cc...289c7c9b3f)
 - [SidharthArya pushed to master in SidharthArya/.niri](https://github.com/SidharthArya/.niri/compare/19cc11fff9...5f9226db49)
-- [SidharthArya pushed to master in SidharthArya/.niri](https://github.com/SidharthArya/.niri/compare/dbeed2eef6...19cc11fff9)
-- [SidharthArya created a branch master in SidharthArya/.niri](https://github.com/SidharthArya/.niri/compare/master)
 <!-- GITHUB:END -->
 
 ## Top Followers
