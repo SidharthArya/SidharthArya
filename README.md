@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred microsoft/debug-adapter-protocol](https://github.com/microsoft/debug-adapter-protocol)
 - [SidharthArya starred CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit)
 - [SidharthArya starred SidharthArya/powerido](https://github.com/SidharthArya/powerido)
 - [SidharthArya starred eclipse-theia/theia](https://github.com/eclipse-theia/theia)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to main in SidharthArya/.nvim](https://github.com/SidharthArya/.nvim/compare/f19c9c3da8...7b835322ee)
 - [SidharthArya pushed to main in SidharthArya/.nvim](https://github.com/SidharthArya/.nvim/compare/289c7c9b3f...f19c9c3da8)
 - [SidharthArya pushed to main in SidharthArya/.nvim](https://github.com/SidharthArya/.nvim/compare/32f44a48cc...289c7c9b3f)
-- [SidharthArya pushed to master in SidharthArya/.niri](https://github.com/SidharthArya/.niri/compare/19cc11fff9...5f9226db49)
 <!-- GITHUB:END -->
 
 ## Top Followers
