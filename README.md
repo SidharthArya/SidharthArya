@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to main in SidharthArya/.zsh](https://github.com/SidharthArya/.zsh/compare/25b04a8579...e235a4e687)
+- [SidharthArya pushed to main in SidharthArya/.zsh](https://github.com/SidharthArya/.zsh/compare/1e371e248c...25b04a8579)
 - [SidharthArya starred oxalica/nil](https://github.com/oxalica/nil)
 - [SidharthArya pushed to main in SidharthArya/.nvim](https://github.com/SidharthArya/.nvim/compare/7b835322ee...65bd213ab3)
 - [SidharthArya starred microsoft/debug-adapter-protocol](https://github.com/microsoft/debug-adapter-protocol)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred eclipse-theia/theia](https://github.com/eclipse-theia/theia)
 - [SidharthArya pushed to master in SidharthArya/SidharthArya](https://github.com/SidharthArya/SidharthArya/compare/b98c0756f9...37d645387d)
 - [SidharthArya commented on pull request YaLTeR/niri#453](https://github.com/YaLTeR/niri/pull/453#issuecomment-2215180253)
-- [SidharthArya forked SidharthArya/node-express-boilerplate from hagopj13/node-express-boilerplate](https://github.com/SidharthArya/node-express-boilerplate)
-- [SidharthArya pushed to main in SidharthArya/.nvim](https://github.com/SidharthArya/.nvim/compare/f19c9c3da8...7b835322ee)
 <!-- GITHUB:END -->
 
 ## Top Followers
