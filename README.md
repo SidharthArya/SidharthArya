@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred oxalica/nil](https://github.com/oxalica/nil)
 - [SidharthArya pushed to main in SidharthArya/.nvim](https://github.com/SidharthArya/.nvim/compare/7b835322ee...65bd213ab3)
 - [SidharthArya starred microsoft/debug-adapter-protocol](https://github.com/microsoft/debug-adapter-protocol)
 - [SidharthArya starred CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya commented on pull request YaLTeR/niri#453](https://github.com/YaLTeR/niri/pull/453#issuecomment-2215180253)
 - [SidharthArya forked SidharthArya/node-express-boilerplate from hagopj13/node-express-boilerplate](https://github.com/SidharthArya/node-express-boilerplate)
 - [SidharthArya pushed to main in SidharthArya/.nvim](https://github.com/SidharthArya/.nvim/compare/f19c9c3da8...7b835322ee)
-- [SidharthArya pushed to main in SidharthArya/.nvim](https://github.com/SidharthArya/.nvim/compare/289c7c9b3f...f19c9c3da8)
 <!-- GITHUB:END -->
 
 ## Top Followers
