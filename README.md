@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to master in SidharthArya/flake-templates](https://github.com/SidharthArya/flake-templates/compare/6fc625bd4e...0c21b73cc8)
 - [SidharthArya pushed to main in SidharthArya/.zsh](https://github.com/SidharthArya/.zsh/compare/25b04a8579...e235a4e687)
 - [SidharthArya pushed to main in SidharthArya/.zsh](https://github.com/SidharthArya/.zsh/compare/1e371e248c...25b04a8579)
 - [SidharthArya starred oxalica/nil](https://github.com/oxalica/nil)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred SidharthArya/powerido](https://github.com/SidharthArya/powerido)
 - [SidharthArya starred eclipse-theia/theia](https://github.com/eclipse-theia/theia)
 - [SidharthArya pushed to master in SidharthArya/SidharthArya](https://github.com/SidharthArya/SidharthArya/compare/b98c0756f9...37d645387d)
-- [SidharthArya commented on pull request YaLTeR/niri#453](https://github.com/YaLTeR/niri/pull/453#issuecomment-2215180253)
 <!-- GITHUB:END -->
 
 ## Top Followers
