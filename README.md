@@ -34,11 +34,11 @@ Wish you a good-looking profile README!
 [![Website Badge](https://img.shields.io/badge/-sidhartharya.com-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://sidhartharya.com)](https://sidhartharya.com)
 
 -   Programming: Python, C++, GitHub Actions, JavaScript, Haskell, Nodejs
--   Operating System: [Nix OS](https://nixos.org/) / [Mac OSx](https://macosx.com/) 
--   Window Manager: [bspwm](https://github.com/baskerville/bspwm) / [Gnome](https://www.gnome.org/)
+-   Operating System: [Nix OS](https://nixos.org/)
+-   Window Manager: [niri](https://github.com/YaLTeR/niri)
 -   Shell: [Zsh](https://www.zsh.org/)
--   Editor: [Emacs](https://www.gnu.org/software/emacs/) / [Neovim](https://neovim.io/) / [VS Code](https://code.visualstudio.com/)
--   Browser: [Qutebrowser](https://qutebrowser.org/) / [Firefox](https://www.mozilla.org/en-US/firefox/) / [Chrome](https://www.google.com/intl/en_in/chrome/)
+-   Editor: [Neovim](https://neovim.io/) / [VS Code](https://code.visualstudio.com/)
+-   Browser: [Firefox](https://www.mozilla.org/en-US/firefox/) / [Chrome](https://www.google.com/intl/en_in/chrome/)
 -   :wave: [INTP-T](https://www.16personalities.com/intp-personality) Personality
 -   :key: GPG key: [`4881651806D31166`](https://github.com/SidharthArya.gpg)
 
