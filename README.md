@@ -72,16 +72,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
- - 23-03-2022 [A Sinful Smile](https://blog.sidhartharya.com/a-sinful-smile/)
- - 03-07-2021 [Installing a custom emacs package in nix](https://blog.sidhartharya.com/installing-a-custom-emacs-package-in-nix/)
- - 30-06-2021 [Automatically fetching newly added feeds in elfeed org file](https://blog.sidhartharya.com/automatically-fetching-newly-added-feeds-in-elfeed-org-file/)
- - 13-06-2021 [Cycling through Windows in SwayWM](https://blog.sidhartharya.com/cycling-through-windows-in-swaywm/)
- - 13-06-2021 [Integrating Org Protocol with Qutebrowser](https://blog.sidhartharya.com/integrating-org-protocol-with-qutebrowser/)
- - 11-06-2021 [Using pass to auto authenticate for github](https://blog.sidhartharya.com/using-pass-to-auto-authenticate-for-github/)
- - 06-06-2021 [Exporting Org Roam notes to hugo](https://blog.sidhartharya.com/exporting-org-roam-notes-to-hugo/)
- - 03-06-2021 [A quicker way to reach localhost with qutebrowser](https://blog.sidhartharya.com/a-quicker-way-to-reach-localhost-with-qutebrowser/)
- - 02-06-2021 [Running ipython inside a python script](https://blog.sidhartharya.com/running-ipython-inside-a-python-script/)
- - 01-06-2021 [What is this blog about](https://blog.sidhartharya.com/what-is-this-blog-about/)<!-- BLOG-POST-LIST:END -->
+ - 23-03-2022 [A Sinful Smile](https://blog.sidhartharya.com/posts/a-sinful-smile/)
+ - 11-07-2021 [Using custom plymouth theme on nixos](https://blog.sidhartharya.com/posts/using-custom-plymouth-theme-on-nixos/)
+ - 03-07-2021 [Installing a custom emacs package in nix](https://blog.sidhartharya.com/posts/installing-a-custom-emacs-package-in-nix/)
+ - 13-06-2021 [Cycling through Windows in SwayWM](https://blog.sidhartharya.com/posts/cycling-through-windows-in-swaywm/)
+ - 13-06-2021 [Integrating Org Protocol with Qutebrowser](https://blog.sidhartharya.com/posts/integrating-org-protocol-with-qutebrowser/)
+ - 11-06-2021 [Using pass to auto authenticate for github](https://blog.sidhartharya.com/posts/using-pass-to-auto-authenticate-for-github/)
+ - 06-06-2021 [Exporting Org Roam notes to hugo](https://blog.sidhartharya.com/posts/exporting-org-roam-notes-to-hugo/)
+ - 02-06-2021 [Running ipython inside a python script](https://blog.sidhartharya.com/posts/running-ipython-inside-a-python-script/)
+ - 02-06-2021 [A micro minimal desktop with bspwm](https://blog.sidhartharya.com/posts/a-micro-minimal-desktop-with-bspwm/)
+ - 01-06-2021 [A quicker way to reach localhost with qutebrowser](https://blog.sidhartharya.com/posts/a-quicker-way-to-reach-localhost-with-qutebrowser/)<!-- BLOG-POST-LIST:END -->
 
 
 ## Latest Github Activity
