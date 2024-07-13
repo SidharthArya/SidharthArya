@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to master in SidharthArya/SidharthArya](https://github.com/SidharthArya/SidharthArya/compare/b8d1d43c98...d4ce0cd2f2)
 - [SidharthArya pushed to master in SidharthArya/SidharthArya](https://github.com/SidharthArya/SidharthArya/compare/c6fce1f6b9...2f9d014337)
 - [SidharthArya created a branch master in SidharthArya/sel](https://github.com/SidharthArya/sel/compare/master)
 - [SidharthArya created a repository SidharthArya/sel](https://github.com/SidharthArya/sel//)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to main in SidharthArya/.zsh](https://github.com/SidharthArya/.zsh/compare/25b04a8579...e235a4e687)
 - [SidharthArya pushed to main in SidharthArya/.zsh](https://github.com/SidharthArya/.zsh/compare/1e371e248c...25b04a8579)
 - [SidharthArya starred oxalica/nil](https://github.com/oxalica/nil)
-- [SidharthArya pushed to main in SidharthArya/.nvim](https://github.com/SidharthArya/.nvim/compare/7b835322ee...65bd213ab3)
 <!-- GITHUB:END -->
 
 ## Top Followers
