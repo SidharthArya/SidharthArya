@@ -87,6 +87,9 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to master in SidharthArya/SidharthArya](https://github.com/SidharthArya/SidharthArya/compare/c6fce1f6b9...2f9d014337)
+- [SidharthArya created a branch master in SidharthArya/sel](https://github.com/SidharthArya/sel/compare/master)
+- [SidharthArya created a repository SidharthArya/sel](https://github.com/SidharthArya/sel//)
 - [SidharthArya starred charmbracelet/wish](https://github.com/charmbracelet/wish)
 - [SidharthArya starred charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea)
 - [SidharthArya pushed to master in SidharthArya/flake-templates](https://github.com/SidharthArya/flake-templates/compare/6fc625bd4e...0c21b73cc8)
@@ -94,9 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to main in SidharthArya/.zsh](https://github.com/SidharthArya/.zsh/compare/1e371e248c...25b04a8579)
 - [SidharthArya starred oxalica/nil](https://github.com/oxalica/nil)
 - [SidharthArya pushed to main in SidharthArya/.nvim](https://github.com/SidharthArya/.nvim/compare/7b835322ee...65bd213ab3)
-- [SidharthArya starred microsoft/debug-adapter-protocol](https://github.com/microsoft/debug-adapter-protocol)
-- [SidharthArya starred CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit)
-- [SidharthArya starred SidharthArya/powerido](https://github.com/SidharthArya/powerido)
 <!-- GITHUB:END -->
 
 ## Top Followers
