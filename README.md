@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to main in SidharthArya/.nvim](https://github.com/SidharthArya/.nvim/compare/65bd213ab3...b014a801fe)
+- [SidharthArya forked SidharthArya/nvim-navbuddy from SmiteshP/nvim-navbuddy](https://github.com/SidharthArya/nvim-navbuddy)
 - [SidharthArya starred stanford-oval/storm](https://github.com/stanford-oval/storm)
 - [SidharthArya pushed to master in SidharthArya/SidharthArya](https://github.com/SidharthArya/SidharthArya/compare/b8d1d43c98...d4ce0cd2f2)
 - [SidharthArya pushed to master in SidharthArya/SidharthArya](https://github.com/SidharthArya/SidharthArya/compare/c6fce1f6b9...2f9d014337)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred charmbracelet/wish](https://github.com/charmbracelet/wish)
 - [SidharthArya starred charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea)
 - [SidharthArya pushed to master in SidharthArya/flake-templates](https://github.com/SidharthArya/flake-templates/compare/6fc625bd4e...0c21b73cc8)
-- [SidharthArya pushed to main in SidharthArya/.zsh](https://github.com/SidharthArya/.zsh/compare/25b04a8579...e235a4e687)
-- [SidharthArya pushed to main in SidharthArya/.zsh](https://github.com/SidharthArya/.zsh/compare/1e371e248c...25b04a8579)
 <!-- GITHUB:END -->
 
 ## Top Followers
