@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred SmiteshP/nvim-navic](https://github.com/SmiteshP/nvim-navic)
 - [SidharthArya pushed to main in SidharthArya/.nvim](https://github.com/SidharthArya/.nvim/compare/65bd213ab3...b014a801fe)
 - [SidharthArya forked SidharthArya/nvim-navbuddy from SmiteshP/nvim-navbuddy](https://github.com/SidharthArya/nvim-navbuddy)
 - [SidharthArya starred stanford-oval/storm](https://github.com/stanford-oval/storm)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya created a repository SidharthArya/sel](https://github.com/SidharthArya/sel//)
 - [SidharthArya starred charmbracelet/wish](https://github.com/charmbracelet/wish)
 - [SidharthArya starred charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea)
-- [SidharthArya pushed to master in SidharthArya/flake-templates](https://github.com/SidharthArya/flake-templates/compare/6fc625bd4e...0c21b73cc8)
 <!-- GITHUB:END -->
 
 ## Top Followers
