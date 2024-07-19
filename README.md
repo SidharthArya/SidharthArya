@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred pypa/pipenv](https://github.com/pypa/pipenv)
 - [SidharthArya pushed to main in SidharthArya/.zsh](https://github.com/SidharthArya/.zsh/compare/e235a4e687...a4a8f32240)
 - [SidharthArya starred SmiteshP/nvim-navic](https://github.com/SmiteshP/nvim-navic)
 - [SidharthArya pushed to main in SidharthArya/.nvim](https://github.com/SidharthArya/.nvim/compare/65bd213ab3...b014a801fe)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/SidharthArya](https://github.com/SidharthArya/SidharthArya/compare/c6fce1f6b9...2f9d014337)
 - [SidharthArya created a branch master in SidharthArya/sel](https://github.com/SidharthArya/sel/compare/master)
 - [SidharthArya created a repository SidharthArya/sel](https://github.com/SidharthArya/sel//)
-- [SidharthArya starred charmbracelet/wish](https://github.com/charmbracelet/wish)
 <!-- GITHUB:END -->
 
 ## Top Followers
