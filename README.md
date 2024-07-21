@@ -87,16 +87,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya created a repository SidharthArya/blog.comments](https://github.com/SidharthArya/blog.comments//)
+- [SidharthArya created a branch main in SidharthArya/blog.comments](https://github.com/SidharthArya/blog.comments/compare/main)
+- [SidharthArya starred giscus/giscus](https://github.com/giscus/giscus)
+- [SidharthArya starred facebookresearch/DPR](https://github.com/facebookresearch/DPR)
 - [SidharthArya starred xsahil03x/before_after](https://github.com/xsahil03x/before_after)
 - [SidharthArya starred Idean/Flutter-Neumorphic](https://github.com/Idean/Flutter-Neumorphic)
 - [SidharthArya starred flyerhq/flutter_chat_ui](https://github.com/flyerhq/flutter_chat_ui)
 - [SidharthArya starred Milad-Akarie/smooth_page_indicator](https://github.com/Milad-Akarie/smooth_page_indicator)
 - [SidharthArya starred aagarwal1012/Liquid-Pull-To-Refresh](https://github.com/aagarwal1012/Liquid-Pull-To-Refresh)
 - [SidharthArya starred pypa/pipenv](https://github.com/pypa/pipenv)
-- [SidharthArya pushed to main in SidharthArya/.zsh](https://github.com/SidharthArya/.zsh/compare/e235a4e687...a4a8f32240)
-- [SidharthArya starred SmiteshP/nvim-navic](https://github.com/SmiteshP/nvim-navic)
-- [SidharthArya pushed to main in SidharthArya/.nvim](https://github.com/SidharthArya/.nvim/compare/65bd213ab3...b014a801fe)
-- [SidharthArya forked SidharthArya/nvim-navbuddy from SmiteshP/nvim-navbuddy](https://github.com/SidharthArya/nvim-navbuddy)
 <!-- GITHUB:END -->
 
 ## Top Followers
