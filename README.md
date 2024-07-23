@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred asciimoo/wuzz](https://github.com/asciimoo/wuzz)
 - [SidharthArya starred getsops/sops](https://github.com/getsops/sops)
 - [SidharthArya starred nix-community/NUR](https://github.com/nix-community/NUR)
 - [SidharthArya starred nix-community/nixvim](https://github.com/nix-community/nixvim)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred giscus/giscus](https://github.com/giscus/giscus)
 - [SidharthArya starred facebookresearch/DPR](https://github.com/facebookresearch/DPR)
 - [SidharthArya starred xsahil03x/before_after](https://github.com/xsahil03x/before_after)
-- [SidharthArya starred Idean/Flutter-Neumorphic](https://github.com/Idean/Flutter-Neumorphic)
 <!-- GITHUB:END -->
 
 ## Top Followers
