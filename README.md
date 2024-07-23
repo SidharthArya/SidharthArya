@@ -87,16 +87,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred getsops/sops](https://github.com/getsops/sops)
+- [SidharthArya starred nix-community/NUR](https://github.com/nix-community/NUR)
+- [SidharthArya starred nix-community/nixvim](https://github.com/nix-community/nixvim)
+- [SidharthArya starred jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker)
 - [SidharthArya created a repository SidharthArya/blog.comments](https://github.com/SidharthArya/blog.comments//)
 - [SidharthArya created a branch main in SidharthArya/blog.comments](https://github.com/SidharthArya/blog.comments/compare/main)
 - [SidharthArya starred giscus/giscus](https://github.com/giscus/giscus)
 - [SidharthArya starred facebookresearch/DPR](https://github.com/facebookresearch/DPR)
 - [SidharthArya starred xsahil03x/before_after](https://github.com/xsahil03x/before_after)
 - [SidharthArya starred Idean/Flutter-Neumorphic](https://github.com/Idean/Flutter-Neumorphic)
-- [SidharthArya starred flyerhq/flutter_chat_ui](https://github.com/flyerhq/flutter_chat_ui)
-- [SidharthArya starred Milad-Akarie/smooth_page_indicator](https://github.com/Milad-Akarie/smooth_page_indicator)
-- [SidharthArya starred aagarwal1012/Liquid-Pull-To-Refresh](https://github.com/aagarwal1012/Liquid-Pull-To-Refresh)
-- [SidharthArya starred pypa/pipenv](https://github.com/pypa/pipenv)
 <!-- GITHUB:END -->
 
 ## Top Followers
