@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred nix-community/terraform-nixos](https://github.com/nix-community/terraform-nixos)
+- [SidharthArya starred nix-community/comma](https://github.com/nix-community/comma)
 - [SidharthArya starred ahmetb/kubectx](https://github.com/ahmetb/kubectx)
 - [SidharthArya starred derailed/k9s](https://github.com/derailed/k9s)
 - [SidharthArya starred asciimoo/wuzz](https://github.com/asciimoo/wuzz)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred nix-community/nixvim](https://github.com/nix-community/nixvim)
 - [SidharthArya starred jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker)
 - [SidharthArya created a repository SidharthArya/blog.comments](https://github.com/SidharthArya/blog.comments//)
-- [SidharthArya created a branch main in SidharthArya/blog.comments](https://github.com/SidharthArya/blog.comments/compare/main)
-- [SidharthArya starred giscus/giscus](https://github.com/giscus/giscus)
 <!-- GITHUB:END -->
 
 ## Top Followers
