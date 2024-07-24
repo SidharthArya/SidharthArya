@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred ahmetb/kubectx](https://github.com/ahmetb/kubectx)
 - [SidharthArya starred derailed/k9s](https://github.com/derailed/k9s)
 - [SidharthArya starred asciimoo/wuzz](https://github.com/asciimoo/wuzz)
 - [SidharthArya starred getsops/sops](https://github.com/getsops/sops)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya created a repository SidharthArya/blog.comments](https://github.com/SidharthArya/blog.comments//)
 - [SidharthArya created a branch main in SidharthArya/blog.comments](https://github.com/SidharthArya/blog.comments/compare/main)
 - [SidharthArya starred giscus/giscus](https://github.com/giscus/giscus)
-- [SidharthArya starred facebookresearch/DPR](https://github.com/facebookresearch/DPR)
 <!-- GITHUB:END -->
 
 ## Top Followers
