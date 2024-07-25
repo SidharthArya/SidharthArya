@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya forked SidharthArya/friendly-snippets from rafamadriz/friendly-snippets](https://github.com/SidharthArya/friendly-snippets)
+- [SidharthArya starred rafamadriz/friendly-snippets](https://github.com/rafamadriz/friendly-snippets)
 - [SidharthArya pushed to main in SidharthArya/.nvim](https://github.com/SidharthArya/.nvim/compare/b014a801fe...3887863143)
 - [SidharthArya starred facebookresearch/fairscale](https://github.com/facebookresearch/fairscale)
 - [SidharthArya starred nix-community/terraform-nixos](https://github.com/nix-community/terraform-nixos)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred derailed/k9s](https://github.com/derailed/k9s)
 - [SidharthArya starred asciimoo/wuzz](https://github.com/asciimoo/wuzz)
 - [SidharthArya starred getsops/sops](https://github.com/getsops/sops)
-- [SidharthArya starred nix-community/NUR](https://github.com/nix-community/NUR)
-- [SidharthArya starred nix-community/nixvim](https://github.com/nix-community/nixvim)
 <!-- GITHUB:END -->
 
 ## Top Followers
