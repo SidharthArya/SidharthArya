@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to main in SidharthArya/.nvim](https://github.com/SidharthArya/.nvim/compare/b014a801fe...3887863143)
 - [SidharthArya starred facebookresearch/fairscale](https://github.com/facebookresearch/fairscale)
 - [SidharthArya starred nix-community/terraform-nixos](https://github.com/nix-community/terraform-nixos)
 - [SidharthArya starred nix-community/comma](https://github.com/nix-community/comma)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred getsops/sops](https://github.com/getsops/sops)
 - [SidharthArya starred nix-community/NUR](https://github.com/nix-community/NUR)
 - [SidharthArya starred nix-community/nixvim](https://github.com/nix-community/nixvim)
-- [SidharthArya starred jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker)
 <!-- GITHUB:END -->
 
 ## Top Followers
