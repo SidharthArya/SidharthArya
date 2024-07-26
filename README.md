@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred NixOS/templates](https://github.com/NixOS/templates)
 - [SidharthArya forked SidharthArya/friendly-snippets from rafamadriz/friendly-snippets](https://github.com/SidharthArya/friendly-snippets)
 - [SidharthArya starred rafamadriz/friendly-snippets](https://github.com/rafamadriz/friendly-snippets)
 - [SidharthArya pushed to main in SidharthArya/.nvim](https://github.com/SidharthArya/.nvim/compare/b014a801fe...3887863143)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred ahmetb/kubectx](https://github.com/ahmetb/kubectx)
 - [SidharthArya starred derailed/k9s](https://github.com/derailed/k9s)
 - [SidharthArya starred asciimoo/wuzz](https://github.com/asciimoo/wuzz)
-- [SidharthArya starred getsops/sops](https://github.com/getsops/sops)
 <!-- GITHUB:END -->
 
 ## Top Followers
