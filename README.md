@@ -87,16 +87,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred labwc/labwc](https://github.com/labwc/labwc)
+- [SidharthArya pushed to master in SidharthArya/solo](https://github.com/SidharthArya/solo/compare/d2eb76d8fa...3365aa7620)
+- [SidharthArya starred kdl-org/kdl](https://github.com/kdl-org/kdl)
+- [SidharthArya pushed to master in SidharthArya/solo](https://github.com/SidharthArya/solo/compare/179df019bd...d2eb76d8fa)
 - [SidharthArya pushed to master in SidharthArya/solo](https://github.com/SidharthArya/solo/compare/fe99addd97...179df019bd)
 - [SidharthArya created a branch master in SidharthArya/solo](https://github.com/SidharthArya/solo/compare/master)
 - [SidharthArya created a repository SidharthArya/solo](https://github.com/SidharthArya/solo//)
 - [SidharthArya starred michalsnik/aos](https://github.com/michalsnik/aos)
 - [SidharthArya starred aseprite/aseprite](https://github.com/aseprite/aseprite)
 - [SidharthArya starred NixOS/templates](https://github.com/NixOS/templates)
-- [SidharthArya forked SidharthArya/friendly-snippets from rafamadriz/friendly-snippets](https://github.com/SidharthArya/friendly-snippets)
-- [SidharthArya starred rafamadriz/friendly-snippets](https://github.com/rafamadriz/friendly-snippets)
-- [SidharthArya pushed to main in SidharthArya/.nvim](https://github.com/SidharthArya/.nvim/compare/b014a801fe...3887863143)
-- [SidharthArya starred facebookresearch/fairscale](https://github.com/facebookresearch/fairscale)
 <!-- GITHUB:END -->
 
 ## Top Followers
