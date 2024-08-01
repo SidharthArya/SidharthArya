@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to main in SidharthArya/.nvim](https://github.com/SidharthArya/.nvim/compare/3887863143...a96afcef83)
+- [SidharthArya pushed to main in SidharthArya/friendly-snippets](https://github.com/SidharthArya/friendly-snippets/compare/00ebcaa159...f408bafd66)
 - [SidharthArya starred ArthurSonzogni/FTXUI](https://github.com/ArthurSonzogni/FTXUI)
 - [SidharthArya starred labwc/labwc](https://github.com/labwc/labwc)
 - [SidharthArya pushed to master in SidharthArya/solo](https://github.com/SidharthArya/solo/compare/d2eb76d8fa...3365aa7620)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/solo](https://github.com/SidharthArya/solo/compare/fe99addd97...179df019bd)
 - [SidharthArya created a branch master in SidharthArya/solo](https://github.com/SidharthArya/solo/compare/master)
 - [SidharthArya created a repository SidharthArya/solo](https://github.com/SidharthArya/solo//)
-- [SidharthArya starred michalsnik/aos](https://github.com/michalsnik/aos)
-- [SidharthArya starred aseprite/aseprite](https://github.com/aseprite/aseprite)
 <!-- GITHUB:END -->
 
 ## Top Followers
