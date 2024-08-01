@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred ArthurSonzogni/FTXUI](https://github.com/ArthurSonzogni/FTXUI)
 - [SidharthArya starred labwc/labwc](https://github.com/labwc/labwc)
 - [SidharthArya pushed to master in SidharthArya/solo](https://github.com/SidharthArya/solo/compare/d2eb76d8fa...3365aa7620)
 - [SidharthArya starred kdl-org/kdl](https://github.com/kdl-org/kdl)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya created a repository SidharthArya/solo](https://github.com/SidharthArya/solo//)
 - [SidharthArya starred michalsnik/aos](https://github.com/michalsnik/aos)
 - [SidharthArya starred aseprite/aseprite](https://github.com/aseprite/aseprite)
-- [SidharthArya starred NixOS/templates](https://github.com/NixOS/templates)
 <!-- GITHUB:END -->
 
 ## Top Followers
