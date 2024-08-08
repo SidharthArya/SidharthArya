@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to master in SidharthArya/.nnn](https://github.com/SidharthArya/.nnn/compare/d5bb70d492...aa3a5adabc)
+- [SidharthArya pushed to main in SidharthArya/.zsh](https://github.com/SidharthArya/.zsh/compare/a4a8f32240...463ec5a215)
 - [SidharthArya pushed to main in SidharthArya/.nvim](https://github.com/SidharthArya/.nvim/compare/3887863143...a96afcef83)
 - [SidharthArya pushed to main in SidharthArya/friendly-snippets](https://github.com/SidharthArya/friendly-snippets/compare/00ebcaa159...f408bafd66)
 - [SidharthArya starred ArthurSonzogni/FTXUI](https://github.com/ArthurSonzogni/FTXUI)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred kdl-org/kdl](https://github.com/kdl-org/kdl)
 - [SidharthArya pushed to master in SidharthArya/solo](https://github.com/SidharthArya/solo/compare/179df019bd...d2eb76d8fa)
 - [SidharthArya pushed to master in SidharthArya/solo](https://github.com/SidharthArya/solo/compare/fe99addd97...179df019bd)
-- [SidharthArya created a branch master in SidharthArya/solo](https://github.com/SidharthArya/solo/compare/master)
-- [SidharthArya created a repository SidharthArya/solo](https://github.com/SidharthArya/solo//)
 <!-- GITHUB:END -->
 
 ## Top Followers
