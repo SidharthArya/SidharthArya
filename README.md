@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred timescale/timescaledb](https://github.com/timescale/timescaledb)
 - [SidharthArya pushed to master in SidharthArya/.nnn](https://github.com/SidharthArya/.nnn/compare/d5bb70d492...aa3a5adabc)
 - [SidharthArya pushed to main in SidharthArya/.zsh](https://github.com/SidharthArya/.zsh/compare/a4a8f32240...463ec5a215)
 - [SidharthArya pushed to main in SidharthArya/.nvim](https://github.com/SidharthArya/.nvim/compare/3887863143...a96afcef83)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/solo](https://github.com/SidharthArya/solo/compare/d2eb76d8fa...3365aa7620)
 - [SidharthArya starred kdl-org/kdl](https://github.com/kdl-org/kdl)
 - [SidharthArya pushed to master in SidharthArya/solo](https://github.com/SidharthArya/solo/compare/179df019bd...d2eb76d8fa)
-- [SidharthArya pushed to master in SidharthArya/solo](https://github.com/SidharthArya/solo/compare/fe99addd97...179df019bd)
 <!-- GITHUB:END -->
 
 ## Top Followers
