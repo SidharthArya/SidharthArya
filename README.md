@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to main in SidharthArya/corne-zmk-config](https://github.com/SidharthArya/corne-zmk-config/compare/77e47802d0...69677161d9)
 - [SidharthArya starred timescale/timescaledb](https://github.com/timescale/timescaledb)
 - [SidharthArya pushed to master in SidharthArya/.nnn](https://github.com/SidharthArya/.nnn/compare/d5bb70d492...aa3a5adabc)
 - [SidharthArya pushed to main in SidharthArya/.zsh](https://github.com/SidharthArya/.zsh/compare/a4a8f32240...463ec5a215)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred labwc/labwc](https://github.com/labwc/labwc)
 - [SidharthArya pushed to master in SidharthArya/solo](https://github.com/SidharthArya/solo/compare/d2eb76d8fa...3365aa7620)
 - [SidharthArya starred kdl-org/kdl](https://github.com/kdl-org/kdl)
-- [SidharthArya pushed to master in SidharthArya/solo](https://github.com/SidharthArya/solo/compare/179df019bd...d2eb76d8fa)
 <!-- GITHUB:END -->
 
 ## Top Followers
