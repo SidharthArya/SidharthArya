@@ -87,16 +87,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred lilyinstarlight/zmk-nix](https://github.com/lilyinstarlight/zmk-nix)
+- [SidharthArya pushed to main in SidharthArya/corne-zmk-config](https://github.com/SidharthArya/corne-zmk-config/compare/87ad9c947c...55f3ebadb1)
+- [SidharthArya pushed to main in SidharthArya/corne-zmk-config](https://github.com/SidharthArya/corne-zmk-config/compare/5792500208...87ad9c947c)
+- [SidharthArya pushed to main in SidharthArya/corne-zmk-config](https://github.com/SidharthArya/corne-zmk-config/compare/6fbb6d38e4...5792500208)
+- [SidharthArya pushed to main in SidharthArya/corne-zmk-config](https://github.com/SidharthArya/corne-zmk-config/compare/69677161d9...6fbb6d38e4)
 - [SidharthArya pushed to main in SidharthArya/corne-zmk-config](https://github.com/SidharthArya/corne-zmk-config/compare/77e47802d0...69677161d9)
 - [SidharthArya starred timescale/timescaledb](https://github.com/timescale/timescaledb)
 - [SidharthArya pushed to master in SidharthArya/.nnn](https://github.com/SidharthArya/.nnn/compare/d5bb70d492...aa3a5adabc)
 - [SidharthArya pushed to main in SidharthArya/.zsh](https://github.com/SidharthArya/.zsh/compare/a4a8f32240...463ec5a215)
 - [SidharthArya pushed to main in SidharthArya/.nvim](https://github.com/SidharthArya/.nvim/compare/3887863143...a96afcef83)
-- [SidharthArya pushed to main in SidharthArya/friendly-snippets](https://github.com/SidharthArya/friendly-snippets/compare/00ebcaa159...f408bafd66)
-- [SidharthArya starred ArthurSonzogni/FTXUI](https://github.com/ArthurSonzogni/FTXUI)
-- [SidharthArya starred labwc/labwc](https://github.com/labwc/labwc)
-- [SidharthArya pushed to master in SidharthArya/solo](https://github.com/SidharthArya/solo/compare/d2eb76d8fa...3365aa7620)
-- [SidharthArya starred kdl-org/kdl](https://github.com/kdl-org/kdl)
 <!-- GITHUB:END -->
 
 ## Top Followers
