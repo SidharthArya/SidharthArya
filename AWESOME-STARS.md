@@ -1414,6 +1414,7 @@
 
 ## Nix 
 
+- [lilyinstarlight/zmk-nix](https://github.com/lilyinstarlight/zmk-nix) - Build system and configuration files for generating and building ZMK firmware with Nix
 - [NixOS/templates](https://github.com/NixOS/templates) - Flake templates
 - [nix-community/nixvim](https://github.com/nix-community/nixvim) - Configure Neovim with Nix! [maintainer=@GaetanLepage, @traxys, @mattsturgeon, @khaneliman]
 - [SidharthArya/nix-config](https://github.com/SidharthArya/nix-config) - My local nix config
