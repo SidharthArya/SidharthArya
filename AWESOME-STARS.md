@@ -220,7 +220,7 @@
 - [ish-app/ish](https://github.com/ish-app/ish) - Linux shell for iOS
 - [baskerville/sxhkd](https://github.com/baskerville/sxhkd) - Simple X hotkey daemon
 - [dunst-project/dunst](https://github.com/dunst-project/dunst) - Lightweight and customizable notification daemon
-- [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platform everyone needs!
+- [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platfrom everyone needs!
 - [davatorium/rofi](https://github.com/davatorium/rofi) - Rofi: A window switcher, application launcher and dmenu replacement
 - [baskerville/bspwm](https://github.com/baskerville/bspwm) - A tiling window manager based on binary space partitioning
 - [brltty/brltty](https://github.com/brltty/brltty) - BRLTTY is a background process (daemon) providing access to the Linux/Unix console (when in text mode) for a blind person using a refreshable braille display.
