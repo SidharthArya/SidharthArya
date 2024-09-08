@@ -169,6 +169,13 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       <a href="https://github.com/maskegger">AM</a>
     </td>
     <td align="center">
+      <a href="https://github.com/1985Valdemar">
+        <img src="https://avatars2.githubusercontent.com/u/114195427" width="100px;" alt="1985Valdemar"/>
+      </a>
+      <br />
+      <a href="https://github.com/1985Valdemar">Valdemar Teider</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/Tiancheng-Luo">
         <img src="https://avatars2.githubusercontent.com/u/6097951" width="100px;" alt="Tiancheng-Luo"/>
       </a>
@@ -196,6 +203,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       <br />
       <a href="https://github.com/Satawatkee">@s_saichansut</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/Pearlminimal">
         <img src="https://avatars2.githubusercontent.com/u/45006194" width="100px;" alt="Pearlminimal"/>
@@ -203,8 +212,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       <br />
       <a href="https://github.com/Pearlminimal">minimal99pfdo73 </a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/yanboyang713">
         <img src="https://avatars2.githubusercontent.com/u/7603628" width="100px;" alt="yanboyang713"/>
@@ -246,13 +253,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       </a>
       <br />
       <a href="https://github.com/abdullah-azab">abdullah azab</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/HakunanMatatat">
-        <img src="https://avatars2.githubusercontent.com/u/56817048" width="100px;" alt="HakunanMatatat"/>
-      </a>
-      <br />
-      <a href="https://github.com/HakunanMatatat">HakunanMatatat</a>
     </td>
   </tr>
 </table>
