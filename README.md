@@ -162,18 +162,18 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       <a href="https://github.com/grahamwaters">Graham Waters</a>
     </td>
     <td align="center">
-      <a href="https://github.com/maskegger">
-        <img src="https://avatars2.githubusercontent.com/u/3811321" width="100px;" alt="maskegger"/>
-      </a>
-      <br />
-      <a href="https://github.com/maskegger">AM</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/1985Valdemar">
         <img src="https://avatars2.githubusercontent.com/u/114195427" width="100px;" alt="1985Valdemar"/>
       </a>
       <br />
       <a href="https://github.com/1985Valdemar">Valdemar Teider</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/maskegger">
+        <img src="https://avatars2.githubusercontent.com/u/3811321" width="100px;" alt="maskegger"/>
+      </a>
+      <br />
+      <a href="https://github.com/maskegger">AM</a>
     </td>
     <td align="center">
       <a href="https://github.com/Tiancheng-Luo">
