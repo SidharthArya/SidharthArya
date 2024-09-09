@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred zk-org/zk](https://github.com/zk-org/zk)
 - [SidharthArya starred bmaltais/kohya_ss](https://github.com/bmaltais/kohya_ss)
 - [SidharthArya starred facebookresearch/faiss](https://github.com/facebookresearch/faiss)
 - [SidharthArya pushed to main in SidharthArya/.tmux](https://github.com/SidharthArya/.tmux/compare/0657495bcc...8488042412)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to main in SidharthArya/.nvim](https://github.com/SidharthArya/.nvim/compare/a96afcef83...24c9a55015)
 - [SidharthArya pushed to main in SidharthArya/corne-zmk-config](https://github.com/SidharthArya/corne-zmk-config/compare/59948d6c00...2589e81a5c)
 - [SidharthArya pushed to main in SidharthArya/corne-zmk-config](https://github.com/SidharthArya/corne-zmk-config/compare/62fac983f1...59948d6c00)
-- [SidharthArya pushed to main in SidharthArya/corne-zmk-config](https://github.com/SidharthArya/corne-zmk-config/compare/03c20b99a7...62fac983f1)
 <!-- GITHUB:END -->
 
 ## Top Followers
