@@ -1996,7 +1996,7 @@
 - [qqwweee/keras-yolo3](https://github.com/qqwweee/keras-yolo3) - A Keras implementation of YOLOv3 (Tensorflow backend)
 - [rbgirshick/fast-rcnn](https://github.com/rbgirshick/fast-rcnn) - Fast R-CNN
 - [endernewton/tf-faster-rcnn](https://github.com/endernewton/tf-faster-rcnn) - Tensorflow Faster RCNN for Object Detection
-- [labelmeai/labelme](https://github.com/labelmeai/labelme) - Image Polygonal Annotation with Python (polygon, rectangle, circle, line, point and image-level flag annotation).
+- [wkentaro/labelme](https://github.com/wkentaro/labelme) - Image Polygonal Annotation with Python (polygon, rectangle, circle, line, point and image-level flag annotation).
 - [aws/aws-cli](https://github.com/aws/aws-cli) - Universal Command Line Interface for Amazon Web Services
 - [NVIDIAGameWorks/kaolin](https://github.com/NVIDIAGameWorks/kaolin) - A PyTorch Library for Accelerating 3D Deep Learning Research
 - [facebookresearch/higher](https://github.com/facebookresearch/higher) - higher is a pytorch library allowing users to obtain higher order gradients over losses spanning training loops rather than individual training steps.
@@ -2201,7 +2201,7 @@
 - [maurock/snake-ga](https://github.com/maurock/snake-ga) - AI Agent that learns how to play Snake with Deep Q-Learning
 - [google-deepmind/dm-haiku](https://github.com/google-deepmind/dm-haiku) - JAX-based neural network library
 - [google-deepmind/sonnet](https://github.com/google-deepmind/sonnet) - TensorFlow-based neural network library
-- [google/jax](https://github.com/google/jax) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
+- [jax-ml/jax](https://github.com/jax-ml/jax) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
 - [zeromq/pyzmq](https://github.com/zeromq/pyzmq) - PyZMQ:  Python bindings for zeromq
 - [fighting41love/funNLP](https://github.com/fighting41love/funNLP) - 中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名称词库、同义词库、反义词库、否定词库、汽车品牌词库、汽车零件词库、连续英文切割、各种中文词向量、公司名字大全、古诗词库、IT词库、财经词库、成语词库、地名词库、历史名
 - [RomelTorres/alpha_vantage](https://github.com/RomelTorres/alpha_vantage) - A python wrapper for Alpha Vantage API for financial data.
