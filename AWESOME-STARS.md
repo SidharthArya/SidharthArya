@@ -159,7 +159,7 @@
 - [Dr-Noob/cpufetch](https://github.com/Dr-Noob/cpufetch) - Simple yet fancy CPU architecture fetching tool
 - [acidanthera/OpenCorePkg](https://github.com/acidanthera/OpenCorePkg) - OpenCore bootloader
 - [ExistentialAudio/BlackHole](https://github.com/ExistentialAudio/BlackHole) - BlackHole is a modern macOS audio loopback driver that allows applications to pass audio to other applications with zero additional latency.
-- [apple/swift-corelibs-foundation](https://github.com/apple/swift-corelibs-foundation) - The Foundation Project, providing core utilities, internationalization, and OS independence
+- [swiftlang/swift-corelibs-foundation](https://github.com/swiftlang/swift-corelibs-foundation) - The Foundation Project, providing core utilities, internationalization, and OS independence
 - [pytorch/QNNPACK](https://github.com/pytorch/QNNPACK) - Quantized Neural Network PACKage - mobile-optimized implementation of quantized neural network operators
 - [ludlows/PESQ](https://github.com/ludlows/PESQ) - PESQ (Perceptual Evaluation of Speech Quality) Wrapper for Python Users (narrow band and wide band)
 - [SidharthArya/pakka-config](https://github.com/SidharthArya/pakka-config) - 
@@ -1723,7 +1723,7 @@
 - [facebookresearch/LAMA](https://github.com/facebookresearch/LAMA) - LAnguage Model Analysis
 - [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
 - [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Interact with your documents using the power of GPT, 100% privately, no data leaks
-- [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server to call 100+ LLM APIs using the OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]
+- [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]
 - [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser-based workflows with LLMs and Computer Vision
 - [philz1337x/clarity-upscaler](https://github.com/philz1337x/clarity-upscaler) - Clarity AI | AI Image Upscaler & Enhancer - free and open-source Magnific Alternative
 - [openai/grok](https://github.com/openai/grok) - 
@@ -2070,7 +2070,7 @@
 - [activeloopai/deeplake](https://github.com/activeloopai/deeplake) - Database for AI. Store Vectors, Images, Texts, Videos, etc. Use with LLMs/LangChain. Store, query, version, & visualize any AI data. Stream data in real-time to PyTorch/TensorFlow. https://activeloop.
 - [kedro-org/kedro](https://github.com/kedro-org/kedro) - Kedro is a toolbox for production-ready data science. It uses software engineering best practices to help you create data engineering and data science pipelines that are reproducible, maintainable, an
 - [great-expectations/great_expectations](https://github.com/great-expectations/great_expectations) - Always know what to expect from your data.
-- [Netflix/metaflow](https://github.com/Netflix/metaflow) - :rocket: Build and manage real-life ML, AI, and data science projects with ease!
+- [Netflix/metaflow](https://github.com/Netflix/metaflow) - Open Source Platform for developing, scaling and deploying serious ML, AI, and data science systems
 - [microsoft/MMdnn](https://github.com/microsoft/MMdnn) - MMdnn is a set of tools to help users inter-operate among different deep learning frameworks. E.g. model conversion and visualization. Convert models between Caffe, Keras, MXNet, Tensorflow, CNTK, PyT
 - [pseeth/torch-stft](https://github.com/pseeth/torch-stft) - An STFT/iSTFT for PyTorch.
 - [plasma-umass/scalene](https://github.com/plasma-umass/scalene) - Scalene: a high-performance, high-precision CPU, GPU, and memory profiler for Python with AI-powered optimization proposals
