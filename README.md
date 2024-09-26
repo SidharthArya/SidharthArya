@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred gridstack/gridstack.js](https://github.com/gridstack/gridstack.js)
 - [SidharthArya starred zk-org/zk](https://github.com/zk-org/zk)
 - [SidharthArya starred bmaltais/kohya_ss](https://github.com/bmaltais/kohya_ss)
 - [SidharthArya starred facebookresearch/faiss](https://github.com/facebookresearch/faiss)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/scripts](https://github.com/SidharthArya/scripts/compare/db7cc1f69e...63a078b5bf)
 - [SidharthArya pushed to main in SidharthArya/.nvim](https://github.com/SidharthArya/.nvim/compare/a96afcef83...24c9a55015)
 - [SidharthArya pushed to main in SidharthArya/corne-zmk-config](https://github.com/SidharthArya/corne-zmk-config/compare/59948d6c00...2589e81a5c)
-- [SidharthArya pushed to main in SidharthArya/corne-zmk-config](https://github.com/SidharthArya/corne-zmk-config/compare/62fac983f1...59948d6c00)
 <!-- GITHUB:END -->
 
 ## Top Followers
