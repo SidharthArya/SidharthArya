@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya forked SidharthArya/circuit_training from google-research/circuit_training](https://github.com/SidharthArya/circuit_training)
+- [SidharthArya starred google-research/circuit_training](https://github.com/google-research/circuit_training)
 - [SidharthArya starred lucidrains/toolformer-pytorch](https://github.com/lucidrains/toolformer-pytorch)
 - [SidharthArya starred gridstack/gridstack.js](https://github.com/gridstack/gridstack.js)
 - [SidharthArya starred zk-org/zk](https://github.com/zk-org/zk)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to main in SidharthArya/.tmux](https://github.com/SidharthArya/.tmux/compare/0657495bcc...8488042412)
 - [SidharthArya pushed to main in SidharthArya/.zsh](https://github.com/SidharthArya/.zsh/compare/a2b58d3dec...68d43a2f06)
 - [SidharthArya pushed to main in SidharthArya/.zsh](https://github.com/SidharthArya/.zsh/compare/463ec5a215...a2b58d3dec)
-- [SidharthArya pushed to master in SidharthArya/scripts](https://github.com/SidharthArya/scripts/compare/db7cc1f69e...63a078b5bf)
-- [SidharthArya pushed to main in SidharthArya/.nvim](https://github.com/SidharthArya/.nvim/compare/a96afcef83...24c9a55015)
 <!-- GITHUB:END -->
 
 ## Top Followers
