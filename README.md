@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred hashicorp/consul](https://github.com/hashicorp/consul)
 - [SidharthArya starred dottxt-ai/outlines](https://github.com/dottxt-ai/outlines)
 - [SidharthArya starred abetlen/llama-cpp-python](https://github.com/abetlen/llama-cpp-python)
 - [SidharthArya forked SidharthArya/circuit_training from google-research/circuit_training](https://github.com/SidharthArya/circuit_training)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred zk-org/zk](https://github.com/zk-org/zk)
 - [SidharthArya starred bmaltais/kohya_ss](https://github.com/bmaltais/kohya_ss)
 - [SidharthArya starred facebookresearch/faiss](https://github.com/facebookresearch/faiss)
-- [SidharthArya pushed to main in SidharthArya/.tmux](https://github.com/SidharthArya/.tmux/compare/0657495bcc...8488042412)
 <!-- GITHUB:END -->
 
 ## Top Followers
