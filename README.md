@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred sayanarijit/xplr](https://github.com/sayanarijit/xplr)
 - [SidharthArya pushed to main in SidharthArya/.tmux](https://github.com/SidharthArya/.tmux/compare/8488042412...c14bf878a4)
 - [SidharthArya starred google-research/tuning_playbook](https://github.com/google-research/tuning_playbook)
 - [SidharthArya starred ros/ros](https://github.com/ros/ros)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya forked SidharthArya/circuit_training from google-research/circuit_training](https://github.com/SidharthArya/circuit_training)
 - [SidharthArya starred google-research/circuit_training](https://github.com/google-research/circuit_training)
 - [SidharthArya starred lucidrains/toolformer-pytorch](https://github.com/lucidrains/toolformer-pytorch)
-- [SidharthArya starred gridstack/gridstack.js](https://github.com/gridstack/gridstack.js)
 <!-- GITHUB:END -->
 
 ## Top Followers
