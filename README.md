@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred google-research/tuning_playbook](https://github.com/google-research/tuning_playbook)
+- [SidharthArya starred ros/ros](https://github.com/ros/ros)
 - [SidharthArya starred hashicorp/consul](https://github.com/hashicorp/consul)
 - [SidharthArya starred dottxt-ai/outlines](https://github.com/dottxt-ai/outlines)
 - [SidharthArya starred abetlen/llama-cpp-python](https://github.com/abetlen/llama-cpp-python)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred lucidrains/toolformer-pytorch](https://github.com/lucidrains/toolformer-pytorch)
 - [SidharthArya starred gridstack/gridstack.js](https://github.com/gridstack/gridstack.js)
 - [SidharthArya starred zk-org/zk](https://github.com/zk-org/zk)
-- [SidharthArya starred bmaltais/kohya_ss](https://github.com/bmaltais/kohya_ss)
-- [SidharthArya starred facebookresearch/faiss](https://github.com/facebookresearch/faiss)
 <!-- GITHUB:END -->
 
 ## Top Followers
