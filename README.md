@@ -248,11 +248,11 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       <a href="https://github.com/HakunanMatatat">HakunanMatatat</a>
     </td>
     <td align="center">
-      <a href="https://github.com/G0rav">
-        <img src="https://avatars2.githubusercontent.com/u/62126889" width="100px;" alt="G0rav"/>
+      <a href="https://github.com/abdullah-azab">
+        <img src="https://avatars2.githubusercontent.com/u/58390815" width="100px;" alt="abdullah-azab"/>
       </a>
       <br />
-      <a href="https://github.com/G0rav">Gaurav</a>
+      <a href="https://github.com/abdullah-azab">abdullah azab</a>
     </td>
   </tr>
 </table>
