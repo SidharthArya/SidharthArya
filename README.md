@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred uber-go/zap](https://github.com/uber-go/zap)
+- [SidharthArya starred sirupsen/logrus](https://github.com/sirupsen/logrus)
 - [SidharthArya starred sayanarijit/xplr](https://github.com/sayanarijit/xplr)
 - [SidharthArya pushed to main in SidharthArya/.tmux](https://github.com/SidharthArya/.tmux/compare/8488042412...c14bf878a4)
 - [SidharthArya starred google-research/tuning_playbook](https://github.com/google-research/tuning_playbook)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred dottxt-ai/outlines](https://github.com/dottxt-ai/outlines)
 - [SidharthArya starred abetlen/llama-cpp-python](https://github.com/abetlen/llama-cpp-python)
 - [SidharthArya forked SidharthArya/circuit_training from google-research/circuit_training](https://github.com/SidharthArya/circuit_training)
-- [SidharthArya starred google-research/circuit_training](https://github.com/google-research/circuit_training)
-- [SidharthArya starred lucidrains/toolformer-pytorch](https://github.com/lucidrains/toolformer-pytorch)
 <!-- GITHUB:END -->
 
 ## Top Followers
