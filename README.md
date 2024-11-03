@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred haifengl/smile](https://github.com/haifengl/smile)
 - [SidharthArya starred sasha-s/go-deadlock](https://github.com/sasha-s/go-deadlock)
 - [SidharthArya starred uber-go/zap](https://github.com/uber-go/zap)
 - [SidharthArya starred sirupsen/logrus](https://github.com/sirupsen/logrus)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred ros/ros](https://github.com/ros/ros)
 - [SidharthArya starred hashicorp/consul](https://github.com/hashicorp/consul)
 - [SidharthArya starred dottxt-ai/outlines](https://github.com/dottxt-ai/outlines)
-- [SidharthArya starred abetlen/llama-cpp-python](https://github.com/abetlen/llama-cpp-python)
 <!-- GITHUB:END -->
 
 ## Top Followers
