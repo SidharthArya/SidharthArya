@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred oxnr/awesome-bigdata](https://github.com/oxnr/awesome-bigdata)
 - [SidharthArya starred haifengl/smile](https://github.com/haifengl/smile)
 - [SidharthArya starred sasha-s/go-deadlock](https://github.com/sasha-s/go-deadlock)
 - [SidharthArya starred uber-go/zap](https://github.com/uber-go/zap)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred google-research/tuning_playbook](https://github.com/google-research/tuning_playbook)
 - [SidharthArya starred ros/ros](https://github.com/ros/ros)
 - [SidharthArya starred hashicorp/consul](https://github.com/hashicorp/consul)
-- [SidharthArya starred dottxt-ai/outlines](https://github.com/dottxt-ai/outlines)
 <!-- GITHUB:END -->
 
 ## Top Followers
