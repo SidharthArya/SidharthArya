@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred oneapi-src/oneDNN](https://github.com/oneapi-src/oneDNN)
 - [SidharthArya starred oxnr/awesome-bigdata](https://github.com/oxnr/awesome-bigdata)
 - [SidharthArya starred haifengl/smile](https://github.com/haifengl/smile)
 - [SidharthArya starred sasha-s/go-deadlock](https://github.com/sasha-s/go-deadlock)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to main in SidharthArya/.tmux](https://github.com/SidharthArya/.tmux/compare/8488042412...c14bf878a4)
 - [SidharthArya starred google-research/tuning_playbook](https://github.com/google-research/tuning_playbook)
 - [SidharthArya starred ros/ros](https://github.com/ros/ros)
-- [SidharthArya starred hashicorp/consul](https://github.com/hashicorp/consul)
 <!-- GITHUB:END -->
 
 ## Top Followers
