@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred open-webui/open-webui](https://github.com/open-webui/open-webui)
+- [SidharthArya starred ggerganov/ggml](https://github.com/ggerganov/ggml)
 - [SidharthArya starred huggingface/text-generation-inference](https://github.com/huggingface/text-generation-inference)
 - [SidharthArya starred valyala/fasthttp](https://github.com/valyala/fasthttp)
 - [SidharthArya starred oneapi-src/oneDNN](https://github.com/oneapi-src/oneDNN)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred sasha-s/go-deadlock](https://github.com/sasha-s/go-deadlock)
 - [SidharthArya starred uber-go/zap](https://github.com/uber-go/zap)
 - [SidharthArya starred sirupsen/logrus](https://github.com/sirupsen/logrus)
-- [SidharthArya starred sayanarijit/xplr](https://github.com/sayanarijit/xplr)
-- [SidharthArya pushed to main in SidharthArya/.tmux](https://github.com/SidharthArya/.tmux/compare/8488042412...c14bf878a4)
 <!-- GITHUB:END -->
 
 ## Top Followers
