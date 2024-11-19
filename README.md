@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred localstack/localstack](https://github.com/localstack/localstack)
 - [SidharthArya starred open-webui/open-webui](https://github.com/open-webui/open-webui)
 - [SidharthArya starred ggerganov/ggml](https://github.com/ggerganov/ggml)
 - [SidharthArya starred huggingface/text-generation-inference](https://github.com/huggingface/text-generation-inference)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred haifengl/smile](https://github.com/haifengl/smile)
 - [SidharthArya starred sasha-s/go-deadlock](https://github.com/sasha-s/go-deadlock)
 - [SidharthArya starred uber-go/zap](https://github.com/uber-go/zap)
-- [SidharthArya starred sirupsen/logrus](https://github.com/sirupsen/logrus)
 <!-- GITHUB:END -->
 
 ## Top Followers
