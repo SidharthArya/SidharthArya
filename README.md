@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred Arize-ai/phoenix](https://github.com/Arize-ai/phoenix)
 - [SidharthArya starred weaviate/weaviate](https://github.com/weaviate/weaviate)
 - [SidharthArya starred localstack/localstack](https://github.com/localstack/localstack)
 - [SidharthArya starred open-webui/open-webui](https://github.com/open-webui/open-webui)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred oneapi-src/oneDNN](https://github.com/oneapi-src/oneDNN)
 - [SidharthArya starred oxnr/awesome-bigdata](https://github.com/oxnr/awesome-bigdata)
 - [SidharthArya starred haifengl/smile](https://github.com/haifengl/smile)
-- [SidharthArya starred sasha-s/go-deadlock](https://github.com/sasha-s/go-deadlock)
 <!-- GITHUB:END -->
 
 ## Top Followers
