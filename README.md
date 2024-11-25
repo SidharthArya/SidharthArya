@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred prometheus/prometheus](https://github.com/prometheus/prometheus)
 - [SidharthArya starred MMMU-Benchmark/MMMU](https://github.com/MMMU-Benchmark/MMMU)
 - [SidharthArya starred togethercomputer/OpenChatKit](https://github.com/togethercomputer/OpenChatKit)
 - [SidharthArya starred Arize-ai/phoenix](https://github.com/Arize-ai/phoenix)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred ggerganov/ggml](https://github.com/ggerganov/ggml)
 - [SidharthArya starred huggingface/text-generation-inference](https://github.com/huggingface/text-generation-inference)
 - [SidharthArya starred valyala/fasthttp](https://github.com/valyala/fasthttp)
-- [SidharthArya starred oneapi-src/oneDNN](https://github.com/oneapi-src/oneDNN)
 <!-- GITHUB:END -->
 
 ## Top Followers
