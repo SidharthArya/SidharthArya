@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred pahanini/go-grpc-bidirectional-streaming-example](https://github.com/pahanini/go-grpc-bidirectional-streaming-example)
+- [SidharthArya starred eclipse-paho/paho.mqtt.golang](https://github.com/eclipse-paho/paho.mqtt.golang)
 - [SidharthArya starred ottowayi/pycomm3](https://github.com/ottowayi/pycomm3)
 - [SidharthArya starred prometheus/prometheus](https://github.com/prometheus/prometheus)
 - [SidharthArya starred MMMU-Benchmark/MMMU](https://github.com/MMMU-Benchmark/MMMU)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred weaviate/weaviate](https://github.com/weaviate/weaviate)
 - [SidharthArya starred localstack/localstack](https://github.com/localstack/localstack)
 - [SidharthArya starred open-webui/open-webui](https://github.com/open-webui/open-webui)
-- [SidharthArya starred ggerganov/ggml](https://github.com/ggerganov/ggml)
-- [SidharthArya starred huggingface/text-generation-inference](https://github.com/huggingface/text-generation-inference)
 <!-- GITHUB:END -->
 
 ## Top Followers
