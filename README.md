@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred pramsey/pgsql-http](https://github.com/pramsey/pgsql-http)
+- [SidharthArya starred debezium/debezium](https://github.com/debezium/debezium)
 - [SidharthArya starred pahanini/go-grpc-bidirectional-streaming-example](https://github.com/pahanini/go-grpc-bidirectional-streaming-example)
 - [SidharthArya starred eclipse-paho/paho.mqtt.golang](https://github.com/eclipse-paho/paho.mqtt.golang)
 - [SidharthArya starred ottowayi/pycomm3](https://github.com/ottowayi/pycomm3)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred togethercomputer/OpenChatKit](https://github.com/togethercomputer/OpenChatKit)
 - [SidharthArya starred Arize-ai/phoenix](https://github.com/Arize-ai/phoenix)
 - [SidharthArya starred weaviate/weaviate](https://github.com/weaviate/weaviate)
-- [SidharthArya starred localstack/localstack](https://github.com/localstack/localstack)
-- [SidharthArya starred open-webui/open-webui](https://github.com/open-webui/open-webui)
 <!-- GITHUB:END -->
 
 ## Top Followers
