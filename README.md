@@ -87,6 +87,9 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred pymodbus-dev/pymodbus](https://github.com/pymodbus-dev/pymodbus)
+- [SidharthArya starred crate/crate](https://github.com/crate/crate)
+- [SidharthArya starred Azure/Industrial-IoT](https://github.com/Azure/Industrial-IoT)
 - [SidharthArya starred pramsey/pgsql-http](https://github.com/pramsey/pgsql-http)
 - [SidharthArya starred debezium/debezium](https://github.com/debezium/debezium)
 - [SidharthArya starred pahanini/go-grpc-bidirectional-streaming-example](https://github.com/pahanini/go-grpc-bidirectional-streaming-example)
@@ -94,9 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred ottowayi/pycomm3](https://github.com/ottowayi/pycomm3)
 - [SidharthArya starred prometheus/prometheus](https://github.com/prometheus/prometheus)
 - [SidharthArya starred MMMU-Benchmark/MMMU](https://github.com/MMMU-Benchmark/MMMU)
-- [SidharthArya starred togethercomputer/OpenChatKit](https://github.com/togethercomputer/OpenChatKit)
-- [SidharthArya starred Arize-ai/phoenix](https://github.com/Arize-ai/phoenix)
-- [SidharthArya starred weaviate/weaviate](https://github.com/weaviate/weaviate)
 <!-- GITHUB:END -->
 
 ## Top Followers
