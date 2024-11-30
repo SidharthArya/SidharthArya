@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred mrocklin/multipledispatch](https://github.com/mrocklin/multipledispatch)
 - [SidharthArya starred noamgat/lm-format-enforcer](https://github.com/noamgat/lm-format-enforcer)
 - [SidharthArya starred pymodbus-dev/pymodbus](https://github.com/pymodbus-dev/pymodbus)
 - [SidharthArya starred crate/crate](https://github.com/crate/crate)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred pahanini/go-grpc-bidirectional-streaming-example](https://github.com/pahanini/go-grpc-bidirectional-streaming-example)
 - [SidharthArya starred eclipse-paho/paho.mqtt.golang](https://github.com/eclipse-paho/paho.mqtt.golang)
 - [SidharthArya starred ottowayi/pycomm3](https://github.com/ottowayi/pycomm3)
-- [SidharthArya starred prometheus/prometheus](https://github.com/prometheus/prometheus)
 <!-- GITHUB:END -->
 
 ## Top Followers
