@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred instructor-ai/instructor](https://github.com/instructor-ai/instructor)
 - [SidharthArya forked SidharthArya/digit360 from facebookresearch/digit360](https://github.com/SidharthArya/digit360)
 - [SidharthArya starred facebookresearch/digit360](https://github.com/facebookresearch/digit360)
 - [SidharthArya starred mrocklin/multipledispatch](https://github.com/mrocklin/multipledispatch)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred Azure/Industrial-IoT](https://github.com/Azure/Industrial-IoT)
 - [SidharthArya starred pramsey/pgsql-http](https://github.com/pramsey/pgsql-http)
 - [SidharthArya starred debezium/debezium](https://github.com/debezium/debezium)
-- [SidharthArya starred pahanini/go-grpc-bidirectional-streaming-example](https://github.com/pahanini/go-grpc-bidirectional-streaming-example)
 <!-- GITHUB:END -->
 
 ## Top Followers
