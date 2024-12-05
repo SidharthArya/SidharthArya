@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya forked SidharthArya/langchain from langchain-ai/langchain](https://github.com/SidharthArya/langchain)
 - [SidharthArya starred instructor-ai/instructor](https://github.com/instructor-ai/instructor)
 - [SidharthArya forked SidharthArya/digit360 from facebookresearch/digit360](https://github.com/SidharthArya/digit360)
 - [SidharthArya starred facebookresearch/digit360](https://github.com/facebookresearch/digit360)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred crate/crate](https://github.com/crate/crate)
 - [SidharthArya starred Azure/Industrial-IoT](https://github.com/Azure/Industrial-IoT)
 - [SidharthArya starred pramsey/pgsql-http](https://github.com/pramsey/pgsql-http)
-- [SidharthArya starred debezium/debezium](https://github.com/debezium/debezium)
 <!-- GITHUB:END -->
 
 ## Top Followers
