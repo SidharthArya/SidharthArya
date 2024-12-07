@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred pydantic/pydantic-core](https://github.com/pydantic/pydantic-core)
 - [SidharthArya starred PyO3/pyo3](https://github.com/PyO3/pyo3)
 - [SidharthArya starred h2o/h2o](https://github.com/h2o/h2o)
 - [SidharthArya forked SidharthArya/langchain from langchain-ai/langchain](https://github.com/SidharthArya/langchain)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred mrocklin/multipledispatch](https://github.com/mrocklin/multipledispatch)
 - [SidharthArya starred noamgat/lm-format-enforcer](https://github.com/noamgat/lm-format-enforcer)
 - [SidharthArya starred pymodbus-dev/pymodbus](https://github.com/pymodbus-dev/pymodbus)
-- [SidharthArya starred crate/crate](https://github.com/crate/crate)
 <!-- GITHUB:END -->
 
 ## Top Followers
