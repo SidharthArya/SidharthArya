@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to master in SidharthArya/dapil](https://github.com/SidharthArya/dapil/compare/c0f71a5dcf...da561490cd)
 - [SidharthArya starred pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai)
 - [SidharthArya pushed to master in SidharthArya/dapil](https://github.com/SidharthArya/dapil/compare/c323fbdaf0...c0f71a5dcf)
 - [SidharthArya created a branch master in SidharthArya/dapil](https://github.com/SidharthArya/dapil/compare/master)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred h2o/h2o](https://github.com/h2o/h2o)
 - [SidharthArya forked SidharthArya/langchain from langchain-ai/langchain](https://github.com/SidharthArya/langchain)
 - [SidharthArya starred instructor-ai/instructor](https://github.com/instructor-ai/instructor)
-- [SidharthArya forked SidharthArya/digit360 from facebookresearch/digit360](https://github.com/SidharthArya/digit360)
 <!-- GITHUB:END -->
 
 ## Top Followers
