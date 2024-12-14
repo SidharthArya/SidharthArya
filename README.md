@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred meta-llama/llama-stack](https://github.com/meta-llama/llama-stack)
 - [SidharthArya starred arcee-ai/mergekit](https://github.com/arcee-ai/mergekit)
 - [SidharthArya pushed to master in SidharthArya/dapil](https://github.com/SidharthArya/dapil/compare/c0f71a5dcf...da561490cd)
 - [SidharthArya starred pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred pydantic/pydantic-core](https://github.com/pydantic/pydantic-core)
 - [SidharthArya starred PyO3/pyo3](https://github.com/PyO3/pyo3)
 - [SidharthArya starred h2o/h2o](https://github.com/h2o/h2o)
-- [SidharthArya forked SidharthArya/langchain from langchain-ai/langchain](https://github.com/SidharthArya/langchain)
 <!-- GITHUB:END -->
 
 ## Top Followers
