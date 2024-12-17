@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred mher/flower](https://github.com/mher/flower)
 - [SidharthArya starred extremecoders-re/pyinstxtractor](https://github.com/extremecoders-re/pyinstxtractor)
 - [SidharthArya starred pybind/pybind11](https://github.com/pybind/pybind11)
 - [SidharthArya starred meta-llama/llama-stack](https://github.com/meta-llama/llama-stack)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to master in SidharthArya/dapil](https://github.com/SidharthArya/dapil/compare/c323fbdaf0...c0f71a5dcf)
 - [SidharthArya created a branch master in SidharthArya/dapil](https://github.com/SidharthArya/dapil/compare/master)
 - [SidharthArya created a repository SidharthArya/dapil](https://github.com/SidharthArya/dapil//)
-- [SidharthArya starred pydantic/pydantic-core](https://github.com/pydantic/pydantic-core)
 <!-- GITHUB:END -->
 
 ## Top Followers
