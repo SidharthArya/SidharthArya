@@ -118,6 +118,13 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       <a href="https://github.com/frankfanslc">frankfanslc</a>
     </td>
     <td align="center">
+      <a href="https://github.com/nholuongut">
+        <img src="https://avatars2.githubusercontent.com/u/58627821" width="100px;" alt="nholuongut"/>
+      </a>
+      <br />
+      <a href="https://github.com/nholuongut">Nho Luong</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/renbooo">
         <img src="https://avatars2.githubusercontent.com/u/16249870" width="100px;" alt="renbooo"/>
       </a>
@@ -145,6 +152,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       <br />
       <a href="https://github.com/carlosal1015">Oromion</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/conao3">
         <img src="https://avatars2.githubusercontent.com/u/4703128" width="100px;" alt="conao3"/>
@@ -152,8 +161,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       <br />
       <a href="https://github.com/conao3">Naoya Yamashita</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/1985Valdemar">
         <img src="https://avatars2.githubusercontent.com/u/114195427" width="100px;" alt="1985Valdemar"/>
@@ -196,13 +203,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       <br />
       <a href="https://github.com/amrithHN">Amrith H Namboodiri</a>
     </td>
-    <td align="center">
-      <a href="https://github.com/stormwatch">
-        <img src="https://avatars2.githubusercontent.com/u/824211" width="100px;" alt="stormwatch"/>
-      </a>
-      <br />
-      <a href="https://github.com/stormwatch">Ezequiel Birman</a>
-    </td>
   </tr>
   <tr>
     <td align="center">
@@ -211,6 +211,13 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       </a>
       <br />
       <a href="https://github.com/Satawatkee">@s_saichansut</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/stormwatch">
+        <img src="https://avatars2.githubusercontent.com/u/824211" width="100px;" alt="stormwatch"/>
+      </a>
+      <br />
+      <a href="https://github.com/stormwatch">Ezequiel Birman</a>
     </td>
     <td align="center">
       <a href="https://github.com/Pearlminimal">
@@ -246,13 +253,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       </a>
       <br />
       <a href="https://github.com/relativelyrehan">rreel </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/abdullah-azab">
-        <img src="https://avatars2.githubusercontent.com/u/58390815" width="100px;" alt="abdullah-azab"/>
-      </a>
-      <br />
-      <a href="https://github.com/abdullah-azab">abdullah azab</a>
     </td>
   </tr>
 </table>
