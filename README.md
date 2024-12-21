@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred aio-libs/aiohttp](https://github.com/aio-libs/aiohttp)
 - [SidharthArya starred aio-libs/aiocache](https://github.com/aio-libs/aiocache)
 - [SidharthArya forked SidharthArya/functionary from MeetKai/functionary](https://github.com/SidharthArya/functionary)
 - [SidharthArya starred MeetKai/functionary](https://github.com/MeetKai/functionary)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred extremecoders-re/pyinstxtractor](https://github.com/extremecoders-re/pyinstxtractor)
 - [SidharthArya starred pybind/pybind11](https://github.com/pybind/pybind11)
 - [SidharthArya starred meta-llama/llama-stack](https://github.com/meta-llama/llama-stack)
-- [SidharthArya starred arcee-ai/mergekit](https://github.com/arcee-ai/mergekit)
 <!-- GITHUB:END -->
 
 ## Top Followers
