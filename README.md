@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred ryanhanwu/How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way)
 - [SidharthArya starred lightly-ai/lightly](https://github.com/lightly-ai/lightly)
 - [SidharthArya starred facebookresearch/Pitfalls-of-Memorization](https://github.com/facebookresearch/Pitfalls-of-Memorization)
 - [SidharthArya starred aio-libs/aiohttp](https://github.com/aio-libs/aiohttp)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya forked SidharthArya/lerobot from huggingface/lerobot](https://github.com/SidharthArya/lerobot)
 - [SidharthArya starred huggingface/lerobot](https://github.com/huggingface/lerobot)
 - [SidharthArya starred mher/flower](https://github.com/mher/flower)
-- [SidharthArya starred extremecoders-re/pyinstxtractor](https://github.com/extremecoders-re/pyinstxtractor)
 <!-- GITHUB:END -->
 
 ## Top Followers
