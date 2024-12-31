@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred mockoon/mockoon](https://github.com/mockoon/mockoon)
 - [SidharthArya starred canvg/canvg](https://github.com/canvg/canvg)
 - [SidharthArya starred ShishirPatil/gorilla](https://github.com/ShishirPatil/gorilla)
 - [SidharthArya starred pypa/sampleproject](https://github.com/pypa/sampleproject)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred facebookresearch/Pitfalls-of-Memorization](https://github.com/facebookresearch/Pitfalls-of-Memorization)
 - [SidharthArya starred aio-libs/aiohttp](https://github.com/aio-libs/aiohttp)
 - [SidharthArya starred aio-libs/aiocache](https://github.com/aio-libs/aiocache)
-- [SidharthArya forked SidharthArya/functionary from MeetKai/functionary](https://github.com/SidharthArya/functionary)
 <!-- GITHUB:END -->
 
 ## Top Followers
