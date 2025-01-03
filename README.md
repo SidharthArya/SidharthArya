@@ -87,6 +87,9 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred savsgio/atreugo](https://github.com/savsgio/atreugo)
+- [SidharthArya starred just-js/just](https://github.com/just-js/just)
+- [SidharthArya starred eclipse-vertx/vert.x](https://github.com/eclipse-vertx/vert.x)
 - [SidharthArya starred mockoon/mockoon](https://github.com/mockoon/mockoon)
 - [SidharthArya starred canvg/canvg](https://github.com/canvg/canvg)
 - [SidharthArya starred ShishirPatil/gorilla](https://github.com/ShishirPatil/gorilla)
@@ -94,9 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred pypa/hatch](https://github.com/pypa/hatch)
 - [SidharthArya starred ryanhanwu/How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way)
 - [SidharthArya starred lightly-ai/lightly](https://github.com/lightly-ai/lightly)
-- [SidharthArya starred facebookresearch/Pitfalls-of-Memorization](https://github.com/facebookresearch/Pitfalls-of-Memorization)
-- [SidharthArya starred aio-libs/aiohttp](https://github.com/aio-libs/aiohttp)
-- [SidharthArya starred aio-libs/aiocache](https://github.com/aio-libs/aiocache)
 <!-- GITHUB:END -->
 
 ## Top Followers
