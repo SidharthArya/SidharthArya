@@ -155,18 +155,18 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/conao3">
-        <img src="https://avatars2.githubusercontent.com/u/4703128" width="100px;" alt="conao3"/>
-      </a>
-      <br />
-      <a href="https://github.com/conao3">Naoya Yamashita</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/1985Valdemar">
         <img src="https://avatars2.githubusercontent.com/u/114195427" width="100px;" alt="1985Valdemar"/>
       </a>
       <br />
       <a href="https://github.com/1985Valdemar">Valdemar Teider</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/conao3">
+        <img src="https://avatars2.githubusercontent.com/u/4703128" width="100px;" alt="conao3"/>
+      </a>
+      <br />
+      <a href="https://github.com/conao3">Naoya Yamashita</a>
     </td>
     <td align="center">
       <a href="https://github.com/grahamwaters">
