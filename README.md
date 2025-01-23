@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred laramies/theHarvester](https://github.com/laramies/theHarvester)
 - [SidharthArya starred MagicStack/asyncpg](https://github.com/MagicStack/asyncpg)
 - [SidharthArya starred savsgio/atreugo](https://github.com/savsgio/atreugo)
 - [SidharthArya starred just-js/just](https://github.com/just-js/just)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred ShishirPatil/gorilla](https://github.com/ShishirPatil/gorilla)
 - [SidharthArya starred pypa/sampleproject](https://github.com/pypa/sampleproject)
 - [SidharthArya starred pypa/hatch](https://github.com/pypa/hatch)
-- [SidharthArya starred ryanhanwu/How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way)
 <!-- GITHUB:END -->
 
 ## Top Followers
