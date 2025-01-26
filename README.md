@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred python-hyper/h11](https://github.com/python-hyper/h11)
 - [SidharthArya starred litestar-org/litestar](https://github.com/litestar-org/litestar)
 - [SidharthArya starred laramies/theHarvester](https://github.com/laramies/theHarvester)
 - [SidharthArya starred MagicStack/asyncpg](https://github.com/MagicStack/asyncpg)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred mockoon/mockoon](https://github.com/mockoon/mockoon)
 - [SidharthArya starred canvg/canvg](https://github.com/canvg/canvg)
 - [SidharthArya starred ShishirPatil/gorilla](https://github.com/ShishirPatil/gorilla)
-- [SidharthArya starred pypa/sampleproject](https://github.com/pypa/sampleproject)
 <!-- GITHUB:END -->
 
 ## Top Followers
