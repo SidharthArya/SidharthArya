@@ -111,18 +111,18 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       <a href="https://github.com/idimetrix">Dmitry Selikhov</a>
     </td>
     <td align="center">
-      <a href="https://github.com/frankfanslc">
-        <img src="https://avatars2.githubusercontent.com/u/55561087" width="100px;" alt="frankfanslc"/>
-      </a>
-      <br />
-      <a href="https://github.com/frankfanslc">frankfanslc</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/nholuongut">
         <img src="https://avatars2.githubusercontent.com/u/58627821" width="100px;" alt="nholuongut"/>
       </a>
       <br />
       <a href="https://github.com/nholuongut">Nho Luong</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/frankfanslc">
+        <img src="https://avatars2.githubusercontent.com/u/55561087" width="100px;" alt="frankfanslc"/>
+      </a>
+      <br />
+      <a href="https://github.com/frankfanslc">frankfanslc</a>
     </td>
     <td align="center">
       <a href="https://github.com/renbooo">
