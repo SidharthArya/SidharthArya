@@ -96,7 +96,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred savsgio/atreugo](https://github.com/savsgio/atreugo)
 - [SidharthArya starred just-js/just](https://github.com/just-js/just)
 - [SidharthArya starred eclipse-vertx/vert.x](https://github.com/eclipse-vertx/vert.x)
-- [SidharthArya starred mockoon/mockoon](https://github.com/mockoon/mockoon)
 <!-- GITHUB:END -->
 
 ## Top Followers
