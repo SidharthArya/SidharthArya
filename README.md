@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred google-research/torchsde](https://github.com/google-research/torchsde)
+- [SidharthArya starred rtqichen/torchdiffeq](https://github.com/rtqichen/torchdiffeq)
 - [SidharthArya starred patrick-kidger/torchcde](https://github.com/patrick-kidger/torchcde)
 - [SidharthArya starred michaelfeil/infinity](https://github.com/michaelfeil/infinity)
 - [SidharthArya starred python-hyper/h11](https://github.com/python-hyper/h11)
@@ -95,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred MagicStack/asyncpg](https://github.com/MagicStack/asyncpg)
 - [SidharthArya starred savsgio/atreugo](https://github.com/savsgio/atreugo)
 - [SidharthArya starred just-js/just](https://github.com/just-js/just)
-- [SidharthArya starred eclipse-vertx/vert.x](https://github.com/eclipse-vertx/vert.x)
 <!-- GITHUB:END -->
 
 ## Top Followers
