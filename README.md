@@ -95,8 +95,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred litestar-org/litestar](https://github.com/litestar-org/litestar)
 - [SidharthArya starred laramies/theHarvester](https://github.com/laramies/theHarvester)
 - [SidharthArya starred MagicStack/asyncpg](https://github.com/MagicStack/asyncpg)
-- [SidharthArya starred savsgio/atreugo](https://github.com/savsgio/atreugo)
-- [SidharthArya starred just-js/just](https://github.com/just-js/just)
 <!-- GITHUB:END -->
 
 ## Top Followers
