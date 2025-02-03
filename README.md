@@ -144,20 +144,20 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       <a href="https://github.com/MdRashid62">Muhammad Rashid</a>
     </td>
     <td align="center">
-      <a href="https://github.com/carlosal1015">
-        <img src="https://avatars2.githubusercontent.com/u/21283014" width="100px;" alt="carlosal1015"/>
-      </a>
-      <br />
-      <a href="https://github.com/carlosal1015">Oromion</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <a href="https://github.com/1985Valdemar">
         <img src="https://avatars2.githubusercontent.com/u/114195427" width="100px;" alt="1985Valdemar"/>
       </a>
       <br />
       <a href="https://github.com/1985Valdemar">Valdemar Teider</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/carlosal1015">
+        <img src="https://avatars2.githubusercontent.com/u/21283014" width="100px;" alt="carlosal1015"/>
+      </a>
+      <br />
+      <a href="https://github.com/carlosal1015">Oromion</a>
     </td>
     <td align="center">
       <a href="https://github.com/conao3">
