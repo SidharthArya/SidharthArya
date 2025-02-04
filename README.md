@@ -96,7 +96,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred python-hyper/h11](https://github.com/python-hyper/h11)
 - [SidharthArya starred litestar-org/litestar](https://github.com/litestar-org/litestar)
 - [SidharthArya starred laramies/theHarvester](https://github.com/laramies/theHarvester)
-- [SidharthArya starred MagicStack/asyncpg](https://github.com/MagicStack/asyncpg)
 <!-- GITHUB:END -->
 
 ## Top Followers
