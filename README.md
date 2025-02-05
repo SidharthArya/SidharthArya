@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred googlecodelabs/orchestrate-with-kubernetes](https://github.com/googlecodelabs/orchestrate-with-kubernetes)
 - [SidharthArya starred facebookresearch/ocean](https://github.com/facebookresearch/ocean)
 - [SidharthArya starred facebookresearch/mvdust3r](https://github.com/facebookresearch/mvdust3r)
 - [SidharthArya starred google-research/torchsde](https://github.com/google-research/torchsde)
