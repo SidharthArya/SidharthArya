@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred qdrant/qdrant](https://github.com/qdrant/qdrant)
 - [SidharthArya starred googlecodelabs/orchestrate-with-kubernetes](https://github.com/googlecodelabs/orchestrate-with-kubernetes)
 - [SidharthArya starred facebookresearch/ocean](https://github.com/facebookresearch/ocean)
 - [SidharthArya starred facebookresearch/mvdust3r](https://github.com/facebookresearch/mvdust3r)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred michaelfeil/infinity](https://github.com/michaelfeil/infinity)
 - [SidharthArya starred python-hyper/h11](https://github.com/python-hyper/h11)
 - [SidharthArya starred litestar-org/litestar](https://github.com/litestar-org/litestar)
-- [SidharthArya starred laramies/theHarvester](https://github.com/laramies/theHarvester)
 <!-- GITHUB:END -->
 
 ## Top Followers
