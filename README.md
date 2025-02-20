@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred browser-use/browser-use](https://github.com/browser-use/browser-use)
 - [SidharthArya starred apache/ozone](https://github.com/apache/ozone)
 - [SidharthArya starred IBM/sarama](https://github.com/IBM/sarama)
 - [SidharthArya starred aio-libs/aiokafka](https://github.com/aio-libs/aiokafka)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred facebookresearch/mvdust3r](https://github.com/facebookresearch/mvdust3r)
 - [SidharthArya starred google-research/torchsde](https://github.com/google-research/torchsde)
 - [SidharthArya starred rtqichen/torchdiffeq](https://github.com/rtqichen/torchdiffeq)
-- [SidharthArya starred patrick-kidger/torchcde](https://github.com/patrick-kidger/torchcde)
 <!-- GITHUB:END -->
 
 ## Top Followers
