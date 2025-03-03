@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya forked SidharthArya/genai-photo-captioner from championswimmer/genai-photo-captioner](https://github.com/SidharthArya/genai-photo-captioner)
+- [SidharthArya starred LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird)
 - [SidharthArya starred browser-use/browser-use](https://github.com/browser-use/browser-use)
 - [SidharthArya starred apache/ozone](https://github.com/apache/ozone)
 - [SidharthArya starred IBM/sarama](https://github.com/IBM/sarama)
