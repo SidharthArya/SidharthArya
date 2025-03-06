@@ -94,7 +94,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred IBM/sarama](https://github.com/IBM/sarama)
 - [SidharthArya starred aio-libs/aiokafka](https://github.com/aio-libs/aiokafka)
 - [SidharthArya starred qdrant/qdrant](https://github.com/qdrant/qdrant)
-- [SidharthArya starred googlecodelabs/orchestrate-with-kubernetes](https://github.com/googlecodelabs/orchestrate-with-kubernetes)
 <!-- GITHUB:END -->
 
 ## Top Followers
