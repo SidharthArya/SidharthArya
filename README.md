@@ -95,8 +95,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred aio-libs/aiokafka](https://github.com/aio-libs/aiokafka)
 - [SidharthArya starred qdrant/qdrant](https://github.com/qdrant/qdrant)
 - [SidharthArya starred googlecodelabs/orchestrate-with-kubernetes](https://github.com/googlecodelabs/orchestrate-with-kubernetes)
-- [SidharthArya starred facebookresearch/ocean](https://github.com/facebookresearch/ocean)
-- [SidharthArya starred facebookresearch/mvdust3r](https://github.com/facebookresearch/mvdust3r)
 <!-- GITHUB:END -->
 
 ## Top Followers
