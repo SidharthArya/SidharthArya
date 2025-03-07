@@ -93,7 +93,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred apache/ozone](https://github.com/apache/ozone)
 - [SidharthArya starred IBM/sarama](https://github.com/IBM/sarama)
 - [SidharthArya starred aio-libs/aiokafka](https://github.com/aio-libs/aiokafka)
-- [SidharthArya starred qdrant/qdrant](https://github.com/qdrant/qdrant)
 <!-- GITHUB:END -->
 
 ## Top Followers
