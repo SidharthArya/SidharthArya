@@ -91,8 +91,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird)
 - [SidharthArya starred browser-use/browser-use](https://github.com/browser-use/browser-use)
 - [SidharthArya starred apache/ozone](https://github.com/apache/ozone)
-- [SidharthArya starred IBM/sarama](https://github.com/IBM/sarama)
-- [SidharthArya starred aio-libs/aiokafka](https://github.com/aio-libs/aiokafka)
 <!-- GITHUB:END -->
 
 ## Top Followers
