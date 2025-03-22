@@ -90,7 +90,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya forked SidharthArya/genai-photo-captioner from championswimmer/genai-photo-captioner](https://github.com/SidharthArya/genai-photo-captioner)
 - [SidharthArya starred LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird)
 - [SidharthArya starred browser-use/browser-use](https://github.com/browser-use/browser-use)
-- [SidharthArya starred apache/ozone](https://github.com/apache/ozone)
 <!-- GITHUB:END -->
 
 ## Top Followers
