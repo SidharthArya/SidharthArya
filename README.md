@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers)
 - [SidharthArya forked SidharthArya/genai-photo-captioner from championswimmer/genai-photo-captioner](https://github.com/SidharthArya/genai-photo-captioner)
 - [SidharthArya starred LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird)
 <!-- GITHUB:END -->
