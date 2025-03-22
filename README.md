@@ -89,7 +89,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 <!-- GITHUB:START -->
 - [SidharthArya forked SidharthArya/genai-photo-captioner from championswimmer/genai-photo-captioner](https://github.com/SidharthArya/genai-photo-captioner)
 - [SidharthArya starred LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird)
-- [SidharthArya starred browser-use/browser-use](https://github.com/browser-use/browser-use)
 <!-- GITHUB:END -->
 
 ## Top Followers
