@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred AIStream-Peelout/flow-forecast](https://github.com/AIStream-Peelout/flow-forecast)
 - [SidharthArya starred vanna-ai/vanna](https://github.com/vanna-ai/vanna)
 - [SidharthArya starred modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers)
 - [SidharthArya forked SidharthArya/genai-photo-captioner from championswimmer/genai-photo-captioner](https://github.com/SidharthArya/genai-photo-captioner)
