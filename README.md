@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred coreos/go-systemd](https://github.com/coreos/go-systemd)
 - [SidharthArya starred pathwaycom/llm-app](https://github.com/pathwaycom/llm-app)
 - [SidharthArya starred sintel-dev/Orion](https://github.com/sintel-dev/Orion)
 - [SidharthArya starred AIStream-Peelout/flow-forecast](https://github.com/AIStream-Peelout/flow-forecast)
