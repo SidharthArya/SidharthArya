@@ -166,18 +166,18 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       <a href="https://github.com/grahamwaters">Graham Waters</a>
     </td>
     <td align="center">
-      <a href="https://github.com/M3nin0">
-        <img src="https://avatars2.githubusercontent.com/u/17037029" width="100px;" alt="M3nin0"/>
-      </a>
-      <br />
-      <a href="https://github.com/M3nin0">Felipe</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/maskegger">
         <img src="https://avatars2.githubusercontent.com/u/3811321" width="100px;" alt="maskegger"/>
       </a>
       <br />
       <a href="https://github.com/maskegger">AM</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/M3nin0">
+        <img src="https://avatars2.githubusercontent.com/u/17037029" width="100px;" alt="M3nin0"/>
+      </a>
+      <br />
+      <a href="https://github.com/M3nin0">Felipe</a>
     </td>
     <td align="center">
       <a href="https://github.com/Tiancheng-Luo">
