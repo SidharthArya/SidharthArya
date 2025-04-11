@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred modelcontextprotocol/python-sdk](https://github.com/modelcontextprotocol/python-sdk)
 - [SidharthArya starred astral-sh/uv-pre-commit](https://github.com/astral-sh/uv-pre-commit)
 - [SidharthArya starred coreos/go-systemd](https://github.com/coreos/go-systemd)
 - [SidharthArya starred pathwaycom/llm-app](https://github.com/pathwaycom/llm-app)
