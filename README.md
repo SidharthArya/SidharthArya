@@ -167,18 +167,18 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       <a href="https://github.com/grahamwaters">Graham Waters</a>
     </td>
     <td align="center">
-      <a href="https://github.com/maskegger">
-        <img src="https://avatars2.githubusercontent.com/u/3811321" width="100px;" alt="maskegger"/>
-      </a>
-      <br />
-      <a href="https://github.com/maskegger">AM</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/M3nin0">
         <img src="https://avatars2.githubusercontent.com/u/17037029" width="100px;" alt="M3nin0"/>
       </a>
       <br />
       <a href="https://github.com/M3nin0">Felipe</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/maskegger">
+        <img src="https://avatars2.githubusercontent.com/u/3811321" width="100px;" alt="maskegger"/>
+      </a>
+      <br />
+      <a href="https://github.com/maskegger">AM</a>
     </td>
     <td align="center">
       <a href="https://github.com/Tiancheng-Luo">
@@ -239,18 +239,18 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       <a href="https://github.com/adam-ehab-code">Adam Ehab</a>
     </td>
     <td align="center">
-      <a href="https://github.com/HakunanMatatat">
-        <img src="https://avatars2.githubusercontent.com/u/56817048" width="100px;" alt="HakunanMatatat"/>
-      </a>
-      <br />
-      <a href="https://github.com/HakunanMatatat">HakunanMatatat</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/relativelyrehan">
         <img src="https://avatars2.githubusercontent.com/u/48210765" width="100px;" alt="relativelyrehan"/>
       </a>
       <br />
       <a href="https://github.com/relativelyrehan">rreel </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/HakunanMatatat">
+        <img src="https://avatars2.githubusercontent.com/u/56817048" width="100px;" alt="HakunanMatatat"/>
+      </a>
+      <br />
+      <a href="https://github.com/HakunanMatatat">HakunanMatatat</a>
     </td>
   </tr>
 </table>
