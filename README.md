@@ -94,7 +94,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred pathwaycom/llm-app](https://github.com/pathwaycom/llm-app)
 - [SidharthArya starred sintel-dev/Orion](https://github.com/sintel-dev/Orion)
 - [SidharthArya starred AIStream-Peelout/flow-forecast](https://github.com/AIStream-Peelout/flow-forecast)
-- [SidharthArya starred vanna-ai/vanna](https://github.com/vanna-ai/vanna)
 <!-- GITHUB:END -->
 
 ## Top Followers
