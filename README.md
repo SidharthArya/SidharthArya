@@ -240,18 +240,18 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       <a href="https://github.com/adam-ehab-code">Adam Ehab</a>
     </td>
     <td align="center">
-      <a href="https://github.com/relativelyrehan">
-        <img src="https://avatars2.githubusercontent.com/u/48210765" width="100px;" alt="relativelyrehan"/>
-      </a>
-      <br />
-      <a href="https://github.com/relativelyrehan">rreel </a>
-    </td>
-    <td align="center">
       <a href="https://github.com/HakunanMatatat">
         <img src="https://avatars2.githubusercontent.com/u/56817048" width="100px;" alt="HakunanMatatat"/>
       </a>
       <br />
       <a href="https://github.com/HakunanMatatat">HakunanMatatat</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/relativelyrehan">
+        <img src="https://avatars2.githubusercontent.com/u/48210765" width="100px;" alt="relativelyrehan"/>
+      </a>
+      <br />
+      <a href="https://github.com/relativelyrehan">rreel </a>
     </td>
   </tr>
 </table>
