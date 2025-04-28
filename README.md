@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred py-pdf/pypdf](https://github.com/py-pdf/pypdf)
 - [SidharthArya starred zhaopeiym/IoTClient](https://github.com/zhaopeiym/IoTClient)
 - [SidharthArya starred GoogleCloudPlatform/flask-talisman](https://github.com/GoogleCloudPlatform/flask-talisman)
 - [SidharthArya starred mongodb-developer/GenAI-Showcase](https://github.com/mongodb-developer/GenAI-Showcase)
