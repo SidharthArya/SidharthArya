@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred simstudioai/sim](https://github.com/simstudioai/sim)
+- [SidharthArya starred bazelbuild/starlark](https://github.com/bazelbuild/starlark)
 - [SidharthArya starred py-pdf/pypdf](https://github.com/py-pdf/pypdf)
 - [SidharthArya starred zhaopeiym/IoTClient](https://github.com/zhaopeiym/IoTClient)
 - [SidharthArya starred GoogleCloudPlatform/flask-talisman](https://github.com/GoogleCloudPlatform/flask-talisman)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred astral-sh/uv-pre-commit](https://github.com/astral-sh/uv-pre-commit)
 - [SidharthArya starred coreos/go-systemd](https://github.com/coreos/go-systemd)
 - [SidharthArya starred pathwaycom/llm-app](https://github.com/pathwaycom/llm-app)
-- [SidharthArya starred sintel-dev/Orion](https://github.com/sintel-dev/Orion)
-- [SidharthArya starred AIStream-Peelout/flow-forecast](https://github.com/AIStream-Peelout/flow-forecast)
 <!-- GITHUB:END -->
 
 ## Top Followers
