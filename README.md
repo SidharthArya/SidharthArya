@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred mermaid-js/mermaid-cli](https://github.com/mermaid-js/mermaid-cli)
 - [SidharthArya starred simstudioai/sim](https://github.com/simstudioai/sim)
 - [SidharthArya starred bazelbuild/starlark](https://github.com/bazelbuild/starlark)
 - [SidharthArya starred py-pdf/pypdf](https://github.com/py-pdf/pypdf)
