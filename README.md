@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred yetone/avante.nvim](https://github.com/yetone/avante.nvim)
 - [SidharthArya starred ceph/ceph](https://github.com/ceph/ceph)
 - [SidharthArya starred rook/rook](https://github.com/rook/rook)
 - [SidharthArya starred mermaid-js/mermaid-cli](https://github.com/mermaid-js/mermaid-cli)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred zhaopeiym/IoTClient](https://github.com/zhaopeiym/IoTClient)
 - [SidharthArya starred GoogleCloudPlatform/flask-talisman](https://github.com/GoogleCloudPlatform/flask-talisman)
 - [SidharthArya starred mongodb-developer/GenAI-Showcase](https://github.com/mongodb-developer/GenAI-Showcase)
-- [SidharthArya starred modelcontextprotocol/python-sdk](https://github.com/modelcontextprotocol/python-sdk)
 <!-- GITHUB:END -->
 
 ## Top Followers
