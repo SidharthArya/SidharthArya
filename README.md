@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred rasbt/mlxtend](https://github.com/rasbt/mlxtend)
+- [SidharthArya starred swz30/Restormer](https://github.com/swz30/Restormer)
 - [SidharthArya starred dennybritz/reinforcement-learning](https://github.com/dennybritz/reinforcement-learning)
 - [SidharthArya starred TimelyDataflow/timely-dataflow](https://github.com/TimelyDataflow/timely-dataflow)
 - [SidharthArya starred yetone/avante.nvim](https://github.com/yetone/avante.nvim)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred mermaid-js/mermaid-cli](https://github.com/mermaid-js/mermaid-cli)
 - [SidharthArya starred simstudioai/sim](https://github.com/simstudioai/sim)
 - [SidharthArya starred bazelbuild/starlark](https://github.com/bazelbuild/starlark)
-- [SidharthArya starred py-pdf/pypdf](https://github.com/py-pdf/pypdf)
-- [SidharthArya starred zhaopeiym/IoTClient](https://github.com/zhaopeiym/IoTClient)
 <!-- GITHUB:END -->
 
 ## Top Followers
