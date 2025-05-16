@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred dennybritz/reinforcement-learning](https://github.com/dennybritz/reinforcement-learning)
 - [SidharthArya starred TimelyDataflow/timely-dataflow](https://github.com/TimelyDataflow/timely-dataflow)
 - [SidharthArya starred yetone/avante.nvim](https://github.com/yetone/avante.nvim)
 - [SidharthArya starred ceph/ceph](https://github.com/ceph/ceph)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred bazelbuild/starlark](https://github.com/bazelbuild/starlark)
 - [SidharthArya starred py-pdf/pypdf](https://github.com/py-pdf/pypdf)
 - [SidharthArya starred zhaopeiym/IoTClient](https://github.com/zhaopeiym/IoTClient)
-- [SidharthArya starred GoogleCloudPlatform/flask-talisman](https://github.com/GoogleCloudPlatform/flask-talisman)
 <!-- GITHUB:END -->
 
 ## Top Followers
