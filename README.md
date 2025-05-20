@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred microsoft/WSL](https://github.com/microsoft/WSL)
 - [SidharthArya starred ValentinH/react-easy-crop](https://github.com/ValentinH/react-easy-crop)
 - [SidharthArya starred pixijs/pixijs](https://github.com/pixijs/pixijs)
 - [SidharthArya starred rasbt/mlxtend](https://github.com/rasbt/mlxtend)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred yetone/avante.nvim](https://github.com/yetone/avante.nvim)
 - [SidharthArya starred ceph/ceph](https://github.com/ceph/ceph)
 - [SidharthArya starred rook/rook](https://github.com/rook/rook)
-- [SidharthArya starred mermaid-js/mermaid-cli](https://github.com/mermaid-js/mermaid-cli)
 <!-- GITHUB:END -->
 
 ## Top Followers
