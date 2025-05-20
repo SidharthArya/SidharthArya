@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred ValentinH/react-easy-crop](https://github.com/ValentinH/react-easy-crop)
+- [SidharthArya starred pixijs/pixijs](https://github.com/pixijs/pixijs)
 - [SidharthArya starred rasbt/mlxtend](https://github.com/rasbt/mlxtend)
 - [SidharthArya starred swz30/Restormer](https://github.com/swz30/Restormer)
 - [SidharthArya starred dennybritz/reinforcement-learning](https://github.com/dennybritz/reinforcement-learning)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred ceph/ceph](https://github.com/ceph/ceph)
 - [SidharthArya starred rook/rook](https://github.com/rook/rook)
 - [SidharthArya starred mermaid-js/mermaid-cli](https://github.com/mermaid-js/mermaid-cli)
-- [SidharthArya starred simstudioai/sim](https://github.com/simstudioai/sim)
-- [SidharthArya starred bazelbuild/starlark](https://github.com/bazelbuild/starlark)
 <!-- GITHUB:END -->
 
 ## Top Followers
