@@ -139,18 +139,18 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       <a href="https://github.com/jelsonjay">Jelson J</a>
     </td>
     <td align="center">
-      <a href="https://github.com/MdRashid62">
-        <img src="https://avatars2.githubusercontent.com/u/55427374" width="100px;" alt="MdRashid62"/>
-      </a>
-      <br />
-      <a href="https://github.com/MdRashid62">Muhammad Rashid</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/1985Valdemar">
         <img src="https://avatars2.githubusercontent.com/u/114195427" width="100px;" alt="1985Valdemar"/>
       </a>
       <br />
       <a href="https://github.com/1985Valdemar">Valdemar Teider</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/MdRashid62">
+        <img src="https://avatars2.githubusercontent.com/u/55427374" width="100px;" alt="MdRashid62"/>
+      </a>
+      <br />
+      <a href="https://github.com/MdRashid62">Muhammad Rashid</a>
     </td>
   </tr>
   <tr>
@@ -248,11 +248,11 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       <a href="https://github.com/adam-ehab-code">Adam Ehab</a>
     </td>
     <td align="center">
-      <a href="https://github.com/abdullah-azab">
-        <img src="https://avatars2.githubusercontent.com/u/58390815" width="100px;" alt="abdullah-azab"/>
+      <a href="https://github.com/HakunanMatatat">
+        <img src="https://avatars2.githubusercontent.com/u/56817048" width="100px;" alt="HakunanMatatat"/>
       </a>
       <br />
-      <a href="https://github.com/abdullah-azab">abdullah azab</a>
+      <a href="https://github.com/HakunanMatatat">HakunanMatatat</a>
     </td>
   </tr>
 </table>
