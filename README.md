@@ -87,6 +87,9 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred openai/openai-agents-python](https://github.com/openai/openai-agents-python)
+- [SidharthArya starred huggingface/smolagents](https://github.com/huggingface/smolagents)
+- [SidharthArya starred microsoft/autogen](https://github.com/microsoft/autogen)
 - [SidharthArya starred microsoft/WSL](https://github.com/microsoft/WSL)
 - [SidharthArya starred ValentinH/react-easy-crop](https://github.com/ValentinH/react-easy-crop)
 - [SidharthArya starred pixijs/pixijs](https://github.com/pixijs/pixijs)
@@ -94,9 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred swz30/Restormer](https://github.com/swz30/Restormer)
 - [SidharthArya starred dennybritz/reinforcement-learning](https://github.com/dennybritz/reinforcement-learning)
 - [SidharthArya starred TimelyDataflow/timely-dataflow](https://github.com/TimelyDataflow/timely-dataflow)
-- [SidharthArya starred yetone/avante.nvim](https://github.com/yetone/avante.nvim)
-- [SidharthArya starred ceph/ceph](https://github.com/ceph/ceph)
-- [SidharthArya starred rook/rook](https://github.com/rook/rook)
 <!-- GITHUB:END -->
 
 ## Top Followers
