@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo)
 - [SidharthArya starred openai/openai-agents-python](https://github.com/openai/openai-agents-python)
 - [SidharthArya starred huggingface/smolagents](https://github.com/huggingface/smolagents)
 - [SidharthArya starred microsoft/autogen](https://github.com/microsoft/autogen)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred rasbt/mlxtend](https://github.com/rasbt/mlxtend)
 - [SidharthArya starred swz30/Restormer](https://github.com/swz30/Restormer)
 - [SidharthArya starred dennybritz/reinforcement-learning](https://github.com/dennybritz/reinforcement-learning)
-- [SidharthArya starred TimelyDataflow/timely-dataflow](https://github.com/TimelyDataflow/timely-dataflow)
 <!-- GITHUB:END -->
 
 ## Top Followers
