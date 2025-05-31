@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred any1/wayvnc](https://github.com/any1/wayvnc)
 - [SidharthArya pushed to main in SidharthArya/.zsh](https://github.com/SidharthArya/.zsh/compare/68d43a2f06...24c68fbd45)
 - [SidharthArya starred SonarSource/sonarqube](https://github.com/SonarSource/sonarqube)
 - [SidharthArya starred GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred microsoft/WSL](https://github.com/microsoft/WSL)
 - [SidharthArya starred ValentinH/react-easy-crop](https://github.com/ValentinH/react-easy-crop)
 - [SidharthArya starred pixijs/pixijs](https://github.com/pixijs/pixijs)
-- [SidharthArya starred rasbt/mlxtend](https://github.com/rasbt/mlxtend)
 <!-- GITHUB:END -->
 
 ## Top Followers
