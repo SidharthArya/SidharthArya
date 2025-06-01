@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to main in SidharthArya/.g](https://github.com/SidharthArya/.g/compare/2afad1ba08...13d675b137)
+- [SidharthArya starred git-ecosystem/git-credential-manager](https://github.com/git-ecosystem/git-credential-manager)
 - [SidharthArya created a repository SidharthArya/.g](https://github.com/SidharthArya/.g//)
 - [SidharthArya created a branch main in SidharthArya/.g](https://github.com/SidharthArya/.g/compare/main)
 - [SidharthArya starred dylanaraps/neofetch](https://github.com/dylanaraps/neofetch)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred any1/wayvnc](https://github.com/any1/wayvnc)
 - [SidharthArya pushed to main in SidharthArya/.zsh](https://github.com/SidharthArya/.zsh/compare/68d43a2f06...24c68fbd45)
 - [SidharthArya starred SonarSource/sonarqube](https://github.com/SonarSource/sonarqube)
-- [SidharthArya starred GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo)
-- [SidharthArya starred openai/openai-agents-python](https://github.com/openai/openai-agents-python)
 <!-- GITHUB:END -->
 
 ## Top Followers
