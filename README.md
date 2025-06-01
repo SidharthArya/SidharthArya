@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya created a repository SidharthArya/.g](https://github.com/SidharthArya/.g//)
+- [SidharthArya created a branch main in SidharthArya/.g](https://github.com/SidharthArya/.g/compare/main)
 - [SidharthArya starred dylanaraps/neofetch](https://github.com/dylanaraps/neofetch)
 - [SidharthArya starred swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui)
 - [SidharthArya starred Redocly/redoc](https://github.com/Redocly/redoc)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred SonarSource/sonarqube](https://github.com/SonarSource/sonarqube)
 - [SidharthArya starred GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo)
 - [SidharthArya starred openai/openai-agents-python](https://github.com/openai/openai-agents-python)
-- [SidharthArya starred huggingface/smolagents](https://github.com/huggingface/smolagents)
-- [SidharthArya starred microsoft/autogen](https://github.com/microsoft/autogen)
 <!-- GITHUB:END -->
 
 ## Top Followers
