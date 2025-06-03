@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred ptitSeb/box64](https://github.com/ptitSeb/box64)
+- [SidharthArya starred ptitSeb/box86](https://github.com/ptitSeb/box86)
 - [SidharthArya pushed to main in SidharthArya/.g](https://github.com/SidharthArya/.g/compare/2afad1ba08...13d675b137)
 - [SidharthArya starred git-ecosystem/git-credential-manager](https://github.com/git-ecosystem/git-credential-manager)
 - [SidharthArya created a repository SidharthArya/.g](https://github.com/SidharthArya/.g//)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui)
 - [SidharthArya starred Redocly/redoc](https://github.com/Redocly/redoc)
 - [SidharthArya starred any1/wayvnc](https://github.com/any1/wayvnc)
-- [SidharthArya pushed to main in SidharthArya/.zsh](https://github.com/SidharthArya/.zsh/compare/68d43a2f06...24c68fbd45)
-- [SidharthArya starred SonarSource/sonarqube](https://github.com/SonarSource/sonarqube)
 <!-- GITHUB:END -->
 
 ## Top Followers
