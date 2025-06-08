@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred Samsung/Tizen.NET](https://github.com/Samsung/Tizen.NET)
 - [SidharthArya starred microsoft/monaco-editor](https://github.com/microsoft/monaco-editor)
 - [SidharthArya starred ptitSeb/box64](https://github.com/ptitSeb/box64)
 - [SidharthArya starred ptitSeb/box86](https://github.com/ptitSeb/box86)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya created a branch main in SidharthArya/.g](https://github.com/SidharthArya/.g/compare/main)
 - [SidharthArya starred dylanaraps/neofetch](https://github.com/dylanaraps/neofetch)
 - [SidharthArya starred swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui)
-- [SidharthArya starred Redocly/redoc](https://github.com/Redocly/redoc)
 <!-- GITHUB:END -->
 
 ## Top Followers
