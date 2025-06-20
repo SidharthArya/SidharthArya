@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya created a branch main in SidharthArya/broker2db](https://github.com/SidharthArya/broker2db/compare/main)
+- [SidharthArya created a repository SidharthArya/broker2db](https://github.com/SidharthArya/broker2db//)
 - [SidharthArya starred Samsung/Tizen.NET](https://github.com/Samsung/Tizen.NET)
 - [SidharthArya starred microsoft/monaco-editor](https://github.com/microsoft/monaco-editor)
 - [SidharthArya starred ptitSeb/box64](https://github.com/ptitSeb/box64)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred git-ecosystem/git-credential-manager](https://github.com/git-ecosystem/git-credential-manager)
 - [SidharthArya created a repository SidharthArya/.g](https://github.com/SidharthArya/.g//)
 - [SidharthArya created a branch main in SidharthArya/.g](https://github.com/SidharthArya/.g/compare/main)
-- [SidharthArya starred dylanaraps/neofetch](https://github.com/dylanaraps/neofetch)
-- [SidharthArya starred swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui)
 <!-- GITHUB:END -->
 
 ## Top Followers
