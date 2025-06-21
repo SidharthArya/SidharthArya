@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to main in SidharthArya/broker2db](https://github.com/SidharthArya/broker2db/compare/771d6d23e6...2ff34923a2)
+- [SidharthArya starred obsidiandynamics/kafdrop](https://github.com/obsidiandynamics/kafdrop)
 - [SidharthArya pushed to main in SidharthArya/broker2db](https://github.com/SidharthArya/broker2db/compare/88adac782b...771d6d23e6)
 - [SidharthArya created a branch main in SidharthArya/broker2db](https://github.com/SidharthArya/broker2db/compare/main)
 - [SidharthArya created a repository SidharthArya/broker2db](https://github.com/SidharthArya/broker2db//)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred ptitSeb/box64](https://github.com/ptitSeb/box64)
 - [SidharthArya starred ptitSeb/box86](https://github.com/ptitSeb/box86)
 - [SidharthArya pushed to main in SidharthArya/.g](https://github.com/SidharthArya/.g/compare/2afad1ba08...13d675b137)
-- [SidharthArya starred git-ecosystem/git-credential-manager](https://github.com/git-ecosystem/git-credential-manager)
-- [SidharthArya created a repository SidharthArya/.g](https://github.com/SidharthArya/.g//)
 <!-- GITHUB:END -->
 
 ## Top Followers
