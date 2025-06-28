@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred rbreaves/kinto](https://github.com/rbreaves/kinto)
 - [SidharthArya pushed to main in SidharthArya/broker2db](https://github.com/SidharthArya/broker2db/compare/14454165cd...75212fa430)
 - [SidharthArya pushed to main in SidharthArya/broker2db](https://github.com/SidharthArya/broker2db/compare/2ff34923a2...14454165cd)
 - [SidharthArya starred kubernetes/kops](https://github.com/kubernetes/kops)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya created a branch main in SidharthArya/broker2db](https://github.com/SidharthArya/broker2db/compare/main)
 - [SidharthArya created a repository SidharthArya/broker2db](https://github.com/SidharthArya/broker2db//)
 - [SidharthArya starred Samsung/Tizen.NET](https://github.com/Samsung/Tizen.NET)
-- [SidharthArya starred microsoft/monaco-editor](https://github.com/microsoft/monaco-editor)
 <!-- GITHUB:END -->
 
 ## Top Followers
