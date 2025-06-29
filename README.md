@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed to main in SidharthArya/broker2db](https://github.com/SidharthArya/broker2db/compare/75212fa430...1d8f2f9b3d)
 - [SidharthArya starred rbreaves/kinto](https://github.com/rbreaves/kinto)
 - [SidharthArya pushed to main in SidharthArya/broker2db](https://github.com/SidharthArya/broker2db/compare/14454165cd...75212fa430)
 - [SidharthArya pushed to main in SidharthArya/broker2db](https://github.com/SidharthArya/broker2db/compare/2ff34923a2...14454165cd)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to main in SidharthArya/broker2db](https://github.com/SidharthArya/broker2db/compare/88adac782b...771d6d23e6)
 - [SidharthArya created a branch main in SidharthArya/broker2db](https://github.com/SidharthArya/broker2db/compare/main)
 - [SidharthArya created a repository SidharthArya/broker2db](https://github.com/SidharthArya/broker2db//)
-- [SidharthArya starred Samsung/Tizen.NET](https://github.com/Samsung/Tizen.NET)
 <!-- GITHUB:END -->
 
 ## Top Followers
