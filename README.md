@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred docling-project/docling](https://github.com/docling-project/docling)
+- [SidharthArya starred apple/containerization](https://github.com/apple/containerization)
 - [SidharthArya starred nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace)
 - [SidharthArya pushed to main in SidharthArya/broker2db](https://github.com/SidharthArya/broker2db/compare/380189b0a5...7723b6c1fe)
 - [SidharthArya pushed to main in SidharthArya/broker2db](https://github.com/SidharthArya/broker2db/compare/1d8f2f9b3d...380189b0a5)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to main in SidharthArya/broker2db](https://github.com/SidharthArya/broker2db/compare/14454165cd...75212fa430)
 - [SidharthArya pushed to main in SidharthArya/broker2db](https://github.com/SidharthArya/broker2db/compare/2ff34923a2...14454165cd)
 - [SidharthArya starred kubernetes/kops](https://github.com/kubernetes/kops)
-- [SidharthArya pushed to main in SidharthArya/broker2db](https://github.com/SidharthArya/broker2db/compare/771d6d23e6...2ff34923a2)
-- [SidharthArya starred obsidiandynamics/kafdrop](https://github.com/obsidiandynamics/kafdrop)
 <!-- GITHUB:END -->
 
 ## Top Followers
