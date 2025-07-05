@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred microsoft/edit](https://github.com/microsoft/edit)
 - [SidharthArya starred google-gemini/genai-processors](https://github.com/google-gemini/genai-processors)
 - [SidharthArya starred google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)
 - [SidharthArya starred airbnb/lottie-ios](https://github.com/airbnb/lottie-ios)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to main in SidharthArya/broker2db](https://github.com/SidharthArya/broker2db/compare/380189b0a5...7723b6c1fe)
 - [SidharthArya pushed to main in SidharthArya/broker2db](https://github.com/SidharthArya/broker2db/compare/1d8f2f9b3d...380189b0a5)
 - [SidharthArya pushed to main in SidharthArya/broker2db](https://github.com/SidharthArya/broker2db/compare/75212fa430...1d8f2f9b3d)
-- [SidharthArya starred rbreaves/kinto](https://github.com/rbreaves/kinto)
 <!-- GITHUB:END -->
 
 ## Top Followers
