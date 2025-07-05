@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)
 - [SidharthArya starred airbnb/lottie-ios](https://github.com/airbnb/lottie-ios)
 - [SidharthArya starred docling-project/docling](https://github.com/docling-project/docling)
 - [SidharthArya starred apple/containerization](https://github.com/apple/containerization)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed to main in SidharthArya/broker2db](https://github.com/SidharthArya/broker2db/compare/75212fa430...1d8f2f9b3d)
 - [SidharthArya starred rbreaves/kinto](https://github.com/rbreaves/kinto)
 - [SidharthArya pushed to main in SidharthArya/broker2db](https://github.com/SidharthArya/broker2db/compare/14454165cd...75212fa430)
-- [SidharthArya pushed to main in SidharthArya/broker2db](https://github.com/SidharthArya/broker2db/compare/2ff34923a2...14454165cd)
 <!-- GITHUB:END -->
 
 ## Top Followers
