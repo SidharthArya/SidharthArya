@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred airbnb/lottie-ios](https://github.com/airbnb/lottie-ios)
 - [SidharthArya starred docling-project/docling](https://github.com/docling-project/docling)
 - [SidharthArya starred apple/containerization](https://github.com/apple/containerization)
 - [SidharthArya starred nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred rbreaves/kinto](https://github.com/rbreaves/kinto)
 - [SidharthArya pushed to main in SidharthArya/broker2db](https://github.com/SidharthArya/broker2db/compare/14454165cd...75212fa430)
 - [SidharthArya pushed to main in SidharthArya/broker2db](https://github.com/SidharthArya/broker2db/compare/2ff34923a2...14454165cd)
-- [SidharthArya starred kubernetes/kops](https://github.com/kubernetes/kops)
 <!-- GITHUB:END -->
 
 ## Top Followers
