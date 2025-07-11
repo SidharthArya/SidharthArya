@@ -87,16 +87,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred ReactiveX/RxJava](https://github.com/ReactiveX/RxJava)
+- [SidharthArya starred uber/RIBs](https://github.com/uber/RIBs)
+- [SidharthArya starred uber/h3](https://github.com/uber/h3)
+- [SidharthArya starred uber/causalml](https://github.com/uber/causalml)
+- [SidharthArya starred uber/uReplicator](https://github.com/uber/uReplicator)
 - [SidharthArya starred microsoft/edit](https://github.com/microsoft/edit)
 - [SidharthArya starred google-gemini/genai-processors](https://github.com/google-gemini/genai-processors)
 - [SidharthArya starred google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)
 - [SidharthArya starred airbnb/lottie-ios](https://github.com/airbnb/lottie-ios)
 - [SidharthArya starred docling-project/docling](https://github.com/docling-project/docling)
-- [SidharthArya starred apple/containerization](https://github.com/apple/containerization)
-- [SidharthArya starred nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace)
-- [SidharthArya pushed to main in SidharthArya/broker2db](https://github.com/SidharthArya/broker2db/compare/380189b0a5...7723b6c1fe)
-- [SidharthArya pushed to main in SidharthArya/broker2db](https://github.com/SidharthArya/broker2db/compare/1d8f2f9b3d...380189b0a5)
-- [SidharthArya pushed to main in SidharthArya/broker2db](https://github.com/SidharthArya/broker2db/compare/75212fa430...1d8f2f9b3d)
 <!-- GITHUB:END -->
 
 ## Top Followers
