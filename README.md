@@ -87,6 +87,9 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred microsoft/markitdown](https://github.com/microsoft/markitdown)
+- [SidharthArya starred nanbingxyz/5ire](https://github.com/nanbingxyz/5ire)
+- [SidharthArya starred microsoft/vscode-copilot-chat](https://github.com/microsoft/vscode-copilot-chat)
 - [SidharthArya starred microsoft/Conversation-Knowledge-Mining-Solution-Accelerator](https://github.com/microsoft/Conversation-Knowledge-Mining-Solution-Accelerator)
 - [SidharthArya starred ReactiveX/RxJava](https://github.com/ReactiveX/RxJava)
 - [SidharthArya starred uber/RIBs](https://github.com/uber/RIBs)
@@ -94,9 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred uber/causalml](https://github.com/uber/causalml)
 - [SidharthArya starred uber/uReplicator](https://github.com/uber/uReplicator)
 - [SidharthArya starred microsoft/edit](https://github.com/microsoft/edit)
-- [SidharthArya starred google-gemini/genai-processors](https://github.com/google-gemini/genai-processors)
-- [SidharthArya starred google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)
-- [SidharthArya starred airbnb/lottie-ios](https://github.com/airbnb/lottie-ios)
 <!-- GITHUB:END -->
 
 ## Top Followers
