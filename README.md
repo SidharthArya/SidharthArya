@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred memcached/memcached](https://github.com/memcached/memcached)
 - [SidharthArya starred jlumbroso/passage-of-time-mcp](https://github.com/jlumbroso/passage-of-time-mcp)
 - [SidharthArya starred microsoft/markitdown](https://github.com/microsoft/markitdown)
 - [SidharthArya starred nanbingxyz/5ire](https://github.com/nanbingxyz/5ire)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred uber/RIBs](https://github.com/uber/RIBs)
 - [SidharthArya starred uber/h3](https://github.com/uber/h3)
 - [SidharthArya starred uber/causalml](https://github.com/uber/causalml)
-- [SidharthArya starred uber/uReplicator](https://github.com/uber/uReplicator)
 <!-- GITHUB:END -->
 
 ## Top Followers
