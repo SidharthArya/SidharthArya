@@ -146,21 +146,14 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       <a href="https://github.com/1985Valdemar">Valdemar Teider</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Arison99">
-        <img src="https://avatars2.githubusercontent.com/u/154712868" width="100px;" alt="Arison99"/>
-      </a>
-      <br />
-      <a href="https://github.com/Arison99">Byonanebye Arison</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <a href="https://github.com/MdRashid62">
         <img src="https://avatars2.githubusercontent.com/u/55427374" width="100px;" alt="MdRashid62"/>
       </a>
       <br />
       <a href="https://github.com/MdRashid62">Muhammad Rashid</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/carlosal1015">
         <img src="https://avatars2.githubusercontent.com/u/21283014" width="100px;" alt="carlosal1015"/>
@@ -203,8 +196,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       <br />
       <a href="https://github.com/Tiancheng-Luo">Tiancheng-Luo</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/amrithHN">
         <img src="https://avatars2.githubusercontent.com/u/70368617" width="100px;" alt="amrithHN"/>
@@ -212,6 +203,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       <br />
       <a href="https://github.com/amrithHN">Amrith H Namboodiri</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/stormwatch">
         <img src="https://avatars2.githubusercontent.com/u/824211" width="100px;" alt="stormwatch"/>
@@ -234,13 +227,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       <a href="https://github.com/Pearlminimal">minimal99pfdo73 </a>
     </td>
     <td align="center">
-      <a href="https://github.com/yanboyang713">
-        <img src="https://avatars2.githubusercontent.com/u/7603628" width="100px;" alt="yanboyang713"/>
-      </a>
-      <br />
-      <a href="https://github.com/yanboyang713">Boyang Yan</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/portgasray">
         <img src="https://avatars2.githubusercontent.com/u/17681580" width="100px;" alt="portgasray"/>
       </a>
@@ -248,11 +234,25 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       <a href="https://github.com/portgasray">Lei Zhang</a>
     </td>
     <td align="center">
+      <a href="https://github.com/yanboyang713">
+        <img src="https://avatars2.githubusercontent.com/u/7603628" width="100px;" alt="yanboyang713"/>
+      </a>
+      <br />
+      <a href="https://github.com/yanboyang713">Boyang Yan</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/adam-ehab-code">
         <img src="https://avatars2.githubusercontent.com/u/137718329" width="100px;" alt="adam-ehab-code"/>
       </a>
       <br />
       <a href="https://github.com/adam-ehab-code">Adam Ehab</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/HakunanMatatat">
+        <img src="https://avatars2.githubusercontent.com/u/56817048" width="100px;" alt="HakunanMatatat"/>
+      </a>
+      <br />
+      <a href="https://github.com/HakunanMatatat">HakunanMatatat</a>
     </td>
   </tr>
 </table>
