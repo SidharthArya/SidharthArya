@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred bugthesystem/Flux](https://github.com/bugthesystem/Flux)
 - [SidharthArya starred marshmallow-code/marshmallow](https://github.com/marshmallow-code/marshmallow)
 - [SidharthArya starred memcached/memcached](https://github.com/memcached/memcached)
 - [SidharthArya starred jlumbroso/passage-of-time-mcp](https://github.com/jlumbroso/passage-of-time-mcp)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred microsoft/Conversation-Knowledge-Mining-Solution-Accelerator](https://github.com/microsoft/Conversation-Knowledge-Mining-Solution-Accelerator)
 - [SidharthArya starred ReactiveX/RxJava](https://github.com/ReactiveX/RxJava)
 - [SidharthArya starred uber/RIBs](https://github.com/uber/RIBs)
-- [SidharthArya starred uber/h3](https://github.com/uber/h3)
 <!-- GITHUB:END -->
 
 ## Top Followers
