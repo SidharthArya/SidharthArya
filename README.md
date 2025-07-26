@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred scylladb/scylladb](https://github.com/scylladb/scylladb)
 - [SidharthArya starred casbin/pycasbin](https://github.com/casbin/pycasbin)
 - [SidharthArya starred bugthesystem/Flux](https://github.com/bugthesystem/Flux)
 - [SidharthArya starred marshmallow-code/marshmallow](https://github.com/marshmallow-code/marshmallow)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred nanbingxyz/5ire](https://github.com/nanbingxyz/5ire)
 - [SidharthArya starred microsoft/vscode-copilot-chat](https://github.com/microsoft/vscode-copilot-chat)
 - [SidharthArya starred microsoft/Conversation-Knowledge-Mining-Solution-Accelerator](https://github.com/microsoft/Conversation-Knowledge-Mining-Solution-Accelerator)
-- [SidharthArya starred ReactiveX/RxJava](https://github.com/ReactiveX/RxJava)
 <!-- GITHUB:END -->
 
 ## Top Followers
