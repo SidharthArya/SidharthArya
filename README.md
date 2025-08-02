@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred go-delve/delve](https://github.com/go-delve/delve)
 - [SidharthArya starred jlowin/fastmcp](https://github.com/jlowin/fastmcp)
 - [SidharthArya starred kubeflow/kubeflow](https://github.com/kubeflow/kubeflow)
 - [SidharthArya starred google-deepmind/ai-foundations](https://github.com/google-deepmind/ai-foundations)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred marshmallow-code/marshmallow](https://github.com/marshmallow-code/marshmallow)
 - [SidharthArya starred memcached/memcached](https://github.com/memcached/memcached)
 - [SidharthArya starred jlumbroso/passage-of-time-mcp](https://github.com/jlumbroso/passage-of-time-mcp)
-- [SidharthArya starred microsoft/markitdown](https://github.com/microsoft/markitdown)
 <!-- GITHUB:END -->
 
 ## Top Followers
