@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred google-ai-edge/LiteRT](https://github.com/google-ai-edge/LiteRT)
 - [SidharthArya starred bradfitz/gomemcache](https://github.com/bradfitz/gomemcache)
 - [SidharthArya starred go-delve/delve](https://github.com/go-delve/delve)
 - [SidharthArya starred jlowin/fastmcp](https://github.com/jlowin/fastmcp)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred casbin/pycasbin](https://github.com/casbin/pycasbin)
 - [SidharthArya starred bugthesystem/Flux](https://github.com/bugthesystem/Flux)
 - [SidharthArya starred marshmallow-code/marshmallow](https://github.com/marshmallow-code/marshmallow)
-- [SidharthArya starred memcached/memcached](https://github.com/memcached/memcached)
 <!-- GITHUB:END -->
 
 ## Top Followers
