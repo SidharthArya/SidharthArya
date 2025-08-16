@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred Dao-AILab/flash-attention](https://github.com/Dao-AILab/flash-attention)
 - [SidharthArya starred mendableai/open-lovable](https://github.com/mendableai/open-lovable)
 - [SidharthArya starred paperswithcode/galai](https://github.com/paperswithcode/galai)
 - [SidharthArya starred google-ai-edge/LiteRT](https://github.com/google-ai-edge/LiteRT)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred kubeflow/kubeflow](https://github.com/kubeflow/kubeflow)
 - [SidharthArya starred google-deepmind/ai-foundations](https://github.com/google-deepmind/ai-foundations)
 - [SidharthArya starred scylladb/scylladb](https://github.com/scylladb/scylladb)
-- [SidharthArya starred casbin/pycasbin](https://github.com/casbin/pycasbin)
 <!-- GITHUB:END -->
 
 ## Top Followers
