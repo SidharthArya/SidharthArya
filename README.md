@@ -89,7 +89,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 <!-- GITHUB:START -->
 - [SidharthArya starred facebookresearch/dino](https://github.com/facebookresearch/dino)
 - [SidharthArya starred Dao-AILab/flash-attention](https://github.com/Dao-AILab/flash-attention)
-- [SidharthArya starred mendableai/open-lovable](https://github.com/mendableai/open-lovable)
+- [SidharthArya starred firecrawl/open-lovable](https://github.com/mendableai/open-lovable)
 - [SidharthArya starred paperswithcode/galai](https://github.com/paperswithcode/galai)
 - [SidharthArya starred google-ai-edge/LiteRT](https://github.com/google-ai-edge/LiteRT)
 - [SidharthArya starred bradfitz/gomemcache](https://github.com/bradfitz/gomemcache)
