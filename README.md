@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya created a repository SidharthArya/barebones](https://github.com/SidharthArya/barebones//)
+- [SidharthArya created a branch main in SidharthArya/barebones](https://github.com/SidharthArya/barebones/compare/main)
 - [SidharthArya starred facebookresearch/dino](https://github.com/facebookresearch/dino)
 - [SidharthArya starred Dao-AILab/flash-attention](https://github.com/Dao-AILab/flash-attention)
 - [SidharthArya starred firecrawl/open-lovable](https://github.com/mendableai/open-lovable)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred bradfitz/gomemcache](https://github.com/bradfitz/gomemcache)
 - [SidharthArya starred go-delve/delve](https://github.com/go-delve/delve)
 - [SidharthArya starred jlowin/fastmcp](https://github.com/jlowin/fastmcp)
-- [SidharthArya starred kubeflow/kubeflow](https://github.com/kubeflow/kubeflow)
-- [SidharthArya starred google-deepmind/ai-foundations](https://github.com/google-deepmind/ai-foundations)
 <!-- GITHUB:END -->
 
 ## Top Followers
