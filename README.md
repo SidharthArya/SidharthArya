@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred hfawaz/InceptionTime](https://github.com/hfawaz/InceptionTime)
 - [SidharthArya created a repository SidharthArya/barebones](https://github.com/SidharthArya/barebones//)
 - [SidharthArya created a branch main in SidharthArya/barebones](https://github.com/SidharthArya/barebones/compare/main)
 - [SidharthArya starred facebookresearch/dino](https://github.com/facebookresearch/dino)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred google-ai-edge/LiteRT](https://github.com/google-ai-edge/LiteRT)
 - [SidharthArya starred bradfitz/gomemcache](https://github.com/bradfitz/gomemcache)
 - [SidharthArya starred go-delve/delve](https://github.com/go-delve/delve)
-- [SidharthArya starred jlowin/fastmcp](https://github.com/jlowin/fastmcp)
 <!-- GITHUB:END -->
 
 ## Top Followers
