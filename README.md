@@ -87,16 +87,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
-- [SidharthArya starred hfawaz/InceptionTime](https://github.com/hfawaz/InceptionTime)
-- [SidharthArya created a repository SidharthArya/barebones](https://github.com/SidharthArya/barebones//)
-- [SidharthArya created a branch main in SidharthArya/barebones](https://github.com/SidharthArya/barebones/compare/main)
-- [SidharthArya starred facebookresearch/dino](https://github.com/facebookresearch/dino)
-- [SidharthArya starred Dao-AILab/flash-attention](https://github.com/Dao-AILab/flash-attention)
-- [SidharthArya starred firecrawl/open-lovable](https://github.com/mendableai/open-lovable)
-- [SidharthArya starred paperswithcode/galai](https://github.com/paperswithcode/galai)
-- [SidharthArya starred google-ai-edge/LiteRT](https://github.com/google-ai-edge/LiteRT)
-- [SidharthArya starred bradfitz/gomemcache](https://github.com/bradfitz/gomemcache)
-- [SidharthArya starred go-delve/delve](https://github.com/go-delve/delve)
+- [SidharthArya starred aio-libs/async-lru](/aio-libs/async-lru)
+- [SidharthArya starred hfawaz/InceptionTime](/hfawaz/InceptionTime)
+- [SidharthArya starred tensorzero/tensorzero](/tensorzero/tensorzero)
+- [SidharthArya starred evalstate/fast-agent](/evalstate/fast-agent)
+- [SidharthArya created a branch](https://github.com/SidharthArya/barebones/compare/0000000000...256298ddec)
+- [SidharthArya starred facebookresearch/dino](/facebookresearch/dino)
+- [SidharthArya starred Dao-AILab/flash-attention](/Dao-AILab/flash-attention)
+- [SidharthArya starred firecrawl/open-lovable](/firecrawl/open-lovable)
+- [SidharthArya starred triton-lang/triton](/triton-lang/triton)
+- [SidharthArya starred sgl-project/sglang](/sgl-project/sglang)
 <!-- GITHUB:END -->
 
 ## Top Followers
