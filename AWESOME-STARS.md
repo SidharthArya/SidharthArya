@@ -1723,6 +1723,7 @@
 
 ## Python 
 
+- [qdrant/fastembed](https://github.com/qdrant/fastembed) - Fast, Accurate, Lightweight Python library to make State of the Art Embedding
 - [aio-libs/async-lru](https://github.com/aio-libs/async-lru) - Simple LRU cache for asyncio
 - [hfawaz/InceptionTime](https://github.com/hfawaz/InceptionTime) - InceptionTime: Finding AlexNet for Time Series Classification
 - [evalstate/fast-agent](https://github.com/evalstate/fast-agent) - Define, Prompt and Test MCP enabled Agents and Workflows
