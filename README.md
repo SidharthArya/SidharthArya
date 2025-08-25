@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred x1xhlol/system-prompts-and-models-of-ai-tools](/x1xhlol/system-prompts-and-models-of-ai-tools)
 - [SidharthArya starred qdrant/fastembed](/qdrant/fastembed)
 - [SidharthArya starred aio-libs/async-lru](/aio-libs/async-lru)
 - [SidharthArya starred hfawaz/InceptionTime](/hfawaz/InceptionTime)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred facebookresearch/dino](/facebookresearch/dino)
 - [SidharthArya starred Dao-AILab/flash-attention](/Dao-AILab/flash-attention)
 - [SidharthArya starred firecrawl/open-lovable](/firecrawl/open-lovable)
-- [SidharthArya starred triton-lang/triton](/triton-lang/triton)
 <!-- GITHUB:END -->
 
 ## Top Followers
