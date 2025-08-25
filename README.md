@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred whitphx/stlite](/whitphx/stlite)
 - [SidharthArya starred openai/openai-cookbook](/openai/openai-cookbook)
 - [SidharthArya starred x1xhlol/system-prompts-and-models-of-ai-tools](/x1xhlol/system-prompts-and-models-of-ai-tools)
 - [SidharthArya starred qdrant/fastembed](/qdrant/fastembed)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred evalstate/fast-agent](/evalstate/fast-agent)
 - [SidharthArya created a branch](https://github.com/SidharthArya/barebones/compare/0000000000...256298ddec)
 - [SidharthArya starred facebookresearch/dino](/facebookresearch/dino)
-- [SidharthArya starred Dao-AILab/flash-attention](/Dao-AILab/flash-attention)
 <!-- GITHUB:END -->
 
 ## Top Followers
