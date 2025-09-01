@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred microsoft/graphrag](/microsoft/graphrag)
 - [SidharthArya starred PacktPublishing/Advanced-Deep-Learning-with-Keras](/PacktPublishing/Advanced-Deep-Learning-with-Keras)
 - [SidharthArya starred whitphx/stlite](/whitphx/stlite)
 - [SidharthArya starred openai/openai-cookbook](/openai/openai-cookbook)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred hfawaz/InceptionTime](/hfawaz/InceptionTime)
 - [SidharthArya starred tensorzero/tensorzero](/tensorzero/tensorzero)
 - [SidharthArya starred evalstate/fast-agent](/evalstate/fast-agent)
-- [SidharthArya created a branch](https://github.com/SidharthArya/barebones/compare/0000000000...256298ddec)
 <!-- GITHUB:END -->
 
 ## Top Followers
