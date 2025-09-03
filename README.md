@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred pgvector/pgvector-python](/pgvector/pgvector-python)
+- [SidharthArya starred pgvector/pgvector](/pgvector/pgvector)
 - [SidharthArya starred microsoft/graphrag](/microsoft/graphrag)
 - [SidharthArya starred PacktPublishing/Advanced-Deep-Learning-with-Keras](/PacktPublishing/Advanced-Deep-Learning-with-Keras)
 - [SidharthArya starred whitphx/stlite](/whitphx/stlite)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred qdrant/fastembed](/qdrant/fastembed)
 - [SidharthArya starred aio-libs/async-lru](/aio-libs/async-lru)
 - [SidharthArya starred hfawaz/InceptionTime](/hfawaz/InceptionTime)
-- [SidharthArya starred tensorzero/tensorzero](/tensorzero/tensorzero)
-- [SidharthArya starred evalstate/fast-agent](/evalstate/fast-agent)
 <!-- GITHUB:END -->
 
 ## Top Followers
