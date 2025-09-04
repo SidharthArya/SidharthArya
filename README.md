@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed fastset](https://github.com/SidharthArya/fastset/compare/c3d7df122c...d64acd89d2)
+- [SidharthArya pushed fastset](https://github.com/SidharthArya/fastset/compare/b77f6957d0...c3d7df122c)
 - [SidharthArya starred bigskysoftware/htmx](/bigskysoftware/htmx)
 - [SidharthArya pushed fastset](https://github.com/SidharthArya/fastset/compare/d6c46ba071...b77f6957d0)
 - [SidharthArya created a branch](https://github.com/SidharthArya/fastset/compare/0000000000...d6c46ba071)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred microsoft/graphrag](/microsoft/graphrag)
 - [SidharthArya starred PacktPublishing/Advanced-Deep-Learning-with-Keras](/PacktPublishing/Advanced-Deep-Learning-with-Keras)
 - [SidharthArya starred whitphx/stlite](/whitphx/stlite)
-- [SidharthArya starred openai/openai-cookbook](/openai/openai-cookbook)
-- [SidharthArya starred x1xhlol/system-prompts-and-models-of-ai-tools](/x1xhlol/system-prompts-and-models-of-ai-tools)
 <!-- GITHUB:END -->
 
 ## Top Followers
