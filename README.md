@@ -125,18 +125,18 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       <a href="https://github.com/frankfanslc">frankfanslc</a>
     </td>
     <td align="center">
+      <a href="https://github.com/Arison99">
+        <img src="https://avatars2.githubusercontent.com/u/154712868" width="100px;" alt="Arison99"/>
+      </a>
+      <br />
+      <a href="https://github.com/Arison99">Byonanebye Arison</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/renbooo">
         <img src="https://avatars2.githubusercontent.com/u/16249870" width="100px;" alt="renbooo"/>
       </a>
       <br />
       <a href="https://github.com/renbooo">水無月 MINAZUKI</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/1985Valdemar">
-        <img src="https://avatars2.githubusercontent.com/u/114195427" width="100px;" alt="1985Valdemar"/>
-      </a>
-      <br />
-      <a href="https://github.com/1985Valdemar">Valdemar Teider</a>
     </td>
     <td align="center">
       <a href="https://github.com/jelsonjay">
@@ -146,14 +146,21 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       <a href="https://github.com/jelsonjay">Jelson J</a>
     </td>
     <td align="center">
+      <a href="https://github.com/1985Valdemar">
+        <img src="https://avatars2.githubusercontent.com/u/114195427" width="100px;" alt="1985Valdemar"/>
+      </a>
+      <br />
+      <a href="https://github.com/1985Valdemar">Valdemar Teider</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
       <a href="https://github.com/MdRashid62">
         <img src="https://avatars2.githubusercontent.com/u/55427374" width="100px;" alt="MdRashid62"/>
       </a>
       <br />
       <a href="https://github.com/MdRashid62">Muhammad Rashid</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/carlosal1015">
         <img src="https://avatars2.githubusercontent.com/u/21283014" width="100px;" alt="carlosal1015"/>
@@ -176,18 +183,18 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       <a href="https://github.com/grahamwaters">Graham Waters</a>
     </td>
     <td align="center">
-      <a href="https://github.com/M3nin0">
-        <img src="https://avatars2.githubusercontent.com/u/17037029" width="100px;" alt="M3nin0"/>
-      </a>
-      <br />
-      <a href="https://github.com/M3nin0">Felipe</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/maskegger">
         <img src="https://avatars2.githubusercontent.com/u/3811321" width="100px;" alt="maskegger"/>
       </a>
       <br />
       <a href="https://github.com/maskegger">AM</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/M3nin0">
+        <img src="https://avatars2.githubusercontent.com/u/17037029" width="100px;" alt="M3nin0"/>
+      </a>
+      <br />
+      <a href="https://github.com/M3nin0">Felipe</a>
     </td>
     <td align="center">
       <a href="https://github.com/Tiancheng-Luo">
@@ -196,6 +203,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       <br />
       <a href="https://github.com/Tiancheng-Luo">Tiancheng-Luo</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/amrithHN">
         <img src="https://avatars2.githubusercontent.com/u/70368617" width="100px;" alt="amrithHN"/>
@@ -203,8 +212,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       <br />
       <a href="https://github.com/amrithHN">Amrith H Namboodiri</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/stormwatch">
         <img src="https://avatars2.githubusercontent.com/u/824211" width="100px;" alt="stormwatch"/>
@@ -246,13 +253,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       </a>
       <br />
       <a href="https://github.com/adam-ehab-code">Adam Ehab</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/relativelyrehan">
-        <img src="https://avatars2.githubusercontent.com/u/48210765" width="100px;" alt="relativelyrehan"/>
-      </a>
-      <br />
-      <a href="https://github.com/relativelyrehan">rreel </a>
     </td>
   </tr>
 </table>
