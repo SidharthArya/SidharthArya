@@ -125,13 +125,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       <a href="https://github.com/frankfanslc">frankfanslc</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Arison99">
-        <img src="https://avatars2.githubusercontent.com/u/154712868" width="100px;" alt="Arison99"/>
-      </a>
-      <br />
-      <a href="https://github.com/Arison99">Byonanebye Arison</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/renbooo">
         <img src="https://avatars2.githubusercontent.com/u/16249870" width="100px;" alt="renbooo"/>
       </a>
@@ -139,11 +132,11 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       <a href="https://github.com/renbooo">水無月 MINAZUKI</a>
     </td>
     <td align="center">
-      <a href="https://github.com/jelsonjay">
-        <img src="https://avatars2.githubusercontent.com/u/50907905" width="100px;" alt="jelsonjay"/>
+      <a href="https://github.com/anasmohammad611">
+        <img src="https://avatars2.githubusercontent.com/u/42072227" width="100px;" alt="anasmohammad611"/>
       </a>
       <br />
-      <a href="https://github.com/jelsonjay">Jelson J</a>
+      <a href="https://github.com/anasmohammad611">Mohammed Anas</a>
     </td>
     <td align="center">
       <a href="https://github.com/1985Valdemar">
@@ -151,6 +144,13 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       </a>
       <br />
       <a href="https://github.com/1985Valdemar">Valdemar Teider</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/jelsonjay">
+        <img src="https://avatars2.githubusercontent.com/u/50907905" width="100px;" alt="jelsonjay"/>
+      </a>
+      <br />
+      <a href="https://github.com/jelsonjay">Jelson J</a>
     </td>
   </tr>
   <tr>
