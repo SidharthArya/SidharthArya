@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed fastset](https://github.com/SidharthArya/fastset/compare/97fd07cf6a...bfc2268a38)
 - [SidharthArya pushed fastset](https://github.com/SidharthArya/fastset/compare/d64acd89d2...97fd07cf6a)
 - [SidharthArya pushed fastset](https://github.com/SidharthArya/fastset/compare/c3d7df122c...d64acd89d2)
 - [SidharthArya pushed fastset](https://github.com/SidharthArya/fastset/compare/b77f6957d0...c3d7df122c)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred pgvector/pgvector-python](/pgvector/pgvector-python)
 - [SidharthArya starred pgvector/pgvector](/pgvector/pgvector)
 - [SidharthArya starred microsoft/graphrag](/microsoft/graphrag)
-- [SidharthArya starred PacktPublishing/Advanced-Deep-Learning-with-Keras](/PacktPublishing/Advanced-Deep-Learning-with-Keras)
 <!-- GITHUB:END -->
 
 ## Top Followers
