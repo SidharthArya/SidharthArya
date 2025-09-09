@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed fastset](https://github.com/SidharthArya/fastset/compare/bfc2268a38...ba973b381d)
 - [SidharthArya pushed fastset](https://github.com/SidharthArya/fastset/compare/97fd07cf6a...bfc2268a38)
 - [SidharthArya pushed fastset](https://github.com/SidharthArya/fastset/compare/d64acd89d2...97fd07cf6a)
 - [SidharthArya pushed fastset](https://github.com/SidharthArya/fastset/compare/c3d7df122c...d64acd89d2)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya created a branch](https://github.com/SidharthArya/fastset/compare/0000000000...d6c46ba071)
 - [SidharthArya starred pgvector/pgvector-python](/pgvector/pgvector-python)
 - [SidharthArya starred pgvector/pgvector](/pgvector/pgvector)
-- [SidharthArya starred microsoft/graphrag](/microsoft/graphrag)
 <!-- GITHUB:END -->
 
 ## Top Followers
