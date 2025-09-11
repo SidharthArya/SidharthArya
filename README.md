@@ -92,11 +92,11 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed fastset](https://github.com/SidharthArya/fastset/compare/d64acd89d2...97fd07cf6a)
 - [SidharthArya pushed fastset](https://github.com/SidharthArya/fastset/compare/c3d7df122c...d64acd89d2)
 - [SidharthArya pushed fastset](https://github.com/SidharthArya/fastset/compare/b77f6957d0...c3d7df122c)
-- [SidharthArya starred bigskysoftware/htmx](/bigskysoftware/htmx)
+- [SidharthArya starred bigskysoftware/htmx](https://github.com/bigskysoftware/htmx)
 - [SidharthArya pushed fastset](https://github.com/SidharthArya/fastset/compare/d6c46ba071...b77f6957d0)
 - [SidharthArya created a branch](https://github.com/SidharthArya/fastset/compare/0000000000...d6c46ba071)
-- [SidharthArya starred pgvector/pgvector-python](/pgvector/pgvector-python)
-- [SidharthArya starred pgvector/pgvector](/pgvector/pgvector)
+- [SidharthArya starred pgvector/pgvector-python](https://github.com/pgvector/pgvector-python)
+- [SidharthArya starred pgvector/pgvector](https://github.com/pgvector/pgvector)
 <!-- GITHUB:END -->
 
 ## Top Followers
