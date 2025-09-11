@@ -1367,7 +1367,7 @@
 - [google-research/google-research](https://github.com/google-research/google-research) - Google Research
 - [fastai/fastai](https://github.com/fastai/fastai) - The fastai deep learning library
 - [aymericdamien/TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples) - TensorFlow Tutorial and Examples for Beginners (support TF v1 & v2)
-- [claimed-framework/component-library](https://github.com/claimed-framework/component-library) - The goal of CLAIMED is to enable low-code/no-code rapid prototyping style programming to seamlessly CI/CD into production.
+- [claimed-framework/claimed](https://github.com/claimed-framework/claimed) - The goal of CLAIMED is to enable low-code/no-code rapid prototyping style programming to seamlessly CI/CD into production.
 - [fastai/fastpages](https://github.com/fastai/fastpages) - An easy to use blogging platform, with enhanced support for Jupyter Notebooks.
 - [google-deepmind/deepmind-research](https://github.com/google-deepmind/deepmind-research) - This repository contains implementations and illustrative code to accompany DeepMind publications
 - [bukosabino/ta](https://github.com/bukosabino/ta) - Technical Analysis Library using Pandas and Numpy
