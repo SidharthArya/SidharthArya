@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred lucidrains/audiolm-pytorch](https://github.com/lucidrains/audiolm-pytorch)
+- [SidharthArya starred intel/ipex-llm](https://github.com/intel/ipex-llm)
 - [SidharthArya starred intel/analytics-zoo](https://github.com/intel/analytics-zoo)
 - [SidharthArya pushed fastset](https://github.com/SidharthArya/fastset/compare/bfc2268a38...ba973b381d)
 - [SidharthArya pushed fastset](https://github.com/SidharthArya/fastset/compare/97fd07cf6a...bfc2268a38)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed fastset](https://github.com/SidharthArya/fastset/compare/b77f6957d0...c3d7df122c)
 - [SidharthArya starred bigskysoftware/htmx](https://github.com/bigskysoftware/htmx)
 - [SidharthArya pushed fastset](https://github.com/SidharthArya/fastset/compare/d6c46ba071...b77f6957d0)
-- [SidharthArya created a branch](https://github.com/SidharthArya/fastset/compare/0000000000...d6c46ba071)
-- [SidharthArya starred pgvector/pgvector-python](https://github.com/pgvector/pgvector-python)
 <!-- GITHUB:END -->
 
 ## Top Followers
