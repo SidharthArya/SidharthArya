@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred unionai-oss/pandera](https://github.com/unionai-oss/pandera)
 - [SidharthArya starred lucidrains/audiolm-pytorch](https://github.com/lucidrains/audiolm-pytorch)
 - [SidharthArya starred intel/ipex-llm](https://github.com/intel/ipex-llm)
 - [SidharthArya starred intel/analytics-zoo](https://github.com/intel/analytics-zoo)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed fastset](https://github.com/SidharthArya/fastset/compare/c3d7df122c...d64acd89d2)
 - [SidharthArya pushed fastset](https://github.com/SidharthArya/fastset/compare/b77f6957d0...c3d7df122c)
 - [SidharthArya starred bigskysoftware/htmx](https://github.com/bigskysoftware/htmx)
-- [SidharthArya pushed fastset](https://github.com/SidharthArya/fastset/compare/d6c46ba071...b77f6957d0)
 <!-- GITHUB:END -->
 
 ## Top Followers
