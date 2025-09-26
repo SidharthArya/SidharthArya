@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred sanic-org/sanic](https://github.com/sanic-org/sanic)
 - [SidharthArya starred ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
 - [SidharthArya starred unionai-oss/pandera](https://github.com/unionai-oss/pandera)
 - [SidharthArya starred lucidrains/audiolm-pytorch](https://github.com/lucidrains/audiolm-pytorch)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed fastset](https://github.com/SidharthArya/fastset/compare/97fd07cf6a...bfc2268a38)
 - [SidharthArya pushed fastset](https://github.com/SidharthArya/fastset/compare/d64acd89d2...97fd07cf6a)
 - [SidharthArya pushed fastset](https://github.com/SidharthArya/fastset/compare/c3d7df122c...d64acd89d2)
-- [SidharthArya pushed fastset](https://github.com/SidharthArya/fastset/compare/b77f6957d0...c3d7df122c)
 <!-- GITHUB:END -->
 
 ## Top Followers
