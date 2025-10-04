@@ -104,18 +104,18 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/idimetrix">
-        <img src="https://avatars2.githubusercontent.com/u/6536323" width="100px;" alt="idimetrix"/>
-      </a>
-      <br />
-      <a href="https://github.com/idimetrix">Dmitry Selikhov</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/standardgalactic">
         <img src="https://avatars2.githubusercontent.com/u/43516554" width="100px;" alt="standardgalactic"/>
       </a>
       <br />
       <a href="https://github.com/standardgalactic">Cogito Ergo Sum</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/idimetrix">
+        <img src="https://avatars2.githubusercontent.com/u/6536323" width="100px;" alt="idimetrix"/>
+      </a>
+      <br />
+      <a href="https://github.com/idimetrix">Dmitry Selikhov</a>
     </td>
     <td align="center">
       <a href="https://github.com/frankfanslc">
