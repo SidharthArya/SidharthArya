@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred embeddings-benchmark/mteb](https://github.com/embeddings-benchmark/mteb)
 - [SidharthArya starred timescale/pgvectorscale](https://github.com/timescale/pgvectorscale)
 - [SidharthArya starred sanic-org/sanic](https://github.com/sanic-org/sanic)
 - [SidharthArya starred ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
