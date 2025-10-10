@@ -95,7 +95,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred lucidrains/audiolm-pytorch](https://github.com/lucidrains/audiolm-pytorch)
 - [SidharthArya starred intel/ipex-llm](https://github.com/intel/ipex-llm)
 - [SidharthArya starred intel/analytics-zoo](https://github.com/intel/analytics-zoo)
-- [SidharthArya pushed fastset](https://github.com/SidharthArya/fastset/compare/bfc2268a38...ba973b381d)
 <!-- GITHUB:END -->
 
 ## Top Followers
