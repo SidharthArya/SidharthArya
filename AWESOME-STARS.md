@@ -69,6 +69,7 @@
 - [Shell](#shell)
 - [Smalltalk](#smalltalk)
 - [Solidity](#solidity)
+- [Svelte](#svelte)
 - [Swift](#swift)
 - [TeX](#tex)
 - [Tree-sitter Query](#tree-sitter-query)
@@ -1908,7 +1909,7 @@
 - [dbt-labs/dbt-core](https://github.com/dbt-labs/dbt-core) - dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.
 - [stas00/ml-engineering](https://github.com/stas00/ml-engineering) - Machine Learning Engineering Open Book
 - [haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA) - [NeurIPS'23 Oral] Visual Instruction Tuning (LLaVA) built towards GPT-4V level capabilities and beyond.
-- [agno-agi/agno](https://github.com/agno-agi/agno) - Incredibly fast multi-agent framework, runtime and UI.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - The multi-agent framework, runtime and UI built for speed.
 - [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by AI large language models like GPT-4, will help you accomplish your tasks faster and more efficiently.
 - [apple/ml-mgie](https://github.com/apple/ml-mgie) - 
 - [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
@@ -1940,7 +1941,7 @@
 - [wkentaro/gdown](https://github.com/wkentaro/gdown) - Google Drive Public File Downloader when Curl/Wget Fails
 - [google-deepmind/alphageometry](https://github.com/google-deepmind/alphageometry) - 
 - [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
-- [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. All in a modern, AI-native editor.
+- [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.
 - [mouredev/Hello-Python](https://github.com/mouredev/Hello-Python) - Curso para aprender el lenguaje de programación Python desde cero y para principiantes. 100 clases, 44 horas en vídeo, código, proyectos y grupo de chat. Fundamentos, frontend, backend, testing, IA...
 - [EleutherAI/lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness) - A framework for few-shot evaluation of language models.
 - [dccsillag/magma-nvim](https://github.com/dccsillag/magma-nvim) - Interact with Jupyter from NeoVim.
@@ -2724,9 +2725,12 @@
 
 ## Solidity 
 
-- [taikoxyz/taiko-mono](https://github.com/taikoxyz/taiko-mono) - Taiko Alethia based rollup protocol 🥁
 - [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) - OpenZeppelin Contracts is a library for secure smart contract development.
 - [AmazingAng/WTF-Solidity](https://github.com/AmazingAng/WTF-Solidity) - WTF Solidity 极简入门教程，供小白们使用。Now supports English! 官网: https://wtf.academy
+
+## Svelte 
+
+- [taikoxyz/taiko-mono](https://github.com/taikoxyz/taiko-mono) - Taiko Alethia based rollup protocol 🥁
 
 ## Swift 
 
