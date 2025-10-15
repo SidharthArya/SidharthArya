@@ -92,7 +92,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred sanic-org/sanic](https://github.com/sanic-org/sanic)
 - [SidharthArya starred ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
 - [SidharthArya starred unionai-oss/pandera](https://github.com/unionai-oss/pandera)
-- [SidharthArya starred lucidrains/audiolm-pytorch](https://github.com/lucidrains/audiolm-pytorch)
 <!-- GITHUB:END -->
 
 ## Top Followers
