@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred dapr/dapr](https://github.com/dapr/dapr)
 - [SidharthArya starred embeddings-benchmark/mteb](https://github.com/embeddings-benchmark/mteb)
 - [SidharthArya starred timescale/pgvectorscale](https://github.com/timescale/pgvectorscale)
 - [SidharthArya starred sanic-org/sanic](https://github.com/sanic-org/sanic)
