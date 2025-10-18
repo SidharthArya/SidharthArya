@@ -91,7 +91,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred timescale/pgvectorscale](https://github.com/timescale/pgvectorscale)
 - [SidharthArya starred sanic-org/sanic](https://github.com/sanic-org/sanic)
 - [SidharthArya starred ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
-- [SidharthArya starred unionai-oss/pandera](https://github.com/unionai-oss/pandera)
 <!-- GITHUB:END -->
 
 ## Top Followers
