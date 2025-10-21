@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred ua-parser/uap-python](https://github.com/ua-parser/uap-python)
+- [SidharthArya starred selwin/python-user-agents](https://github.com/selwin/python-user-agents)
 - [SidharthArya starred sqlalchemy/alembic](https://github.com/sqlalchemy/alembic)
 - [SidharthArya starred fastapi/sqlmodel](https://github.com/fastapi/sqlmodel)
 - [SidharthArya starred aminalaee/sqladmin](https://github.com/aminalaee/sqladmin)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred jpadilla/pyjwt](https://github.com/jpadilla/pyjwt)
 - [SidharthArya starred dapr/dapr](https://github.com/dapr/dapr)
 - [SidharthArya starred embeddings-benchmark/mteb](https://github.com/embeddings-benchmark/mteb)
-- [SidharthArya starred timescale/pgvectorscale](https://github.com/timescale/pgvectorscale)
-- [SidharthArya starred sanic-org/sanic](https://github.com/sanic-org/sanic)
 <!-- GITHUB:END -->
 
 ## Top Followers
