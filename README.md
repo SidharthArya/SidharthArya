@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred Tencent-RTC/TUICallKit](https://github.com/Tencent-RTC/TUICallKit)
 - [SidharthArya starred cfug/dio](https://github.com/cfug/dio)
 - [SidharthArya starred ua-parser/uap-python](https://github.com/ua-parser/uap-python)
 - [SidharthArya starred selwin/python-user-agents](https://github.com/selwin/python-user-agents)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred tortoise/tortoise-orm](https://github.com/tortoise/tortoise-orm)
 - [SidharthArya starred fastapi-admin/fastapi-admin](https://github.com/fastapi-admin/fastapi-admin)
 - [SidharthArya starred jpadilla/pyjwt](https://github.com/jpadilla/pyjwt)
-- [SidharthArya starred dapr/dapr](https://github.com/dapr/dapr)
 <!-- GITHUB:END -->
 
 ## Top Followers
