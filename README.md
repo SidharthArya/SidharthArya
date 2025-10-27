@@ -241,18 +241,18 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       <a href="https://github.com/portgasray">Lei Zhang</a>
     </td>
     <td align="center">
-      <a href="https://github.com/HakunanMatatat">
-        <img src="https://avatars2.githubusercontent.com/u/56817048" width="100px;" alt="HakunanMatatat"/>
-      </a>
-      <br />
-      <a href="https://github.com/HakunanMatatat">HakunanMatatat</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/adam-ehab-code">
         <img src="https://avatars2.githubusercontent.com/u/137718329" width="100px;" alt="adam-ehab-code"/>
       </a>
       <br />
       <a href="https://github.com/adam-ehab-code">Adam Ehab</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/HakunanMatatat">
+        <img src="https://avatars2.githubusercontent.com/u/56817048" width="100px;" alt="HakunanMatatat"/>
+      </a>
+      <br />
+      <a href="https://github.com/HakunanMatatat">HakunanMatatat</a>
     </td>
   </tr>
 </table>
