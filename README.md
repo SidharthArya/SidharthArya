@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred traceloop/openllmetry](https://github.com/traceloop/openllmetry)
+- [SidharthArya starred hinthornw/trustcall](https://github.com/hinthornw/trustcall)
 - [SidharthArya starred Tencent-RTC/TUICallKit](https://github.com/Tencent-RTC/TUICallKit)
 - [SidharthArya starred cfug/dio](https://github.com/cfug/dio)
 - [SidharthArya starred ua-parser/uap-python](https://github.com/ua-parser/uap-python)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred fastapi/sqlmodel](https://github.com/fastapi/sqlmodel)
 - [SidharthArya starred aminalaee/sqladmin](https://github.com/aminalaee/sqladmin)
 - [SidharthArya starred tortoise/tortoise-orm](https://github.com/tortoise/tortoise-orm)
-- [SidharthArya starred fastapi-admin/fastapi-admin](https://github.com/fastapi-admin/fastapi-admin)
-- [SidharthArya starred jpadilla/pyjwt](https://github.com/jpadilla/pyjwt)
 <!-- GITHUB:END -->
 
 ## Top Followers
