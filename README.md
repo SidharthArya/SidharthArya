@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred python-trio/trio](https://github.com/python-trio/trio)
 - [SidharthArya starred traceloop/openllmetry](https://github.com/traceloop/openllmetry)
 - [SidharthArya starred hinthornw/trustcall](https://github.com/hinthornw/trustcall)
 - [SidharthArya starred Tencent-RTC/TUICallKit](https://github.com/Tencent-RTC/TUICallKit)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred sqlalchemy/alembic](https://github.com/sqlalchemy/alembic)
 - [SidharthArya starred fastapi/sqlmodel](https://github.com/fastapi/sqlmodel)
 - [SidharthArya starred aminalaee/sqladmin](https://github.com/aminalaee/sqladmin)
-- [SidharthArya starred tortoise/tortoise-orm](https://github.com/tortoise/tortoise-orm)
 <!-- GITHUB:END -->
 
 ## Top Followers
