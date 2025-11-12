@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred langchain-ai/deepagents](https://github.com/langchain-ai/deepagents)
 - [SidharthArya starred markedjs/marked](https://github.com/markedjs/marked)
 - [SidharthArya starred python-trio/trio](https://github.com/python-trio/trio)
 - [SidharthArya starred traceloop/openllmetry](https://github.com/traceloop/openllmetry)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred ua-parser/uap-python](https://github.com/ua-parser/uap-python)
 - [SidharthArya starred selwin/python-user-agents](https://github.com/selwin/python-user-agents)
 - [SidharthArya starred sqlalchemy/alembic](https://github.com/sqlalchemy/alembic)
-- [SidharthArya starred fastapi/sqlmodel](https://github.com/fastapi/sqlmodel)
 <!-- GITHUB:END -->
 
 ## Top Followers
