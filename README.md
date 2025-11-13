@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred toon-format/toon](https://github.com/toon-format/toon)
 - [SidharthArya starred joblib/threadpoolctl](https://github.com/joblib/threadpoolctl)
 - [SidharthArya starred langchain-ai/deepagents](https://github.com/langchain-ai/deepagents)
 - [SidharthArya starred markedjs/marked](https://github.com/markedjs/marked)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred Tencent-RTC/TUICallKit](https://github.com/Tencent-RTC/TUICallKit)
 - [SidharthArya starred cfug/dio](https://github.com/cfug/dio)
 - [SidharthArya starred ua-parser/uap-python](https://github.com/ua-parser/uap-python)
-- [SidharthArya starred selwin/python-user-agents](https://github.com/selwin/python-user-agents)
 <!-- GITHUB:END -->
 
 ## Top Followers
