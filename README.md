@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred etcd-io/etcd](https://github.com/etcd-io/etcd)
+- [SidharthArya starred trinodb/trino](https://github.com/trinodb/trino)
 - [SidharthArya starred toon-format/toon](https://github.com/toon-format/toon)
 - [SidharthArya starred joblib/threadpoolctl](https://github.com/joblib/threadpoolctl)
 - [SidharthArya starred langchain-ai/deepagents](https://github.com/langchain-ai/deepagents)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred traceloop/openllmetry](https://github.com/traceloop/openllmetry)
 - [SidharthArya starred hinthornw/trustcall](https://github.com/hinthornw/trustcall)
 - [SidharthArya starred Tencent-RTC/TUICallKit](https://github.com/Tencent-RTC/TUICallKit)
-- [SidharthArya starred cfug/dio](https://github.com/cfug/dio)
-- [SidharthArya starred ua-parser/uap-python](https://github.com/ua-parser/uap-python)
 <!-- GITHUB:END -->
 
 ## Top Followers
