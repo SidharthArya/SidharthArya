@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred keras-team/keras-io](https://github.com/keras-team/keras-io)
 - [SidharthArya starred microsoft/PhiCookBook](https://github.com/microsoft/PhiCookBook)
 - [SidharthArya starred etcd-io/etcd](https://github.com/etcd-io/etcd)
 - [SidharthArya starred trinodb/trino](https://github.com/trinodb/trino)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred markedjs/marked](https://github.com/markedjs/marked)
 - [SidharthArya starred python-trio/trio](https://github.com/python-trio/trio)
 - [SidharthArya starred traceloop/openllmetry](https://github.com/traceloop/openllmetry)
-- [SidharthArya starred hinthornw/trustcall](https://github.com/hinthornw/trustcall)
 <!-- GITHUB:END -->
 
 ## Top Followers
