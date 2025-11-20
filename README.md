@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred webmachinelearning/webnn](https://github.com/webmachinelearning/webnn)
+- [SidharthArya starred webmachinelearning/webmcp](https://github.com/webmachinelearning/webmcp)
 - [SidharthArya starred keras-team/keras-io](https://github.com/keras-team/keras-io)
 - [SidharthArya starred microsoft/PhiCookBook](https://github.com/microsoft/PhiCookBook)
 - [SidharthArya starred etcd-io/etcd](https://github.com/etcd-io/etcd)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred joblib/threadpoolctl](https://github.com/joblib/threadpoolctl)
 - [SidharthArya starred langchain-ai/deepagents](https://github.com/langchain-ai/deepagents)
 - [SidharthArya starred markedjs/marked](https://github.com/markedjs/marked)
-- [SidharthArya starred python-trio/trio](https://github.com/python-trio/trio)
-- [SidharthArya starred traceloop/openllmetry](https://github.com/traceloop/openllmetry)
 <!-- GITHUB:END -->
 
 ## Top Followers
