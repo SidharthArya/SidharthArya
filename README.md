@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred facebookresearch/sam3](https://github.com/facebookresearch/sam3)
 - [SidharthArya starred webmachinelearning/webnn](https://github.com/webmachinelearning/webnn)
 - [SidharthArya starred webmachinelearning/webmcp](https://github.com/webmachinelearning/webmcp)
 - [SidharthArya starred keras-team/keras-io](https://github.com/keras-team/keras-io)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred toon-format/toon](https://github.com/toon-format/toon)
 - [SidharthArya starred joblib/threadpoolctl](https://github.com/joblib/threadpoolctl)
 - [SidharthArya starred langchain-ai/deepagents](https://github.com/langchain-ai/deepagents)
-- [SidharthArya starred markedjs/marked](https://github.com/markedjs/marked)
 <!-- GITHUB:END -->
 
 ## Top Followers
