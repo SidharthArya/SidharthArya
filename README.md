@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred agronholm/apscheduler](https://github.com/agronholm/apscheduler)
+- [SidharthArya starred cline/cline](https://github.com/cline/cline)
 - [SidharthArya starred darkroomengineering/lenis](https://github.com/darkroomengineering/lenis)
 - [SidharthArya pushed algorithms](https://github.com/SidharthArya/algorithms/compare/2ac19a715c...9449b5d50b)
 - [SidharthArya starred facebookresearch/sam3](https://github.com/facebookresearch/sam3)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred keras-team/keras-io](https://github.com/keras-team/keras-io)
 - [SidharthArya starred microsoft/PhiCookBook](https://github.com/microsoft/PhiCookBook)
 - [SidharthArya starred etcd-io/etcd](https://github.com/etcd-io/etcd)
-- [SidharthArya starred trinodb/trino](https://github.com/trinodb/trino)
-- [SidharthArya starred toon-format/toon](https://github.com/toon-format/toon)
 <!-- GITHUB:END -->
 
 ## Top Followers
