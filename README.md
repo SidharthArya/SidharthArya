@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred Neoteroi/BlackSheep](https://github.com/Neoteroi/BlackSheep)
 - [SidharthArya starred agronholm/apscheduler](https://github.com/agronholm/apscheduler)
 - [SidharthArya starred cline/cline](https://github.com/cline/cline)
 - [SidharthArya starred darkroomengineering/lenis](https://github.com/darkroomengineering/lenis)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred webmachinelearning/webmcp](https://github.com/webmachinelearning/webmcp)
 - [SidharthArya starred keras-team/keras-io](https://github.com/keras-team/keras-io)
 - [SidharthArya starred microsoft/PhiCookBook](https://github.com/microsoft/PhiCookBook)
-- [SidharthArya starred etcd-io/etcd](https://github.com/etcd-io/etcd)
 <!-- GITHUB:END -->
 
 ## Top Followers
