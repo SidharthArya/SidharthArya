@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred google/model-viewer](https://github.com/google/model-viewer)
 - [SidharthArya starred Neoteroi/BlackSheep](https://github.com/Neoteroi/BlackSheep)
 - [SidharthArya starred agronholm/apscheduler](https://github.com/agronholm/apscheduler)
 - [SidharthArya starred cline/cline](https://github.com/cline/cline)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred webmachinelearning/webnn](https://github.com/webmachinelearning/webnn)
 - [SidharthArya starred webmachinelearning/webmcp](https://github.com/webmachinelearning/webmcp)
 - [SidharthArya starred keras-team/keras-io](https://github.com/keras-team/keras-io)
-- [SidharthArya starred microsoft/PhiCookBook](https://github.com/microsoft/PhiCookBook)
 <!-- GITHUB:END -->
 
 ## Top Followers
