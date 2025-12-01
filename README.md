@@ -213,18 +213,18 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       <a href="https://github.com/stormwatch">Ezequiel Birman</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Pearlminimal">
-        <img src="https://avatars2.githubusercontent.com/u/45006194" width="100px;" alt="Pearlminimal"/>
-      </a>
-      <br />
-      <a href="https://github.com/Pearlminimal">minimal99pfdo73 </a>
-    </td>
-    <td align="center">
       <a href="https://github.com/Satawatkee">
         <img src="https://avatars2.githubusercontent.com/u/53291820" width="100px;" alt="Satawatkee"/>
       </a>
       <br />
       <a href="https://github.com/Satawatkee">@s_saichansut</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Pearlminimal">
+        <img src="https://avatars2.githubusercontent.com/u/45006194" width="100px;" alt="Pearlminimal"/>
+      </a>
+      <br />
+      <a href="https://github.com/Pearlminimal">minimal99pfdo73 </a>
     </td>
     <td align="center">
       <a href="https://github.com/yanboyang713">
