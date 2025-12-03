@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred rapidfuzz/RapidFuzz](https://github.com/rapidfuzz/RapidFuzz)
 - [SidharthArya starred google/model-viewer](https://github.com/google/model-viewer)
 - [SidharthArya starred Neoteroi/BlackSheep](https://github.com/Neoteroi/BlackSheep)
 - [SidharthArya starred agronholm/apscheduler](https://github.com/agronholm/apscheduler)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred facebookresearch/sam3](https://github.com/facebookresearch/sam3)
 - [SidharthArya starred webmachinelearning/webnn](https://github.com/webmachinelearning/webnn)
 - [SidharthArya starred webmachinelearning/webmcp](https://github.com/webmachinelearning/webmcp)
-- [SidharthArya starred keras-team/keras-io](https://github.com/keras-team/keras-io)
 <!-- GITHUB:END -->
 
 ## Top Followers
