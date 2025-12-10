@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred kavishdevar/librepods](https://github.com/kavishdevar/librepods)
 - [SidharthArya starred rapidfuzz/RapidFuzz](https://github.com/rapidfuzz/RapidFuzz)
 - [SidharthArya starred google/model-viewer](https://github.com/google/model-viewer)
 - [SidharthArya starred Neoteroi/BlackSheep](https://github.com/Neoteroi/BlackSheep)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed algorithms](https://github.com/SidharthArya/algorithms/compare/2ac19a715c...9449b5d50b)
 - [SidharthArya starred facebookresearch/sam3](https://github.com/facebookresearch/sam3)
 - [SidharthArya starred webmachinelearning/webnn](https://github.com/webmachinelearning/webnn)
-- [SidharthArya starred webmachinelearning/webmcp](https://github.com/webmachinelearning/webmcp)
 <!-- GITHUB:END -->
 
 ## Top Followers
