@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred 3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js)
+- [SidharthArya starred google-deepmind/alphafold3](https://github.com/google-deepmind/alphafold3)
 - [SidharthArya starred hmmlearn/hmmlearn](https://github.com/hmmlearn/hmmlearn)
 - [SidharthArya starred facebookresearch/perception_models](https://github.com/facebookresearch/perception_models)
 - [SidharthArya starred google/A2UI](https://github.com/google/A2UI)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred kavishdevar/librepods](https://github.com/kavishdevar/librepods)
 - [SidharthArya starred rapidfuzz/RapidFuzz](https://github.com/rapidfuzz/RapidFuzz)
 - [SidharthArya starred google/model-viewer](https://github.com/google/model-viewer)
-- [SidharthArya starred Neoteroi/BlackSheep](https://github.com/Neoteroi/BlackSheep)
-- [SidharthArya starred agronholm/apscheduler](https://github.com/agronholm/apscheduler)
 <!-- GITHUB:END -->
 
 ## Top Followers
