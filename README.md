@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred antimof/UxPlay](https://github.com/antimof/UxPlay)
 - [SidharthArya starred 3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js)
 - [SidharthArya starred google-deepmind/alphafold3](https://github.com/google-deepmind/alphafold3)
 - [SidharthArya starred hmmlearn/hmmlearn](https://github.com/hmmlearn/hmmlearn)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred astriaai/headshots-starter](https://github.com/astriaai/headshots-starter)
 - [SidharthArya starred kavishdevar/librepods](https://github.com/kavishdevar/librepods)
 - [SidharthArya starred rapidfuzz/RapidFuzz](https://github.com/rapidfuzz/RapidFuzz)
-- [SidharthArya starred google/model-viewer](https://github.com/google/model-viewer)
 <!-- GITHUB:END -->
 
 ## Top Followers
