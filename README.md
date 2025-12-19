@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred hmmlearn/hmmlearn](https://github.com/hmmlearn/hmmlearn)
 - [SidharthArya starred facebookresearch/perception_models](https://github.com/facebookresearch/perception_models)
 - [SidharthArya starred google/A2UI](https://github.com/google/A2UI)
 - [SidharthArya starred facebookresearch/sam-audio](https://github.com/facebookresearch/sam-audio)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred google/model-viewer](https://github.com/google/model-viewer)
 - [SidharthArya starred Neoteroi/BlackSheep](https://github.com/Neoteroi/BlackSheep)
 - [SidharthArya starred agronholm/apscheduler](https://github.com/agronholm/apscheduler)
-- [SidharthArya starred cline/cline](https://github.com/cline/cline)
 <!-- GITHUB:END -->
 
 ## Top Followers
