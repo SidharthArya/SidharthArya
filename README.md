@@ -87,6 +87,9 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred facebookresearch/perception_models](https://github.com/facebookresearch/perception_models)
+- [SidharthArya starred google/A2UI](https://github.com/google/A2UI)
+- [SidharthArya starred facebookresearch/sam-audio](https://github.com/facebookresearch/sam-audio)
 - [SidharthArya starred astriaai/headshots-starter](https://github.com/astriaai/headshots-starter)
 - [SidharthArya starred kavishdevar/librepods](https://github.com/kavishdevar/librepods)
 - [SidharthArya starred rapidfuzz/RapidFuzz](https://github.com/rapidfuzz/RapidFuzz)
@@ -94,9 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred Neoteroi/BlackSheep](https://github.com/Neoteroi/BlackSheep)
 - [SidharthArya starred agronholm/apscheduler](https://github.com/agronholm/apscheduler)
 - [SidharthArya starred cline/cline](https://github.com/cline/cline)
-- [SidharthArya starred darkroomengineering/lenis](https://github.com/darkroomengineering/lenis)
-- [SidharthArya pushed algorithms](https://github.com/SidharthArya/algorithms/compare/2ac19a715c...9449b5d50b)
-- [SidharthArya starred facebookresearch/sam3](https://github.com/facebookresearch/sam3)
 <!-- GITHUB:END -->
 
 ## Top Followers
