@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya created a branch](https://github.com/SidharthArya/website/compare/0000000000...bda1a08bbe)
 - [SidharthArya starred guan-yuan/Awesome-Singing-Voice-Synthesis-and-Singing-Voice-Conversion](https://github.com/guan-yuan/Awesome-Singing-Voice-Synthesis-and-Singing-Voice-Conversion)
 - [SidharthArya starred pmndrs/postprocessing](https://github.com/pmndrs/postprocessing)
 - [SidharthArya starred antimof/UxPlay](https://github.com/antimof/UxPlay)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred facebookresearch/perception_models](https://github.com/facebookresearch/perception_models)
 - [SidharthArya starred google/A2UI](https://github.com/google/A2UI)
 - [SidharthArya starred facebookresearch/sam-audio](https://github.com/facebookresearch/sam-audio)
-- [SidharthArya starred astriaai/headshots-starter](https://github.com/astriaai/headshots-starter)
 <!-- GITHUB:END -->
 
 ## Top Followers
