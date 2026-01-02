@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred zen-browser/desktop](https://github.com/zen-browser/desktop)
+- [SidharthArya forked SidharthArya/Folo from RSSNext/Folo](https://github.com/SidharthArya/Folo)
 - [SidharthArya starred filips123/PWAsForFirefox](https://github.com/filips123/PWAsForFirefox)
 - [SidharthArya starred KiKaraage/ArcWTF](https://github.com/KiKaraage/ArcWTF)
 - [SidharthArya created a branch](https://github.com/SidharthArya/website/compare/0000000000...bda1a08bbe)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred antimof/UxPlay](https://github.com/antimof/UxPlay)
 - [SidharthArya starred 3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js)
 - [SidharthArya starred google-deepmind/alphafold3](https://github.com/google-deepmind/alphafold3)
-- [SidharthArya starred hmmlearn/hmmlearn](https://github.com/hmmlearn/hmmlearn)
-- [SidharthArya starred facebookresearch/perception_models](https://github.com/facebookresearch/perception_models)
 <!-- GITHUB:END -->
 
 ## Top Followers
