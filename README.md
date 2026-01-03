@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred TriliumNext/Trilium](https://github.com/TriliumNext/Trilium)
 - [SidharthArya starred zen-browser/desktop](https://github.com/zen-browser/desktop)
 - [SidharthArya forked SidharthArya/Folo from RSSNext/Folo](https://github.com/SidharthArya/Folo)
 - [SidharthArya starred filips123/PWAsForFirefox](https://github.com/filips123/PWAsForFirefox)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred pmndrs/postprocessing](https://github.com/pmndrs/postprocessing)
 - [SidharthArya starred antimof/UxPlay](https://github.com/antimof/UxPlay)
 - [SidharthArya starred 3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js)
-- [SidharthArya starred google-deepmind/alphafold3](https://github.com/google-deepmind/alphafold3)
 <!-- GITHUB:END -->
 
 ## Top Followers
