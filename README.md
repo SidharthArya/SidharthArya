@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred mawww/kakoune](https://github.com/mawww/kakoune)
 - [SidharthArya starred bytedance/Sa2VA](https://github.com/bytedance/Sa2VA)
 - [SidharthArya starred deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3)
 - [SidharthArya starred maplibre/martin](https://github.com/maplibre/martin)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred llm-d/llm-d](https://github.com/llm-d/llm-d)
 - [SidharthArya starred TriliumNext/Trilium](https://github.com/TriliumNext/Trilium)
 - [SidharthArya starred zen-browser/desktop](https://github.com/zen-browser/desktop)
-- [SidharthArya forked SidharthArya/Folo from RSSNext/Folo](https://github.com/SidharthArya/Folo)
 <!-- GITHUB:END -->
 
 ## Top Followers
