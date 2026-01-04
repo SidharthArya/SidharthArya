@@ -87,16 +87,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred maplibre/martin](https://github.com/maplibre/martin)
+- [SidharthArya starred maplibre/maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js)
+- [SidharthArya starred NickvanDyke/opencode.nvim](https://github.com/NickvanDyke/opencode.nvim)
+- [SidharthArya starred anomalyco/opencode](https://github.com/anomalyco/opencode)
 - [SidharthArya starred llm-d/llm-d](https://github.com/llm-d/llm-d)
 - [SidharthArya starred TriliumNext/Trilium](https://github.com/TriliumNext/Trilium)
 - [SidharthArya starred zen-browser/desktop](https://github.com/zen-browser/desktop)
 - [SidharthArya forked SidharthArya/Folo from RSSNext/Folo](https://github.com/SidharthArya/Folo)
 - [SidharthArya starred filips123/PWAsForFirefox](https://github.com/filips123/PWAsForFirefox)
 - [SidharthArya starred KiKaraage/ArcWTF](https://github.com/KiKaraage/ArcWTF)
-- [SidharthArya created a branch](https://github.com/SidharthArya/website/compare/0000000000...bda1a08bbe)
-- [SidharthArya starred guan-yuan/Awesome-Singing-Voice-Synthesis-and-Singing-Voice-Conversion](https://github.com/guan-yuan/Awesome-Singing-Voice-Synthesis-and-Singing-Voice-Conversion)
-- [SidharthArya starred pmndrs/postprocessing](https://github.com/pmndrs/postprocessing)
-- [SidharthArya starred antimof/UxPlay](https://github.com/antimof/UxPlay)
 <!-- GITHUB:END -->
 
 ## Top Followers
