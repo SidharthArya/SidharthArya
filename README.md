@@ -227,6 +227,13 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       <a href="https://github.com/Satawatkee">@s_saichansut</a>
     </td>
     <td align="center">
+      <a href="https://github.com/Susanta2102">
+        <img src="https://avatars2.githubusercontent.com/u/144701829" width="100px;" alt="Susanta2102"/>
+      </a>
+      <br />
+      <a href="https://github.com/Susanta2102">Susanta Baidya</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/yanboyang713">
         <img src="https://avatars2.githubusercontent.com/u/7603628" width="100px;" alt="yanboyang713"/>
       </a>
@@ -246,13 +253,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       </a>
       <br />
       <a href="https://github.com/adam-ehab-code">Adam Ehab</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/HakunanMatatat">
-        <img src="https://avatars2.githubusercontent.com/u/56817048" width="100px;" alt="HakunanMatatat"/>
-      </a>
-      <br />
-      <a href="https://github.com/HakunanMatatat">HakunanMatatat</a>
     </td>
   </tr>
 </table>
