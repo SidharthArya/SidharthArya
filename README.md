@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred lencx/ChatGPT](https://github.com/lencx/ChatGPT)
 - [SidharthArya starred royhills/arp-scan](https://github.com/royhills/arp-scan)
 - [SidharthArya starred mawww/kakoune](https://github.com/mawww/kakoune)
 - [SidharthArya starred bytedance/Sa2VA](https://github.com/bytedance/Sa2VA)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred NickvanDyke/opencode.nvim](https://github.com/NickvanDyke/opencode.nvim)
 - [SidharthArya starred anomalyco/opencode](https://github.com/anomalyco/opencode)
 - [SidharthArya starred llm-d/llm-d](https://github.com/llm-d/llm-d)
-- [SidharthArya starred TriliumNext/Trilium](https://github.com/TriliumNext/Trilium)
 <!-- GITHUB:END -->
 
 ## Top Followers
