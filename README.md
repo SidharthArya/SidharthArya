@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred yichuan-w/LEANN](https://github.com/yichuan-w/LEANN)
 - [SidharthArya starred prometheus-community/postgres_exporter](https://github.com/prometheus-community/postgres_exporter)
 - [SidharthArya starred ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui)
 - [SidharthArya starred lencx/ChatGPT](https://github.com/lencx/ChatGPT)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3)
 - [SidharthArya starred maplibre/martin](https://github.com/maplibre/martin)
 - [SidharthArya starred maplibre/maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js)
-- [SidharthArya starred NickvanDyke/opencode.nvim](https://github.com/NickvanDyke/opencode.nvim)
 <!-- GITHUB:END -->
 
 ## Top Followers
