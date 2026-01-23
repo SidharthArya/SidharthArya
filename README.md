@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred Martichou/rquickshare](https://github.com/Martichou/rquickshare)
 - [SidharthArya starred Smithay/smithay](https://github.com/Smithay/smithay)
 - [SidharthArya starred yichuan-w/LEANN](https://github.com/yichuan-w/LEANN)
 - [SidharthArya starred prometheus-community/postgres_exporter](https://github.com/prometheus-community/postgres_exporter)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred mawww/kakoune](https://github.com/mawww/kakoune)
 - [SidharthArya starred bytedance/Sa2VA](https://github.com/bytedance/Sa2VA)
 - [SidharthArya starred deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3)
-- [SidharthArya starred maplibre/martin](https://github.com/maplibre/martin)
 <!-- GITHUB:END -->
 
 ## Top Followers
