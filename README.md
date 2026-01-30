@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred cp-algorithms/cp-algorithms](https://github.com/cp-algorithms/cp-algorithms)
 - [SidharthArya starred ammen99/wf-recorder](https://github.com/ammen99/wf-recorder)
 - [SidharthArya starred Martichou/rquickshare](https://github.com/Martichou/rquickshare)
 - [SidharthArya starred Smithay/smithay](https://github.com/Smithay/smithay)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred lencx/ChatGPT](https://github.com/lencx/ChatGPT)
 - [SidharthArya starred royhills/arp-scan](https://github.com/royhills/arp-scan)
 - [SidharthArya starred mawww/kakoune](https://github.com/mawww/kakoune)
-- [SidharthArya starred bytedance/Sa2VA](https://github.com/bytedance/Sa2VA)
 <!-- GITHUB:END -->
 
 ## Top Followers
