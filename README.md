@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred catppuccin/vscode](https://github.com/catppuccin/vscode)
 - [SidharthArya starred openclaw/openclaw](https://github.com/openclaw/openclaw)
 - [SidharthArya starred cp-algorithms/cp-algorithms](https://github.com/cp-algorithms/cp-algorithms)
 - [SidharthArya starred ammen99/wf-recorder](https://github.com/ammen99/wf-recorder)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred prometheus-community/postgres_exporter](https://github.com/prometheus-community/postgres_exporter)
 - [SidharthArya starred ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui)
 - [SidharthArya starred lencx/ChatGPT](https://github.com/lencx/ChatGPT)
-- [SidharthArya starred royhills/arp-scan](https://github.com/royhills/arp-scan)
 <!-- GITHUB:END -->
 
 ## Top Followers
