@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred grantjenks/python-sortedcontainers](https://github.com/grantjenks/python-sortedcontainers)
 - [SidharthArya starred catppuccin/vscode](https://github.com/catppuccin/vscode)
 - [SidharthArya starred openclaw/openclaw](https://github.com/openclaw/openclaw)
 - [SidharthArya starred cp-algorithms/cp-algorithms](https://github.com/cp-algorithms/cp-algorithms)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred yichuan-w/LEANN](https://github.com/yichuan-w/LEANN)
 - [SidharthArya starred prometheus-community/postgres_exporter](https://github.com/prometheus-community/postgres_exporter)
 - [SidharthArya starred ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui)
-- [SidharthArya starred lencx/ChatGPT](https://github.com/lencx/ChatGPT)
 <!-- GITHUB:END -->
 
 ## Top Followers
