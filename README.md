@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred seemoo-lab/owl](https://github.com/seemoo-lab/owl)
 - [SidharthArya pushed svcm](https://github.com/SidharthArya/svcm/compare/f2e87805f8...fad1ea3bc7)
 - [SidharthArya created a branch](https://github.com/SidharthArya/svcm/compare/0000000000...f2e87805f8)
 - [SidharthArya pushed svcm](https://github.com/SidharthArya/svcm/compare/5eaa0cda3b...b7a4717dd5)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed svcm](https://github.com/SidharthArya/svcm/compare/620535f6c9...802a074f34)
 - [SidharthArya pushed svcm](https://github.com/SidharthArya/svcm/compare/fdad77a348...620535f6c9)
 - [SidharthArya created a branch](https://github.com/SidharthArya/svcm/compare/0000000000...fdad77a348)
-- [SidharthArya starred grantjenks/python-sortedcontainers](https://github.com/grantjenks/python-sortedcontainers)
 <!-- GITHUB:END -->
 
 ## Top Followers
