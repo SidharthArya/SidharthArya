@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred microsoft/agentsleague](https://github.com/microsoft/agentsleague)
 - [SidharthArya forked SidharthArya/leetcode-company-wise-problems from liquidslr/leetcode-company-wise-problems](https://github.com/SidharthArya/leetcode-company-wise-problems)
 - [SidharthArya starred liquidslr/leetcode-company-wise-problems](https://github.com/liquidslr/leetcode-company-wise-problems)
 - [SidharthArya starred seemoo-lab/owl](https://github.com/seemoo-lab/owl)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed svcm](https://github.com/SidharthArya/svcm/compare/35d1f9df73...5eaa0cda3b)
 - [SidharthArya pushed svcm](https://github.com/SidharthArya/svcm/compare/2d75154d8a...35d1f9df73)
 - [SidharthArya pushed svcm](https://github.com/SidharthArya/svcm/compare/802a074f34...2d75154d8a)
-- [SidharthArya pushed svcm](https://github.com/SidharthArya/svcm/compare/620535f6c9...802a074f34)
 <!-- GITHUB:END -->
 
 ## Top Followers
