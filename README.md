@@ -87,16 +87,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred stenzek/duckstation](https://github.com/stenzek/duckstation)
 - [SidharthArya pushed .zsh](https://github.com/SidharthArya/.zsh/compare/eeec5f54a0...9e34e70308)
 - [SidharthArya pushed .zsh](https://github.com/SidharthArya/.zsh/compare/24c68fbd45...eeec5f54a0)
 - [SidharthArya starred microsoft/agentsleague](https://github.com/microsoft/agentsleague)
-- [SidharthArya forked SidharthArya/leetcode-company-wise-problems from liquidslr/leetcode-company-wise-problems](https://github.com/SidharthArya/leetcode-company-wise-problems)
-- [SidharthArya starred liquidslr/leetcode-company-wise-problems](https://github.com/liquidslr/leetcode-company-wise-problems)
+- [SidharthArya forked SidharthArya/leetcode-company-wise-problems from liquidslr/interview-company-wise-problems](https://github.com/SidharthArya/leetcode-company-wise-problems)
+- [SidharthArya starred liquidslr/interview-company-wise-problems](https://github.com/liquidslr/interview-company-wise-problems)
 - [SidharthArya starred seemoo-lab/owl](https://github.com/seemoo-lab/owl)
 - [SidharthArya pushed svcm](https://github.com/SidharthArya/svcm/compare/f2e87805f8...fad1ea3bc7)
 - [SidharthArya created a branch](https://github.com/SidharthArya/svcm/compare/0000000000...f2e87805f8)
 - [SidharthArya pushed svcm](https://github.com/SidharthArya/svcm/compare/5eaa0cda3b...b7a4717dd5)
-- [SidharthArya pushed svcm](https://github.com/SidharthArya/svcm/compare/35d1f9df73...5eaa0cda3b)
 <!-- GITHUB:END -->
 
 ## Top Followers
