@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya created a branch](https://github.com/SidharthArya/practicedsa/compare/0000000000...34c69f617d)
 - [SidharthArya starred Supreeeme/xwayland-satellite](https://github.com/Supreeeme/xwayland-satellite)
 - [SidharthArya starred stenzek/duckstation](https://github.com/stenzek/duckstation)
 - [SidharthArya pushed .zsh](https://github.com/SidharthArya/.zsh/compare/eeec5f54a0...9e34e70308)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred liquidslr/interview-company-wise-problems](https://github.com/liquidslr/interview-company-wise-problems)
 - [SidharthArya starred seemoo-lab/owl](https://github.com/seemoo-lab/owl)
 - [SidharthArya pushed svcm](https://github.com/SidharthArya/svcm/compare/f2e87805f8...fad1ea3bc7)
-- [SidharthArya created a branch](https://github.com/SidharthArya/svcm/compare/0000000000...f2e87805f8)
 <!-- GITHUB:END -->
 
 ## Top Followers
