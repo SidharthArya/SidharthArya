@@ -87,16 +87,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed practicedsa](https://github.com/SidharthArya/practicedsa/compare/97f2f18fae...c6508d83a9)
+- [SidharthArya pushed practicedsa](https://github.com/SidharthArya/practicedsa/compare/c12ded694e...97f2f18fae)
+- [SidharthArya pushed practicedsa](https://github.com/SidharthArya/practicedsa/compare/afc456ea56...c12ded694e)
+- [SidharthArya pushed practicedsa](https://github.com/SidharthArya/practicedsa/compare/dfe9effcbe...afc456ea56)
+- [SidharthArya pushed practicedsa](https://github.com/SidharthArya/practicedsa/compare/3c75d34c25...dfe9effcbe)
+- [SidharthArya pushed practicedsa](https://github.com/SidharthArya/practicedsa/compare/f7afabd76a...3c75d34c25)
+- [SidharthArya pushed practicedsa](https://github.com/SidharthArya/practicedsa/compare/4dcd8107bc...f7afabd76a)
+- [SidharthArya pushed practicedsa](https://github.com/SidharthArya/practicedsa/compare/cc2dc530ca...4dcd8107bc)
+- [SidharthArya pushed practicedsa](https://github.com/SidharthArya/practicedsa/compare/34c69f617d...cc2dc530ca)
 - [SidharthArya created a branch](https://github.com/SidharthArya/practicedsa/compare/0000000000...34c69f617d)
-- [SidharthArya starred Supreeeme/xwayland-satellite](https://github.com/Supreeeme/xwayland-satellite)
-- [SidharthArya starred stenzek/duckstation](https://github.com/stenzek/duckstation)
-- [SidharthArya pushed .zsh](https://github.com/SidharthArya/.zsh/compare/eeec5f54a0...9e34e70308)
-- [SidharthArya pushed .zsh](https://github.com/SidharthArya/.zsh/compare/24c68fbd45...eeec5f54a0)
-- [SidharthArya starred microsoft/agentsleague](https://github.com/microsoft/agentsleague)
-- [SidharthArya forked SidharthArya/leetcode-company-wise-problems from liquidslr/interview-company-wise-problems](https://github.com/SidharthArya/leetcode-company-wise-problems)
-- [SidharthArya starred liquidslr/interview-company-wise-problems](https://github.com/liquidslr/interview-company-wise-problems)
-- [SidharthArya starred seemoo-lab/owl](https://github.com/seemoo-lab/owl)
-- [SidharthArya pushed svcm](https://github.com/SidharthArya/svcm/compare/f2e87805f8...fad1ea3bc7)
 <!-- GITHUB:END -->
 
 ## Top Followers
