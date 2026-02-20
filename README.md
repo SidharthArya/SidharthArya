@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed practicedsa](https://github.com/SidharthArya/practicedsa/compare/c6508d83a9...a9f52a6173)
 - [SidharthArya pushed practicedsa](https://github.com/SidharthArya/practicedsa/compare/97f2f18fae...c6508d83a9)
 - [SidharthArya pushed practicedsa](https://github.com/SidharthArya/practicedsa/compare/c12ded694e...97f2f18fae)
 - [SidharthArya pushed practicedsa](https://github.com/SidharthArya/practicedsa/compare/afc456ea56...c12ded694e)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed practicedsa](https://github.com/SidharthArya/practicedsa/compare/4dcd8107bc...f7afabd76a)
 - [SidharthArya pushed practicedsa](https://github.com/SidharthArya/practicedsa/compare/cc2dc530ca...4dcd8107bc)
 - [SidharthArya pushed practicedsa](https://github.com/SidharthArya/practicedsa/compare/34c69f617d...cc2dc530ca)
-- [SidharthArya created a branch](https://github.com/SidharthArya/practicedsa/compare/0000000000...34c69f617d)
 <!-- GITHUB:END -->
 
 ## Top Followers
