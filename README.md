@@ -190,12 +190,21 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       <a href="https://github.com/M3nin0">Felipe</a>
     </td>
     <td align="center">
+      <a href="https://github.com/pix3l-p33p3r">
+        <img src="https://avatars2.githubusercontent.com/u/83790382" width="100px;" alt="pix3l-p33p3r"/>
+      </a>
+      <br />
+      <a href="https://github.com/pix3l-p33p3r">pix3l_p33p3r</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/Tiancheng-Luo">
         <img src="https://avatars2.githubusercontent.com/u/6097951" width="100px;" alt="Tiancheng-Luo"/>
       </a>
       <br />
       <a href="https://github.com/Tiancheng-Luo">Tiancheng-Luo</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/stormwatch">
         <img src="https://avatars2.githubusercontent.com/u/824211" width="100px;" alt="stormwatch"/>
@@ -203,8 +212,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       <br />
       <a href="https://github.com/stormwatch">Ezequiel Birman</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/amrithHN">
         <img src="https://avatars2.githubusercontent.com/u/70368617" width="100px;" alt="amrithHN"/>
@@ -246,13 +253,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       </a>
       <br />
       <a href="https://github.com/portgasray">Lei Zhang</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/adam-ehab-code">
-        <img src="https://avatars2.githubusercontent.com/u/137718329" width="100px;" alt="adam-ehab-code"/>
-      </a>
-      <br />
-      <a href="https://github.com/adam-ehab-code">Adam Ehab</a>
     </td>
   </tr>
 </table>
