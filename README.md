@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred openai/tiktoken](https://github.com/openai/tiktoken)
 - [SidharthArya released v0.2.0 at SidharthArya/svcm](https://github.com/SidharthArya/svcm/releases/tag/v0.2.0)
 - [SidharthArya pushed practicedsa](https://github.com/SidharthArya/practicedsa/compare/e464b78126...7d9d4d9f29)
 - [SidharthArya pushed practicedsa](https://github.com/SidharthArya/practicedsa/compare/a9f52a6173...e464b78126)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed practicedsa](https://github.com/SidharthArya/practicedsa/compare/afc456ea56...c12ded694e)
 - [SidharthArya pushed practicedsa](https://github.com/SidharthArya/practicedsa/compare/dfe9effcbe...afc456ea56)
 - [SidharthArya pushed practicedsa](https://github.com/SidharthArya/practicedsa/compare/3c75d34c25...dfe9effcbe)
-- [SidharthArya pushed practicedsa](https://github.com/SidharthArya/practicedsa/compare/f7afabd76a...3c75d34c25)
 <!-- GITHUB:END -->
 
 ## Top Followers
