@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed dapil](https://github.com/SidharthArya/dapil/compare/da561490cd...8d9fbec980)
+- [SidharthArya created a branch](https://github.com/SidharthArya/dapil/compare/0000000000...da561490cd)
 - [SidharthArya starred openai/tiktoken](https://github.com/openai/tiktoken)
 - [SidharthArya released v0.2.0 at SidharthArya/svcm](https://github.com/SidharthArya/svcm/releases/tag/v0.2.0)
 - [SidharthArya pushed practicedsa](https://github.com/SidharthArya/practicedsa/compare/e464b78126...7d9d4d9f29)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed practicedsa](https://github.com/SidharthArya/practicedsa/compare/97f2f18fae...c6508d83a9)
 - [SidharthArya pushed practicedsa](https://github.com/SidharthArya/practicedsa/compare/c12ded694e...97f2f18fae)
 - [SidharthArya pushed practicedsa](https://github.com/SidharthArya/practicedsa/compare/afc456ea56...c12ded694e)
-- [SidharthArya pushed practicedsa](https://github.com/SidharthArya/practicedsa/compare/dfe9effcbe...afc456ea56)
-- [SidharthArya pushed practicedsa](https://github.com/SidharthArya/practicedsa/compare/3c75d34c25...dfe9effcbe)
 <!-- GITHUB:END -->
 
 ## Top Followers
