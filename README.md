@@ -87,16 +87,16 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed dapil](https://github.com/SidharthArya/dapil/compare/439d997eab...968cb884b5)
+- [SidharthArya pushed dapil](https://github.com/SidharthArya/dapil/compare/08691bc474...439d997eab)
+- [SidharthArya pushed dapil](https://github.com/SidharthArya/dapil/compare/934f7082df...08691bc474)
+- [SidharthArya pushed dapil](https://github.com/SidharthArya/dapil/compare/6ac176f1c6...934f7082df)
+- [SidharthArya pushed dapil](https://github.com/SidharthArya/dapil/compare/8ad5295c71...6ac176f1c6)
+- [SidharthArya pushed dapil](https://github.com/SidharthArya/dapil/compare/50bd2511e2...8ad5295c71)
+- [SidharthArya pushed dapil](https://github.com/SidharthArya/dapil/compare/d00b3bae83...50bd2511e2)
+- [SidharthArya pushed dapil](https://github.com/SidharthArya/dapil/compare/d0714eda23...d00b3bae83)
 - [SidharthArya pushed dapil](https://github.com/SidharthArya/dapil/compare/e75b837d06...d0714eda23)
 - [SidharthArya pushed dapil](https://github.com/SidharthArya/dapil/compare/aea760a804...e75b837d06)
-- [SidharthArya pushed dapil](https://github.com/SidharthArya/dapil/compare/64a6e68c56...aea760a804)
-- [SidharthArya created a branch](https://github.com/SidharthArya/dapil/compare/0000000000...64a6e68c56)
-- [SidharthArya pushed dapil](https://github.com/SidharthArya/dapil/compare/23d7db365d...a0b55cf2ea)
-- [SidharthArya pushed dapil](https://github.com/SidharthArya/dapil/compare/8d9fbec980...23d7db365d)
-- [SidharthArya pushed dapil](https://github.com/SidharthArya/dapil/compare/da561490cd...8d9fbec980)
-- [SidharthArya created a branch](https://github.com/SidharthArya/dapil/compare/0000000000...da561490cd)
-- [SidharthArya starred openai/tiktoken](https://github.com/openai/tiktoken)
-- [SidharthArya released v0.2.0 at SidharthArya/svcm](https://github.com/SidharthArya/svcm/releases/tag/v0.2.0)
 <!-- GITHUB:END -->
 
 ## Top Followers
