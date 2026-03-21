@@ -384,7 +384,7 @@
 - [grpc/grpc](https://github.com/grpc/grpc) - C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
 - [facebook/folly](https://github.com/facebook/folly) - An open-source C++ library developed and used at Facebook.
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
-- [activeloopai/deeplake](https://github.com/activeloopai/deeplake) - the GPU-native, sandboxed Postgres for AI agents
+- [activeloopai/deeplake](https://github.com/activeloopai/deeplake) - Deeplake is a unified context engine for AI agents such as OpenClaw. By structuring memory, database, and skills in filesystem-like format, it enables scalable context management and continuous learni
 - [tensorflow/io](https://github.com/tensorflow/io) - Dataset, streaming, and file system extensions maintained by TensorFlow SIG-IO
 - [bytedance/lightseq](https://github.com/bytedance/lightseq) - LightSeq: A High Performance Library for Sequence Processing and Generation
 - [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
@@ -1259,7 +1259,7 @@
 - [wesbos/awesome-uses](https://github.com/wesbos/awesome-uses) - A list of /uses pages detailing developer setups, gear, software and configs.
 - [FredKSchott/snowpack](https://github.com/FredKSchott/snowpack) - ESM-powered frontend build tool. Instant, lightweight, unbundled development. ✌️
 - [anvaka/atree](https://github.com/anvaka/atree) - Just a simple Christmas tree, based on reddit story
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
 - [eugenkiss/7guis](https://github.com/eugenkiss/7guis) - 7GUIs is a GUI programming usability benchmark.
 - [200ok-ch/organice](https://github.com/200ok-ch/organice) - An implementation of Org mode without the dependency of Emacs - built for mobile and desktop browsers
 - [terser/terser](https://github.com/terser/terser) - 🗜 JavaScript parser, mangler and compressor toolkit for ES6+
