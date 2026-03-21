@@ -206,18 +206,18 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/stormwatch">
-        <img src="https://avatars2.githubusercontent.com/u/824211" width="100px;" alt="stormwatch"/>
-      </a>
-      <br />
-      <a href="https://github.com/stormwatch">Ezequiel Birman</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/amrithHN">
         <img src="https://avatars2.githubusercontent.com/u/70368617" width="100px;" alt="amrithHN"/>
       </a>
       <br />
       <a href="https://github.com/amrithHN">Amrith H Namboodiri</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/stormwatch">
+        <img src="https://avatars2.githubusercontent.com/u/824211" width="100px;" alt="stormwatch"/>
+      </a>
+      <br />
+      <a href="https://github.com/stormwatch">Ezequiel Birman</a>
     </td>
     <td align="center">
       <a href="https://github.com/Pearlminimal">
