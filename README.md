@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed sailer](https://github.com/SidharthArya/sailer/compare/db825d103d...0817fe0ebc)
 - [SidharthArya pushed .zsh](https://github.com/SidharthArya/.zsh/compare/3af282df61...d838d11456)
 - [SidharthArya pushed .zsh](https://github.com/SidharthArya/.zsh/compare/92c5331dd9...3af282df61)
 - [SidharthArya pushed sailer](https://github.com/SidharthArya/sailer/compare/6a67b82305...db825d103d)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed dapil](https://github.com/SidharthArya/dapil/compare/e9e3346f34...3c679b499f)
 - [SidharthArya starred pydantic/monty](https://github.com/pydantic/monty)
 - [SidharthArya created a branch](https://github.com/SidharthArya/dapil/compare/0000000000...e9e3346f34)
-- [SidharthArya pushed dapil](https://github.com/SidharthArya/dapil/compare/603d5f7ac2...c882d3922c)
 <!-- GITHUB:END -->
 
 ## Top Followers
