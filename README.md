@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed sailer](https://github.com/SidharthArya/sailer/compare/b6b805003d...a86f75d1f9)
+- [SidharthArya pushed sailer](https://github.com/SidharthArya/sailer/compare/0817fe0ebc...b6b805003d)
 - [SidharthArya pushed .zsh](https://github.com/SidharthArya/.zsh/compare/d838d11456...0426db4f5e)
 - [SidharthArya pushed sailer](https://github.com/SidharthArya/sailer/compare/db825d103d...0817fe0ebc)
 - [SidharthArya pushed .zsh](https://github.com/SidharthArya/.zsh/compare/3af282df61...d838d11456)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya created a branch](https://github.com/SidharthArya/sailer/compare/0000000000...6a67b82305)
 - [SidharthArya pushed .zsh](https://github.com/SidharthArya/.zsh/compare/4f934bde22...92c5331dd9)
 - [SidharthArya pushed .zsh](https://github.com/SidharthArya/.zsh/compare/9e34e70308...4f934bde22)
-- [SidharthArya pushed dapil](https://github.com/SidharthArya/dapil/compare/e9e3346f34...3c679b499f)
-- [SidharthArya starred pydantic/monty](https://github.com/pydantic/monty)
 <!-- GITHUB:END -->
 
 ## Top Followers
