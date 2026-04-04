@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed sailer](https://github.com/SidharthArya/sailer/compare/a86f75d1f9...77e2089eab)
 - [SidharthArya pushed sailer](https://github.com/SidharthArya/sailer/compare/b6b805003d...a86f75d1f9)
 - [SidharthArya pushed sailer](https://github.com/SidharthArya/sailer/compare/0817fe0ebc...b6b805003d)
 - [SidharthArya pushed .zsh](https://github.com/SidharthArya/.zsh/compare/d838d11456...0426db4f5e)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed sailer](https://github.com/SidharthArya/sailer/compare/6a67b82305...db825d103d)
 - [SidharthArya created a branch](https://github.com/SidharthArya/sailer/compare/0000000000...6a67b82305)
 - [SidharthArya pushed .zsh](https://github.com/SidharthArya/.zsh/compare/4f934bde22...92c5331dd9)
-- [SidharthArya pushed .zsh](https://github.com/SidharthArya/.zsh/compare/9e34e70308...4f934bde22)
 <!-- GITHUB:END -->
 
 ## Top Followers
