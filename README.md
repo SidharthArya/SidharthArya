@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred wezterm/wezterm](https://github.com/wezterm/wezterm)
 - [SidharthArya pushed sailer](https://github.com/SidharthArya/sailer/compare/1bfceb7587...9d2c82f816)
 - [SidharthArya pushed sailer](https://github.com/SidharthArya/sailer/compare/50b69ed1e7...1bfceb7587)
 - [SidharthArya created a branch](https://github.com/SidharthArya/.sailer/compare/0000000000...c036071bb2)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed sailer](https://github.com/SidharthArya/sailer/compare/a1ff20753e...f406957c84)
 - [SidharthArya pushed sailer](https://github.com/SidharthArya/sailer/compare/379100afe4...a1ff20753e)
 - [SidharthArya pushed sailer](https://github.com/SidharthArya/sailer/compare/611f23c73a...379100afe4)
-- [SidharthArya pushed sailer](https://github.com/SidharthArya/sailer/compare/31897f0059...611f23c73a)
 <!-- GITHUB:END -->
 
 ## Top Followers
