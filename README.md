@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed .sailer](https://github.com/SidharthArya/.sailer/compare/c036071bb2...c73bb1393e)
+- [SidharthArya opened an issue in sailer](https://github.com/SidharthArya/sailer/issues/2)
 - [SidharthArya pushed sailer](https://github.com/SidharthArya/sailer/compare/437f2cc797...8124bed76b)
 - [SidharthArya pushed sailer](https://github.com/SidharthArya/sailer/compare/6db65e4384...437f2cc797)
 - [SidharthArya pushed sailer](https://github.com/SidharthArya/sailer/compare/6197cefa90...6db65e4384)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed sailer](https://github.com/SidharthArya/sailer/compare/9d2c82f816...ed1a5503fd)
 - [SidharthArya starred wezterm/wezterm](https://github.com/wezterm/wezterm)
 - [SidharthArya pushed sailer](https://github.com/SidharthArya/sailer/compare/1bfceb7587...9d2c82f816)
-- [SidharthArya pushed sailer](https://github.com/SidharthArya/sailer/compare/50b69ed1e7...1bfceb7587)
-- [SidharthArya created a branch](https://github.com/SidharthArya/.sailer/compare/0000000000...c036071bb2)
 <!-- GITHUB:END -->
 
 ## Top Followers
