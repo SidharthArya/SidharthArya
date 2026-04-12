@@ -266,6 +266,7 @@
 
 ## C++ 
 
+- [TheAssassin/AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher) - Helper application for Linux distributions serving as a kind of "entry point" for running and integrating AppImages
 - [stenzek/duckstation](https://github.com/stenzek/duckstation) - Fast PlayStation 1 emulator for x86-64/AArch32/AArch64/RV64
 - [cp-algorithms/cp-algorithms](https://github.com/cp-algorithms/cp-algorithms) - Algorithm and data structure articles for https://cp-algorithms.com (based on http://e-maxx.ru)
 - [ammen99/wf-recorder](https://github.com/ammen99/wf-recorder) - 
@@ -2833,6 +2834,7 @@
 
 ## TypeScript 
 
+- [voideditor/void](https://github.com/voideditor/void) - 
 - [hangwin/mcp-chrome](https://github.com/hangwin/mcp-chrome) - Chrome MCP Server is a Chrome extension-based Model Context Protocol (MCP) server that exposes your Chrome browser functionality to AI assistants like Claude, enabling complex browser automation, cont
 - [catppuccin/vscode](https://github.com/catppuccin/vscode) - 🦌 Soothing pastel theme for VSCode
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
