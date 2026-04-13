@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed sailer](https://github.com/SidharthArya/sailer/compare/b0b068502d...a2357b7d5b)
+- [SidharthArya pushed sailer](https://github.com/SidharthArya/sailer/compare/11444b2ef7...b0b068502d)
 - [SidharthArya pushed sailer](https://github.com/SidharthArya/sailer/compare/3608b794ae...11444b2ef7)
 - [SidharthArya starred voideditor/void](https://github.com/voideditor/void)
 - [SidharthArya starred TheAssassin/AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed dapil](https://github.com/SidharthArya/dapil/compare/5176a94a80...fe8513afda)
 - [SidharthArya pushed dapil](https://github.com/SidharthArya/dapil/compare/7204b1755f...5176a94a80)
 - [SidharthArya pushed dapil](https://github.com/SidharthArya/dapil/compare/3c679b499f...7204b1755f)
-- [SidharthArya pushed barebones](https://github.com/SidharthArya/barebones/compare/256298ddec...19df0f495a)
-- [SidharthArya pushed .sailer](https://github.com/SidharthArya/.sailer/compare/c036071bb2...c73bb1393e)
 <!-- GITHUB:END -->
 
 ## Top Followers
