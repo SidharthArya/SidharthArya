@@ -197,21 +197,14 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       <a href="https://github.com/pix3l-p33p3r">pix3l_p33p3r</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Andrew-most-likely">
-        <img src="https://avatars2.githubusercontent.com/u/74725274" width="100px;" alt="Andrew-most-likely"/>
-      </a>
-      <br />
-      <a href="https://github.com/Andrew-most-likely">Andrew Cappelli</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <a href="https://github.com/Tiancheng-Luo">
         <img src="https://avatars2.githubusercontent.com/u/6097951" width="100px;" alt="Tiancheng-Luo"/>
       </a>
       <br />
       <a href="https://github.com/Tiancheng-Luo">Tiancheng-Luo</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/amrithHN">
         <img src="https://avatars2.githubusercontent.com/u/70368617" width="100px;" alt="amrithHN"/>
@@ -253,6 +246,13 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       </a>
       <br />
       <a href="https://github.com/yanboyang713">Boyang Yan</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/portgasray">
+        <img src="https://avatars2.githubusercontent.com/u/17681580" width="100px;" alt="portgasray"/>
+      </a>
+      <br />
+      <a href="https://github.com/portgasray">Lei Zhang</a>
     </td>
   </tr>
 </table>
