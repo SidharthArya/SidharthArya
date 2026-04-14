@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya pushed sailer](https://github.com/SidharthArya/sailer/compare/a2357b7d5b...a5c580fa8b)
 - [SidharthArya starred forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)
 - [SidharthArya starred modelscope/ms-swift](https://github.com/modelscope/ms-swift)
 - [SidharthArya pushed sailer](https://github.com/SidharthArya/sailer/compare/b0b068502d...a2357b7d5b)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred TheAssassin/AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher)
 - [SidharthArya pushed sailer](https://github.com/SidharthArya/sailer/compare/eb1e41fefe...3608b794ae)
 - [SidharthArya pushed sailer](https://github.com/SidharthArya/sailer/compare/8124bed76b...eb1e41fefe)
-- [SidharthArya pushed dapil](https://github.com/SidharthArya/dapil/compare/5176a94a80...fe8513afda)
 <!-- GITHUB:END -->
 
 ## Top Followers
