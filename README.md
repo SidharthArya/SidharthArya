@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred fastino-ai/GLiNER2](https://github.com/fastino-ai/GLiNER2)
+- [SidharthArya starred urchade/GLiNER](https://github.com/urchade/GLiNER)
 - [SidharthArya pushed sailer](https://github.com/SidharthArya/sailer/compare/a5c580fa8b...ad7dbf0ce1)
 - [SidharthArya pushed sailer](https://github.com/SidharthArya/sailer/compare/a2357b7d5b...a5c580fa8b)
 - [SidharthArya starred forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya pushed sailer](https://github.com/SidharthArya/sailer/compare/11444b2ef7...b0b068502d)
 - [SidharthArya pushed sailer](https://github.com/SidharthArya/sailer/compare/3608b794ae...11444b2ef7)
 - [SidharthArya starred voideditor/void](https://github.com/voideditor/void)
-- [SidharthArya starred TheAssassin/AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher)
-- [SidharthArya pushed sailer](https://github.com/SidharthArya/sailer/compare/eb1e41fefe...3608b794ae)
 <!-- GITHUB:END -->
 
 ## Top Followers
