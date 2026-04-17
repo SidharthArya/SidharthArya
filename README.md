@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred apache/kvrocks](https://github.com/apache/kvrocks)
 - [SidharthArya starred antgroup/echomimic_v3](https://github.com/antgroup/echomimic_v3)
 - [SidharthArya starred fastino-ai/GLiNER2](https://github.com/fastino-ai/GLiNER2)
 - [SidharthArya starred urchade/GLiNER](https://github.com/urchade/GLiNER)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred modelscope/ms-swift](https://github.com/modelscope/ms-swift)
 - [SidharthArya pushed sailer](https://github.com/SidharthArya/sailer/compare/b0b068502d...a2357b7d5b)
 - [SidharthArya pushed sailer](https://github.com/SidharthArya/sailer/compare/11444b2ef7...b0b068502d)
-- [SidharthArya pushed sailer](https://github.com/SidharthArya/sailer/compare/3608b794ae...11444b2ef7)
 <!-- GITHUB:END -->
 
 ## Top Followers
