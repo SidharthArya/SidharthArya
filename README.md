@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred NVIDIA-NeMo/Nemotron](https://github.com/NVIDIA-NeMo/Nemotron)
 - [SidharthArya starred juglab/n2v](https://github.com/juglab/n2v)
 - [SidharthArya starred megvii-research/NAFNet](https://github.com/megvii-research/NAFNet)
 - [SidharthArya starred opendatalab/MinerU](https://github.com/opendatalab/MinerU)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred fastino-ai/GLiNER2](https://github.com/fastino-ai/GLiNER2)
 - [SidharthArya starred urchade/GLiNER](https://github.com/urchade/GLiNER)
 - [SidharthArya pushed sailer](https://github.com/SidharthArya/sailer/compare/a5c580fa8b...ad7dbf0ce1)
-- [SidharthArya pushed sailer](https://github.com/SidharthArya/sailer/compare/a2357b7d5b...a5c580fa8b)
 <!-- GITHUB:END -->
 
 ## Top Followers
