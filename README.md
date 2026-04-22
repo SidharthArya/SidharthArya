@@ -87,6 +87,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred juglab/n2v](https://github.com/juglab/n2v)
+- [SidharthArya starred megvii-research/NAFNet](https://github.com/megvii-research/NAFNet)
 - [SidharthArya starred opendatalab/MinerU](https://github.com/opendatalab/MinerU)
 - [SidharthArya starred datalab-to/chandra](https://github.com/datalab-to/chandra)
 - [SidharthArya starred apache/kvrocks](https://github.com/apache/kvrocks)
@@ -95,8 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred urchade/GLiNER](https://github.com/urchade/GLiNER)
 - [SidharthArya pushed sailer](https://github.com/SidharthArya/sailer/compare/a5c580fa8b...ad7dbf0ce1)
 - [SidharthArya pushed sailer](https://github.com/SidharthArya/sailer/compare/a2357b7d5b...a5c580fa8b)
-- [SidharthArya starred forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)
-- [SidharthArya starred modelscope/ms-swift](https://github.com/modelscope/ms-swift)
 <!-- GITHUB:END -->
 
 ## Top Followers
