@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred AMAP-ML/FluxText](https://github.com/AMAP-ML/FluxText)
 - [SidharthArya starred NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM)
 - [SidharthArya starred NVIDIA-NeMo/Nemotron](https://github.com/NVIDIA-NeMo/Nemotron)
 - [SidharthArya starred juglab/n2v](https://github.com/juglab/n2v)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred apache/kvrocks](https://github.com/apache/kvrocks)
 - [SidharthArya starred antgroup/echomimic_v3](https://github.com/antgroup/echomimic_v3)
 - [SidharthArya starred fastino-ai/GLiNER2](https://github.com/fastino-ai/GLiNER2)
-- [SidharthArya starred urchade/GLiNER](https://github.com/urchade/GLiNER)
 <!-- GITHUB:END -->
 
 ## Top Followers
