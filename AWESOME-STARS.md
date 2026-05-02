@@ -1247,6 +1247,7 @@
 - [danielesteban/vrconcert](https://github.com/danielesteban/vrconcert) - A tool to create VR music concerts/videos
 - [sprig/org-capture-extension](https://github.com/sprig/org-capture-extension) - A Chrome and firefox extension facilitating org-capture in emacs
 - [vladikoff/chromeos-apk](https://github.com/vladikoff/chromeos-apk) - ☢️  Run Android Apps in Chrome OS OR Chrome in OS X, Linux and Windows.
+- [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - Source for remoteintech.company — a community-maintained directory of remote-friendly tech companies
 - [acode/FunctionScript](https://github.com/acode/FunctionScript) - An API gateway and framework for turning functions into web services
 - [aframevr/aframe](https://github.com/aframevr/aframe) - :a: Web framework for building virtual reality experiences.
 - [dc-js/dc.js](https://github.com/dc-js/dc.js) - Multi-Dimensional charting built to work natively with crossfilter rendered with d3.js
@@ -1288,6 +1289,7 @@
 
 ## Jupyter Notebook 
 
+- [facebookresearch/sam2](https://github.com/facebookresearch/sam2) - The repository provides code for running inference with the Meta Segment Anything Model 2 (SAM 2), links for downloading the trained model checkpoints, and example notebooks that show how to use the m
 - [NVIDIA-NeMo/Nemotron](https://github.com/NVIDIA-NeMo/Nemotron) - Developer Asset Hub for NVIDIA Nemotron — A one-stop resource for training recipes, usage cookbooks, datasets, and full end-to-end reference examples to build with Nemotron models
 - [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) - WebGL accelerated JavaScript molecular graphics library
 - [facebookresearch/perception_models](https://github.com/facebookresearch/perception_models) - State-of-the-art Image & Video CLIP, Multimodal Large Language Models, and More!
@@ -1517,7 +1519,6 @@
 ## Nunjucks 
 
 - [h5bp/Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) - A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.
-- [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - Source for remoteintech.company — a community-maintained directory of remote-friendly tech companies
 
 ## OCaml 
 
