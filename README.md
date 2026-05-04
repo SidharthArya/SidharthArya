@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred django/daphne](https://github.com/django/daphne)
 - [SidharthArya starred facebookresearch/sam2](https://github.com/facebookresearch/sam2)
 - [SidharthArya starred AMAP-ML/FluxText](https://github.com/AMAP-ML/FluxText)
 - [SidharthArya starred NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred opendatalab/MinerU](https://github.com/opendatalab/MinerU)
 - [SidharthArya starred datalab-to/chandra](https://github.com/datalab-to/chandra)
 - [SidharthArya starred apache/kvrocks](https://github.com/apache/kvrocks)
-- [SidharthArya starred antgroup/echomimic_v3](https://github.com/antgroup/echomimic_v3)
 <!-- GITHUB:END -->
 
 ## Top Followers
