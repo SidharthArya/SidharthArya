@@ -87,6 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred InternLM/lmdeploy](https://github.com/InternLM/lmdeploy)
 - [SidharthArya starred django/daphne](https://github.com/django/daphne)
 - [SidharthArya starred facebookresearch/sam2](https://github.com/facebookresearch/sam2)
 - [SidharthArya starred AMAP-ML/FluxText](https://github.com/AMAP-ML/FluxText)
@@ -96,7 +97,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred megvii-research/NAFNet](https://github.com/megvii-research/NAFNet)
 - [SidharthArya starred opendatalab/MinerU](https://github.com/opendatalab/MinerU)
 - [SidharthArya starred datalab-to/chandra](https://github.com/datalab-to/chandra)
-- [SidharthArya starred apache/kvrocks](https://github.com/apache/kvrocks)
 <!-- GITHUB:END -->
 
 ## Top Followers
