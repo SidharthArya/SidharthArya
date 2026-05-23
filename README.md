@@ -94,8 +94,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred AMAP-ML/FluxText](https://github.com/AMAP-ML/FluxText)
 - [SidharthArya starred NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM)
 - [SidharthArya starred NVIDIA-NeMo/Nemotron](https://github.com/NVIDIA-NeMo/Nemotron)
-- [SidharthArya starred juglab/n2v](https://github.com/juglab/n2v)
-- [SidharthArya starred megvii-research/NAFNet](https://github.com/megvii-research/NAFNet)
 <!-- GITHUB:END -->
 
 ## Top Followers
