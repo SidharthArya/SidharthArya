@@ -92,7 +92,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred django/daphne](https://github.com/django/daphne)
 - [SidharthArya starred facebookresearch/sam2](https://github.com/facebookresearch/sam2)
 - [SidharthArya starred AMAP-ML/FluxText](https://github.com/AMAP-ML/FluxText)
-- [SidharthArya starred NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM)
 <!-- GITHUB:END -->
 
 ## Top Followers
