@@ -91,7 +91,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred InternLM/lmdeploy](https://github.com/InternLM/lmdeploy)
 - [SidharthArya starred django/daphne](https://github.com/django/daphne)
 - [SidharthArya starred facebookresearch/sam2](https://github.com/facebookresearch/sam2)
-- [SidharthArya starred AMAP-ML/FluxText](https://github.com/AMAP-ML/FluxText)
 <!-- GITHUB:END -->
 
 ## Top Followers
