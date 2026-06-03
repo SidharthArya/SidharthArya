@@ -89,7 +89,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 <!-- GITHUB:START -->
 - [SidharthArya starred cyberjunky/python-garminconnect](https://github.com/cyberjunky/python-garminconnect)
 - [SidharthArya starred InternLM/lmdeploy](https://github.com/InternLM/lmdeploy)
-- [SidharthArya starred django/daphne](https://github.com/django/daphne)
 <!-- GITHUB:END -->
 
 ## Top Followers
