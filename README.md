@@ -89,7 +89,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 <!-- GITHUB:START -->
 - [SidharthArya starred jax-ml/scaling-book](https://github.com/jax-ml/scaling-book)
 - [SidharthArya starred cyberjunky/python-garminconnect](https://github.com/cyberjunky/python-garminconnect)
-- [SidharthArya starred InternLM/lmdeploy](https://github.com/InternLM/lmdeploy)
 <!-- GITHUB:END -->
 
 ## Top Followers
