@@ -87,11 +87,11 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
+- [SidharthArya starred prometheus-community/elasticsearch_exporter](https://github.com/prometheus-community/elasticsearch_exporter)
 - [SidharthArya starred datalab-to/surya](https://github.com/datalab-to/surya)
 - [SidharthArya starred folke/sidekick.nvim](https://github.com/folke/sidekick.nvim)
 - [SidharthArya starred google-antigravity/antigravity-sdk-python](https://github.com/google-antigravity/antigravity-sdk-python)
 - [SidharthArya starred jax-ml/scaling-book](https://github.com/jax-ml/scaling-book)
-- [SidharthArya starred cyberjunky/python-garminconnect](https://github.com/cyberjunky/python-garminconnect)
 <!-- GITHUB:END -->
 
 ## Top Followers
