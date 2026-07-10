@@ -90,6 +90,8 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred NVIDIA/dcgm-exporter](https://github.com/NVIDIA/dcgm-exporter)
 - [SidharthArya starred prometheus-community/elasticsearch_exporter](https://github.com/prometheus-community/elasticsearch_exporter)
 - [SidharthArya starred datalab-to/surya](https://github.com/datalab-to/surya)
+- [SidharthArya starred folke/sidekick.nvim](https://github.com/folke/sidekick.nvim)
+- [SidharthArya starred google-antigravity/antigravity-sdk-python](https://github.com/google-antigravity/antigravity-sdk-python)
 <!-- GITHUB:END -->
 
 ## Top Followers
