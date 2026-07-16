@@ -88,7 +88,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 
 <!-- GITHUB:START -->
 - [SidharthArya starred NVIDIA/dcgm-exporter](https://github.com/NVIDIA/dcgm-exporter)
-- [SidharthArya starred prometheus-community/elasticsearch_exporter](https://github.com/prometheus-community/elasticsearch_exporter)
 <!-- GITHUB:END -->
 
 ## Top Followers
