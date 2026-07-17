@@ -87,7 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
-- [SidharthArya starred NVIDIA/dcgm-exporter](https://github.com/NVIDIA/dcgm-exporter)
+- [SidharthArya starred gabrielmittag/NISQA](https://github.com/gabrielmittag/NISQA)
 <!-- GITHUB:END -->
 
 ## Top Followers
