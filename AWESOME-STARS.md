@@ -730,7 +730,7 @@
 - [zk-org/zk](https://github.com/zk-org/zk) - A plain text note-taking assistant
 - [ahmetb/kubectx](https://github.com/ahmetb/kubectx) - Faster way to switch between clusters and namespaces in kubectl
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
-- [asciimoo/wuzz](https://github.com/asciimoo/wuzz) - Interactive cli tool for HTTP inspection -  9CognyciQwKpcXqoiPx8nu7hU1JL8Tu2oZdKKS8Ppump
+- [asciimoo/wuzz](https://github.com/asciimoo/wuzz) - Interactive cli tool for HTTP inspection
 - [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫
@@ -1561,7 +1561,7 @@
 - [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
 - [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
 - [KaimingHe/deep-residual-networks](https://github.com/KaimingHe/deep-residual-networks) - Deep Residual Learning for Image Recognition
-- [systemdesign42/system-design-academy](https://github.com/systemdesign42/system-design-academy) - If you want to become good at AI & system design, join this newsletter 👇
+- [systemdesign42/system-design-academy](https://github.com/systemdesign42/system-design-academy) - If you want to become good at AI engineering & system design, join this newsletter 👇
 - [coqui-ai/TTS-papers](https://github.com/coqui-ai/TTS-papers) - 🐸 collection of TTS papers
 - [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
 - [korfuri/awesome-monorepo](https://github.com/korfuri/awesome-monorepo) - A curated list of awesome Monorepo tools, software and architectures.
@@ -2307,7 +2307,7 @@
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 - [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver) - JumpServer is an open-source Privileged Access Management (PAM) platform that provides DevOps and IT teams with on-demand and secure access to SSH, RDP, Kubernetes, Database and RemoteApp endpoints th
 - [tqdm/tqdm](https://github.com/tqdm/tqdm) - :zap: A Fast, Extensible Progress Bar for Python and CLI
-- [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
+- [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, macOS and Windows operating systems.
 - [ycm-core/YouCompleteMe](https://github.com/ycm-core/YouCompleteMe) - A code-completion engine for Vim
 - [DavHau/mach-nix](https://github.com/DavHau/mach-nix) - Create highly reproducible python environments
 - [pypa/twine](https://github.com/pypa/twine) - Utilities for interacting with PyPI
