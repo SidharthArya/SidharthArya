@@ -188,21 +188,14 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       <a href="https://github.com/pix3l-p33p3r">pix3l_p33p3r</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Leslie-Wong-H">
-        <img src="https://avatars2.githubusercontent.com/u/27696701" width="100px;" alt="Leslie-Wong-H"/>
-      </a>
-      <br />
-      <a href="https://github.com/Leslie-Wong-H">Leslie Wong</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <a href="https://github.com/Tiancheng-Luo">
         <img src="https://avatars2.githubusercontent.com/u/6097951" width="100px;" alt="Tiancheng-Luo"/>
       </a>
       <br />
       <a href="https://github.com/Tiancheng-Luo">Tiancheng-Luo</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/amrithHN">
         <img src="https://avatars2.githubusercontent.com/u/70368617" width="100px;" alt="amrithHN"/>
@@ -244,6 +237,13 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
       </a>
       <br />
       <a href="https://github.com/yanboyang713">Boyang Yan</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/portgasray">
+        <img src="https://avatars2.githubusercontent.com/u/17681580" width="100px;" alt="portgasray"/>
+      </a>
+      <br />
+      <a href="https://github.com/portgasray">Lei Zhang</a>
     </td>
   </tr>
 </table>
