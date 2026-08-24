@@ -87,7 +87,12 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
-- [SidharthArya starred gabrielmittag/NISQA](https://github.com/gabrielmittag/NISQA)
+- [SidharthArya starred agentscope-ai/ReMe](https://github.com/agentscope-ai/ReMe)
+- [SidharthArya starred agentscope-ai/QwenPaw](https://github.com/agentscope-ai/QwenPaw)
+- [SidharthArya starred unitreerobotics/unifolm-world-model-action](https://github.com/unitreerobotics/unifolm-world-model-action)
+- [SidharthArya starred QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
+- [SidharthArya starred OpenMOSS/MOSS-Transcribe-Diarize](https://github.com/OpenMOSS/MOSS-Transcribe-Diarize)
+- [SidharthArya starred OpenMOSS/MOSS](https://github.com/OpenMOSS/MOSS)
 <!-- GITHUB:END -->
 
 ## Top Followers
