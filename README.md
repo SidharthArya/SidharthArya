@@ -73,6 +73,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
  - 22-11-2025 [Web Neural Network API &lpar;WebNN&rpar;: Hardware-Accelerated Machine Learning on the Web](https://blog.sidhartharya.com/posts/webnn-hardware-accelerated-machine-learning-on-the-web/)
+ - 15-11-2025 [Continual Pre training](https://blog.sidhartharya.com/posts/continual-pre-training/)
  - 25-07-2025 [A guide to access control for backend](https://blog.sidhartharya.com/posts/a-guide-to-access-control-for-backend/)
  - 13-09-2024 [Deepmind AlphaProteo](https://blog.sidhartharya.com/posts/deepmind-alphaproteo/)
  - 23-03-2022 [A Sinful Smile](https://blog.sidhartharya.com/posts/a-sinful-smile/)
@@ -80,8 +81,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
  - 03-07-2021 [Installing a custom emacs package in nix](https://blog.sidhartharya.com/posts/installing-a-custom-emacs-package-in-nix/)
  - 13-06-2021 [Cycling through Windows in SwayWM](https://blog.sidhartharya.com/posts/cycling-through-windows-in-swaywm/)
  - 13-06-2021 [Integrating Org Protocol with Qutebrowser](https://blog.sidhartharya.com/posts/integrating-org-protocol-with-qutebrowser/)
- - 11-06-2021 [Using pass to auto authenticate for github](https://blog.sidhartharya.com/posts/using-pass-to-auto-authenticate-for-github/)
- - 06-06-2021 [Exporting Org Roam notes to hugo](https://blog.sidhartharya.com/posts/exporting-org-roam-notes-to-hugo/)<!-- BLOG-POST-LIST:END -->
+ - 11-06-2021 [Using pass to auto authenticate for github](https://blog.sidhartharya.com/posts/using-pass-to-auto-authenticate-for-github/)<!-- BLOG-POST-LIST:END -->
 
 
 ## Latest Github Activity
