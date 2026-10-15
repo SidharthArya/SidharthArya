@@ -90,8 +90,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 - [SidharthArya starred pbakaus/impeccable](https://github.com/pbakaus/impeccable)
 - [SidharthArya starred google/ax](https://github.com/google/ax)
 - [SidharthArya starred DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)
-- [SidharthArya starred facebookresearch/habitat-lab](https://github.com/facebookresearch/habitat-lab)
-- [SidharthArya starred ai-dynamo/dynamo](https://github.com/ai-dynamo/dynamo)
 <!-- GITHUB:END -->
 
 ## Top Followers
