@@ -88,8 +88,6 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 
 <!-- GITHUB:START -->
 - [SidharthArya starred pbakaus/impeccable](https://github.com/pbakaus/impeccable)
-- [SidharthArya starred google/ax](https://github.com/google/ax)
-- [SidharthArya starred DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)
 <!-- GITHUB:END -->
 
 ## Top Followers
