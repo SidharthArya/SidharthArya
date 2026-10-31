@@ -532,6 +532,7 @@
 - [kubernetes-el/kubernetes-el](https://github.com/kubernetes-el/kubernetes-el) - Manage Kubernetes clusters with Emacs.
 - [rejeep/f.el](https://github.com/rejeep/f.el) - Modern API for working with files and directories in Emacs
 - [hcl-emacs/terraform-mode](https://github.com/hcl-emacs/terraform-mode) - Major mode of Terraform configuration file
+- [google/styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
 - [cofi/evil-leader](https://github.com/cofi/evil-leader) - &lt;leader&gt; key for evil
 - [TommyX12/company-tabnine](https://github.com/TommyX12/company-tabnine) - A company-mode backend for TabNine, the all-language autocompleter: https://tabnine.com/
 - [SidharthArya/comp-ide.el](https://github.com/SidharthArya/comp-ide.el) - A simple competitive programming IDE
@@ -914,7 +915,6 @@
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [Tikam02/DevOps-Guide](https://github.com/Tikam02/DevOps-Guide) - DevOps Guide - Development to Production all configurations with basic notes to debug efficiently.
 - [dwyl/learn-to-send-email-via-google-script-html-no-server](https://github.com/dwyl/learn-to-send-email-via-google-script-html-no-server) - :email: An Example of using an HTML form (e.g: "Contact Us" on a website) to send Email without a Backend Server (using a Google Script) perfect for static websites that need to collect data.
-- [google/styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Open-source foundation of ToolJet AI - the enterprise app generation platform for internal tools, dashboards, business applications, workflows and AI agents. Build visually, from a prompt, or from Cla
 - [tc39/proposal-iterator.range](https://github.com/tc39/proposal-iterator.range) - A proposal for ECMAScript to add a built-in Iterator.range()
 - [KuroLabs/Airshare](https://github.com/KuroLabs/Airshare) - Cross-platform content sharing in a local network
@@ -1731,6 +1731,7 @@
 
 ## Python 
 
+- [vllm-project/vllm-omni](https://github.com/vllm-project/vllm-omni) - A framework for efficient model inference with omni-modality models
 - [facebookresearch/habitat-lab](https://github.com/facebookresearch/habitat-lab) - A modular high-level library to train embodied AI agents across a variety of tasks and environments.
 - [agentscope-ai/ReMe](https://github.com/agentscope-ai/ReMe) - ReMe: Memory Management Kit for Agents - Remember Me, Refine Me.
 - [unitreerobotics/unifolm-world-model-action](https://github.com/unitreerobotics/unifolm-world-model-action) - 
