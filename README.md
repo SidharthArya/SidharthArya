@@ -87,7 +87,7 @@ Chilling with code💻, music🎶, bots🤖 and thoughts💭!
 ## Latest Github Activity
 
 <!-- GITHUB:START -->
-- [SidharthArya starred pbakaus/impeccable](https://github.com/pbakaus/impeccable)
+- [SidharthArya starred vllm-project/vllm-omni](https://github.com/vllm-project/vllm-omni)
 <!-- GITHUB:END -->
 
 ## Top Followers
